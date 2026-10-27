@@ -1,0 +1,208 @@
+{
+ "_leia_me": "Lista de extração do INE para a SIT (extrair_ine.py). Para acrescentar: uma linha com o varcd (7 dígitos). Todas as categorias de todas as dimensões vêm sempre (CAE incluída). Geografias procuradas pelo código e, se o indicador usar outra codificação (ex.: Censos 2021 usa 0308 para Guimarães), pelo nome.",
+ "periodos": 6,
+ "geografias": [
+  {
+   "nome": "Guimarães",
+   "cod": "1190308",
+   "alt": [
+    "0308"
+   ]
+  },
+  {
+   "nome": "Ave",
+   "cod": "119"
+  },
+  {
+   "nome": "Cávado",
+   "cod": "112"
+  },
+  {
+   "nome": "Barcelos",
+   "cod": "1120302",
+   "alt": [
+    "0302"
+   ]
+  },
+  {
+   "nome": "Santo Tirso",
+   "cod": "11A1314",
+   "alt": [
+    "1314"
+   ]
+  },
+  {
+   "nome": "Matosinhos",
+   "cod": "11A1308",
+   "alt": [
+    "1308"
+   ]
+  },
+  {
+   "nome": "Porto",
+   "cod": "11A1312",
+   "alt": [
+    "1312"
+   ]
+  },
+  {
+   "nome": "Área Metropolitana do Porto",
+   "cod": "11A"
+  },
+  {
+   "nome": "Norte",
+   "cod": "11"
+  },
+  {
+   "nome": "Portugal",
+   "cod": "PT"
+  }
+ ],
+ "indicadores": [
+  {
+   "tema": "Empresas",
+   "varcd": "0008511",
+   "nome": "Empresas (N.º)"
+  },
+  {
+   "tema": "Empresas",
+   "varcd": "0013861",
+   "nome": "Pessoal ao serviço das empresas (N.º)"
+  },
+  {
+   "tema": "Empresas",
+   "varcd": "0013862",
+   "nome": "Volume de negócios das empresas (€)"
+  },
+  {
+   "tema": "Empresas",
+   "varcd": "0013863",
+   "nome": "VAB das empresas (€)"
+  },
+  {
+   "tema": "Empresas",
+   "varcd": "0013866",
+   "nome": "Taxa de VAB (%)"
+  },
+  {
+   "tema": "Empresas",
+   "varcd": "0013868",
+   "nome": "Gastos com pessoal por pessoa empregada (€)"
+  },
+  {
+   "tema": "Empresas",
+   "varcd": "0013869",
+   "nome": "Produtividade aparente ajustada aos salários (%)"
+  },
+  {
+   "tema": "Emprego e rendimento",
+   "varcd": "0012656",
+   "nome": "Ganho médio mensal (€)"
+  },
+  {
+   "tema": "Emprego e rendimento",
+   "varcd": "0012653",
+   "nome": "Ganho médio mensal por nível de educação (€)"
+  },
+  {
+   "tema": "Emprego e rendimento",
+   "varcd": "0012652",
+   "nome": "Trabalhadores por conta de outrem (N.º)"
+  },
+  {
+   "tema": "Emprego e rendimento",
+   "varcd": "0012748",
+   "nome": "Rendimento bruto declarado por sujeito passivo (€)"
+  },
+  {
+   "tema": "Emprego e rendimento",
+   "varcd": "0008614",
+   "nome": "Poder de compra per capita (PT=100)"
+  },
+  {
+   "tema": "Comércio internacional",
+   "varcd": "0008169",
+   "nome": "Exportações de bens (€) — por tipo de comércio e NC2"
+  },
+  {
+   "tema": "Comércio internacional",
+   "varcd": "0008168",
+   "nome": "Importações de bens (€)"
+  },
+  {
+   "tema": "Turismo",
+   "varcd": "0010735",
+   "nome": "Dormidas — mensal (N.º)"
+  },
+  {
+   "tema": "Turismo",
+   "varcd": "0010736",
+   "nome": "Hóspedes — mensal (N.º)"
+  },
+  {
+   "tema": "Turismo",
+   "varcd": "0009877",
+   "nome": "Dormidas — anual (N.º)"
+  },
+  {
+   "tema": "Turismo",
+   "varcd": "0009183",
+   "nome": "Dormidas por país de residência (N.º)"
+  },
+  {
+   "tema": "Turismo",
+   "varcd": "0009876",
+   "nome": "Hóspedes — anual (N.º)"
+  },
+  {
+   "tema": "Turismo",
+   "varcd": "0009880",
+   "nome": "Estada média (noites)"
+  },
+  {
+   "tema": "Turismo",
+   "varcd": "0009878",
+   "nome": "Proveitos totais (milhares €)"
+  },
+  {
+   "tema": "Turismo",
+   "varcd": "0009879",
+   "nome": "Proveitos de aposento"
+  },
+  {
+   "tema": "Turismo",
+   "varcd": "0009875",
+   "nome": "Capacidade de alojamento (camas)"
+  },
+  {
+   "tema": "Turismo",
+   "varcd": "0009881",
+   "nome": "Taxa líquida de ocupação-cama (%)"
+  },
+  {
+   "tema": "Turismo",
+   "varcd": "0008784",
+   "nome": "Camas por 1000 habitantes"
+  },
+  {
+   "tema": "População e talento",
+   "varcd": "0008273",
+   "nome": "População residente (N.º)"
+  },
+  {
+   "tema": "População e talento",
+   "varcd": "0012909",
+   "nome": "Índice de envelhecimento"
+  },
+  {
+   "tema": "População e talento",
+   "varcd": "0011649",
+   "nome": "População com ensino superior (%) — Censos 2021"
+  },
+  {
+   "tema": "Território",
+   "varcd": "0012248",
+   "nome": "Valor mediano de avaliação bancária (€/m²)"
+  }
+ ]
+}
