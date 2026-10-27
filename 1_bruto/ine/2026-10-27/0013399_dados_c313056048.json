@@ -1,0 +1,66 @@
+[ {
+  "IndicadorCod" : "0013399",
+  "IndicadorDsg" : "Pensões da segurança social (€) por Local de residência (NUTS - 2024); Anual - Instituto de Informática",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0013399&lingua=PT",
+  "DataExtracao" : "2026-10-27T23:31:34.440Z",
+  "DataUltimoAtualizacao" : "2024-08-31",
+  "UltimoPref" : "2023",
+  "Dados" : {
+    "2023" : [ {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "154 229",
+      "valor" : "154229"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "ind_string" : "183 387",
+      "valor" : "183387"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "ind_string" : "306 229",
+      "valor" : "306229"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "ind_string" : "407 300",
+      "valor" : "407300"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "ind_string" : "591 532",
+      "valor" : "591532"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "608 388",
+      "valor" : "608388"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "762 626",
+      "valor" : "762626"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "3 524 206",
+      "valor" : "3524206"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "6 399 871",
+      "valor" : "6399871"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "19 664 849",
+      "valor" : "19664849"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
