@@ -1,0 +1,1155 @@
+[ {
+  "IndicadorCod" : "0013868",
+  "IndicadorNome" : "Gastos com o pessoal das empresas por pessoa empregada (€) por Localização geográfica (NUTS - 2024) e Atividade económica (Divisão - CAE Rev. 3); Anual - INE, Sistema de contas integradas das empresas",
+  "Periodic" : "Anual",
+  "PrimeiroPeriodo" : "2023",
+  "UltimoPeriodo" : "2024",
+  "UnidadeMedida" : "Euro (€)",
+  "Potencia10" : "0",
+  "PrecisaoDecimal" : "2",
+  "Lingua" : "PT",
+  "DataUltimaAtualizacao" : "2025-12-11",
+  "DataExtracao" : "2026-10-27T18:50:38.790Z",
+  "Dimensoes" : {
+    "Descricao_Dim" : [ {
+      "dim_num" : "1",
+      "abrv" : "Período de referência dos dados",
+      "versao" : "XXXXX"
+    }, {
+      "dim_num" : "2",
+      "abrv" : "Localização geográfica (NUTS - 2024)",
+      "versao" : "05257"
+    }, {
+      "dim_num" : "3",
+      "abrv" : "Atividade económica (Divisão - CAE Rev. 3)",
+      "versao" : "02915"
+    } ],
+    "Categoria_Dim" : [ {
+      "Dim_Num1_S7A2023" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2023",
+        "categ_cod" : "S7A2023",
+        "categ_dsg" : "2023",
+        "categ_ord" : "20230101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2024" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2024",
+        "categ_cod" : "S7A2024",
+        "categ_dsg" : "2024",
+        "categ_ord" : "20240101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_PT" : [ {
+        "dim_num" : "2",
+        "cat_id" : "PT",
+        "categ_cod" : "PT",
+        "categ_dsg" : "Portugal",
+        "categ_ord" : "1",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1",
+        "categ_cod" : "1",
+        "categ_dsg" : "Continente",
+        "categ_ord" : "2",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num2_11" : [ {
+        "dim_num" : "2",
+        "cat_id" : "11",
+        "categ_cod" : "11",
+        "categ_dsg" : "Norte",
+        "categ_ord" : "3",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_111" : [ {
+        "dim_num" : "2",
+        "cat_id" : "111",
+        "categ_cod" : "111",
+        "categ_dsg" : "Alto Minho",
+        "categ_ord" : "4",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_112" : [ {
+        "dim_num" : "2",
+        "cat_id" : "112",
+        "categ_cod" : "112",
+        "categ_dsg" : "Cávado",
+        "categ_ord" : "223",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_119" : [ {
+        "dim_num" : "2",
+        "cat_id" : "119",
+        "categ_cod" : "119",
+        "categ_dsg" : "Ave",
+        "categ_ord" : "400",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_11A" : [ {
+        "dim_num" : "2",
+        "cat_id" : "11A",
+        "categ_cod" : "11A",
+        "categ_dsg" : "Área Metropolitana do Porto",
+        "categ_ord" : "577",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_11B" : [ {
+        "dim_num" : "2",
+        "cat_id" : "11B",
+        "categ_cod" : "11B",
+        "categ_dsg" : "Alto Tâmega e Barroso",
+        "categ_ord" : "768",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_11C" : [ {
+        "dim_num" : "2",
+        "cat_id" : "11C",
+        "categ_cod" : "11C",
+        "categ_dsg" : "Tâmega e Sousa",
+        "categ_ord" : "893",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_11D" : [ {
+        "dim_num" : "2",
+        "cat_id" : "11D",
+        "categ_cod" : "11D",
+        "categ_dsg" : "Douro",
+        "categ_ord" : "1082",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_11E" : [ {
+        "dim_num" : "2",
+        "cat_id" : "11E",
+        "categ_cod" : "11E",
+        "categ_dsg" : "Terras de Trás-os-Montes",
+        "categ_ord" : "1319",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_19" : [ {
+        "dim_num" : "2",
+        "cat_id" : "19",
+        "categ_cod" : "19",
+        "categ_dsg" : "Centro",
+        "categ_ord" : "1524",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_191" : [ {
+        "dim_num" : "2",
+        "cat_id" : "191",
+        "categ_cod" : "191",
+        "categ_dsg" : "Região de Aveiro",
+        "categ_ord" : "1525",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_192" : [ {
+        "dim_num" : "2",
+        "cat_id" : "192",
+        "categ_cod" : "192",
+        "categ_dsg" : "Região de Coimbra",
+        "categ_ord" : "1611",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_193" : [ {
+        "dim_num" : "2",
+        "cat_id" : "193",
+        "categ_cod" : "193",
+        "categ_dsg" : "Região de Leiria",
+        "categ_ord" : "1799",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_194" : [ {
+        "dim_num" : "2",
+        "cat_id" : "194",
+        "categ_cod" : "194",
+        "categ_dsg" : "Viseu Dão Lafões",
+        "categ_ord" : "1877",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_195" : [ {
+        "dim_num" : "2",
+        "cat_id" : "195",
+        "categ_cod" : "195",
+        "categ_dsg" : "Beira Baixa",
+        "categ_ord" : "2048",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_196" : [ {
+        "dim_num" : "2",
+        "cat_id" : "196",
+        "categ_cod" : "196",
+        "categ_dsg" : "Beiras e Serra da Estrela",
+        "categ_ord" : "2129",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_1D" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1D",
+        "categ_cod" : "1D",
+        "categ_dsg" : "Oeste e Vale do Tejo",
+        "categ_ord" : "2411",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_1D1" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1D1",
+        "categ_cod" : "1D1",
+        "categ_dsg" : "Oeste",
+        "categ_ord" : "2412",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_1D2" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1D2",
+        "categ_cod" : "1D2",
+        "categ_dsg" : "Médio Tejo",
+        "categ_ord" : "2514",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_1D3" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1D3",
+        "categ_cod" : "1D3",
+        "categ_dsg" : "Lezíria do Tejo",
+        "categ_ord" : "2606",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_1A" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1A",
+        "categ_cod" : "1A",
+        "categ_dsg" : "Grande Lisboa",
+        "categ_ord" : "2686",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_1A0" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1A0",
+        "categ_cod" : "1A0",
+        "categ_dsg" : "Grande Lisboa",
+        "categ_ord" : "2687",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_1B" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1B",
+        "categ_cod" : "1B",
+        "categ_dsg" : "Península de Setúbal",
+        "categ_ord" : "2778",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_1B0" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1B0",
+        "categ_cod" : "1B0",
+        "categ_dsg" : "Península de Setúbal",
+        "categ_ord" : "2779",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_1C" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1C",
+        "categ_cod" : "1C",
+        "categ_dsg" : "Alentejo",
+        "categ_ord" : "2826",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_1C1" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1C1",
+        "categ_cod" : "1C1",
+        "categ_dsg" : "Alentejo Litoral",
+        "categ_ord" : "2827",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_1C2" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1C2",
+        "categ_cod" : "1C2",
+        "categ_dsg" : "Baixo Alentejo",
+        "categ_ord" : "2864",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_1C3" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1C3",
+        "categ_cod" : "1C3",
+        "categ_dsg" : "Alto Alentejo",
+        "categ_ord" : "2940",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_1C4" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1C4",
+        "categ_cod" : "1C4",
+        "categ_dsg" : "Alentejo Central",
+        "categ_ord" : "3025",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_15" : [ {
+        "dim_num" : "2",
+        "cat_id" : "15",
+        "categ_cod" : "15",
+        "categ_dsg" : "Algarve",
+        "categ_ord" : "3109",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_150" : [ {
+        "dim_num" : "2",
+        "cat_id" : "150",
+        "categ_cod" : "150",
+        "categ_dsg" : "Algarve",
+        "categ_ord" : "3110",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_2" : [ {
+        "dim_num" : "2",
+        "cat_id" : "2",
+        "categ_cod" : "2",
+        "categ_dsg" : "Região Autónoma dos Açores",
+        "categ_ord" : "3194",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num2_20" : [ {
+        "dim_num" : "2",
+        "cat_id" : "20",
+        "categ_cod" : "20",
+        "categ_dsg" : "Região Autónoma dos Açores",
+        "categ_ord" : "3195",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_200" : [ {
+        "dim_num" : "2",
+        "cat_id" : "200",
+        "categ_cod" : "200",
+        "categ_dsg" : "Região Autónoma dos Açores",
+        "categ_ord" : "3196",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_3" : [ {
+        "dim_num" : "2",
+        "cat_id" : "3",
+        "categ_cod" : "3",
+        "categ_dsg" : "Região Autónoma da Madeira",
+        "categ_ord" : "3372",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num2_30" : [ {
+        "dim_num" : "2",
+        "cat_id" : "30",
+        "categ_cod" : "30",
+        "categ_dsg" : "Região Autónoma da Madeira",
+        "categ_ord" : "3373",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_300" : [ {
+        "dim_num" : "2",
+        "cat_id" : "300",
+        "categ_cod" : "300",
+        "categ_dsg" : "Região Autónoma da Madeira",
+        "categ_ord" : "3374",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_TOT" : [ {
+        "dim_num" : "3",
+        "cat_id" : "TOT",
+        "categ_cod" : "TOT",
+        "categ_dsg" : "Total",
+        "categ_ord" : "1",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num3_A" : [ {
+        "dim_num" : "3",
+        "cat_id" : "A",
+        "categ_cod" : "A",
+        "categ_dsg" : "Agricultura, produção animal, caça, floresta e pesca",
+        "categ_ord" : "2",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_01" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01",
+        "categ_cod" : "01",
+        "categ_dsg" : "Agricultura, produção animal, caça e atividades dos serviços relacionados",
+        "categ_ord" : "3",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_02" : [ {
+        "dim_num" : "3",
+        "cat_id" : "02",
+        "categ_cod" : "02",
+        "categ_dsg" : "Silvicultura e exploração florestal",
+        "categ_ord" : "81",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_03" : [ {
+        "dim_num" : "3",
+        "cat_id" : "03",
+        "categ_cod" : "03",
+        "categ_dsg" : "Pesca e aquicultura",
+        "categ_ord" : "94",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_B" : [ {
+        "dim_num" : "3",
+        "cat_id" : "B",
+        "categ_cod" : "B",
+        "categ_dsg" : "Indústrias extrativas",
+        "categ_ord" : "107",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_05" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05",
+        "categ_cod" : "05",
+        "categ_dsg" : "Extração de hulha e lenhite",
+        "categ_ord" : "108",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_06" : [ {
+        "dim_num" : "3",
+        "cat_id" : "06",
+        "categ_cod" : "06",
+        "categ_dsg" : "Extração de petróleo bruto e gás natural",
+        "categ_ord" : "115",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_07" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07",
+        "categ_cod" : "07",
+        "categ_dsg" : "Extração e preparação de minérios metálicos",
+        "categ_ord" : "122",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_08" : [ {
+        "dim_num" : "3",
+        "cat_id" : "08",
+        "categ_cod" : "08",
+        "categ_dsg" : "Outras indústrias extrativas",
+        "categ_ord" : "131",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_09" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09",
+        "categ_cod" : "09",
+        "categ_dsg" : "Atividades dos serviços relacionados com as indústrias extrativas",
+        "categ_ord" : "153",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_C" : [ {
+        "dim_num" : "3",
+        "cat_id" : "C",
+        "categ_cod" : "C",
+        "categ_dsg" : "Indústrias transformadoras",
+        "categ_ord" : "160",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_10" : [ {
+        "dim_num" : "3",
+        "cat_id" : "10",
+        "categ_cod" : "10",
+        "categ_dsg" : "Indústrias alimentares",
+        "categ_ord" : "161",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_11" : [ {
+        "dim_num" : "3",
+        "cat_id" : "11",
+        "categ_cod" : "11",
+        "categ_dsg" : "Indústria das bebidas",
+        "categ_ord" : "239",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_12" : [ {
+        "dim_num" : "3",
+        "cat_id" : "12",
+        "categ_cod" : "12",
+        "categ_dsg" : "Indústria do tabaco",
+        "categ_ord" : "259",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_13" : [ {
+        "dim_num" : "3",
+        "cat_id" : "13",
+        "categ_cod" : "13",
+        "categ_dsg" : "Fabricação de têxteis",
+        "categ_ord" : "263",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_14" : [ {
+        "dim_num" : "3",
+        "cat_id" : "14",
+        "categ_cod" : "14",
+        "categ_dsg" : "Indústria do vestuário",
+        "categ_ord" : "300",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_15" : [ {
+        "dim_num" : "3",
+        "cat_id" : "15",
+        "categ_cod" : "15",
+        "categ_dsg" : "Indústria do couro e dos produtos do couro",
+        "categ_ord" : "322",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_16" : [ {
+        "dim_num" : "3",
+        "cat_id" : "16",
+        "categ_cod" : "16",
+        "categ_dsg" : "Indústrias da madeira e da cortiça e suas obras, exceto mobiliário; Fabricação de obras de cestaria e de espartaria",
+        "categ_ord" : "334",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_17" : [ {
+        "dim_num" : "3",
+        "cat_id" : "17",
+        "categ_cod" : "17",
+        "categ_dsg" : "Fabricação de pasta, de papel, de cartão e seus artigos",
+        "categ_ord" : "356",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_18" : [ {
+        "dim_num" : "3",
+        "cat_id" : "18",
+        "categ_cod" : "18",
+        "categ_dsg" : "Impressão e reprodução de suportes gravados",
+        "categ_ord" : "374",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_19" : [ {
+        "dim_num" : "3",
+        "cat_id" : "19",
+        "categ_cod" : "19",
+        "categ_dsg" : "Fabricação de coque, produtos petrolíferos refinados e de aglomerados de combustíveis",
+        "categ_ord" : "387",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_20" : [ {
+        "dim_num" : "3",
+        "cat_id" : "20",
+        "categ_cod" : "20",
+        "categ_dsg" : "Fabricação de produtos químicos e de fibras sintéticas ou artificiais, exceto produtos farmacêuticos",
+        "categ_ord" : "396",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_21" : [ {
+        "dim_num" : "3",
+        "cat_id" : "21",
+        "categ_cod" : "21",
+        "categ_dsg" : "Fabricação de produtos farmacêuticos de base e de preparações farmacêuticas",
+        "categ_ord" : "445",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_22" : [ {
+        "dim_num" : "3",
+        "cat_id" : "22",
+        "categ_cod" : "22",
+        "categ_dsg" : "Fabricação de artigos de borracha e de matérias plásticas",
+        "categ_ord" : "453",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_23" : [ {
+        "dim_num" : "3",
+        "cat_id" : "23",
+        "categ_cod" : "23",
+        "categ_dsg" : "Fabricação de outros produtos minerais não metálicos",
+        "categ_ord" : "471",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_24" : [ {
+        "dim_num" : "3",
+        "cat_id" : "24",
+        "categ_cod" : "24",
+        "categ_dsg" : "Indústrias metalúrgicas de base",
+        "categ_ord" : "540",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_25" : [ {
+        "dim_num" : "3",
+        "cat_id" : "25",
+        "categ_cod" : "25",
+        "categ_dsg" : "Fabricação de produtos metálicos, exceto máquinas e equipamentos",
+        "categ_ord" : "578",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_26" : [ {
+        "dim_num" : "3",
+        "cat_id" : "26",
+        "categ_cod" : "26",
+        "categ_dsg" : "Fabricação de equipamentos informáticos, equipamento para comunicações e produtos eletrónicos e óticos",
+        "categ_ord" : "629",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_27" : [ {
+        "dim_num" : "3",
+        "cat_id" : "27",
+        "categ_cod" : "27",
+        "categ_dsg" : "Fabricação de equipamento elétrico",
+        "categ_ord" : "660",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_28" : [ {
+        "dim_num" : "3",
+        "cat_id" : "28",
+        "categ_cod" : "28",
+        "categ_dsg" : "Fabricação de máquinas e de equipamentos, n.e.",
+        "categ_ord" : "688",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_29" : [ {
+        "dim_num" : "3",
+        "cat_id" : "29",
+        "categ_cod" : "29",
+        "categ_dsg" : "Fabricação de veículos automóveis, reboques, semi-reboques e componentes para veículos automóveis",
+        "categ_ord" : "740",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_30" : [ {
+        "dim_num" : "3",
+        "cat_id" : "30",
+        "categ_cod" : "30",
+        "categ_dsg" : "Fabricação de outro equipamento de transporte",
+        "categ_ord" : "752",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_31" : [ {
+        "dim_num" : "3",
+        "cat_id" : "31",
+        "categ_cod" : "31",
+        "categ_dsg" : "Fabrico de mobiliário e de colchões",
+        "categ_ord" : "775",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_32" : [ {
+        "dim_num" : "3",
+        "cat_id" : "32",
+        "categ_cod" : "32",
+        "categ_dsg" : "Outras indústrias transformadoras",
+        "categ_ord" : "788",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_33" : [ {
+        "dim_num" : "3",
+        "cat_id" : "33",
+        "categ_cod" : "33",
+        "categ_dsg" : "Reparação, manutenção e instalação de máquinas e equipamentos",
+        "categ_ord" : "821",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_D" : [ {
+        "dim_num" : "3",
+        "cat_id" : "D",
+        "categ_cod" : "D",
+        "categ_dsg" : "Eletricidade, gás, vapor, água quente e fria e ar frio",
+        "categ_ord" : "842",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_35" : [ {
+        "dim_num" : "3",
+        "cat_id" : "35",
+        "categ_cod" : "35",
+        "categ_dsg" : "Eletricidade, gás, vapor, água quente e fria e ar frio",
+        "categ_ord" : "843",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_E" : [ {
+        "dim_num" : "3",
+        "cat_id" : "E",
+        "categ_cod" : "E",
+        "categ_dsg" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+        "categ_ord" : "866",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_36" : [ {
+        "dim_num" : "3",
+        "cat_id" : "36",
+        "categ_cod" : "36",
+        "categ_dsg" : "Captação, tratamento e distribuição de água",
+        "categ_ord" : "867",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_37" : [ {
+        "dim_num" : "3",
+        "cat_id" : "37",
+        "categ_cod" : "37",
+        "categ_dsg" : "Recolha, drenagem e tratamento de águas residuais",
+        "categ_ord" : "872",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_38" : [ {
+        "dim_num" : "3",
+        "cat_id" : "38",
+        "categ_cod" : "38",
+        "categ_dsg" : "Recolha, tratamento e eliminação de resíduos; valorização de materiais",
+        "categ_ord" : "877",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_39" : [ {
+        "dim_num" : "3",
+        "cat_id" : "39",
+        "categ_cod" : "39",
+        "categ_dsg" : "Descontaminação e atividades similares",
+        "categ_ord" : "898",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_F" : [ {
+        "dim_num" : "3",
+        "cat_id" : "F",
+        "categ_cod" : "F",
+        "categ_dsg" : "Construção",
+        "categ_ord" : "902",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_41" : [ {
+        "dim_num" : "3",
+        "cat_id" : "41",
+        "categ_cod" : "41",
+        "categ_dsg" : "Promoção imobiliária (desenvolvimento de projetos de edifícios); construção de edifícios",
+        "categ_ord" : "903",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_42" : [ {
+        "dim_num" : "3",
+        "cat_id" : "42",
+        "categ_cod" : "42",
+        "categ_dsg" : "Engenharia civil",
+        "categ_ord" : "910",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_43" : [ {
+        "dim_num" : "3",
+        "cat_id" : "43",
+        "categ_cod" : "43",
+        "categ_dsg" : "Atividades especializadas de construção",
+        "categ_ord" : "928",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_G" : [ {
+        "dim_num" : "3",
+        "cat_id" : "G",
+        "categ_cod" : "G",
+        "categ_dsg" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos",
+        "categ_ord" : "961",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_45" : [ {
+        "dim_num" : "3",
+        "cat_id" : "45",
+        "categ_cod" : "45",
+        "categ_dsg" : "Comércio, manutenção e reparação, de veículos automóveis e motociclos",
+        "categ_ord" : "962",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_46" : [ {
+        "dim_num" : "3",
+        "cat_id" : "46",
+        "categ_cod" : "46",
+        "categ_dsg" : "Comércio por grosso (inclui agentes), exceto de veículos automóveis e motociclos",
+        "categ_ord" : "980",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_47" : [ {
+        "dim_num" : "3",
+        "cat_id" : "47",
+        "categ_cod" : "47",
+        "categ_dsg" : "Comércio a retalho, exceto de veículos automóveis e motociclos",
+        "categ_ord" : "1103",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_H" : [ {
+        "dim_num" : "3",
+        "cat_id" : "H",
+        "categ_cod" : "H",
+        "categ_dsg" : "Transportes e armazenagem",
+        "categ_ord" : "1201",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_49" : [ {
+        "dim_num" : "3",
+        "cat_id" : "49",
+        "categ_cod" : "49",
+        "categ_dsg" : "Transportes terrestres e transportes por oleodutos ou gasodutos",
+        "categ_ord" : "1202",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_50" : [ {
+        "dim_num" : "3",
+        "cat_id" : "50",
+        "categ_cod" : "50",
+        "categ_dsg" : "Transportes por água",
+        "categ_ord" : "1225",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_51" : [ {
+        "dim_num" : "3",
+        "cat_id" : "51",
+        "categ_cod" : "51",
+        "categ_dsg" : "Transportes aéreos",
+        "categ_ord" : "1239",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_52" : [ {
+        "dim_num" : "3",
+        "cat_id" : "52",
+        "categ_cod" : "52",
+        "categ_dsg" : "Armazenagem e atividades auxiliares dos transportes(inclui manuseamento)",
+        "categ_ord" : "1248",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_53" : [ {
+        "dim_num" : "3",
+        "cat_id" : "53",
+        "categ_cod" : "53",
+        "categ_dsg" : "Atividades postais e de courier",
+        "categ_ord" : "1267",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_I" : [ {
+        "dim_num" : "3",
+        "cat_id" : "I",
+        "categ_cod" : "I",
+        "categ_dsg" : "Alojamento, restauração e similares",
+        "categ_ord" : "1274",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_55" : [ {
+        "dim_num" : "3",
+        "cat_id" : "55",
+        "categ_cod" : "55",
+        "categ_dsg" : "Alojamento",
+        "categ_ord" : "1275",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_56" : [ {
+        "dim_num" : "3",
+        "cat_id" : "56",
+        "categ_cod" : "56",
+        "categ_dsg" : "Restauração e similares",
+        "categ_ord" : "1304",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_J" : [ {
+        "dim_num" : "3",
+        "cat_id" : "J",
+        "categ_cod" : "J",
+        "categ_dsg" : "Atividades de informação e de comunicação",
+        "categ_ord" : "1327",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_58" : [ {
+        "dim_num" : "3",
+        "cat_id" : "58",
+        "categ_cod" : "58",
+        "categ_dsg" : "Atividades de edição",
+        "categ_ord" : "1328",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_59" : [ {
+        "dim_num" : "3",
+        "cat_id" : "59",
+        "categ_cod" : "59",
+        "categ_dsg" : "Atividades cinematográficas, de vídeo, de produção de programas de televisão, de gravação de som e de edição de música",
+        "categ_ord" : "1345",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_60" : [ {
+        "dim_num" : "3",
+        "cat_id" : "60",
+        "categ_cod" : "60",
+        "categ_dsg" : "Atividades de rádio e de televisão",
+        "categ_ord" : "1358",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_61" : [ {
+        "dim_num" : "3",
+        "cat_id" : "61",
+        "categ_cod" : "61",
+        "categ_dsg" : "Telecomunicações",
+        "categ_ord" : "1365",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_62" : [ {
+        "dim_num" : "3",
+        "cat_id" : "62",
+        "categ_cod" : "62",
+        "categ_dsg" : "Consultoria e programação informática e atividades relacionadas",
+        "categ_ord" : "1378",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_63" : [ {
+        "dim_num" : "3",
+        "cat_id" : "63",
+        "categ_cod" : "63",
+        "categ_dsg" : "Atividades dos serviços de informação",
+        "categ_ord" : "1388",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_L" : [ {
+        "dim_num" : "3",
+        "cat_id" : "L",
+        "categ_cod" : "L",
+        "categ_dsg" : "Atividades imobiliárias",
+        "categ_ord" : "1399",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_68" : [ {
+        "dim_num" : "3",
+        "cat_id" : "68",
+        "categ_cod" : "68",
+        "categ_dsg" : "Atividades imobiliárias",
+        "categ_ord" : "1400",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_M" : [ {
+        "dim_num" : "3",
+        "cat_id" : "M",
+        "categ_cod" : "M",
+        "categ_dsg" : "Atividades de consultoria, científicas, técnicas e similares",
+        "categ_ord" : "1415",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_69" : [ {
+        "dim_num" : "3",
+        "cat_id" : "69",
+        "categ_cod" : "69",
+        "categ_dsg" : "Atividades jurídicas e de contabilidade",
+        "categ_ord" : "1416",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_70" : [ {
+        "dim_num" : "3",
+        "cat_id" : "70",
+        "categ_cod" : "70",
+        "categ_dsg" : "Atividades das sedes sociais e de consultoria para a gestão",
+        "categ_ord" : "1424",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_71" : [ {
+        "dim_num" : "3",
+        "cat_id" : "71",
+        "categ_cod" : "71",
+        "categ_dsg" : "Atividades de arquitetura, de engenharia e técnicas afins; atividades de ensaios e de análises técnicas",
+        "categ_ord" : "1433",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_72" : [ {
+        "dim_num" : "3",
+        "cat_id" : "72",
+        "categ_cod" : "72",
+        "categ_dsg" : "Atividades de investigação científica e de desenvolvimento",
+        "categ_ord" : "1442",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_73" : [ {
+        "dim_num" : "3",
+        "cat_id" : "73",
+        "categ_cod" : "73",
+        "categ_dsg" : "Publicidade, estudos de mercado e sondagens de opinião",
+        "categ_ord" : "1451",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_74" : [ {
+        "dim_num" : "3",
+        "cat_id" : "74",
+        "categ_cod" : "74",
+        "categ_dsg" : "Outras atividades de consultoria, científicas, técnicas e similares",
+        "categ_ord" : "1460",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_75" : [ {
+        "dim_num" : "3",
+        "cat_id" : "75",
+        "categ_cod" : "75",
+        "categ_dsg" : "Atividades veterinárias",
+        "categ_ord" : "1473",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_N" : [ {
+        "dim_num" : "3",
+        "cat_id" : "N",
+        "categ_cod" : "N",
+        "categ_dsg" : "Atividades administrativas e dos serviços de apoio",
+        "categ_ord" : "1477",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_77" : [ {
+        "dim_num" : "3",
+        "cat_id" : "77",
+        "categ_cod" : "77",
+        "categ_dsg" : "Atividades de aluguer",
+        "categ_ord" : "1478",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_78" : [ {
+        "dim_num" : "3",
+        "cat_id" : "78",
+        "categ_cod" : "78",
+        "categ_dsg" : "Atividades de emprego",
+        "categ_ord" : "1507",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_79" : [ {
+        "dim_num" : "3",
+        "cat_id" : "79",
+        "categ_cod" : "79",
+        "categ_dsg" : "Agências de viagem, operadores turísticos, outros serviços de reservas e atividades relacionadas",
+        "categ_ord" : "1517",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_80" : [ {
+        "dim_num" : "3",
+        "cat_id" : "80",
+        "categ_cod" : "80",
+        "categ_dsg" : "Atividades de investigação e segurança",
+        "categ_ord" : "1526",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_81" : [ {
+        "dim_num" : "3",
+        "cat_id" : "81",
+        "categ_cod" : "81",
+        "categ_dsg" : "Atividades relacionadas com edifícios, plantação e manutenção de jardins",
+        "categ_ord" : "1536",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_82" : [ {
+        "dim_num" : "3",
+        "cat_id" : "82",
+        "categ_cod" : "82",
+        "categ_dsg" : "Atividades de serviços administrativos e de apoio prestados às empresas",
+        "categ_ord" : "1551",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_P" : [ {
+        "dim_num" : "3",
+        "cat_id" : "P",
+        "categ_cod" : "P",
+        "categ_dsg" : "Educação",
+        "categ_ord" : "1571",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_85" : [ {
+        "dim_num" : "3",
+        "cat_id" : "85",
+        "categ_cod" : "85",
+        "categ_dsg" : "Educação",
+        "categ_ord" : "1572",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_Q" : [ {
+        "dim_num" : "3",
+        "cat_id" : "Q",
+        "categ_cod" : "Q",
+        "categ_dsg" : "Atividades de saúde humana e apoio social",
+        "categ_ord" : "1604",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_86" : [ {
+        "dim_num" : "3",
+        "cat_id" : "86",
+        "categ_cod" : "86",
+        "categ_dsg" : "Atividades de saúde humana",
+        "categ_ord" : "1605",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_87" : [ {
+        "dim_num" : "3",
+        "cat_id" : "87",
+        "categ_cod" : "87",
+        "categ_dsg" : "Atividades de apoio social com alojamento",
+        "categ_ord" : "1624",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_88" : [ {
+        "dim_num" : "3",
+        "cat_id" : "88",
+        "categ_cod" : "88",
+        "categ_dsg" : "Atividades de apoio social sem alojamento",
+        "categ_ord" : "1639",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_R" : [ {
+        "dim_num" : "3",
+        "cat_id" : "R",
+        "categ_cod" : "R",
+        "categ_dsg" : "Atividades artísticas, de espetáculos, desportivas e recreativas",
+        "categ_ord" : "1649",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_90" : [ {
+        "dim_num" : "3",
+        "cat_id" : "90",
+        "categ_cod" : "90",
+        "categ_dsg" : "Atividades de teatro, de música, de dança e outras atividades artísticas e literárias",
+        "categ_ord" : "1650",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_91" : [ {
+        "dim_num" : "3",
+        "cat_id" : "91",
+        "categ_cod" : "91",
+        "categ_dsg" : "Atividades das bibliotecas, arquivos, museus e outras atividades culturais",
+        "categ_ord" : "1660",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_92" : [ {
+        "dim_num" : "3",
+        "cat_id" : "92",
+        "categ_cod" : "92",
+        "categ_dsg" : "Lotarias e outros jogos de aposta",
+        "categ_ord" : "1672",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_93" : [ {
+        "dim_num" : "3",
+        "cat_id" : "93",
+        "categ_cod" : "93",
+        "categ_dsg" : "Atividades desportivas, de diversão e recreativas",
+        "categ_ord" : "1676",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_S" : [ {
+        "dim_num" : "3",
+        "cat_id" : "S",
+        "categ_cod" : "S",
+        "categ_dsg" : "Outras atividades de serviços",
+        "categ_ord" : "1697",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_94" : [ {
+        "dim_num" : "3",
+        "cat_id" : "94",
+        "categ_cod" : "94",
+        "categ_dsg" : "Atividades das organizações associativas",
+        "categ_ord" : "1698",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_95" : [ {
+        "dim_num" : "3",
+        "cat_id" : "95",
+        "categ_cod" : "95",
+        "categ_dsg" : "Reparação de computadores e de bens de uso pessoal e doméstico",
+        "categ_ord" : "1718",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_96" : [ {
+        "dim_num" : "3",
+        "cat_id" : "96",
+        "categ_cod" : "96",
+        "categ_dsg" : "Outras atividades de serviços pessoais",
+        "categ_ord" : "1737",
+        "categ_nivel" : "3"
+      } ]
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
