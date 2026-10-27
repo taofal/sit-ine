@@ -5,3 +5,4 @@
 - **Âmbito:** catálogo completo de indicadores (código, tema, nível geográfico, último período, última atualização)
 - **Contrato / base legal:** 
 - **Restrições de reutilização:** 
+- `catalogo_opc2.xml` ← https://www.ine.pt/ine/xml_indic.jsp?opc=2&lang=PT
