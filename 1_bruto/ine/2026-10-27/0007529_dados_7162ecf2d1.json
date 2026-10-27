@@ -1,0 +1,110 @@
+[ {
+  "IndicadorCod" : "0007529",
+  "IndicadorDsg" : "Visitantes inseridos em grupos escolares (N.º) de museus por Localização geográfica (NUTS - 2002); Anual - INE, Inquérito aos museus",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0007529&lingua=PT",
+  "DataExtracao" : "2026-10-27T23:26:14.542Z",
+  "DataUltimoAtualizacao" : "2014-10-31",
+  "UltimoPref" : "2013",
+  "Dados" : {
+    "2012" : [ {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "ind_string" : "115 161",
+      "valor" : "115161"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "471 883",
+      "valor" : "471883"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "1 540 966",
+      "valor" : "1540966"
+    }, {
+      "geocod" : "1131314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "30 657",
+      "valor" : "30657"
+    }, {
+      "geocod" : "1130308",
+      "geodsg" : "Guimarães",
+      "ind_string" : "91 790",
+      "valor" : "91790"
+    }, {
+      "geocod" : "1141312",
+      "geodsg" : "Porto",
+      "ind_string" : "159 354",
+      "valor" : "159354"
+    }, {
+      "geocod" : "1141308",
+      "geodsg" : "Matosinhos",
+      "ind_string" : "2 408",
+      "valor" : "2408"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "ind_string" : "215",
+      "valor" : "215"
+    } ],
+    "2013" : [ {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "ind_string" : "82 351",
+      "valor" : "82351"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "429 296",
+      "valor" : "429296"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "1 601 740",
+      "valor" : "1601740"
+    }, {
+      "geocod" : "1131314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "28 770",
+      "valor" : "28770"
+    }, {
+      "geocod" : "1130308",
+      "geodsg" : "Guimarães",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1141312",
+      "geodsg" : "Porto",
+      "ind_string" : "136 876",
+      "valor" : "136876"
+    }, {
+      "geocod" : "1141308",
+      "geodsg" : "Matosinhos",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

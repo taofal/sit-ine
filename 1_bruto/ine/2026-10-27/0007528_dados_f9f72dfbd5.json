@@ -1,0 +1,110 @@
+[ {
+  "IndicadorCod" : "0007528",
+  "IndicadorDsg" : "Visitantes (N.º) de museus por Localização geográfica (NUTS - 2002); Anual - INE, Inquérito aos museus",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0007528&lingua=PT",
+  "DataExtracao" : "2026-10-27T23:26:08.081Z",
+  "DataUltimoAtualizacao" : "2014-10-31",
+  "UltimoPref" : "2013",
+  "Dados" : {
+    "2012" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "10 066 934",
+      "valor" : "10066934"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "3 199 377",
+      "valor" : "3199377"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "140 103",
+      "valor" : "140103"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "ind_string" : "453",
+      "valor" : "453"
+    }, {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "ind_string" : "575 143",
+      "valor" : "575143"
+    }, {
+      "geocod" : "1141308",
+      "geodsg" : "Matosinhos",
+      "ind_string" : "13 862",
+      "valor" : "13862"
+    }, {
+      "geocod" : "1141312",
+      "geodsg" : "Porto",
+      "ind_string" : "1 653 165",
+      "valor" : "1653165"
+    }, {
+      "geocod" : "1130308",
+      "geodsg" : "Guimarães",
+      "ind_string" : "528 053",
+      "valor" : "528053"
+    }, {
+      "geocod" : "1131314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "0",
+      "valor" : "0"
+    } ],
+    "2013" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "11 062 584",
+      "valor" : "11062584"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "3 183 712",
+      "valor" : "3183712"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "186 683",
+      "valor" : "186683"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "ind_string" : "344 777",
+      "valor" : "344777"
+    }, {
+      "geocod" : "1141308",
+      "geodsg" : "Matosinhos",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1141312",
+      "geodsg" : "Porto",
+      "ind_string" : "1 784 738",
+      "valor" : "1784738"
+    }, {
+      "geocod" : "1130308",
+      "geodsg" : "Guimarães",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1131314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "0",
+      "valor" : "0"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

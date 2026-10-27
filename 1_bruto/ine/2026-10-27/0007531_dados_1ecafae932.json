@@ -1,0 +1,110 @@
+[ {
+  "IndicadorCod" : "0007531",
+  "IndicadorDsg" : "Bens dos museus (N.º) por Localização geográfica (NUTS - 2002); Anual - INE, Inquérito aos museus",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0007531&lingua=PT",
+  "DataExtracao" : "2026-10-27T23:28:44.536Z",
+  "DataUltimoAtualizacao" : "2014-10-31",
+  "UltimoPref" : "2013",
+  "Dados" : {
+    "2012" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "23 070 865",
+      "valor" : "23070865"
+    }, {
+      "geocod" : "1141308",
+      "geodsg" : "Matosinhos",
+      "ind_string" : "13 833",
+      "valor" : "13833"
+    }, {
+      "geocod" : "1141312",
+      "geodsg" : "Porto",
+      "ind_string" : "744 352",
+      "valor" : "744352"
+    }, {
+      "geocod" : "1130308",
+      "geodsg" : "Guimarães",
+      "ind_string" : "150 027",
+      "valor" : "150027"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "141 412",
+      "valor" : "141412"
+    }, {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "ind_string" : "232 376",
+      "valor" : "232376"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "2 306 328",
+      "valor" : "2306328"
+    }, {
+      "geocod" : "1131314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "ind_string" : "1 398",
+      "valor" : "1398"
+    } ],
+    "2013" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "23 118 091",
+      "valor" : "23118091"
+    }, {
+      "geocod" : "1141308",
+      "geodsg" : "Matosinhos",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1141312",
+      "geodsg" : "Porto",
+      "ind_string" : "193 683",
+      "valor" : "193683"
+    }, {
+      "geocod" : "1130308",
+      "geodsg" : "Guimarães",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "137 240",
+      "valor" : "137240"
+    }, {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "ind_string" : "234 188",
+      "valor" : "234188"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "1 835 149",
+      "valor" : "1835149"
+    }, {
+      "geocod" : "1131314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
