@@ -44,7 +44,9 @@ ESTADO_DIR = AQUI / "_estado"
 ESTADO = ESTADO_DIR / "colheita_ine.csv"
 LOG = ESTADO_DIR / "colheita_ine.log"
 CAT_DIR = SIT / "1_bruto" / "ine-catalogo"
-URL_CATALOGO = "https://www.ine.pt/ine/xml_indic.jsp?opc=3&lang=PT"
+# O INE tem mais de um catálogo XML: opc=3 é curto (~330 indicadores); opc=2 é mais amplo. Lêem-se ambos e juntam-se.
+CATALOGOS = {"catalogo.xml": "https://www.ine.pt/ine/xml_indic.jsp?opc=3&lang=PT",
+             "catalogo_opc2.xml": "https://www.ine.pt/ine/xml_indic.jsp?opc=2&lang=PT"}
 NIVEIS_MUNICIPAIS = ("munic", "freguesia", "seccao", "subseccao", "lugar", "concelho")
 CAMPOS = ["varcd", "titulo", "tema", "nivel_geo", "ultimo_periodo_ine", "atualizacao_ine", "prioridade",
           "estado", "data_colheita", "periodos", "ficheiros", "valores", "tentativas", "nota"]
@@ -109,37 +111,54 @@ def gravar_estado(est):
 
 
 # ------------------------------------------------------------------ catálogo
-def catalogo_mais_recente():
-    xs = sorted(CAT_DIR.glob("*/catalogo.xml"))
+def catalogo_mais_recente(nome):
+    xs = sorted(CAT_DIR.glob(f"*/{nome}"))
     return xs[-1] if xs else None
 
 
 def atualizar_catalogo(est, cfg):
-    f = catalogo_mais_recente()
-    if f and date.fromisoformat(f.parent.name) > date.today() - timedelta(days=7):
-        return False
-    log("a descarregar o catálogo do INE (1 pedido, pode demorar)")
-    texto = X.http_get(URL_CATALOGO, timeout=600)
-    pasta = CAT_DIR / date.today().isoformat()
-    pasta.mkdir(parents=True, exist_ok=True)
-    X.gravar(pasta, "catalogo.xml", texto)
-    if not (pasta / "_entrega.md").exists():
-        (pasta / "_entrega.md").write_text(
-            f"# Entrega — INE (catálogo de indicadores) — {pasta.name}\n\n"
-            f"- **Enviado por:** INE, {URL_CATALOGO} (colheita_ine.py)\n- **Recebido em:** {pasta.name}\n"
-            "- **Âmbito:** catálogo completo de indicadores (código, tema, nível geográfico, último período, "
-            "última atualização)\n- **Contrato / base legal:** \n- **Restrições de reutilização:** \n",
-            encoding="utf-8")
-    integrar_catalogo(est, cfg, texto)
-    return True
+    feito = False
+    for nome, url in CATALOGOS.items():
+        f = catalogo_mais_recente(nome)
+        if f and date.fromisoformat(f.parent.name) > date.today() - timedelta(days=7):
+            continue
+        log(f"a descarregar o catálogo do INE {nome} (1 pedido, pode demorar)")
+        texto = X.http_get(url, timeout=900)
+        pasta = CAT_DIR / date.today().isoformat()
+        pasta.mkdir(parents=True, exist_ok=True)
+        X.gravar(pasta, nome, texto)
+        if not (pasta / "_entrega.md").exists():
+            (pasta / "_entrega.md").write_text(
+                f"# Entrega — INE (catálogos de indicadores) — {pasta.name}\n\n"
+                "- **Enviado por:** INE, xml_indic.jsp (colheita_ine.py)\n"
+                f"- **Recebido em:** {pasta.name}\n"
+                "- **Âmbito:** catálogos de indicadores (código, tema, nível geográfico, último período, última atualização)\n"
+                "- **Contrato / base legal:** \n- **Restrições de reutilização:** \n", encoding="utf-8")
+        with (pasta / "_entrega.md").open("a", encoding="utf-8") as fh:
+            fh.write(f"- `{nome}` ← {url}\n")
+        integrar_catalogo(est, cfg, texto, nome)
+        feito = True
+    return feito
 
 
-def integrar_catalogo(est, cfg, texto):
+def integrar_catalogo(est, cfg, texto, nome=""):
     prioritarios = {str(i["varcd"]).zfill(7) for i in cfg["indicadores"]}
     novos = reabertos = 0
-    for _, el in ET.iterparse(io.BytesIO(texto.encode("utf-8")), events=("end",)):
+    total = 0
+    try:
+        eventos = list(ET.iterparse(io.BytesIO(texto.encode("utf-8")), events=("end",)))
+    except ET.ParseError as e:                     # catálogo cortado/malformado: aproveita o que der
+        log(f"AVISO: {nome} malformado ({e}) — a aproveitar os indicadores completos")
+        eventos = []
+        for bloco in re.findall(r"<indicator\b.*?</indicator>", texto, flags=re.S):
+            try:
+                eventos.append(("end", ET.fromstring(bloco)))
+            except ET.ParseError:
+                pass
+    for _, el in eventos:
         if el.tag != "indicator":
             continue
+        total += 1
         t = lambda tag: (el.findtext(tag) or "").strip()  # noqa: E731
         varcd = (t("varcd") or el.get("id") or "").zfill(7)
         nivel = t("geo_lastlevel")
@@ -162,7 +181,8 @@ def integrar_catalogo(est, cfg, texto):
         if v not in est:
             est[v] = {"varcd": v, "estado": "pendente", "tentativas": "0", "prioridade": "1"}
             novos += 1
-    log(f"catálogo integrado: {novos} indicadores novos, {reabertos} reabertos por atualização do INE")
+    log(f"catálogo {nome} integrado: {total} indicadores no catálogo, {novos} novos com nível municipal, "
+        f"{reabertos} reabertos por atualização do INE")
 
 
 def fila(est):
@@ -198,7 +218,7 @@ def main():
     try:
         if not est:                                     # 1.ª volta: os da lista entram já, o catálogo a seguir
             for i in cfg["indicadores"]:
-                v = str(i["varcd"]).zfill(7)
+                v = str(i["varcd"]).zfill(7)  # noqa
                 est.setdefault(v, {"varcd": v, "titulo": i.get("nome", ""), "estado": "pendente",
                                    "tentativas": "0", "prioridade": "1"})
         atualizar_catalogo(est, cfg)
