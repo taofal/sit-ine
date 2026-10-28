@@ -1,0 +1,66 @@
+[ {
+  "IndicadorCod" : "0013573",
+  "IndicadorDsg" : "Proporção de votos nulos nas eleições para a Presidência da República (%) por Local de residência (NUTS - 2024); Não periódica - Secretaria-Geral da Administração Interna - Administração Eleitoral",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0013573&lingua=PT",
+  "DataExtracao" : "2026-10-28T17:01:57.839Z",
+  "DataUltimoAtualizacao" : "2024-10-30",
+  "UltimoPref" : "2021",
+  "Dados" : {
+    "2021" : [ {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "0,7",
+      "valor" : "0.7"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "ind_string" : "0,8",
+      "valor" : "0.8"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "ind_string" : "0,8",
+      "valor" : "0.8"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "ind_string" : "0,8",
+      "valor" : "0.8"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "0,9",
+      "valor" : "0.9"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "0,9",
+      "valor" : "0.9"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "0,9",
+      "valor" : "0.9"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "0,9",
+      "valor" : "0.9"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "ind_string" : "1,1",
+      "valor" : "1.1"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

@@ -1,0 +1,66 @@
+[ {
+  "IndicadorCod" : "0013572",
+  "IndicadorDsg" : "Proporção de votos do candidato mais votado nas eleições para a Presidência da República (%) por Local de residência (NUTS - 2024); Não periódica - Secretaria-Geral da Administração Interna - Administração Eleitoral",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0013572&lingua=PT",
+  "DataExtracao" : "2026-10-28T16:58:26.383Z",
+  "DataUltimoAtualizacao" : "2024-10-30",
+  "UltimoPref" : "2021",
+  "Dados" : {
+    "2021" : [ {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "ind_string" : "51,7",
+      "valor" : "51.7"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "ind_string" : "57,2",
+      "valor" : "57.2"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "59,8",
+      "valor" : "59.8"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "60,7",
+      "valor" : "60.7"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "ind_string" : "61,8",
+      "valor" : "61.8"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "62,0",
+      "valor" : "62"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "63,0",
+      "valor" : "63"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "ind_string" : "64,1",
+      "valor" : "64.1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "64,4",
+      "valor" : "64.4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "64,8",
+      "valor" : "64.8"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
