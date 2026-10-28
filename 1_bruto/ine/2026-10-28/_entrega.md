@@ -207,3 +207,62 @@ Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos,
 - **0010200** Abstenção nas eleições para as Assembleias Municipais (N.º) — 30 valores, 1 ficheiros novos
     - `0010200_dados_45a503f711.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010200&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
 - **0010201** Abstenção nas eleições para as Assembleias de Freguesia (N.º) — 0 valores, 0 ficheiros novos; FALHAS: S7A2013: volta parada | S7A2017: volta parada | S7A2021: volta parada
+
+## Extração — 2026-10-28 17:32 — séries completas
+Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal. Todas as categorias das restantes dimensões.
+
+- **0010201** Abstenção nas eleições para as Assembleias de Freguesia (N.º) — 30 valores, 1 ficheiros novos
+    - `0010201_dados_734ab39a22.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010201&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010203** Mandatos atribuídos nas eleições para as Câmaras Municipais (N.º) — 30 valores, 1 ficheiros novos
+    - `0010203_dados_3eb266d5a6.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010203&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010204** Mandatos atribuídos nas eleições para as Assembleias Municipais (N.º) — 30 valores, 1 ficheiros novos
+    - `0010204_dados_fa05e15632.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010204&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010205** Mandatos atribuídos nas eleições para as Assembleias de Freguesia (N.º) — 30 valores, 1 ficheiros novos
+    - `0010205_dados_480d83bc68.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010205&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010215** Votos nas eleições para as Câmaras Municipais (N.º) — 120 valores, 1 ficheiros novos
+    - `0010215_dados_697fc08705.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010215&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010216** Votos nas eleições para as Assembleias Municipais (N.º) — 120 valores, 1 ficheiros novos
+    - `0010216_dados_11133cbdbf.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010216&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010217** Votos nas eleições para as Assembleias de Freguesia (N.º) — 120 valores, 1 ficheiros novos
+    - `0010217_dados_37498f55b5.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010217&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013571** Taxa de abstenção nas eleições para a Presidência da República (%) — 10 valores, 1 ficheiros novos
+    - `0013571_dados_9ecde0a192.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013571&lang=PT&Dim1=S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013572** Proporção de votos do candidato mais votado nas eleições para a Presidência da República (%) — 10 valores, 1 ficheiros novos
+    - `0013572_dados_4736b4c45d.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013572&lang=PT&Dim1=S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013573** Proporção de votos nulos nas eleições para a Presidência da República (%) — 10 valores, 1 ficheiros novos
+    - `0013573_dados_6ae1fd3246.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013573&lang=PT&Dim1=S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013574** Proporção de votos em branco nas eleições para a Presidência da República (%) — 10 valores, 1 ficheiros novos
+    - `0013574_dados_811c8add35.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013574&lang=PT&Dim1=S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013575** População inscrita nas eleições para a Presidência da República (N.º) — 10 valores, 1 ficheiros novos
+    - `0013575_dados_9da9c7cbc3.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013575&lang=PT&Dim1=S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013576** Abstenção nas eleições para a Presidência da República (N.º) — 10 valores, 1 ficheiros novos
+    - `0013576_dados_9bf9e899ad.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013576&lang=PT&Dim1=S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013577** Votos nas eleições para a Presidência da República (N.º) — 40 valores, 1 ficheiros novos
+    - `0013577_dados_18c88a7ec1.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013577&lang=PT&Dim1=S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0007912** Taxa bruta de ocupação cama (Série 2002-2005 - %) nos estabelecimentos hoteleiros — 324 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0007912_dados_7969fd146b.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0007912&lang=PT&Dim1=S7A2002,S7A2003,S7A2004,S7A2005&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0012244** Constituição de pessoas coletivas e entidades equiparadas (N.º) — 45320 valores, 2 ficheiros novos
+    - `0012244_dados_946a697895.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012244&lang=PT&Dim1=S3A202301,S3A202302,S3A202303,S3A202304,S3A202305,S3A202306,S3A202307,S3A202308,S3A202309,S3A202310,S3A202311,S3A202312,S3A202401,S3A202402,S3A202403,S3A202404,S3A202405,S3A202406,S3A202407,S3A202408,S3A202409,S3A202410,S3A202411,S3A202412,S3A202501,S3A202502,S3A202503,S3A202504,S3A202505&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012244_dados_48d5f8ea63.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012244&lang=PT&Dim1=S3A202506,S3A202507,S3A202508,S3A202509,S3A202510,S3A202511,S3A202512,S3A202601,S3A202602,S3A202603,S3A202604,S3A202605,S3A202606,S3A202607,S3A202608&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012245** Dissolução de pessoas coletivas e entidades equiparadas (N.º) — 45320 valores, 2 ficheiros novos
+    - `0012245_dados_36efc8d3bf.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012245&lang=PT&Dim1=S3A202301,S3A202302,S3A202303,S3A202304,S3A202305,S3A202306,S3A202307,S3A202308,S3A202309,S3A202310,S3A202311,S3A202312,S3A202401,S3A202402,S3A202403,S3A202404,S3A202405,S3A202406,S3A202407,S3A202408,S3A202409,S3A202410,S3A202411,S3A202412,S3A202501,S3A202502,S3A202503,S3A202504,S3A202505&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012245_dados_001fb90408.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012245&lang=PT&Dim1=S3A202506,S3A202507,S3A202508,S3A202509,S3A202510,S3A202511,S3A202512,S3A202601,S3A202602,S3A202603,S3A202604,S3A202605,S3A202606,S3A202607,S3A202608&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012595** Docentes do ensino superior (N.º) — 4320 valores, 1 ficheiros novos
+    - `0012595_dados_922011af8e.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012595&lang=PT&Dim1=7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3,7A2024_3,7A2025_3,7A2026_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012596** Docentes do ensino superior (N.º) — 2160 valores, 1 ficheiros novos
+    - `0012596_dados_9427b7bd43.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012596&lang=PT&Dim1=7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3,7A2024_3,7A2025_3,7A2026_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0014364** Constituição de pessoas coletivas e entidades equiparadas (N.º) — 20600 valores, 1 ficheiros novos
+    - `0014364_dados_19c03fbdb4.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0014364&lang=PT&Dim1=S3A202501,S3A202502,S3A202503,S3A202504,S3A202505,S3A202506,S3A202507,S3A202508,S3A202509,S3A202510,S3A202511,S3A202512,S3A202601,S3A202602,S3A202603,S3A202604,S3A202605,S3A202606,S3A202607,S3A202608&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0014365** Dissolução de pessoas coletivas e entidades equiparadas (N.º) — 20600 valores, 1 ficheiros novos
+    - `0014365_dados_2b0007e132.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0014365&lang=PT&Dim1=S3A202501,S3A202502,S3A202503,S3A202504,S3A202505,S3A202506,S3A202507,S3A202508,S3A202509,S3A202510,S3A202511,S3A202512,S3A202601,S3A202602,S3A202603,S3A202604,S3A202605,S3A202606,S3A202607,S3A202608&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009231** Alunas/os inscritas/os no ensino superior (N.º) — 630 valores, 1 ficheiros novos
+    - `0009231_dados_249122ae4b.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009231&lang=PT&Dim1=7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3,7A2024_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009249** Taxa de escolarização no ensino superior (%) — 210 valores, 1 ficheiros novos
+    - `0009249_dados_194d3feaf5.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009249&lang=PT&Dim1=7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3,7A2024_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009252** Proporção de inscritas/os em áreas de C&T no ensino superior (%) — 290 valores, 1 ficheiros novos
+    - `0009252_dados_53ac08ba51.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009252&lang=PT&Dim1=7A1996_3,7A1997_3,7A1998_3,7A1999_3,7A2000_3,7A2001_3,7A2002_3,7A2003_3,7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3,7A2024_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009254** Proporção de mulheres nos inscritos no ensino superior (%) — 290 valores, 1 ficheiros novos
+    - `0009254_dados_842b224953.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009254&lang=PT&Dim1=7A1996_3,7A1997_3,7A1998_3,7A1999_3,7A2000_3,7A2001_3,7A2002_3,7A2003_3,7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3,7A2024_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009344** Estabelecimentos de ensino superior (N.º) — 630 valores, 1 ficheiros novos
+    - `0009344_dados_29366d1bc0.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009344&lang=PT&Dim1=7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3,7A2024_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0001005** Alunas/os inscritas/os no ensino superior (N.º) — 0 valores, 0 ficheiros novos; FALHAS: metadados: orçamento da volta esgotado

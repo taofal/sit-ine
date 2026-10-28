@@ -1,0 +1,66 @@
+[ {
+  "IndicadorCod" : "0013571",
+  "IndicadorDsg" : "Taxa de abstenção nas eleições para a Presidência da República (%) por Local de residência (NUTS - 2024); Não periódica - Secretaria-Geral da Administração Interna - Administração Eleitoral",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0013571&lingua=PT",
+  "DataExtracao" : "2026-10-28T16:57:09.575Z",
+  "DataUltimoAtualizacao" : "2024-10-30",
+  "UltimoPref" : "2021",
+  "Dados" : {
+    "2021" : [ {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "ind_string" : "47,3",
+      "valor" : "47.3"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "ind_string" : "47,5",
+      "valor" : "47.5"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "ind_string" : "50,0",
+      "valor" : "50"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "ind_string" : "50,4",
+      "valor" : "50.4"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "51,1",
+      "valor" : "51.1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "51,9",
+      "valor" : "51.9"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "52,1",
+      "valor" : "52.1"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "53,8",
+      "valor" : "53.8"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "54,6",
+      "valor" : "54.6"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "60,8",
+      "valor" : "60.8"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

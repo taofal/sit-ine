@@ -1,0 +1,858 @@
+[ {
+  "IndicadorCod" : "0010215",
+  "IndicadorDsg" : "Votos nas eleições para as Câmaras Municipais (N.º) por Local de residência (NUTS - 2013) e Tipos de voto; Não periódica - Ministério da Administração Interna",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0010215&lingua=PT",
+  "DataExtracao" : "2026-10-28T16:49:23.614Z",
+  "DataUltimoAtualizacao" : "2021-11-30",
+  "UltimoPref" : "2021",
+  "Dados" : {
+    "2013" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "1 874 583",
+      "valor" : "1874583"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "68 066",
+      "valor" : "68066"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "52 913",
+      "valor" : "52913"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 995 562",
+      "valor" : "1995562"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "239 055",
+      "valor" : "239055"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "6 870",
+      "valor" : "6870"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "3 780",
+      "valor" : "3780"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "249 705",
+      "valor" : "249705"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "83 282",
+      "valor" : "83282"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "2 976",
+      "valor" : "2976"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "1 290",
+      "valor" : "1290"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "87 548",
+      "valor" : "87548"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "771 136",
+      "valor" : "771136"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "36 570",
+      "valor" : "36570"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "30 366",
+      "valor" : "30366"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "838 072",
+      "valor" : "838072"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "223 846",
+      "valor" : "223846"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "7 254",
+      "valor" : "7254"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "4 324",
+      "valor" : "4324"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "235 424",
+      "valor" : "235424"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "67 445",
+      "valor" : "67445"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "3 584",
+      "valor" : "3584"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "2 725",
+      "valor" : "2725"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "73 754",
+      "valor" : "73754"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "110 596",
+      "valor" : "110596"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "2 922",
+      "valor" : "2922"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "2 180",
+      "valor" : "2180"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "115 698",
+      "valor" : "115698"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "37 391",
+      "valor" : "37391"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "1 571",
+      "valor" : "1571"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "905",
+      "valor" : "905"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "39 867",
+      "valor" : "39867"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "71 209",
+      "valor" : "71209"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "2 051",
+      "valor" : "2051"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "1 274",
+      "valor" : "1274"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "74 534",
+      "valor" : "74534"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "4 657 329",
+      "valor" : "4657329"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "193 471",
+      "valor" : "193471"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "147 205",
+      "valor" : "147205"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 998 005",
+      "valor" : "4998005"
+    } ],
+    "2017" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "1 960 535",
+      "valor" : "1960535"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "47 895",
+      "valor" : "47895"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "35 983",
+      "valor" : "35983"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2 044 413",
+      "valor" : "2044413"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "251 104",
+      "valor" : "251104"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "4 982",
+      "valor" : "4982"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "3 317",
+      "valor" : "3317"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "259 403",
+      "valor" : "259403"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "93 308",
+      "valor" : "93308"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "1 876",
+      "valor" : "1876"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "963",
+      "valor" : "963"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "96 147",
+      "valor" : "96147"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "838 624",
+      "valor" : "838624"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "23 463",
+      "valor" : "23463"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "17 015",
+      "valor" : "17015"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "879 102",
+      "valor" : "879102"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "228 276",
+      "valor" : "228276"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "5 907",
+      "valor" : "5907"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "3 619",
+      "valor" : "3619"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "237 802",
+      "valor" : "237802"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "75 178",
+      "valor" : "75178"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "2 914",
+      "valor" : "2914"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "1 893",
+      "valor" : "1893"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "79 985",
+      "valor" : "79985"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "111 634",
+      "valor" : "111634"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "1 826",
+      "valor" : "1826"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "1 613",
+      "valor" : "1613"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "115 073",
+      "valor" : "115073"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "40 142",
+      "valor" : "40142"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "990",
+      "valor" : "990"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "608",
+      "valor" : "608"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "41 740",
+      "valor" : "41740"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "74 166",
+      "valor" : "74166"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "1 670",
+      "valor" : "1670"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "1 092",
+      "valor" : "1092"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "76 928",
+      "valor" : "76928"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "4 937 552",
+      "valor" : "4937552"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "135 792",
+      "valor" : "135792"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "99 719",
+      "valor" : "99719"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "5 173 063",
+      "valor" : "5173063"
+    } ],
+    "2021" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "1 853 582",
+      "valor" : "1853582"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "50 560",
+      "valor" : "50560"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "29 921",
+      "valor" : "29921"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 934 063",
+      "valor" : "1934063"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "242 195",
+      "valor" : "242195"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "6 149",
+      "valor" : "6149"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "2 962",
+      "valor" : "2962"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "251 306",
+      "valor" : "251306"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "87 784",
+      "valor" : "87784"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "2 258",
+      "valor" : "2258"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "847",
+      "valor" : "847"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "90 889",
+      "valor" : "90889"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "767 951",
+      "valor" : "767951"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "23 333",
+      "valor" : "23333"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "12 949",
+      "valor" : "12949"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "804 233",
+      "valor" : "804233"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "220 139",
+      "valor" : "220139"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "7 659",
+      "valor" : "7659"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "3 483",
+      "valor" : "3483"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "231 281",
+      "valor" : "231281"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "66 231",
+      "valor" : "66231"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "2 250",
+      "valor" : "2250"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "1 155",
+      "valor" : "1155"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "69 636",
+      "valor" : "69636"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "97 702",
+      "valor" : "97702"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "2 251",
+      "valor" : "2251"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "1 148",
+      "valor" : "1148"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "101 101",
+      "valor" : "101101"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "33 551",
+      "valor" : "33551"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "1 384",
+      "valor" : "1384"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "551",
+      "valor" : "551"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "35 486",
+      "valor" : "35486"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "70 931",
+      "valor" : "70931"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "2 304",
+      "valor" : "2304"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "1 133",
+      "valor" : "1133"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "74 368",
+      "valor" : "74368"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Válidos",
+      "ind_string" : "4 797 633",
+      "valor" : "4797633"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Em branco",
+      "ind_string" : "125 173",
+      "valor" : "125173"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Nulos",
+      "ind_string" : "79 241",
+      "valor" : "79241"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "5 002 047",
+      "valor" : "5002047"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
