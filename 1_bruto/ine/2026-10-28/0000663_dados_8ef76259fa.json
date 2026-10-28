@@ -1,0 +1,61 @@
+[ {
+  "IndicadorCod" : "0000663",
+  "IndicadorDsg" : "Taxa de variação da população residente (1991 - 2001) (%) por Local de residência (à data dos Censos 2001); Decenal - INE, Recenseamento da população e habitação - Censos 2001",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0000663&lingua=PT",
+  "DataExtracao" : "2026-10-28T02:33:54.477Z",
+  "DataUltimoAtualizacao" : "2007-05-31",
+  "UltimoPref" : "2001",
+  "Dados" : {
+    "2001" : [ {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "3,7",
+      "valor" : "3.7"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "ind_string" : "9,2",
+      "valor" : "9.2"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "4,9",
+      "valor" : "4.9"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "11,2",
+      "valor" : "11.2"
+    }, {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "ind_string" : "9,4",
+      "valor" : "9.4"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "6,1",
+      "valor" : "6.1"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "ind_string" : "10,8",
+      "valor" : "10.8"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "ind_string" : "-13,0",
+      "valor" : "-13"
+    }, {
+      "geocod" : "1308",
+      "geodsg" : "Matosinhos",
+      "ind_string" : "10,1",
+      "valor" : "10.1"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

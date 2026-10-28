@@ -1,0 +1,61 @@
+[ {
+  "IndicadorCod" : "0000715",
+  "IndicadorDsg" : "Taxa de variação dos alojamentos (1991 - 2001) (%) por Localização geográfica (à data dos Censos 2001); Decenal - INE, Recenseamento da população e habitação - Censos 2001",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0000715&lingua=PT",
+  "DataExtracao" : "2026-10-28T02:56:45.018Z",
+  "DataUltimoAtualizacao" : "2007-05-31",
+  "UltimoPref" : "2001",
+  "Dados" : {
+    "2001" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "25,3",
+      "valor" : "25.3"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "ind_string" : "30,7",
+      "valor" : "30.7"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "20,5",
+      "valor" : "20.5"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "34,0",
+      "valor" : "34"
+    }, {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "ind_string" : "25,4",
+      "valor" : "25.4"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "19,1",
+      "valor" : "19.1"
+    }, {
+      "geocod" : "1308",
+      "geodsg" : "Matosinhos",
+      "ind_string" : "28,5",
+      "valor" : "28.5"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "ind_string" : "25,5",
+      "valor" : "25.5"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "ind_string" : "10,4",
+      "valor" : "10.4"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

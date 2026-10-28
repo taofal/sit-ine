@@ -69,3 +69,86 @@ Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos,
 - **0002693** Taxa quinquenal de mortalidade neonatal (‰) — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
     - `0002693_dados_9ff2b54efd.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0002693&lang=PT&Dim1=S11A19972001&Dim2=101030308,10103,10102,101020302,101031314,101041308,101041312,101,PT
 - **0002907** Intervenções de grande e média cirurgia por dia (Série 1999-2007 - N.º) nos estabelecimentos de saúde — 0 valores, 0 ficheiros novos; FALHAS: metadados: orçamento da volta esgotado
+
+## Extração — 2026-10-28 03:01 — séries completas
+Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal. Todas as categorias das restantes dimensões.
+
+- **0002907** Intervenções de grande e média cirurgia por dia (Série 1999-2007 - N.º) nos estabelecimentos de saúde — 90 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0002907_dados_fae000772c.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0002907&lang=PT&Dim1=S7A1999,S7A2000,S7A2001,S7A2002,S7A2003,S7A2004,S7A2005,S7A2006,S7A2007,S7A2008&Dim2=101030308,10103,10102,101020302,101031314,101041308,101041312,101,PT
+- **0000260** Famílias clássicas (N.º) — 423 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000260_dados_aca49202cc.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000260&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000262** Índice de envelhecimento (N.º) — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000262_dados_98851e6bb2.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000262&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000263** Índice de dependência de idosos (N.º) — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000263_dados_8e5c9b5796.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000263&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000265** Taxa de desemprego (sentido lato) (%) — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000265_dados_d224d24930.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000265&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000533** População residente (N.º) — 594 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000533_dados_9a5ac87e60.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000533&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000534** População residente (N.º) — 189 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000534_dados_a3e884ab63.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000534&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000535** População residente (N.º) — 351 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000535_dados_548b841ecf.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000535&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000657** Proporção de viúvos (%) na população residente — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000657_dados_16588bb24a.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000657&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000658** Proporção de casados sem registo (%) na população residente casada — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000658_dados_4c9e74a6b7.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000658&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000659** Proporção dos divorciados (%) na população residente — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000659_dados_8af287669b.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000659&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000660** Taxa de deficiência (%) da população residente — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000660_dados_e6710d7641.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000660&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000661** Grau de incapacidade atribuído (N.º) à população residente com deficiência — 54 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000661_dados_3da2ecd732.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000661&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000662** Proporção da população residente com pelo menos o 3º ciclo do ensino básico completo (%) — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000662_dados_18ab660451.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000662&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000663** Taxa de variação da população residente (1991 - 2001) (%) — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000663_dados_8ef76259fa.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000663&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000664** Índice de dependência de jovens (N.º) — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000664_dados_fd0b75183d.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000664&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000666** Proporção da população residente que entra na unidade territorial (movimentos pendulares) (%) — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000666_dados_722c76f112.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000666&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000667** Proporção da população residente que sai da unidade territorial (movimentos pendulares) (%) — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000667_dados_0a12563539.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000667&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000670** População empregada (N.º) — 162 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000670_dados_0481d6a1a0.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000670&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000671** Proporção de população empregada por conta de outrem (%) — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000671_dados_8be5d56970.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000671&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000672** População empregada (N.º) — 72 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000672_dados_7b8b93f259.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000672&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000673** Taxa de variação das famílias clássicas (1991 - 2001) (%) — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000673_dados_a9bed8028b.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000673&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000674** Proporção de famílias clássicas unipessoais (%) — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000674_dados_d8a8730e26.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000674&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000675** Proporção de núcleos familiares monoparentais (%) — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000675_dados_4a57cf36ab.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000675&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000676** Famílias clássicas (N.º) — 126 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000676_dados_51a6eaab1d.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000676&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000677** Alojamentos familiares de residência habitual (N.º) — 45 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000677_dados_610eb7c733.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000677&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000678** População residente em lugares com 2000 ou mais habitantes (N.º) — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000678_dados_113396344c.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000678&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000679** Índice de diversificação social (N.º) — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000679_dados_d7e7e6797b.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000679&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000680** Proporção da população residente com 65 ou mais anos de idade (%) — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000680_dados_c35a9060fb.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000680&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000681** Taxa de atração total (%) — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000681_dados_545a72fab6.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000681&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000682** Taxa de repulsão interna (%) — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000682_dados_0ecc343062.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000682&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000684** Meio de transporte mais utilizado nos movimentos pendulares (N.º) — 99 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000684_dados_07c05dffd5.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000684&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000685** Duração dos movimentos pendulares (min) — 72 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000685_dados_3a5198ea85.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000685&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000714** Proporção de núcleos reconstituídos (%) — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000714_dados_81f66d4616.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000714&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000715** Taxa de variação dos alojamentos (1991 - 2001) (%) — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000715_dados_968cea69a3.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000715&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000716** Densidade de alojamentos (N.º/ km²) — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000716_dados_be1b77da17.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000716&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000717** Taxa de variação dos edifícios (1991 - 2001) (%) — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000717_dados_c83250f051.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000717&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000718** Densidade de edifícios (N.º/ km²) — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000718_dados_0e153db4f5.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000718&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000719** Índice de envelhecimento (N.º) dos edifícios — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000719_dados_14a9452ac6.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000719&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0000720** Alojamentos familiares clássicos por edifício (%) — 0 valores, 0 ficheiros novos; FALHAS: metadados: orçamento da volta esgotado
