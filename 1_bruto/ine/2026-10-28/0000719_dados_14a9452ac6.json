@@ -1,0 +1,61 @@
+[ {
+  "IndicadorCod" : "0000719",
+  "IndicadorDsg" : "Índice de envelhecimento (N.º) dos edifícios por Localização geográfica (à data dos Censos 2001); Decenal - INE, Recenseamento da população e habitação - Censos 2001",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0000719&lingua=PT",
+  "DataExtracao" : "2026-10-28T03:01:48.779Z",
+  "DataUltimoAtualizacao" : "2007-05-31",
+  "UltimoPref" : "2001",
+  "Dados" : {
+    "2001" : [ {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "ind_string" : "68,2",
+      "valor" : "68.2"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "70,3",
+      "valor" : "70.3"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "98,7",
+      "valor" : "98.7"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "47,8",
+      "valor" : "47.8"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "ind_string" : "42,1",
+      "valor" : "42.1"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "ind_string" : "709,6",
+      "valor" : "709.6"
+    }, {
+      "geocod" : "1308",
+      "geodsg" : "Matosinhos",
+      "ind_string" : "164,6",
+      "valor" : "164.6"
+    }, {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "ind_string" : "59,2",
+      "valor" : "59.2"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "87,0",
+      "valor" : "87"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

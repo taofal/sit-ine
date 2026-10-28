@@ -1,0 +1,61 @@
+[ {
+  "IndicadorCod" : "0000681",
+  "IndicadorDsg" : "Taxa de atração total (%) por Local de residência (à data dos Censos 2001); Decenal - INE, Recenseamento da população e habitação - Censos 2001",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0000681&lingua=PT",
+  "DataExtracao" : "2026-10-28T02:51:39.381Z",
+  "DataUltimoAtualizacao" : "2007-05-31",
+  "UltimoPref" : "2001",
+  "Dados" : {
+    "2001" : [ {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "4,8",
+      "valor" : "4.8"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "ind_string" : "3,8",
+      "valor" : "3.8"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "ind_string" : "3,9",
+      "valor" : "3.9"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "4,7",
+      "valor" : "4.7"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "ind_string" : "7,6",
+      "valor" : "7.6"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "2,3",
+      "valor" : "2.3"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "2,4",
+      "valor" : "2.4"
+    }, {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "ind_string" : "3,6",
+      "valor" : "3.6"
+    }, {
+      "geocod" : "1308",
+      "geodsg" : "Matosinhos",
+      "ind_string" : "9,0",
+      "valor" : "9"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

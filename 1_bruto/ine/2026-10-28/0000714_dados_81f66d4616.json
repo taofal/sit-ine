@@ -1,0 +1,61 @@
+[ {
+  "IndicadorCod" : "0000714",
+  "IndicadorDsg" : "Proporção de núcleos reconstituídos (%) por Local de residência (à data dos Censos 2001); Decenal - INE, Recenseamento da população e habitação - Censos 2001",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0000714&lingua=PT",
+  "DataExtracao" : "2026-10-28T02:56:38.410Z",
+  "DataUltimoAtualizacao" : "2007-05-31",
+  "UltimoPref" : "2001",
+  "Dados" : {
+    "2001" : [ {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "ind_string" : "1,3",
+      "valor" : "1.3"
+    }, {
+      "geocod" : "1308",
+      "geodsg" : "Matosinhos",
+      "ind_string" : "1,1",
+      "valor" : "1.1"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "ind_string" : "0,6",
+      "valor" : "0.6"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "0,5",
+      "valor" : "0.5"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "ind_string" : "0,8",
+      "valor" : "0.8"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "1,5",
+      "valor" : "1.5"
+    }, {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "ind_string" : "0,7",
+      "valor" : "0.7"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "0,8",
+      "valor" : "0.8"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "0,9",
+      "valor" : "0.9"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

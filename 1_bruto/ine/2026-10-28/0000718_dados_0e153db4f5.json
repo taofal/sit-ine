@@ -1,0 +1,61 @@
+[ {
+  "IndicadorCod" : "0000718",
+  "IndicadorDsg" : "Densidade de edifícios (N.º/ km²) por Localização geográfica (à data dos Censos 2001); Decenal - INE, Recenseamento da população e habitação - Censos 2001",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0000718&lingua=PT",
+  "DataExtracao" : "2026-10-28T03:00:34.179Z",
+  "DataUltimoAtualizacao" : "2007-05-31",
+  "UltimoPref" : "2001",
+  "Dados" : {
+    "2001" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "34,2",
+      "valor" : "34.2"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "ind_string" : "83,5",
+      "valor" : "83.5"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "84,9",
+      "valor" : "84.9"
+    }, {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "ind_string" : "110,5",
+      "valor" : "110.5"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "51,6",
+      "valor" : "51.6"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "ind_string" : "160,9",
+      "valor" : "160.9"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "142,3",
+      "valor" : "142.3"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "ind_string" : "1 124,2",
+      "valor" : "1124.2"
+    }, {
+      "geocod" : "1308",
+      "geodsg" : "Matosinhos",
+      "ind_string" : "544,4",
+      "valor" : "544.4"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
