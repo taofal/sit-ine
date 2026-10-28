@@ -152,3 +152,8 @@ Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos,
 - **0000719** Índice de envelhecimento (N.º) dos edifícios — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
     - `0000719_dados_14a9452ac6.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000719&lang=PT&Dim1=S7A2001&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
 - **0000720** Alojamentos familiares clássicos por edifício (%) — 0 valores, 0 ficheiros novos; FALHAS: metadados: orçamento da volta esgotado
+
+## Extração — 2026-10-28 06:21 — séries completas
+Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal. Todas as categorias das restantes dimensões.
+
+- **0000720** Alojamentos familiares clássicos por edifício (%) — 0 valores, 0 ficheiros novos; FALHAS: metadados: INE recusou: <urlopen error timed out>
