@@ -1,0 +1,585 @@
+[ {
+  "IndicadorCod" : "0004258",
+  "IndicadorDsg" : "Municípios com linhas ou programas municipais de financiamento (N.º) por Localização geográfica (NUTS - 2002) e Tipo de programa municipal de financiamento; Anual - INE, Inquérito à caraterização da habitação social",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0004258&lingua=PT",
+  "DataExtracao" : "2026-10-28T00:41:13.613Z",
+  "DataUltimoAtualizacao" : "2013-07-31",
+  "UltimoPref" : "2012",
+  "Dados" : {
+    "2009" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Arrendamento",
+      "ind_string" : "50",
+      "valor" : "50"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Construção ou aquisição de habitação",
+      "ind_string" : "43",
+      "valor" : "43"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Reabilitação",
+      "ind_string" : "121",
+      "valor" : "121"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Arrendamento",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Construção ou aquisição de habitação",
+      "ind_string" : "3",
+      "valor" : "3"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Reabilitação",
+      "ind_string" : "3",
+      "valor" : "3"
+    }, {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Arrendamento",
+      "ind_string" : "3",
+      "valor" : "3"
+    }, {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Construção ou aquisição de habitação",
+      "ind_string" : "3",
+      "valor" : "3"
+    }, {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Reabilitação",
+      "ind_string" : "4",
+      "valor" : "4"
+    }, {
+      "geocod" : "1131314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Arrendamento",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "1131314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Construção ou aquisição de habitação",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1131314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Reabilitação",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Arrendamento",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Construção ou aquisição de habitação",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Reabilitação",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Arrendamento",
+      "ind_string" : "14",
+      "valor" : "14"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Construção ou aquisição de habitação",
+      "ind_string" : "15",
+      "valor" : "15"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Reabilitação",
+      "ind_string" : "36",
+      "valor" : "36"
+    }, {
+      "geocod" : "1141312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Arrendamento",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1141312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Construção ou aquisição de habitação",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1141312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Reabilitação",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "1141308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Arrendamento",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "1141308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Construção ou aquisição de habitação",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1141308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Reabilitação",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "1130308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Arrendamento",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "1130308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Construção ou aquisição de habitação",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Reabilitação",
+      "ind_string" : "1",
+      "valor" : "1"
+    } ],
+    "2011" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Arrendamento",
+      "ind_string" : "48",
+      "valor" : "48"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Construção ou aquisição de habitação",
+      "ind_string" : "36",
+      "valor" : "36"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Reabilitação",
+      "ind_string" : "118",
+      "valor" : "118"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Arrendamento",
+      "ind_string" : "2",
+      "valor" : "2"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Construção ou aquisição de habitação",
+      "ind_string" : "2",
+      "valor" : "2"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Reabilitação",
+      "ind_string" : "3",
+      "valor" : "3"
+    }, {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Arrendamento",
+      "ind_string" : "4",
+      "valor" : "4"
+    }, {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Construção ou aquisição de habitação",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Reabilitação",
+      "ind_string" : "4",
+      "valor" : "4"
+    }, {
+      "geocod" : "1131314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Arrendamento",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "1131314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Construção ou aquisição de habitação",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1131314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Reabilitação",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Arrendamento",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Construção ou aquisição de habitação",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Reabilitação",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Arrendamento",
+      "ind_string" : "16",
+      "valor" : "16"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Construção ou aquisição de habitação",
+      "ind_string" : "15",
+      "valor" : "15"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Reabilitação",
+      "ind_string" : "38",
+      "valor" : "38"
+    }, {
+      "geocod" : "1141312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Arrendamento",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1141312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Construção ou aquisição de habitação",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "1141312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Reabilitação",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "1141308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Arrendamento",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "1141308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Construção ou aquisição de habitação",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1141308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Reabilitação",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "1130308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Arrendamento",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "1130308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Construção ou aquisição de habitação",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Reabilitação",
+      "ind_string" : "1",
+      "valor" : "1"
+    } ],
+    "2012" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Arrendamento",
+      "ind_string" : "57",
+      "valor" : "57"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Construção ou aquisição de habitação",
+      "ind_string" : "37",
+      "valor" : "37"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Reabilitação",
+      "ind_string" : "115",
+      "valor" : "115"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Arrendamento",
+      "ind_string" : "2",
+      "valor" : "2"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Construção ou aquisição de habitação",
+      "ind_string" : "3",
+      "valor" : "3"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Reabilitação",
+      "ind_string" : "4",
+      "valor" : "4"
+    }, {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Arrendamento",
+      "ind_string" : "6",
+      "valor" : "6"
+    }, {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Construção ou aquisição de habitação",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Reabilitação",
+      "ind_string" : "4",
+      "valor" : "4"
+    }, {
+      "geocod" : "1131314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Arrendamento",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "1131314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Construção ou aquisição de habitação",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1131314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Reabilitação",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Arrendamento",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Construção ou aquisição de habitação",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Reabilitação",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Arrendamento",
+      "ind_string" : "20",
+      "valor" : "20"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Construção ou aquisição de habitação",
+      "ind_string" : "13",
+      "valor" : "13"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Reabilitação",
+      "ind_string" : "35",
+      "valor" : "35"
+    }, {
+      "geocod" : "1141312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Arrendamento",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1141312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Construção ou aquisição de habitação",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "1141312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Reabilitação",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "1141308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Arrendamento",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "1141308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Construção ou aquisição de habitação",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1141308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Reabilitação",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Arrendamento",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "1130308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Construção ou aquisição de habitação",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Reabilitação",
+      "ind_string" : "1",
+      "valor" : "1"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

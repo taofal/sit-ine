@@ -1,0 +1,71 @@
+# Entrega — INE — 2026-10-28
+
+- **Enviado por:** API JSON do INE (extração própria do DIIET, script 3_scripts/extrair_ine.py)
+- **Recebido em:** 2026-10-28
+- **Data de extração (da fonte):** campo `DataExtracao` de cada ficheiro
+- **Âmbito:** ver extrações abaixo
+- **Contrato / base legal:** 
+- **Ficheiros:** `<varcd>_dados_<hash>.json` (resposta de dados, exatamente como devolvida) e `<varcd>_meta.json` (metadados)
+- **Notas da ficha técnica:** ver `MetaInfUrl` em cada ficheiro de dados
+- **Restrições de reutilização:** 
+
+## Extração — 2026-10-28 00:42 — séries completas
+Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal. Todas as categorias das restantes dimensões.
+
+- **0013218** Freguesias (N.º) — 30 valores, 1 ficheiros novos
+    - `0013218_dados_a910fa6d97.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013218&lang=PT&Dim1=S7A2023,S7A2024,S7A2025&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013812** Área média das freguesias (ha) — 50 valores, 1 ficheiros novos
+    - `0013812_dados_bfaab11269.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013812&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024,S7A2025&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0014611** Superfície (km² - COS - Série 2) das unidades territoriais — 162 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Portugal
+    - `0014611_dados_015588afee.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0014611&lang=PT&Dim1=S7A2018,S7A2023&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11
+- **0014613** Territórios artificializados per capita (m2/ hab. - COS - Série 2) — 18 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Portugal
+    - `0014613_dados_00d851ef57.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0014613&lang=PT&Dim1=S7A2018,S7A2023&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11
+- **0014799** Superfície terrestre (km² - COS - Série 2) das unidades territoriais — 18 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Portugal
+    - `0014799_dados_e32d86ecda.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0014799&lang=PT&Dim1=S7A2018,S7A2023&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11
+- **0014802** Evolução da eficiência dos territórios artificializados por habitante (% - COS - Série 2) — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Portugal
+    - `0014802_dados_787a961759.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0014802&lang=PT&Dim1=S7A2023&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11
+- **0008199** Médicas/os dentistas (N.º) — 360 valores, 1 ficheiros novos
+    - `0008199_dados_21ced73086.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008199&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008463** Médicas/os (N.º) — 1080 valores, 1 ficheiros novos
+    - `0008463_dados_20106936b2.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008463&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008712** Farmacêuticos (N.º) — 360 valores, 1 ficheiros novos
+    - `0008712_dados_bfb3dc37df.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008712&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0000103** Compras através de Terminais de Pagamento Automático por habitante (€) — 90 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000103_dados_10ac4ff129.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000103&lang=PT&Dim1=S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0004231** Edifícios de habitação social objecto de obras de conservação (N.º) — 27 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0004231_dados_b804709879.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0004231&lang=PT&Dim1=S7A2009,S7A2011,S7A2012&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0004232** Fogos de habitação social (N.º) — 144 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0004232_dados_5eac0c0ce4.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0004232&lang=PT&Dim1=S7A2009,S7A2011&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0004234** Fogos de habitação social reabilitados (N.º) — 27 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0004234_dados_3b9b92566a.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0004234&lang=PT&Dim1=S7A2009,S7A2011,S7A2012&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0004236** Casos registados de pedidos de habitação (N.º) — 18 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0004236_dados_0c1da9d948.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0004236&lang=PT&Dim1=S7A2009,S7A2011&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0004238** Famílias realojadas ao abrigo de programas públicos de realojamento (N.º) — 27 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0004238_dados_691b1a3b9b.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0004238&lang=PT&Dim1=S7A2009,S7A2011,S7A2012&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0004239** Contratos de arrendamento de habitação social existentes (N.º) — 72 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0004239_dados_99a3c88ca3.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0004239&lang=PT&Dim1=S7A2009,S7A2011&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0004240** Contratos de arrendamento de habitação social efetuados (N.º) — 72 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0004240_dados_f784dc0bbf.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0004240&lang=PT&Dim1=S7A2009,S7A2011&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0004241** Receita prevista de rendas de habitação social (€) — 27 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0004241_dados_7126970f05.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0004241&lang=PT&Dim1=S7A2009,S7A2011,S7A2012&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0004242** Receita da cobrança de rendas de habitação social (€) — 27 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0004242_dados_392bf31d8a.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0004242&lang=PT&Dim1=S7A2009,S7A2011,S7A2012&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0004243** Receita de venda de fogos de habitação social (€) — 27 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0004243_dados_c53e6620c1.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0004243&lang=PT&Dim1=S7A2009,S7A2011,S7A2012&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0004252** Encargos fixos com o parque de habitação social (€) — 27 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0004252_dados_9de78d95c0.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0004252&lang=PT&Dim1=S7A2009,S7A2011,S7A2012&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0004253** Áreas críticas de recuperação e reconversão urbanística (N.º) — 81 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0004253_dados_7640ba42e9.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0004253&lang=PT&Dim1=S7A2009,S7A2011,S7A2012&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0004254** Áreas de reabilitação urbana (N.º) — 27 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0004254_dados_ed5ea360d7.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0004254&lang=PT&Dim1=S7A2009,S7A2011,S7A2012&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0004255** Sociedades de reabilitação urbana (N.º) — 27 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0004255_dados_a9bb844e67.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0004255&lang=PT&Dim1=S7A2009,S7A2011,S7A2012&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0004258** Municípios com linhas ou programas municipais de financiamento (N.º) — 81 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0004258_dados_b8561d2951.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0004258&lang=PT&Dim1=S7A2009,S7A2011,S7A2012&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0002665** Taxa de mortalidade por tumores malignos (‰) — 90 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0002665_dados_268940f7d6.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0002665&lang=PT&Dim1=S7A1992,S7A1993,S7A1994,S7A1995,S7A1996,S7A1997,S7A1998,S7A1999,S7A2000,S7A2001&Dim2=101030308,10103,10102,101020302,101031314,101041308,101041312,101,PT
+- **0002666** Taxa de mortalidade por doenças do aparelho circulatório (‰) — 90 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0002666_dados_58c9aafc26.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0002666&lang=PT&Dim1=S7A1992,S7A1993,S7A1994,S7A1995,S7A1996,S7A1997,S7A1998,S7A1999,S7A2000,S7A2001&Dim2=101030308,10103,10102,101020302,101031314,101041308,101041312,101,PT
+- **0002693** Taxa quinquenal de mortalidade neonatal (‰) — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0002693_dados_9ff2b54efd.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0002693&lang=PT&Dim1=S11A19972001&Dim2=101030308,10103,10102,101020302,101031314,101041308,101041312,101,PT
+- **0002907** Intervenções de grande e média cirurgia por dia (Série 1999-2007 - N.º) nos estabelecimentos de saúde — 0 valores, 0 ficheiros novos; FALHAS: metadados: orçamento da volta esgotado

@@ -1,0 +1,521 @@
+[ {
+  "IndicadorCod" : "0004239",
+  "IndicadorDsg" : "Contratos de arrendamento de habitação social existentes (N.º) por Localização geográfica (NUTS - 2002) e Tipo de contrato de arrendamento (2009, 2011); Anual - INE, Inquérito à caraterização da habitação social",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0004239&lingua=PT",
+  "DataExtracao" : "2026-10-28T00:29:09.748Z",
+  "DataUltimoAtualizacao" : "2013-07-31",
+  "UltimoPref" : "2011",
+  "Dados" : {
+    "2009" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "114 735",
+      "valor" : "114735"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Outro",
+      "ind_string" : "26 219",
+      "valor" : "26219"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Renda social ou apoiada",
+      "ind_string" : "86 071",
+      "valor" : "86071"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Propriedade resolúvel",
+      "ind_string" : "2 445",
+      "valor" : "2445"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "931",
+      "valor" : "931"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Outro",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Renda social ou apoiada",
+      "ind_string" : "931",
+      "valor" : "931"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Propriedade resolúvel",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2 901",
+      "valor" : "2901"
+    }, {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Outro",
+      "ind_string" : "56",
+      "valor" : "56"
+    }, {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Renda social ou apoiada",
+      "ind_string" : "2 717",
+      "valor" : "2717"
+    }, {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Propriedade resolúvel",
+      "ind_string" : "128",
+      "valor" : "128"
+    }, {
+      "geocod" : "1131314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "536",
+      "valor" : "536"
+    }, {
+      "geocod" : "1131314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Outro",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1131314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Renda social ou apoiada",
+      "ind_string" : "491",
+      "valor" : "491"
+    }, {
+      "geocod" : "1131314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Propriedade resolúvel",
+      "ind_string" : "45",
+      "valor" : "45"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "140",
+      "valor" : "140"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Outro",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Renda social ou apoiada",
+      "ind_string" : "140",
+      "valor" : "140"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Propriedade resolúvel",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "40 025",
+      "valor" : "40025"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Outro",
+      "ind_string" : "437",
+      "valor" : "437"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Renda social ou apoiada",
+      "ind_string" : "37 739",
+      "valor" : "37739"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Propriedade resolúvel",
+      "ind_string" : "1 849",
+      "valor" : "1849"
+    }, {
+      "geocod" : "1141312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "13 438",
+      "valor" : "13438"
+    }, {
+      "geocod" : "1141312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Outro",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "1141312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Renda social ou apoiada",
+      "ind_string" : "13 435",
+      "valor" : "13435"
+    }, {
+      "geocod" : "1141312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Propriedade resolúvel",
+      "ind_string" : "2",
+      "valor" : "2"
+    }, {
+      "geocod" : "1141308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 010",
+      "valor" : "4010"
+    }, {
+      "geocod" : "1141308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Outro",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1141308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Renda social ou apoiada",
+      "ind_string" : "4 010",
+      "valor" : "4010"
+    }, {
+      "geocod" : "1141308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Propriedade resolúvel",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 619",
+      "valor" : "1619"
+    }, {
+      "geocod" : "1130308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Outro",
+      "ind_string" : "56",
+      "valor" : "56"
+    }, {
+      "geocod" : "1130308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Renda social ou apoiada",
+      "ind_string" : "1 502",
+      "valor" : "1502"
+    }, {
+      "geocod" : "1130308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Propriedade resolúvel",
+      "ind_string" : "61",
+      "valor" : "61"
+    } ],
+    "2011" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "112 893",
+      "valor" : "112893"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Outro",
+      "ind_string" : "25 407",
+      "valor" : "25407"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Renda social ou apoiada",
+      "ind_string" : "85 645",
+      "valor" : "85645"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Propriedade resolúvel",
+      "ind_string" : "1 841",
+      "valor" : "1841"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "868",
+      "valor" : "868"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Outro",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Renda social ou apoiada",
+      "ind_string" : "868",
+      "valor" : "868"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Propriedade resolúvel",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2 818",
+      "valor" : "2818"
+    }, {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Outro",
+      "ind_string" : "133",
+      "valor" : "133"
+    }, {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Renda social ou apoiada",
+      "ind_string" : "2 683",
+      "valor" : "2683"
+    }, {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Propriedade resolúvel",
+      "ind_string" : "2",
+      "valor" : "2"
+    }, {
+      "geocod" : "1131314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "497",
+      "valor" : "497"
+    }, {
+      "geocod" : "1131314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Outro",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1131314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Renda social ou apoiada",
+      "ind_string" : "497",
+      "valor" : "497"
+    }, {
+      "geocod" : "1131314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Propriedade resolúvel",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "137",
+      "valor" : "137"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Outro",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Renda social ou apoiada",
+      "ind_string" : "137",
+      "valor" : "137"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Propriedade resolúvel",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "39 331",
+      "valor" : "39331"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Outro",
+      "ind_string" : "489",
+      "valor" : "489"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Renda social ou apoiada",
+      "ind_string" : "37 311",
+      "valor" : "37311"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Propriedade resolúvel",
+      "ind_string" : "1 531",
+      "valor" : "1531"
+    }, {
+      "geocod" : "1141312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "13 393",
+      "valor" : "13393"
+    }, {
+      "geocod" : "1141312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Outro",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1141312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Renda social ou apoiada",
+      "ind_string" : "13 393",
+      "valor" : "13393"
+    }, {
+      "geocod" : "1141312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Propriedade resolúvel",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1141308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 251",
+      "valor" : "4251"
+    }, {
+      "geocod" : "1141308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Outro",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1141308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Renda social ou apoiada",
+      "ind_string" : "4 251",
+      "valor" : "4251"
+    }, {
+      "geocod" : "1141308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Propriedade resolúvel",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 577",
+      "valor" : "1577"
+    }, {
+      "geocod" : "1130308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Outro",
+      "ind_string" : "133",
+      "valor" : "133"
+    }, {
+      "geocod" : "1130308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Renda social ou apoiada",
+      "ind_string" : "1 444",
+      "valor" : "1444"
+    }, {
+      "geocod" : "1130308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Propriedade resolúvel",
+      "ind_string" : "0",
+      "valor" : "0"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
