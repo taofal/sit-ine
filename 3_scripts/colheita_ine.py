@@ -65,7 +65,23 @@ def log(msg):
 
 
 # ------------------------------------------------------------------ rede: parar à 1.ª recusa persistente
-_estado_rede = {"parado": False, "pedidos": 0, "limite": 40, "fim": None}
+_estado_rede = {"parado": False, "pedidos": 0, "limite": 40, "fim": None, "motivo": ""}
+
+# Ordem do catálogo por tema (1 = lista DIIET em ine_indicadores.json, sempre primeiro)
+TEMAS_PRIORIDADE = {
+    2: ("empresas", "mercado de trabalho", "turismo", "comercio internacional", "industria e energia",
+        "inovacao e conhecimento", "educacao, formacao e aprendizagem", "condicoes de vida e cidadania"),
+    3: ("populacao", "construcao e habitacao", "territorio", "agricultura, floresta e pescas",
+        "transportes e comunicacoes", "cultura, desporto e lazer", "ambiente", "administracoes publicas"),
+}
+
+
+def prioridade_tema(tema):
+    t = X.norm(tema)
+    for p, temas in TEMAS_PRIORIDADE.items():
+        if t in temas:
+            return p
+    return 4
 _http_original = X.http_get
 
 
@@ -73,14 +89,27 @@ def http_get_cauteloso(url, timeout=120):
     if _estado_rede["parado"]:
         raise Parar("volta parada")
     if _estado_rede["pedidos"] >= _estado_rede["limite"] or time.time() > _estado_rede["fim"]:
-        _estado_rede["parado"] = True
+        _estado_rede["parado"], _estado_rede["motivo"] = True, "orçamento"
         raise Parar("orçamento da volta esgotado")
     _estado_rede["pedidos"] += 1
     try:
         return _http_original(url, timeout)
     except Exception as e:
-        _estado_rede["parado"] = True
+        _estado_rede["parado"], _estado_rede["motivo"] = True, f"falha: {str(e)[:150]}"
         raise Parar(f"INE recusou: {str(e)[:150]}")
+
+
+def ine_responde():
+    """Pedido de controlo (metadados de um indicador conhecido): distingue «o INE recusa tudo» de
+    «este indicador dá erro»."""
+    if _estado_rede["pedidos"] >= _estado_rede["limite"] or time.time() > _estado_rede["fim"]:
+        return False
+    _estado_rede["pedidos"] += 1
+    try:
+        _http_original(f"{X.BASE_META}?varcd=0008273&lang=PT", 60)
+        return True
+    except Exception:
+        return False
 
 
 X.http_get = http_get_cauteloso
@@ -186,10 +215,17 @@ def integrar_catalogo(est, cfg, texto, nome=""):
 
 
 def fila(est):
-    pend = [r for r in est.values() if r.get("estado") in ("pendente", "erro") and int(r.get("tentativas") or 0) < 5]
+    for r in est.values():
+        if r.get("prioridade") != "1":
+            r["prioridade"] = str(prioridade_tema(r.get("tema", "")))
+    pend = [r for r in est.values() if r.get("estado") == "pendente" or
+            (r.get("estado") == "erro" and int(r.get("tentativas") or 0) < MAX_TENTATIVAS)]
     pend.sort(key=lambda r: r.get("atualizacao_ine") or "", reverse=True)          # mais recentes primeiro
-    pend.sort(key=lambda r: (int(r.get("prioridade") or 9), r.get("estado") == "erro"))  # lista DIIET primeiro; erros no fim
+    pend.sort(key=lambda r: (int(r.get("prioridade") or 9), r.get("estado") == "erro"))  # lista DIIET e temas DIIET primeiro; erros no fim
     return pend
+
+
+MAX_TENTATIVAS = 3
 
 
 def ponto_de_situacao(est):
@@ -234,8 +270,19 @@ def main():
             break
         res = X.extrair_indicador(r["varcd"], r.get("titulo", ""), cfg["geografias"], 0, True, pasta)
         resultados.append(res)
-        parou = _estado_rede["parado"] and any("volta parada" in f or "INE recusou" in f or "orçamento" in f
-                                                for f in res["falhas"])
+        parou = _estado_rede["parado"]
+        if parou and _estado_rede["motivo"].startswith("falha"):
+            erro = _estado_rede["motivo"]
+            _estado_rede.update(parado=False, motivo="")
+            if ine_responde():                         # o INE responde: o erro é deste indicador, não um bloqueio
+                n = int(r.get("tentativas") or 0) + 1
+                r.update(tentativas=str(n), estado="erro",
+                         nota=f"erro neste indicador ({n}/{MAX_TENTATIVAS}): {erro[7:200]}")
+                log(f"erro          {r['varcd']} {(r.get('titulo') or '')[:60]:60}  — o INE responde a outros pedidos; "
+                    f"segue para o próximo ({n}/{MAX_TENTATIVAS})")
+                gravar_estado(est)
+                continue
+            _estado_rede.update(parado=True, motivo=erro)
         r["tentativas"] = str(int(r.get("tentativas") or 0) + (0 if parou else 1))
         if parou:
             r["nota"] = "interrompido a meio; retoma na próxima volta"
@@ -254,8 +301,9 @@ def main():
 
     if resultados:
         X.escrever_entrega(pasta, [x for x in resultados if x["ficheiros"] or x["falhas"]], True, cfg["geografias"])
-    motivo = "INE recusou — pára até à próxima volta" if _estado_rede["parado"] and _estado_rede["pedidos"] < a.pedidos \
-        else "fim da volta"
+    motivo = ("INE recusou — pára até à próxima volta" if _estado_rede["motivo"].startswith("falha")
+              else "fim da volta (limite de pedidos/tempo)" if _estado_rede["motivo"] == "orçamento"
+              else "fim da volta (fila vazia)")
     log(f"--- {motivo}: {_estado_rede['pedidos']} pedidos · {ponto_de_situacao(est)}")
 
 
