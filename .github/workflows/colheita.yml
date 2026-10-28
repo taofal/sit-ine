@@ -16,7 +16,7 @@ concurrency:
 jobs:
   colher:
     runs-on: ubuntu-latest
-    timeout-minutes: 50
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
         with:
@@ -27,7 +27,7 @@ jobs:
           python-version: "3.12"
 
       - name: Volta de colheita
-        run: python 3_scripts/colheita_ine.py --pedidos 100 --minutos 40
+        run: python 3_scripts/colheita_ine.py --pedidos 120 --minutos 50
 
       - name: Gravar no repositório
         run: |
