@@ -162,3 +162,48 @@ Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos,
 Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal. Todas as categorias das restantes dimensões.
 
 - **0000720** Alojamentos familiares clássicos por edifício (%) — 0 valores, 0 ficheiros novos; FALHAS: metadados: INE recusou: <urlopen error timed out>
+
+## Extração — 2026-10-28 14:26 — séries completas
+Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal. Todas as categorias das restantes dimensões.
+
+- **0012930** Estabelecimentos (N.º) — 2970 valores, 1 ficheiros novos
+    - `0012930_dados_c03016da0e.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012930&lang=PT&Dim1=S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012931** Pessoal ao serviço (N.º) dos estabelecimentos — 2970 valores, 1 ficheiros novos
+    - `0012931_dados_9de2784a27.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012931&lang=PT&Dim1=S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012932** Volume de negócios (€) dos estabelecimentos — 2970 valores, 1 ficheiros novos
+    - `0012932_dados_c109f30059.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012932&lang=PT&Dim1=S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012933** Volume de negócios (€) dos estabelecimentos do comercio a retalho (exceto de veículos automóveis e motociclos e de combustível para veículos a motor) — 30 valores, 1 ficheiros novos
+    - `0012933_dados_cdea7a557a.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012933&lang=PT&Dim1=S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008713** Taxa de abstenção nas eleições para as Câmaras Municipais (%) — 60 valores, 1 ficheiros novos
+    - `0008713_dados_41b1d9a13b.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008713&lang=PT&Dim1=S7A2001,S7A2005,S7A2009,S7A2013,S7A2017,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010179** Proporção de votos em branco nas eleições para as Câmaras Municipais (%) — 30 valores, 1 ficheiros novos
+    - `0010179_dados_7850754d3a.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010179&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010180** Proporção de votos em branco nas eleições para as Assembleias Municipais (%) — 30 valores, 1 ficheiros novos
+    - `0010180_dados_c991a38a42.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010180&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010181** Proporção de votos em branco nas eleições para as Assembleias de Freguesia (%) — 30 valores, 1 ficheiros novos
+    - `0010181_dados_d475b80a6b.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010181&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010182** Taxa de abstenção nas eleições para as Assembleias Municipais (%) — 0 valores, 0 ficheiros novos; FALHAS: S7A2013: volta parada | S7A2017: volta parada | S7A2021: volta parada
+- **0010183** Taxa de abstenção nas eleições para as Assembleias de Freguesia (%) — 30 valores, 1 ficheiros novos
+    - `0010183_dados_a82b9db038.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010183&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010185** Proporção de votos nulos nas eleições para as Assembleias Municipais (%) — 30 valores, 1 ficheiros novos
+    - `0010185_dados_a853046629.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010185&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010186** Proporção de votos nulos nas eleições para as Assembleias de Freguesia (%) — 30 valores, 1 ficheiros novos
+    - `0010186_dados_854a37e69b.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010186&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010187** Proporção de votos do partido/coligação mais votado nas eleições para as Câmaras Municipais (%) — 30 valores, 1 ficheiros novos
+    - `0010187_dados_a27ab7fe21.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010187&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010188** Proporção de votos do partido/coligação mais votado nas eleições para as Assembleias Municipais (%) — 30 valores, 1 ficheiros novos
+    - `0010188_dados_d5794bf418.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010188&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010189** Proporção de votos do partido/coligação mais votado nas eleições para as Assembleias de Freguesia (%) — 30 valores, 1 ficheiros novos
+    - `0010189_dados_b5812a09ee.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010189&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010190** Proporção de votos nulos nas eleições para as Câmaras Municipais (%) — 0 valores, 0 ficheiros novos; FALHAS: S7A2013: volta parada | S7A2017: volta parada | S7A2021: volta parada
+- **0010193** População inscrita nas eleições para as Câmaras Municipais (N.º) — 30 valores, 1 ficheiros novos
+    - `0010193_dados_c7cb7b8d0e.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010193&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010194** População inscrita nas eleições para as Assembleias Municipais (N.º) — 30 valores, 1 ficheiros novos
+    - `0010194_dados_7e0e258063.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010194&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010195** População inscrita nas eleições para as Assembleias de Freguesia (N.º) — 30 valores, 1 ficheiros novos
+    - `0010195_dados_dae80e2948.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010195&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010199** Abstenção nas eleições para as Câmaras Municipais (N.º) — 30 valores, 1 ficheiros novos
+    - `0010199_dados_dfa32c1fdf.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010199&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010200** Abstenção nas eleições para as Assembleias Municipais (N.º) — 30 valores, 1 ficheiros novos
+    - `0010200_dados_45a503f711.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010200&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010201** Abstenção nas eleições para as Assembleias de Freguesia (N.º) — 0 valores, 0 ficheiros novos; FALHAS: S7A2013: volta parada | S7A2017: volta parada | S7A2021: volta parada
