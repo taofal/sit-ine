@@ -1,0 +1,1151 @@
+[ {
+  "IndicadorCod" : "0014611",
+  "IndicadorDsg" : "Superfície (km² - COS - Série 2) das unidades territoriais por Localização geográfica (NUTS - 2024) e Classes de uso e ocupação do solo; Não periódica - INE, Estatísticas de Uso e Ocupação do Solo, com base na Carta de Uso e Ocupação do Solo (COS - Série 2) produzida pelo Ministério do Ambiente - Direção-Geral do Território",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0014611&lingua=PT",
+  "DataExtracao" : "2026-10-28T00:06:17.010Z",
+  "DataUltimoAtualizacao" : "2026-07-31",
+  "UltimoPref" : "2023",
+  "Dados" : {
+    "2018" : [ {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "7",
+      "dim_3_t" : "Espaços descobertos ou com pouca vegetação",
+      "ind_string" : "0,00",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "8",
+      "dim_3_t" : "Zonas húmidas",
+      "ind_string" : "0,00",
+      "valor" : "0"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "8",
+      "dim_3_t" : "Zonas húmidas",
+      "ind_string" : "0,00",
+      "valor" : "0"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "8",
+      "dim_3_t" : "Zonas húmidas",
+      "ind_string" : "0,00",
+      "valor" : "0"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Superfícies agroflorestais",
+      "ind_string" : "0,00",
+      "valor" : "0"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "8",
+      "dim_3_t" : "Zonas húmidas",
+      "ind_string" : "0,00",
+      "valor" : "0"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "8",
+      "dim_3_t" : "Zonas húmidas",
+      "ind_string" : "0,00",
+      "valor" : "0"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "8",
+      "dim_3_t" : "Zonas húmidas",
+      "ind_string" : "0,00",
+      "valor" : "0"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Superfícies agroflorestais",
+      "ind_string" : "0,01",
+      "valor" : "0.01"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Superfícies agroflorestais",
+      "ind_string" : "0,03",
+      "valor" : "0.03"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Área de pastagens",
+      "ind_string" : "0,10",
+      "valor" : "0.1"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "7",
+      "dim_3_t" : "Espaços descobertos ou com pouca vegetação",
+      "ind_string" : "0,11",
+      "valor" : "0.11"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "7",
+      "dim_3_t" : "Espaços descobertos ou com pouca vegetação",
+      "ind_string" : "0,13",
+      "valor" : "0.13"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Superfícies agroflorestais",
+      "ind_string" : "0,15",
+      "valor" : "0.15"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Superfícies agroflorestais",
+      "ind_string" : "0,20",
+      "valor" : "0.2"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Área de pastagens",
+      "ind_string" : "0,30",
+      "valor" : "0.3"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Área de pastagens",
+      "ind_string" : "0,36",
+      "valor" : "0.36"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "7",
+      "dim_3_t" : "Espaços descobertos ou com pouca vegetação",
+      "ind_string" : "0,37",
+      "valor" : "0.37"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "8",
+      "dim_3_t" : "Zonas húmidas",
+      "ind_string" : "0,38",
+      "valor" : "0.38"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Superfícies agroflorestais",
+      "ind_string" : "0,50",
+      "valor" : "0.5"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Área de pastagens",
+      "ind_string" : "0,51",
+      "valor" : "0.51"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "9",
+      "dim_3_t" : "Massas de água superficiais",
+      "ind_string" : "0,59",
+      "valor" : "0.59"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "9",
+      "dim_3_t" : "Massas de água superficiais",
+      "ind_string" : "0,66",
+      "valor" : "0.66"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Área de pastagens",
+      "ind_string" : "0,75",
+      "valor" : "0.75"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "9",
+      "dim_3_t" : "Massas de água superficiais",
+      "ind_string" : "0,90",
+      "valor" : "0.9"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "Área florestal",
+      "ind_string" : "0,90",
+      "valor" : "0.9"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "8",
+      "dim_3_t" : "Zonas húmidas",
+      "ind_string" : "1,06",
+      "valor" : "1.06"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "7",
+      "dim_3_t" : "Espaços descobertos ou com pouca vegetação",
+      "ind_string" : "1,16",
+      "valor" : "1.16"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Área agrícola",
+      "ind_string" : "1,27",
+      "valor" : "1.27"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "6",
+      "dim_3_t" : "Área de matos",
+      "ind_string" : "1,50",
+      "valor" : "1.5"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "9",
+      "dim_3_t" : "Massas de água superficiais",
+      "ind_string" : "1,68",
+      "valor" : "1.68"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "9",
+      "dim_3_t" : "Massas de água superficiais",
+      "ind_string" : "1,99",
+      "valor" : "1.99"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "6",
+      "dim_3_t" : "Área de matos",
+      "ind_string" : "2,10",
+      "valor" : "2.1"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Superfícies agroflorestais",
+      "ind_string" : "2,54",
+      "valor" : "2.54"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Superfícies agroflorestais",
+      "ind_string" : "3,22",
+      "valor" : "3.22"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "6",
+      "dim_3_t" : "Área de matos",
+      "ind_string" : "5,06",
+      "valor" : "5.06"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "8",
+      "dim_3_t" : "Zonas húmidas",
+      "ind_string" : "6,05",
+      "valor" : "6.05"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "5",
+      "dim_3_t" : "Área florestal",
+      "ind_string" : "6,65",
+      "valor" : "6.65"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "6",
+      "dim_3_t" : "Área de matos",
+      "ind_string" : "6,76",
+      "valor" : "6.76"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "9",
+      "dim_3_t" : "Massas de água superficiais",
+      "ind_string" : "7,24",
+      "valor" : "7.24"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Área de pastagens",
+      "ind_string" : "9,48",
+      "valor" : "9.48"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "7",
+      "dim_3_t" : "Espaços descobertos ou com pouca vegetação",
+      "ind_string" : "10,76",
+      "valor" : "10.76"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Área de pastagens",
+      "ind_string" : "10,89",
+      "valor" : "10.89"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Área agrícola",
+      "ind_string" : "13,70",
+      "valor" : "13.7"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "9",
+      "dim_3_t" : "Massas de água superficiais",
+      "ind_string" : "13,96",
+      "valor" : "13.96"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "6",
+      "dim_3_t" : "Área de matos",
+      "ind_string" : "16,38",
+      "valor" : "16.38"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "9",
+      "dim_3_t" : "Massas de água superficiais",
+      "ind_string" : "16,69",
+      "valor" : "16.69"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "7",
+      "dim_3_t" : "Espaços descobertos ou com pouca vegetação",
+      "ind_string" : "18,05",
+      "valor" : "18.05"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Área de pastagens",
+      "ind_string" : "18,64",
+      "valor" : "18.64"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Territórios artificializados",
+      "ind_string" : "34,05",
+      "valor" : "34.05"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Área agrícola",
+      "ind_string" : "34,17",
+      "valor" : "34.17"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Territórios artificializados",
+      "ind_string" : "35,85",
+      "valor" : "35.85"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Territórios artificializados",
+      "ind_string" : "37,86",
+      "valor" : "37.86"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "5",
+      "dim_3_t" : "Área florestal",
+      "ind_string" : "60,28",
+      "valor" : "60.28"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "7",
+      "dim_3_t" : "Espaços descobertos ou com pouca vegetação",
+      "ind_string" : "63,59",
+      "valor" : "63.59"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Territórios artificializados",
+      "ind_string" : "65,57",
+      "valor" : "65.57"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Área agrícola",
+      "ind_string" : "67,66",
+      "valor" : "67.66"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Territórios artificializados",
+      "ind_string" : "71,00",
+      "valor" : "71"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "5",
+      "dim_3_t" : "Área florestal",
+      "ind_string" : "89,21",
+      "valor" : "89.21"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Superfícies agroflorestais",
+      "ind_string" : "92,05",
+      "valor" : "92.05"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Área agrícola",
+      "ind_string" : "136,92",
+      "valor" : "136.92"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "6",
+      "dim_3_t" : "Área de matos",
+      "ind_string" : "155,51",
+      "valor" : "155.51"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "5",
+      "dim_3_t" : "Área florestal",
+      "ind_string" : "163,40",
+      "valor" : "163.4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "6",
+      "dim_3_t" : "Área de matos",
+      "ind_string" : "168,43",
+      "valor" : "168.43"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Territórios artificializados",
+      "ind_string" : "205,33",
+      "valor" : "205.33"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Territórios artificializados",
+      "ind_string" : "213,71",
+      "valor" : "213.71"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "9",
+      "dim_3_t" : "Massas de água superficiais",
+      "ind_string" : "215,68",
+      "valor" : "215.68"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "7",
+      "dim_3_t" : "Espaços descobertos ou com pouca vegetação",
+      "ind_string" : "266,85",
+      "valor" : "266.85"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "6",
+      "dim_3_t" : "Área de matos",
+      "ind_string" : "293,09",
+      "valor" : "293.09"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Área agrícola",
+      "ind_string" : "300,98",
+      "valor" : "300.98"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Área agrícola",
+      "ind_string" : "322,16",
+      "valor" : "322.16"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Área agrícola",
+      "ind_string" : "410,66",
+      "valor" : "410.66"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "5",
+      "dim_3_t" : "Área florestal",
+      "ind_string" : "472,15",
+      "valor" : "472.15"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Territórios artificializados",
+      "ind_string" : "531,59",
+      "valor" : "531.59"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Área de pastagens",
+      "ind_string" : "538,27",
+      "valor" : "538.27"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "5",
+      "dim_3_t" : "Área florestal",
+      "ind_string" : "596,43",
+      "valor" : "596.43"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "Área florestal",
+      "ind_string" : "891,35",
+      "valor" : "891.35"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Territórios artificializados",
+      "ind_string" : "1 674,71",
+      "valor" : "1674.71"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "6",
+      "dim_3_t" : "Área de matos",
+      "ind_string" : "5 635,27",
+      "valor" : "5635.27"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Área agrícola",
+      "ind_string" : "6 055,00",
+      "valor" : "6055"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "5",
+      "dim_3_t" : "Área florestal",
+      "ind_string" : "6 801,96",
+      "valor" : "6801.96"
+    } ],
+    "2023" : [ {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "7",
+      "dim_3_t" : "Espaços descobertos ou com pouca vegetação",
+      "ind_string" : "0,00",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "8",
+      "dim_3_t" : "Zonas húmidas",
+      "ind_string" : "0,00",
+      "valor" : "0"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "8",
+      "dim_3_t" : "Zonas húmidas",
+      "ind_string" : "0,00",
+      "valor" : "0"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "8",
+      "dim_3_t" : "Zonas húmidas",
+      "ind_string" : "0,00",
+      "valor" : "0"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Superfícies agroflorestais",
+      "ind_string" : "0,00",
+      "valor" : "0"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "8",
+      "dim_3_t" : "Zonas húmidas",
+      "ind_string" : "0,00",
+      "valor" : "0"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "8",
+      "dim_3_t" : "Zonas húmidas",
+      "ind_string" : "0,00",
+      "valor" : "0"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "8",
+      "dim_3_t" : "Zonas húmidas",
+      "ind_string" : "0,00",
+      "valor" : "0"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Superfícies agroflorestais",
+      "ind_string" : "0,01",
+      "valor" : "0.01"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Superfícies agroflorestais",
+      "ind_string" : "0,03",
+      "valor" : "0.03"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Área de pastagens",
+      "ind_string" : "0,10",
+      "valor" : "0.1"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "7",
+      "dim_3_t" : "Espaços descobertos ou com pouca vegetação",
+      "ind_string" : "0,11",
+      "valor" : "0.11"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "7",
+      "dim_3_t" : "Espaços descobertos ou com pouca vegetação",
+      "ind_string" : "0,13",
+      "valor" : "0.13"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Superfícies agroflorestais",
+      "ind_string" : "0,15",
+      "valor" : "0.15"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Superfícies agroflorestais",
+      "ind_string" : "0,20",
+      "valor" : "0.2"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "7",
+      "dim_3_t" : "Espaços descobertos ou com pouca vegetação",
+      "ind_string" : "0,37",
+      "valor" : "0.37"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "8",
+      "dim_3_t" : "Zonas húmidas",
+      "ind_string" : "0,38",
+      "valor" : "0.38"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Superfícies agroflorestais",
+      "ind_string" : "0,50",
+      "valor" : "0.5"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Área de pastagens",
+      "ind_string" : "0,53",
+      "valor" : "0.53"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Área de pastagens",
+      "ind_string" : "0,55",
+      "valor" : "0.55"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "9",
+      "dim_3_t" : "Massas de água superficiais",
+      "ind_string" : "0,59",
+      "valor" : "0.59"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "9",
+      "dim_3_t" : "Massas de água superficiais",
+      "ind_string" : "0,66",
+      "valor" : "0.66"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Área de pastagens",
+      "ind_string" : "0,73",
+      "valor" : "0.73"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Área de pastagens",
+      "ind_string" : "0,81",
+      "valor" : "0.81"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "Área florestal",
+      "ind_string" : "0,84",
+      "valor" : "0.84"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "9",
+      "dim_3_t" : "Massas de água superficiais",
+      "ind_string" : "0,91",
+      "valor" : "0.91"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "8",
+      "dim_3_t" : "Zonas húmidas",
+      "ind_string" : "1,06",
+      "valor" : "1.06"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "7",
+      "dim_3_t" : "Espaços descobertos ou com pouca vegetação",
+      "ind_string" : "1,16",
+      "valor" : "1.16"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Área agrícola",
+      "ind_string" : "1,19",
+      "valor" : "1.19"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "6",
+      "dim_3_t" : "Área de matos",
+      "ind_string" : "1,36",
+      "valor" : "1.36"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "9",
+      "dim_3_t" : "Massas de água superficiais",
+      "ind_string" : "1,68",
+      "valor" : "1.68"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "6",
+      "dim_3_t" : "Área de matos",
+      "ind_string" : "1,86",
+      "valor" : "1.86"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "9",
+      "dim_3_t" : "Massas de água superficiais",
+      "ind_string" : "1,99",
+      "valor" : "1.99"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Superfícies agroflorestais",
+      "ind_string" : "2,50",
+      "valor" : "2.5"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Superfícies agroflorestais",
+      "ind_string" : "3,23",
+      "valor" : "3.23"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "6",
+      "dim_3_t" : "Área de matos",
+      "ind_string" : "4,97",
+      "valor" : "4.97"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "8",
+      "dim_3_t" : "Zonas húmidas",
+      "ind_string" : "6,05",
+      "valor" : "6.05"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "5",
+      "dim_3_t" : "Área florestal",
+      "ind_string" : "6,49",
+      "valor" : "6.49"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "6",
+      "dim_3_t" : "Área de matos",
+      "ind_string" : "6,57",
+      "valor" : "6.57"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "9",
+      "dim_3_t" : "Massas de água superficiais",
+      "ind_string" : "7,40",
+      "valor" : "7.4"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Área de pastagens",
+      "ind_string" : "9,32",
+      "valor" : "9.32"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "7",
+      "dim_3_t" : "Espaços descobertos ou com pouca vegetação",
+      "ind_string" : "10,76",
+      "valor" : "10.76"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Área de pastagens",
+      "ind_string" : "12,41",
+      "valor" : "12.41"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Área agrícola",
+      "ind_string" : "13,53",
+      "valor" : "13.53"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "9",
+      "dim_3_t" : "Massas de água superficiais",
+      "ind_string" : "13,97",
+      "valor" : "13.97"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "6",
+      "dim_3_t" : "Área de matos",
+      "ind_string" : "15,79",
+      "valor" : "15.79"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "9",
+      "dim_3_t" : "Massas de água superficiais",
+      "ind_string" : "16,69",
+      "valor" : "16.69"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "7",
+      "dim_3_t" : "Espaços descobertos ou com pouca vegetação",
+      "ind_string" : "18,05",
+      "valor" : "18.05"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Área de pastagens",
+      "ind_string" : "18,71",
+      "valor" : "18.71"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Área agrícola",
+      "ind_string" : "33,49",
+      "valor" : "33.49"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Territórios artificializados",
+      "ind_string" : "34,84",
+      "valor" : "34.84"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Territórios artificializados",
+      "ind_string" : "36,14",
+      "valor" : "36.14"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Territórios artificializados",
+      "ind_string" : "38,26",
+      "valor" : "38.26"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "5",
+      "dim_3_t" : "Área florestal",
+      "ind_string" : "59,85",
+      "valor" : "59.85"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "7",
+      "dim_3_t" : "Espaços descobertos ou com pouca vegetação",
+      "ind_string" : "63,59",
+      "valor" : "63.59"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Territórios artificializados",
+      "ind_string" : "66,81",
+      "valor" : "66.81"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Área agrícola",
+      "ind_string" : "67,79",
+      "valor" : "67.79"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Territórios artificializados",
+      "ind_string" : "72,05",
+      "valor" : "72.05"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "5",
+      "dim_3_t" : "Área florestal",
+      "ind_string" : "88,45",
+      "valor" : "88.45"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Superfícies agroflorestais",
+      "ind_string" : "91,40",
+      "valor" : "91.4"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Área agrícola",
+      "ind_string" : "137,16",
+      "valor" : "137.16"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "6",
+      "dim_3_t" : "Área de matos",
+      "ind_string" : "154,43",
+      "valor" : "154.43"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "5",
+      "dim_3_t" : "Área florestal",
+      "ind_string" : "162,15",
+      "valor" : "162.15"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "6",
+      "dim_3_t" : "Área de matos",
+      "ind_string" : "167,37",
+      "valor" : "167.37"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Territórios artificializados",
+      "ind_string" : "207,96",
+      "valor" : "207.96"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Territórios artificializados",
+      "ind_string" : "217,53",
+      "valor" : "217.53"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "9",
+      "dim_3_t" : "Massas de água superficiais",
+      "ind_string" : "219,92",
+      "valor" : "219.92"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "7",
+      "dim_3_t" : "Espaços descobertos ou com pouca vegetação",
+      "ind_string" : "266,71",
+      "valor" : "266.71"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "6",
+      "dim_3_t" : "Área de matos",
+      "ind_string" : "289,10",
+      "valor" : "289.1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Área agrícola",
+      "ind_string" : "301,81",
+      "valor" : "301.81"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Área agrícola",
+      "ind_string" : "323,28",
+      "valor" : "323.28"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Área agrícola",
+      "ind_string" : "408,38",
+      "valor" : "408.38"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "5",
+      "dim_3_t" : "Área florestal",
+      "ind_string" : "469,68",
+      "valor" : "469.68"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Área de pastagens",
+      "ind_string" : "527,87",
+      "valor" : "527.87"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Territórios artificializados",
+      "ind_string" : "541,33",
+      "valor" : "541.33"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "5",
+      "dim_3_t" : "Área florestal",
+      "ind_string" : "595,54",
+      "valor" : "595.54"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "Área florestal",
+      "ind_string" : "883,44",
+      "valor" : "883.44"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Territórios artificializados",
+      "ind_string" : "1 703,16",
+      "valor" : "1703.16"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "6",
+      "dim_3_t" : "Área de matos",
+      "ind_string" : "5 561,09",
+      "valor" : "5561.09"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Área agrícola",
+      "ind_string" : "6 166,62",
+      "valor" : "6166.62"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "5",
+      "dim_3_t" : "Área florestal",
+      "ind_string" : "6 743,03",
+      "valor" : "6743.03"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
