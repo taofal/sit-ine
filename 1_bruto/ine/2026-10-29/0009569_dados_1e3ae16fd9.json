@@ -1,0 +1,6077 @@
+[ {
+  "IndicadorCod" : "0009569",
+  "IndicadorDsg" : "Média de alunas/os matriculadas/os no ensino não superior por computador (N.º) por Localização geográfica (NUTS - 2013) e Nível de ensino; Anual - Direção-Geral de Estatísticas da Educação e Ciência",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0009569&lingua=PT",
+  "DataExtracao" : "2026-10-29T17:11:09.635Z",
+  "DataUltimoAtualizacao" : "2024-07-24",
+  "UltimoPref" : "2022 / 2023",
+  "Dados" : {
+    "2006 / 2007" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "7,4",
+      "valor" : "7.4"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "14,7",
+      "valor" : "14.7"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "10,1",
+      "valor" : "10.1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "9,7",
+      "valor" : "9.7"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "10,4",
+      "valor" : "10.4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "7,9",
+      "valor" : "7.9"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "14,4",
+      "valor" : "14.4"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "10,5",
+      "valor" : "10.5"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "10,1",
+      "valor" : "10.1"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "10,6",
+      "valor" : "10.6"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "8,7",
+      "valor" : "8.7"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "13,3",
+      "valor" : "13.3"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "10,0",
+      "valor" : "10"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "9,7",
+      "valor" : "9.7"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "15,7",
+      "valor" : "15.7"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "7,6",
+      "valor" : "7.6"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "15,3",
+      "valor" : "15.3"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "12,9",
+      "valor" : "12.9"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "12,7",
+      "valor" : "12.7"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "13,1",
+      "valor" : "13.1"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "8,1",
+      "valor" : "8.1"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "15,8",
+      "valor" : "15.8"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "9,5",
+      "valor" : "9.5"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "9,4",
+      "valor" : "9.4"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "10,2",
+      "valor" : "10.2"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "6,1",
+      "valor" : "6.1"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "12,4",
+      "valor" : "12.4"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "9,7",
+      "valor" : "9.7"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "9,4",
+      "valor" : "9.4"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "12,4",
+      "valor" : "12.4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "4,9",
+      "valor" : "4.9"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "16,0",
+      "valor" : "16"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "8,8",
+      "valor" : "8.8"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "8,4",
+      "valor" : "8.4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "8,7",
+      "valor" : "8.7"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "2007 / 2008" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "6,6",
+      "valor" : "6.6"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "11,3",
+      "valor" : "11.3"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "8,7",
+      "valor" : "8.7"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "8,1",
+      "valor" : "8.1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "8,6",
+      "valor" : "8.6"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "6,5",
+      "valor" : "6.5"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "11,5",
+      "valor" : "11.5"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "9,0",
+      "valor" : "9"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "8,4",
+      "valor" : "8.4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "8,8",
+      "valor" : "8.8"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "7,5",
+      "valor" : "7.5"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "11,0",
+      "valor" : "11"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "9,1",
+      "valor" : "9.1"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "8,4",
+      "valor" : "8.4"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "9,0",
+      "valor" : "9"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "7,8",
+      "valor" : "7.8"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "9,0",
+      "valor" : "9"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "8,8",
+      "valor" : "8.8"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "8,9",
+      "valor" : "8.9"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "8,7",
+      "valor" : "8.7"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "8,3",
+      "valor" : "8.3"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "12,0",
+      "valor" : "12"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "9,5",
+      "valor" : "9.5"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "8,6",
+      "valor" : "8.6"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "9,6",
+      "valor" : "9.6"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "9,2",
+      "valor" : "9.2"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "11,2",
+      "valor" : "11.2"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "10,4",
+      "valor" : "10.4"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "10,0",
+      "valor" : "10"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "10,3",
+      "valor" : "10.3"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "8,4",
+      "valor" : "8.4"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "11,6",
+      "valor" : "11.6"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "7,7",
+      "valor" : "7.7"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "7,1",
+      "valor" : "7.1"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "8,6",
+      "valor" : "8.6"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "5,8",
+      "valor" : "5.8"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "9,9",
+      "valor" : "9.9"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "8,8",
+      "valor" : "8.8"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "7,7",
+      "valor" : "7.7"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "7,6",
+      "valor" : "7.6"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "4,9",
+      "valor" : "4.9"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "11,9",
+      "valor" : "11.9"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "7,8",
+      "valor" : "7.8"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "7,8",
+      "valor" : "7.8"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "7,6",
+      "valor" : "7.6"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "2008 / 2009" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "4,2",
+      "valor" : "4.2"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,1",
+      "valor" : "4.1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,1",
+      "valor" : "4.1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,1",
+      "valor" : "2.1"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "4,4",
+      "valor" : "4.4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,4",
+      "valor" : "4.4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,4",
+      "valor" : "4.4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,1",
+      "valor" : "2.1"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "4,7",
+      "valor" : "4.7"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,6",
+      "valor" : "4.6"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,3",
+      "valor" : "4.3"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,1",
+      "valor" : "2.1"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "5,5",
+      "valor" : "5.5"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,3",
+      "valor" : "4.3"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,5",
+      "valor" : "4.5"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,0",
+      "valor" : "2"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "5,0",
+      "valor" : "5"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,3",
+      "valor" : "4.3"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,3",
+      "valor" : "4.3"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,1",
+      "valor" : "2.1"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "5,8",
+      "valor" : "5.8"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,9",
+      "valor" : "3.9"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,1",
+      "valor" : "4.1"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,0",
+      "valor" : "2"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "5,3",
+      "valor" : "5.3"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,4",
+      "valor" : "4.4"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,3",
+      "valor" : "4.3"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,1",
+      "valor" : "2.1"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "4,2",
+      "valor" : "4.2"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,1",
+      "valor" : "1.1"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,6",
+      "valor" : "4.6"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,6",
+      "valor" : "4.6"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,3",
+      "valor" : "2.3"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,0",
+      "valor" : "3"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,3",
+      "valor" : "4.3"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,6",
+      "valor" : "4.6"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,0",
+      "valor" : "2"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "2009 / 2010" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,8",
+      "valor" : "3.8"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,7",
+      "valor" : "3.7"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,7",
+      "valor" : "3.7"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,0",
+      "valor" : "2"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "4,1",
+      "valor" : "4.1"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,0",
+      "valor" : "4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,0",
+      "valor" : "4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,0",
+      "valor" : "2"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "4,0",
+      "valor" : "4"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,7",
+      "valor" : "3.7"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,6",
+      "valor" : "3.6"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,0",
+      "valor" : "2"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "4,4",
+      "valor" : "4.4"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "0,9",
+      "valor" : "0.9"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,7",
+      "valor" : "3.7"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,8",
+      "valor" : "3.8"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,9",
+      "valor" : "1.9"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "4,8",
+      "valor" : "4.8"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,1",
+      "valor" : "4.1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,2",
+      "valor" : "4.2"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,0",
+      "valor" : "2"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "6,1",
+      "valor" : "6.1"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,0",
+      "valor" : "4"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,1",
+      "valor" : "4.1"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,0",
+      "valor" : "2"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "4,0",
+      "valor" : "4"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,2",
+      "valor" : "4.2"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,8",
+      "valor" : "3.8"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,9",
+      "valor" : "1.9"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,6",
+      "valor" : "3.6"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,1",
+      "valor" : "4.1"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,2",
+      "valor" : "4.2"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,1",
+      "valor" : "2.1"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,5",
+      "valor" : "3.5"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "0,9",
+      "valor" : "0.9"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,6",
+      "valor" : "4.6"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,8",
+      "valor" : "4.8"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,1",
+      "valor" : "2.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "2010 / 2011" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,5",
+      "valor" : "3.5"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,6",
+      "valor" : "3.6"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,5",
+      "valor" : "3.5"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,0",
+      "valor" : "2"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,8",
+      "valor" : "3.8"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,9",
+      "valor" : "3.9"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,8",
+      "valor" : "3.8"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,0",
+      "valor" : "2"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,7",
+      "valor" : "3.7"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,7",
+      "valor" : "3.7"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,5",
+      "valor" : "3.5"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,9",
+      "valor" : "1.9"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,8",
+      "valor" : "3.8"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "0,9",
+      "valor" : "0.9"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,9",
+      "valor" : "3.9"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,7",
+      "valor" : "3.7"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,9",
+      "valor" : "1.9"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "4,1",
+      "valor" : "4.1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,7",
+      "valor" : "3.7"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,6",
+      "valor" : "3.6"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,0",
+      "valor" : "2"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "4,2",
+      "valor" : "4.2"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,9",
+      "valor" : "1.9"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "4,1",
+      "valor" : "4.1"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,0",
+      "valor" : "4"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,8",
+      "valor" : "3.8"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,0",
+      "valor" : "2"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,0",
+      "valor" : "4"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,0",
+      "valor" : "4"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,2",
+      "valor" : "2.2"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,9",
+      "valor" : "2.9"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "0,9",
+      "valor" : "0.9"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,8",
+      "valor" : "4.8"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,3",
+      "valor" : "4.3"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,0",
+      "valor" : "2"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "2011 / 2012" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "2,7",
+      "valor" : "2.7"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,3",
+      "valor" : "3.3"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,3",
+      "valor" : "3.3"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,1",
+      "valor" : "3.1"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,7",
+      "valor" : "3.7"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "2,6",
+      "valor" : "2.6"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,7",
+      "valor" : "3.7"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,6",
+      "valor" : "3.6"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,3",
+      "valor" : "3.3"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,7",
+      "valor" : "3.7"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "2,4",
+      "valor" : "2.4"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,5",
+      "valor" : "3.5"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,1",
+      "valor" : "3.1"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,7",
+      "valor" : "3.7"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "2,5",
+      "valor" : "2.5"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,3",
+      "valor" : "3.3"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,5",
+      "valor" : "3.5"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,1",
+      "valor" : "3.1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "4,4",
+      "valor" : "4.4"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "2,8",
+      "valor" : "2.8"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "4,1",
+      "valor" : "4.1"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "2,6",
+      "valor" : "2.6"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,0",
+      "valor" : "3"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,0",
+      "valor" : "3"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,1",
+      "valor" : "3.1"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,6",
+      "valor" : "3.6"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "2,3",
+      "valor" : "2.3"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,0",
+      "valor" : "4"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,8",
+      "valor" : "3.8"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,1",
+      "valor" : "3.1"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,6",
+      "valor" : "3.6"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,8",
+      "valor" : "1.8"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,8",
+      "valor" : "3.8"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,8",
+      "valor" : "3.8"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,9",
+      "valor" : "2.9"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,1",
+      "valor" : "3.1"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "2,2",
+      "valor" : "2.2"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,8",
+      "valor" : "4.8"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,4",
+      "valor" : "4.4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,3",
+      "valor" : "3.3"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "2012 / 2013" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,6",
+      "valor" : "2.6"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "4,5",
+      "valor" : "4.5"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "2,6",
+      "valor" : "2.6"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "2,6",
+      "valor" : "2.6"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,0",
+      "valor" : "3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,8",
+      "valor" : "2.8"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "4,5",
+      "valor" : "4.5"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "2,9",
+      "valor" : "2.9"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "2,8",
+      "valor" : "2.8"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,2",
+      "valor" : "3.2"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,7",
+      "valor" : "2.7"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "4,3",
+      "valor" : "4.3"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "2,6",
+      "valor" : "2.6"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "2,5",
+      "valor" : "2.5"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,9",
+      "valor" : "2.9"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,6",
+      "valor" : "2.6"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,5",
+      "valor" : "5.5"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "2,8",
+      "valor" : "2.8"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "2,6",
+      "valor" : "2.6"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,2",
+      "valor" : "3.2"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,4",
+      "valor" : "5.4"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "2,6",
+      "valor" : "2.6"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "2,7",
+      "valor" : "2.7"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,3",
+      "valor" : "3.3"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,6",
+      "valor" : "3.6"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "4,9",
+      "valor" : "4.9"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "2,4",
+      "valor" : "2.4"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "2,4",
+      "valor" : "2.4"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,1",
+      "valor" : "3.1"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,7",
+      "valor" : "2.7"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "4,0",
+      "valor" : "4"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,2",
+      "valor" : "3.2"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "2,8",
+      "valor" : "2.8"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,1",
+      "valor" : "3.1"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,9",
+      "valor" : "2.9"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "2,9",
+      "valor" : "2.9"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,0",
+      "valor" : "3"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "2,9",
+      "valor" : "2.9"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,9",
+      "valor" : "2.9"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,7",
+      "valor" : "2.7"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "3,7",
+      "valor" : "3.7"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,2",
+      "valor" : "3.2"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,6",
+      "valor" : "3.6"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,3",
+      "valor" : "3.3"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "2013 / 2014" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,6",
+      "valor" : "2.6"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "4,5",
+      "valor" : "4.5"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "2,5",
+      "valor" : "2.5"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "2,5",
+      "valor" : "2.5"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,9",
+      "valor" : "2.9"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,8",
+      "valor" : "2.8"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "4,8",
+      "valor" : "4.8"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "2,9",
+      "valor" : "2.9"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "2,7",
+      "valor" : "2.7"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,2",
+      "valor" : "3.2"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,9",
+      "valor" : "2.9"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "4,4",
+      "valor" : "4.4"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "2,7",
+      "valor" : "2.7"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "2,5",
+      "valor" : "2.5"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,0",
+      "valor" : "3"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,5",
+      "valor" : "3.5"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,7",
+      "valor" : "5.7"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,9",
+      "valor" : "3.9"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,2",
+      "valor" : "3.2"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,1",
+      "valor" : "5.1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "2,6",
+      "valor" : "2.6"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "2,7",
+      "valor" : "2.7"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,3",
+      "valor" : "3.3"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,5",
+      "valor" : "3.5"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "6,9",
+      "valor" : "6.9"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "2,7",
+      "valor" : "2.7"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "2,7",
+      "valor" : "2.7"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,5",
+      "valor" : "3.5"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,8",
+      "valor" : "2.8"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "6,4",
+      "valor" : "6.4"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,1",
+      "valor" : "4.1"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,2",
+      "valor" : "3.2"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,9",
+      "valor" : "3.9"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,2",
+      "valor" : "3.2"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "4,0",
+      "valor" : "4"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,3",
+      "valor" : "3.3"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,9",
+      "valor" : "2.9"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "4,8",
+      "valor" : "4.8"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,3",
+      "valor" : "3.3"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "2014 / 2015" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,6",
+      "valor" : "2.6"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "4,8",
+      "valor" : "4.8"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "2,5",
+      "valor" : "2.5"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "2,5",
+      "valor" : "2.5"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,9",
+      "valor" : "2.9"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,8",
+      "valor" : "2.8"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,3",
+      "valor" : "5.3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "2,8",
+      "valor" : "2.8"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "2,7",
+      "valor" : "2.7"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,2",
+      "valor" : "3.2"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,7",
+      "valor" : "2.7"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "4,6",
+      "valor" : "4.6"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "2,7",
+      "valor" : "2.7"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "2,5",
+      "valor" : "2.5"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,0",
+      "valor" : "3"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,7",
+      "valor" : "2.7"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "4,4",
+      "valor" : "4.4"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "2,8",
+      "valor" : "2.8"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "2,8",
+      "valor" : "2.8"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,1",
+      "valor" : "3.1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,3",
+      "valor" : "3.3"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,0",
+      "valor" : "5"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "2,5",
+      "valor" : "2.5"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "2,6",
+      "valor" : "2.6"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,2",
+      "valor" : "3.2"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,1",
+      "valor" : "3.1"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,5",
+      "valor" : "5.5"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "2,4",
+      "valor" : "2.4"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "2,3",
+      "valor" : "2.3"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,1",
+      "valor" : "3.1"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,5",
+      "valor" : "2.5"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,1",
+      "valor" : "5.1"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,2",
+      "valor" : "3.2"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "2,7",
+      "valor" : "2.7"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,3",
+      "valor" : "3.3"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,8",
+      "valor" : "2.8"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "4,2",
+      "valor" : "4.2"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "2,8",
+      "valor" : "2.8"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "2,7",
+      "valor" : "2.7"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,0",
+      "valor" : "3"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,7",
+      "valor" : "2.7"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "4,2",
+      "valor" : "4.2"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,0",
+      "valor" : "3"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,1",
+      "valor" : "3.1"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,1",
+      "valor" : "3.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "2015 / 2016" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,0",
+      "valor" : "3"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,1",
+      "valor" : "5.1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "2,9",
+      "valor" : "2.9"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "2,9",
+      "valor" : "2.9"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,3",
+      "valor" : "3.3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,2",
+      "valor" : "3.2"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,7",
+      "valor" : "5.7"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,3",
+      "valor" : "3.3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,2",
+      "valor" : "3.2"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,7",
+      "valor" : "3.7"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,1",
+      "valor" : "3.1"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "4,7",
+      "valor" : "4.7"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,0",
+      "valor" : "3"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "2,8",
+      "valor" : "2.8"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,3",
+      "valor" : "3.3"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,1",
+      "valor" : "3.1"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "4,7",
+      "valor" : "4.7"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,2",
+      "valor" : "3.2"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,5",
+      "valor" : "3.5"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,7",
+      "valor" : "3.7"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,3",
+      "valor" : "5.3"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "2,9",
+      "valor" : "2.9"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,0",
+      "valor" : "3"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,6",
+      "valor" : "3.6"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,6",
+      "valor" : "3.6"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,7",
+      "valor" : "5.7"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "2,7",
+      "valor" : "2.7"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "2,6",
+      "valor" : "2.6"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,5",
+      "valor" : "3.5"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,0",
+      "valor" : "3"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,9",
+      "valor" : "5.9"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,7",
+      "valor" : "3.7"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,2",
+      "valor" : "3.2"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,8",
+      "valor" : "3.8"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,2",
+      "valor" : "3.2"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "4,9",
+      "valor" : "4.9"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,1",
+      "valor" : "3.1"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,6",
+      "valor" : "3.6"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,0",
+      "valor" : "3"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "4,6",
+      "valor" : "4.6"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,3",
+      "valor" : "3.3"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "2016 / 2017" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,6",
+      "valor" : "3.6"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "6,2",
+      "valor" : "6.2"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,6",
+      "valor" : "3.6"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,6",
+      "valor" : "3.6"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,1",
+      "valor" : "4.1"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,8",
+      "valor" : "3.8"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "7,0",
+      "valor" : "7"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,1",
+      "valor" : "4.1"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,0",
+      "valor" : "4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,5",
+      "valor" : "4.5"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,7",
+      "valor" : "3.7"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,8",
+      "valor" : "5.8"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,8",
+      "valor" : "3.8"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,6",
+      "valor" : "3.6"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,1",
+      "valor" : "4.1"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,7",
+      "valor" : "3.7"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,6",
+      "valor" : "5.6"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,0",
+      "valor" : "4"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,8",
+      "valor" : "3.8"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,2",
+      "valor" : "4.2"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "4,3",
+      "valor" : "4.3"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "6,5",
+      "valor" : "6.5"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,6",
+      "valor" : "3.6"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,7",
+      "valor" : "3.7"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,4",
+      "valor" : "4.4"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "4,9",
+      "valor" : "4.9"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "7,2",
+      "valor" : "7.2"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,2",
+      "valor" : "3.2"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,4",
+      "valor" : "4.4"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "6,6",
+      "valor" : "6.6"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "5,2",
+      "valor" : "5.2"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,4",
+      "valor" : "4.4"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,7",
+      "valor" : "4.7"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,6",
+      "valor" : "3.6"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,7",
+      "valor" : "5.7"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,5",
+      "valor" : "3.5"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,6",
+      "valor" : "3.6"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,0",
+      "valor" : "4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,1",
+      "valor" : "3.1"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,8",
+      "valor" : "5.8"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,8",
+      "valor" : "3.8"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,0",
+      "valor" : "4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,9",
+      "valor" : "3.9"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "2017 / 2018" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "4,0",
+      "valor" : "4"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "6,1",
+      "valor" : "6.1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,3",
+      "valor" : "4.3"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,2",
+      "valor" : "4.2"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,6",
+      "valor" : "4.6"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "4,1",
+      "valor" : "4.1"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "6,7",
+      "valor" : "6.7"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,8",
+      "valor" : "4.8"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,6",
+      "valor" : "4.6"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,9",
+      "valor" : "4.9"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "4,2",
+      "valor" : "4.2"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "6,3",
+      "valor" : "6.3"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,0",
+      "valor" : "4"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,8",
+      "valor" : "3.8"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,5",
+      "valor" : "4.5"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "4,1",
+      "valor" : "4.1"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,8",
+      "valor" : "5.8"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,6",
+      "valor" : "4.6"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,2",
+      "valor" : "4.2"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,6",
+      "valor" : "4.6"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "4,5",
+      "valor" : "4.5"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,5",
+      "valor" : "5.5"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,5",
+      "valor" : "4.5"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,3",
+      "valor" : "4.3"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,7",
+      "valor" : "4.7"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "5,6",
+      "valor" : "5.6"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,1",
+      "valor" : "5.1"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,2",
+      "valor" : "4.2"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,1",
+      "valor" : "4.1"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,8",
+      "valor" : "4.8"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,9",
+      "valor" : "3.9"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "6,9",
+      "valor" : "6.9"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,7",
+      "valor" : "4.7"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,3",
+      "valor" : "4.3"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,8",
+      "valor" : "4.8"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,9",
+      "valor" : "3.9"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "6,4",
+      "valor" : "6.4"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "5,1",
+      "valor" : "5.1"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,7",
+      "valor" : "4.7"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,8",
+      "valor" : "4.8"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,0",
+      "valor" : "3"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,6",
+      "valor" : "5.6"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,0",
+      "valor" : "4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,2",
+      "valor" : "4.2"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,9",
+      "valor" : "3.9"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "2018 / 2019" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,9",
+      "valor" : "3.9"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,3",
+      "valor" : "5.3"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,2",
+      "valor" : "4.2"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,1",
+      "valor" : "4.1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,3",
+      "valor" : "4.3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "4,0",
+      "valor" : "4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,6",
+      "valor" : "5.6"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,6",
+      "valor" : "4.6"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,6",
+      "valor" : "4.6"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,6",
+      "valor" : "4.6"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,9",
+      "valor" : "3.9"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,7",
+      "valor" : "5.7"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,9",
+      "valor" : "3.9"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,7",
+      "valor" : "3.7"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,2",
+      "valor" : "4.2"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,8",
+      "valor" : "3.8"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,3",
+      "valor" : "5.3"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,3",
+      "valor" : "4.3"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,8",
+      "valor" : "3.8"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,3",
+      "valor" : "4.3"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "4,2",
+      "valor" : "4.2"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "4,5",
+      "valor" : "4.5"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,3",
+      "valor" : "4.3"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,1",
+      "valor" : "4.1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,3",
+      "valor" : "4.3"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "5,5",
+      "valor" : "5.5"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "4,8",
+      "valor" : "4.8"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,1",
+      "valor" : "4.1"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,0",
+      "valor" : "4"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,6",
+      "valor" : "4.6"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "6,2",
+      "valor" : "6.2"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "5,1",
+      "valor" : "5.1"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,6",
+      "valor" : "4.6"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,7",
+      "valor" : "4.7"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "4,0",
+      "valor" : "4"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "6,1",
+      "valor" : "6.1"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,8",
+      "valor" : "4.8"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,9",
+      "valor" : "4.9"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,8",
+      "valor" : "4.8"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,0",
+      "valor" : "3"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,7",
+      "valor" : "5.7"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,8",
+      "valor" : "3.8"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,3",
+      "valor" : "4.3"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,9",
+      "valor" : "3.9"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "2019 / 2020" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,6",
+      "valor" : "3.6"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "4,6",
+      "valor" : "4.6"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,0",
+      "valor" : "4"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,9",
+      "valor" : "3.9"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,0",
+      "valor" : "4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,8",
+      "valor" : "3.8"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "4,7",
+      "valor" : "4.7"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,5",
+      "valor" : "4.5"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,3",
+      "valor" : "4.3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,3",
+      "valor" : "4.3"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,5",
+      "valor" : "3.5"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,2",
+      "valor" : "5.2"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,7",
+      "valor" : "3.7"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,5",
+      "valor" : "3.5"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,9",
+      "valor" : "3.9"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,7",
+      "valor" : "3.7"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,5",
+      "valor" : "5.5"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,8",
+      "valor" : "3.8"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,6",
+      "valor" : "3.6"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,1",
+      "valor" : "4.1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "3,7",
+      "valor" : "3.7"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "4,1",
+      "valor" : "4.1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,1",
+      "valor" : "4.1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,9",
+      "valor" : "3.9"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,9",
+      "valor" : "3.9"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "4,5",
+      "valor" : "4.5"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "4,6",
+      "valor" : "4.6"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,0",
+      "valor" : "4"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,8",
+      "valor" : "2.8"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "4,2",
+      "valor" : "4.2"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,2",
+      "valor" : "4.2"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "3,6",
+      "valor" : "3.6"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,6",
+      "valor" : "3.6"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "4,0",
+      "valor" : "4"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,4",
+      "valor" : "5.4"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "4,7",
+      "valor" : "4.7"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,7",
+      "valor" : "4.7"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4,6",
+      "valor" : "4.6"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,5",
+      "valor" : "2.5"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "5,4",
+      "valor" : "5.4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "3,7",
+      "valor" : "3.7"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "4,0",
+      "valor" : "4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3,5",
+      "valor" : "3.5"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "2020 / 2021" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,0",
+      "valor" : "2"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,8",
+      "valor" : "1.8"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "1,6",
+      "valor" : "1.6"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "1,8",
+      "valor" : "1.8"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,8",
+      "valor" : "1.8"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,3",
+      "valor" : "2.3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,9",
+      "valor" : "1.9"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "1,8",
+      "valor" : "1.8"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "2,0",
+      "valor" : "2"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,0",
+      "valor" : "2"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,0",
+      "valor" : "2"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,8",
+      "valor" : "1.8"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "1,7",
+      "valor" : "1.7"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "1,8",
+      "valor" : "1.8"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,8",
+      "valor" : "1.8"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,2",
+      "valor" : "2.2"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,5",
+      "valor" : "1.5"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "1,6",
+      "valor" : "1.6"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "1,7",
+      "valor" : "1.7"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,7",
+      "valor" : "1.7"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "1,8",
+      "valor" : "1.8"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,7",
+      "valor" : "1.7"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "1,6",
+      "valor" : "1.6"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "1,7",
+      "valor" : "1.7"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,7",
+      "valor" : "1.7"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "1,9",
+      "valor" : "1.9"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "2,0",
+      "valor" : "2"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "1,5",
+      "valor" : "1.5"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "1,6",
+      "valor" : "1.6"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,8",
+      "valor" : "1.8"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,1",
+      "valor" : "2.1"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,8",
+      "valor" : "1.8"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "1,8",
+      "valor" : "1.8"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "1,9",
+      "valor" : "1.9"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,9",
+      "valor" : "1.9"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,6",
+      "valor" : "2.6"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "2,3",
+      "valor" : "2.3"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "2,2",
+      "valor" : "2.2"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "2,3",
+      "valor" : "2.3"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2,4",
+      "valor" : "2.4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "1,7",
+      "valor" : "1.7"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,9",
+      "valor" : "1.9"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "1,6",
+      "valor" : "1.6"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "2,0",
+      "valor" : "2"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,8",
+      "valor" : "1.8"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "2021 / 2022" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "1,5",
+      "valor" : "1.5"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,3",
+      "valor" : "1.3"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "1,2",
+      "valor" : "1.2"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "1,1",
+      "valor" : "1.1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,3",
+      "valor" : "1.3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "1,6",
+      "valor" : "1.6"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,4",
+      "valor" : "1.4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "1,3",
+      "valor" : "1.3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "1,2",
+      "valor" : "1.2"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,4",
+      "valor" : "1.4"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "1,5",
+      "valor" : "1.5"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,2",
+      "valor" : "1.2"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "1,1",
+      "valor" : "1.1"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "1,1",
+      "valor" : "1.1"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,2",
+      "valor" : "1.2"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "1,8",
+      "valor" : "1.8"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,1",
+      "valor" : "1.1"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "1,2",
+      "valor" : "1.2"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "1,2",
+      "valor" : "1.2"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,3",
+      "valor" : "1.3"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "1,4",
+      "valor" : "1.4"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,2",
+      "valor" : "1.2"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "1,1",
+      "valor" : "1.1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,2",
+      "valor" : "1.2"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "1,5",
+      "valor" : "1.5"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,3",
+      "valor" : "1.3"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "1,1",
+      "valor" : "1.1"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,2",
+      "valor" : "1.2"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "1,5",
+      "valor" : "1.5"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,3",
+      "valor" : "1.3"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "1,3",
+      "valor" : "1.3"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "1,2",
+      "valor" : "1.2"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,3",
+      "valor" : "1.3"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "2,0",
+      "valor" : "2"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "2,0",
+      "valor" : "2"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "1,6",
+      "valor" : "1.6"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "1,6",
+      "valor" : "1.6"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,8",
+      "valor" : "1.8"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "1,1",
+      "valor" : "1.1"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,3",
+      "valor" : "1.3"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "1,2",
+      "valor" : "1.2"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "0,9",
+      "valor" : "0.9"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,1",
+      "valor" : "1.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "2022 / 2023" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "1,3",
+      "valor" : "1.3"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,1",
+      "valor" : "1.1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "1,2",
+      "valor" : "1.2"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,1",
+      "valor" : "1.1"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "1,3",
+      "valor" : "1.3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,1",
+      "valor" : "1.1"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "1,1",
+      "valor" : "1.1"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "1,3",
+      "valor" : "1.3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,2",
+      "valor" : "1.2"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "1,2",
+      "valor" : "1.2"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,1",
+      "valor" : "1.1"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "1,1",
+      "valor" : "1.1"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "1,2",
+      "valor" : "1.2"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,1",
+      "valor" : "1.1"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "1,1",
+      "valor" : "1.1"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "0,9",
+      "valor" : "0.9"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "1,2",
+      "valor" : "1.2"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "1,2",
+      "valor" : "1.2"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,1",
+      "valor" : "1.1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "1,1",
+      "valor" : "1.1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "1,2",
+      "valor" : "1.2"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,1",
+      "valor" : "1.1"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "1,2",
+      "valor" : "1.2"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "0,9",
+      "valor" : "0.9"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "1,2",
+      "valor" : "1.2"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,1",
+      "valor" : "1.1"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "1,3",
+      "valor" : "1.3"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,1",
+      "valor" : "1.1"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "1,1",
+      "valor" : "1.1"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "1,2",
+      "valor" : "1.2"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,2",
+      "valor" : "1.2"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "1,6",
+      "valor" : "1.6"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,5",
+      "valor" : "1.5"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "1,4",
+      "valor" : "1.4"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "1,6",
+      "valor" : "1.6"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,5",
+      "valor" : "1.5"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "1,0",
+      "valor" : "1"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "ind_string" : "1,1",
+      "valor" : "1.1"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "ind_string" : "1,1",
+      "valor" : "1.1"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "ind_string" : "1,2",
+      "valor" : "1.2"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,1",
+      "valor" : "1.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino secundário",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Ensino básico - 1.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico - 2.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino básico - 3.º ciclo",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
