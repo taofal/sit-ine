@@ -185,3 +185,55 @@ Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos,
 Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal. Todas as categorias das restantes dimensões.
 
 - **0009936** Rendimento bruto declarado deduzido do IRS liquidado por sujeito passivo (€) — 0 valores, 0 ficheiros novos; FALHAS: metadados: INE recusou: <urlopen error timed out>
+
+## Extração — 2026-10-29 11:17 — séries completas
+Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal. Todas as categorias das restantes dimensões.
+
+- **0009936** Rendimento bruto declarado deduzido do IRS liquidado por sujeito passivo (€) — 70 valores, 1 ficheiros novos
+    - `0009936_dados_f7275bb5df.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009936&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009937** Sujeitos Passivos (N.º) — 490 valores, 1 ficheiros novos
+    - `0009937_dados_281eeb57c3.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009937&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009941** Coeficiente de Gini do rendimento bruto declarado por agregado fiscal (%) — 70 valores, 1 ficheiros novos
+    - `0009941_dados_fc79b62151.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009941&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009942** Coeficiente de Gini do rendimento bruto declarado deduzido do IRS liquidado por agregado fiscal (%) — 70 valores, 1 ficheiros novos
+    - `0009942_dados_929e00e6d3.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009942&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009943** Coeficiente de Gini do rendimento bruto declarado deduzido do IRS liquidado por sujeito passivo (%) — 70 valores, 1 ficheiros novos
+    - `0009943_dados_27ef13cbc4.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009943&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009944** Desigualdade na distribuição do rendimento bruto declarado deduzido do IRS liquidado dos sujeitos passivos (P80/P20) ( N.º) — 70 valores, 1 ficheiros novos
+    - `0009944_dados_765e67f71e.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009944&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009945** Desigualdade na distribuição do rendimento bruto declarado dos sujeitos passivos (P90/P10) ( N.º) — 70 valores, 1 ficheiros novos
+    - `0009945_dados_e343e67566.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009945&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009946** Desigualdade na distribuição do rendimento bruto declarado deduzido do IRS liquidado dos sujeitos passivos (P90/P10) ( N.º) — 70 valores, 1 ficheiros novos
+    - `0009946_dados_6f169faf8f.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009946&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009947** Desigualdade na distribuição do rendimento bruto declarado dos agregados fiscais (P80/P20) ( N.º) — 70 valores, 1 ficheiros novos
+    - `0009947_dados_a0fd44a953.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009947&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009948** Desigualdade na distribuição do rendimento bruto declarado deduzido do IRS liquidado dos agregados fiscais (P80/P20) ( N.º) — 70 valores, 1 ficheiros novos
+    - `0009948_dados_bb9d119fe9.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009948&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009949** Desigualdade na distribuição do rendimento bruto declarado deduzido do IRS liquidado dos agregados fiscais (P90/P10) ( N.º) — 70 valores, 1 ficheiros novos
+    - `0009949_dados_183d65b367.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009949&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009950** Coeficiente de Gini do rendimento bruto declarado por sujeito passivo (%) — 70 valores, 1 ficheiros novos
+    - `0009950_dados_0eed8e2274.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009950&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009951** Desigualdade na distribuição do rendimento bruto declarado dos sujeitos passivos (P80/P20) ( N.º) — 70 valores, 1 ficheiros novos
+    - `0009951_dados_27f93186c0.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009951&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009952** Desigualdade na distribuição do rendimento bruto declarado dos agregados fiscais (P90/P10) ( N.º) — 70 valores, 1 ficheiros novos
+    - `0009952_dados_06caf77bb3.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009952&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009953** Valor mediano do rendimento bruto declarado deduzido do IRS liquidado por agregado fiscal (€) — 70 valores, 1 ficheiros novos
+    - `0009953_dados_430b562af4.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009953&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009954** Valor mediano do rendimento bruto declarado deduzido do IRS liquidado por sujeito passivo (€) — 70 valores, 1 ficheiros novos
+    - `0009954_dados_902b1b28e6.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009954&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0011668** Índice de polarização de emprego (N.º) — 10 valores, 1 ficheiros novos
+    - `0011668_dados_615dad9926.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011668&lang=PT&Dim1=S7A2021&Dim2=0308,119,112,0302,1314,1308,1312,11A,11,PT
+- **0000100** Caixas Automáticos Multibanco por 10 000 habitantes (N.º) — 117 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000100_dados_6cbf3ee1a8.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000100&lang=PT&Dim1=S7A2001,S7A2002,S7A2003,S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0000101** Operações em Caixas Automáticos Multibanco por habitante (N.º) — 117 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000101_dados_1b36cfbac0.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000101&lang=PT&Dim1=S7A2001,S7A2002,S7A2003,S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0000102** Levantamentos nacionais em Caixas Automáticos Multibanco por habitante (€) — 117 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0000102_dados_d12b89bd82.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000102&lang=PT&Dim1=S7A2001,S7A2002,S7A2003,S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0009853** Investigadoras/es equivalente a tempo integral (ETI) por 1000 habitantes (N.º) nas instituições e empresas com investigação e desenvolvimento — 0 valores, 0 ficheiros novos; FALHAS: metadados: INE recusou: <urlopen error timed out>
+- **0012665** Rendimento bruto declarado (€) — 70 valores, 1 ficheiros novos
+    - `0012665_dados_3011111458.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012665&lang=PT&Dim1=S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012666** Rendimento coletável (€) — 70 valores, 1 ficheiros novos
+    - `0012666_dados_a6eef6c30f.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012666&lang=PT&Dim1=S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012667** Imposto sobre o rendimento de pessoas singulares liquidado (€) — 70 valores, 1 ficheiros novos
+    - `0012667_dados_f3c5d86cb6.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012667&lang=PT&Dim1=S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012668** Rendimento bruto declarado deduzido do IRS liquidado (€) — 0 valores, 0 ficheiros novos; FALHAS: metadados: orçamento da volta esgotado

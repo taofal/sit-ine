@@ -1,0 +1,452 @@
+[ {
+  "IndicadorCod" : "0009942",
+  "IndicadorDsg" : "Coeficiente de Gini do rendimento bruto declarado deduzido do IRS liquidado por agregado fiscal (%) por Localização geográfica (NUTS - 2013); Anual - INE, Estatísticas do Rendimento ao nível local com base na informação produzida pelo Ministério das Finanças - Autoridade Tributária e Aduaneira.",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0009942&lingua=PT",
+  "DataExtracao" : "2026-10-29T10:29:11.832Z",
+  "DataUltimoAtualizacao" : "2023-07-25",
+  "UltimoPref" : "2021",
+  "Dados" : {
+    "2015" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "43,0 *",
+      "valor" : "43"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "42,5 *",
+      "valor" : "42.5"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "42,0 *",
+      "valor" : "42"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "37,8 *",
+      "valor" : "37.8"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "39,2 *",
+      "valor" : "39.2"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "39,1 *",
+      "valor" : "39.1"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "43,3 *",
+      "valor" : "43.3"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "43,3 *",
+      "valor" : "43.3"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "48,3 *",
+      "valor" : "48.3"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "38,6 *",
+      "valor" : "38.6"
+    } ],
+    "2016" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "42,7 *",
+      "valor" : "42.7"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "42,0 *",
+      "valor" : "42"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "41,5 *",
+      "valor" : "41.5"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "37,5 *",
+      "valor" : "37.5"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "38,8 *",
+      "valor" : "38.8"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "38,8 *",
+      "valor" : "38.8"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "42,8 *",
+      "valor" : "42.8"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "42,9 *",
+      "valor" : "42.9"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "47,9 *",
+      "valor" : "47.9"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "37,8 *",
+      "valor" : "37.8"
+    } ],
+    "2017" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "42,3 *",
+      "valor" : "42.3"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "41,5 *",
+      "valor" : "41.5"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "40,8 *",
+      "valor" : "40.8"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "37,2 *",
+      "valor" : "37.2"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "38,1 *",
+      "valor" : "38.1"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "38,0 *",
+      "valor" : "38"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "42,4 *",
+      "valor" : "42.4"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "42,6 *",
+      "valor" : "42.6"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "47,7 *",
+      "valor" : "47.7"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "37,3 *",
+      "valor" : "37.3"
+    } ],
+    "2018" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "41,8 *",
+      "valor" : "41.8"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "41,0 *",
+      "valor" : "41"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "40,2 *",
+      "valor" : "40.2"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "36,9 *",
+      "valor" : "36.9"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "37,7 *",
+      "valor" : "37.7"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "37,7 *",
+      "valor" : "37.7"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "41,9 *",
+      "valor" : "41.9"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "42,2 *",
+      "valor" : "42.2"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "47,7 *",
+      "valor" : "47.7"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "36,8 *",
+      "valor" : "36.8"
+    } ],
+    "2019" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "41,3",
+      "valor" : "41.3"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "40,5",
+      "valor" : "40.5"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "39,7",
+      "valor" : "39.7"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "ind_string" : "36,4",
+      "valor" : "36.4"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "37,4",
+      "valor" : "37.4"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "ind_string" : "37,4",
+      "valor" : "37.4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "41,4",
+      "valor" : "41.4"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "ind_string" : "41,8",
+      "valor" : "41.8"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "ind_string" : "47,3",
+      "valor" : "47.3"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "36,6",
+      "valor" : "36.6"
+    } ],
+    "2020" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "41,3",
+      "valor" : "41.3"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "40,4",
+      "valor" : "40.4"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "39,8",
+      "valor" : "39.8"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "ind_string" : "36,2",
+      "valor" : "36.2"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "37,3",
+      "valor" : "37.3"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "ind_string" : "37,3",
+      "valor" : "37.3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "41,4",
+      "valor" : "41.4"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "ind_string" : "41,8",
+      "valor" : "41.8"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "ind_string" : "47,4",
+      "valor" : "47.4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "36,9",
+      "valor" : "36.9"
+    } ],
+    "2021" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "41,1",
+      "valor" : "41.1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "40,2",
+      "valor" : "40.2"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "39,5",
+      "valor" : "39.5"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "ind_string" : "36,1",
+      "valor" : "36.1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "37,3",
+      "valor" : "37.3"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "ind_string" : "37,3",
+      "valor" : "37.3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "41,3",
+      "valor" : "41.3"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "ind_string" : "41,8",
+      "valor" : "41.8"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "ind_string" : "47,6",
+      "valor" : "47.6"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "36,7",
+      "valor" : "36.7"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
