@@ -1,0 +1,778 @@
+[ {
+  "IndicadorCod" : "0008227",
+  "IndicadorDsg" : "Consumo de energia elétrica na indústria por consumidor (kWh/ cons.) por Localização geográfica (NUTS - 2013); Anual - DGEG, Estatísticas do carvão, petróleo, energia elétrica e gás natural",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0008227&lingua=PT",
+  "DataExtracao" : "2026-10-29T03:05:37.768Z",
+  "DataUltimoAtualizacao" : "2025-02-26",
+  "UltimoPref" : "2023",
+  "Dados" : {
+    "2011" : [ {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "ind_string" : "48 456,1",
+      "valor" : "48456.1"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "75 584,0",
+      "valor" : "75584"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "ind_string" : "84 426,9",
+      "valor" : "84426.9"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "131 280,7",
+      "valor" : "131280.7"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "176 599,3",
+      "valor" : "176599.3"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "180 666,5",
+      "valor" : "180666.5"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "223 671,4",
+      "valor" : "223671.4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "245 065,6",
+      "valor" : "245065.6"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "ind_string" : "262 932,0",
+      "valor" : "262932"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "ind_string" : "452 558,8",
+      "valor" : "452558.8"
+    } ],
+    "2012" : [ {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "ind_string" : "59 813,0",
+      "valor" : "59813"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "77 832,7",
+      "valor" : "77832.7"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "ind_string" : "90 399,7",
+      "valor" : "90399.7"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "143 136,9",
+      "valor" : "143136.9"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "189 707,0",
+      "valor" : "189707"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "204 766,1",
+      "valor" : "204766.1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "223 795,9",
+      "valor" : "223795.9"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "ind_string" : "243 478,3",
+      "valor" : "243478.3"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "257 363,0",
+      "valor" : "257363"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "ind_string" : "533 436,2",
+      "valor" : "533436.2"
+    } ],
+    "2013" : [ {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "ind_string" : "74 326,7",
+      "valor" : "74326.7"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "100 306,7",
+      "valor" : "100306.7"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "ind_string" : "123 938,8",
+      "valor" : "123938.8"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "174 609,8",
+      "valor" : "174609.8"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "241 572,2",
+      "valor" : "241572.2"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "249 385,9",
+      "valor" : "249385.9"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "279 518,4",
+      "valor" : "279518.4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "300 481,4",
+      "valor" : "300481.4"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "ind_string" : "334 623,5",
+      "valor" : "334623.5"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "ind_string" : "668 691,6",
+      "valor" : "668691.6"
+    } ],
+    "2014" : [ {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "ind_string" : "123 518,6",
+      "valor" : "123518.6"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "134 436,5",
+      "valor" : "134436.5"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "ind_string" : "161 026,7",
+      "valor" : "161026.7"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "230 369,7",
+      "valor" : "230369.7"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "309 149,7",
+      "valor" : "309149.7"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "327 048,6",
+      "valor" : "327048.6"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "363 983,3",
+      "valor" : "363983.3"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "404 224,5",
+      "valor" : "404224.5"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "ind_string" : "410 095,7",
+      "valor" : "410095.7"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "ind_string" : "754 049,4",
+      "valor" : "754049.4"
+    } ],
+    "2015" : [ {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "ind_string" : "109 676,8",
+      "valor" : "109676.8"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "141 315,3",
+      "valor" : "141315.3"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "ind_string" : "179 241,5",
+      "valor" : "179241.5"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "245 254,2",
+      "valor" : "245254.2"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "325 916,1",
+      "valor" : "325916.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "341 659,7",
+      "valor" : "341659.7"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "409 149,8",
+      "valor" : "409149.8"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "447 848,4",
+      "valor" : "447848.4"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "ind_string" : "467 208,4",
+      "valor" : "467208.4"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "ind_string" : "760 292,2",
+      "valor" : "760292.2"
+    } ],
+    "2016" : [ {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "ind_string" : "45 965,8",
+      "valor" : "45965.8"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "111 630,3",
+      "valor" : "111630.3"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "ind_string" : "141 721,4",
+      "valor" : "141721.4"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "148 833,0",
+      "valor" : "148833"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "162 929,3",
+      "valor" : "162929.3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "173 126,5",
+      "valor" : "173126.5"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "ind_string" : "210 610,5",
+      "valor" : "210610.5"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "221 236,1",
+      "valor" : "221236.1"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "ind_string" : "239 026,6",
+      "valor" : "239026.6"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "354 418,0",
+      "valor" : "354418"
+    } ],
+    "2017" : [ {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "ind_string" : "52 509,2",
+      "valor" : "52509.2"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "111 828,3",
+      "valor" : "111828.3"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "ind_string" : "138 039,6",
+      "valor" : "138039.6"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "158 363,1",
+      "valor" : "158363.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "175 690,1",
+      "valor" : "175690.1"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "189 320,0",
+      "valor" : "189320"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "ind_string" : "219 902,1",
+      "valor" : "219902.1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "234 094,7",
+      "valor" : "234094.7"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "ind_string" : "280 309,4",
+      "valor" : "280309.4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "350 880,9",
+      "valor" : "350880.9"
+    } ],
+    "2018" : [ {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "ind_string" : "48 259,1",
+      "valor" : "48259.1"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "104 293,9",
+      "valor" : "104293.9"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "ind_string" : "119 486,2",
+      "valor" : "119486.2"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "156 263,3",
+      "valor" : "156263.3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "188 099,9",
+      "valor" : "188099.9"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "196 598,4",
+      "valor" : "196598.4"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "ind_string" : "217 208,0",
+      "valor" : "217208"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "ind_string" : "226 848,3",
+      "valor" : "226848.3"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "230 929,3",
+      "valor" : "230929.3"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "345 588,8",
+      "valor" : "345588.8"
+    } ],
+    "2019" : [ {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "46 094,3 &",
+      "valor" : "46094.3"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "101 607,3 &",
+      "valor" : "101607.3"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "117 408,1 &",
+      "valor" : "117408.1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "153 585,9 &",
+      "valor" : "153585.9"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "185 607,4 &",
+      "valor" : "185607.4"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "195 384,0 &",
+      "valor" : "195384"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "195 637,9 &",
+      "valor" : "195637.9"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "220 484,7 &",
+      "valor" : "220484.7"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "220 780,5 &",
+      "valor" : "220780.5"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "381 156,4 &",
+      "valor" : "381156.4"
+    } ],
+    "2020" : [ {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "39 152,1 &",
+      "valor" : "39152.1"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "91 036,2 &",
+      "valor" : "91036.2"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "102 356,1 &",
+      "valor" : "102356.1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "146 070,0 &",
+      "valor" : "146070"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "169 875,9 &",
+      "valor" : "169875.9"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "185 164,0 &",
+      "valor" : "185164"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "188 073,1 &",
+      "valor" : "188073.1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "196 427,7 &",
+      "valor" : "196427.7"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "200 912,4 &",
+      "valor" : "200912.4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "325 466,0 &",
+      "valor" : "325466"
+    } ],
+    "2021" : [ {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "34 599,7 &",
+      "valor" : "34599.7"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "94 206,2 &",
+      "valor" : "94206.2"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "110 767,2 &",
+      "valor" : "110767.2"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "121 770,6 &",
+      "valor" : "121770.6"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "143 074,9 &",
+      "valor" : "143074.9"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "175 230,2 &",
+      "valor" : "175230.2"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "183 976,3 &",
+      "valor" : "183976.3"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "188 135,6 &",
+      "valor" : "188135.6"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "213 085,2 &",
+      "valor" : "213085.2"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "414 099,5 &",
+      "valor" : "414099.5"
+    } ],
+    "2022" : [ {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "37 074,5 &",
+      "valor" : "37074.5"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "83 342,7 &",
+      "valor" : "83342.7"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "100 080,8 &",
+      "valor" : "100080.8"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "121 185,4 &",
+      "valor" : "121185.4"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "140 611,2 &",
+      "valor" : "140611.2"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "168 623,5 &",
+      "valor" : "168623.5"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "182 069,6 &",
+      "valor" : "182069.6"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "183 086,8 &",
+      "valor" : "183086.8"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "215 000,2 &",
+      "valor" : "215000.2"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "424 694,2 &",
+      "valor" : "424694.2"
+    } ],
+    "2023" : [ {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "32 287,2 &",
+      "valor" : "32287.2"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "83 769,1 &",
+      "valor" : "83769.1"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "98 073,2 &",
+      "valor" : "98073.2"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "110 479,7 &",
+      "valor" : "110479.7"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "140 529,2 &",
+      "valor" : "140529.2"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "170 886,4 &",
+      "valor" : "170886.4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "172 191,6 &",
+      "valor" : "172191.6"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "175 891,0 &",
+      "valor" : "175891"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "202 015,7 &",
+      "valor" : "202015.7"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "419 727,3 &",
+      "valor" : "419727.3"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

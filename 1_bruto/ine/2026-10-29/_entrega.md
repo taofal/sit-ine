@@ -101,3 +101,82 @@ Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos,
 - **0012664** Disparidade no ganho médio mensal (Entre escalões de empresa - %) da população empregada por conta de outrem — 40 valores, 1 ficheiros novos
     - `0012664_dados_3bcd4c2213.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012664&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
 - **0002960** Valores médios de avaliação bancária (€/ m²) dos alojamentos — 0 valores, 0 ficheiros novos; FALHAS: metadados: orçamento da volta esgotado
+
+## Extração — 2026-10-29 03:45 — séries completas
+Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal. Todas as categorias das restantes dimensões.
+
+- **0002960** Valores médios de avaliação bancária (€/ m²) dos alojamentos — 252 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Norte, Portugal
+    - `0002960_dados_a1035c0ccc.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0002960&lang=PT&Dim1=S5A20031,S5A20032,S5A20033,S5A20034,S5A20041,S5A20042,S5A20043,S5A20044,S5A20051,S5A20052,S5A20053,S5A20054,S5A20061,S5A20062,S5A20063,S5A20064,S5A20071,S5A20072,S5A20073,S5A20074,S5A20081,S5A20082,S5A20083,S5A20084,S5A20091,S5A20092,S5A20093,S5A20094&Dim2=1308,1312,AMP
+- **0014402** Investigadoras/es equivalente a tempo integral (ETI) por 1000 habitantes (N.º) nas instituições e empresas com investigação e desenvolvimento — 40 valores, 1 ficheiros novos
+    - `0014402_dados_c8e3efb73b.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0014402&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008222** Consumo de energia elétrica (kWh) — 1040 valores, 1 ficheiros novos
+    - `0008222_dados_04a96330eb.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008222&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008223** Consumidores de energia elétrica (N.º) — 1040 valores, 1 ficheiros novos
+    - `0008223_dados_99fc7be086.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008223&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008224** Consumo total de energia elétrica por consumidor (kWh/ cons.) — 130 valores, 1 ficheiros novos
+    - `0008224_dados_d162e4dfe9.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008224&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008225** Consumo doméstico de energia elétrica por consumidor (kWh/ cons.) — 130 valores, 1 ficheiros novos
+    - `0008225_dados_a9f313627d.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008225&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008226** Consumo de energia elétrica na agricultura por consumidor (kWh/ cons.) — 130 valores, 1 ficheiros novos
+    - `0008226_dados_07b1b135da.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008226&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008227** Consumo de energia elétrica na indústria por consumidor (kWh/ cons.) — 130 valores, 1 ficheiros novos
+    - `0008227_dados_5fe2d904d0.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008227&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008228** Consumo de energia elétrica por habitante (kWh/ hab.) — 130 valores, 1 ficheiros novos
+    - `0008228_dados_bbf7587b26.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008228&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008229** Consumo doméstico de energia elétrica por habitante (kWh/ hab.) — 130 valores, 1 ficheiros novos
+    - `0008229_dados_5b92eaf5e5.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008229&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008233** Vendas de combustíveis líquidos e gasosos (t) das empresas — 1950 valores, 1 ficheiros novos
+    - `0008233_dados_1e010f1c2f.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008233&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008286** Consumo de gás natural (Nm³) — 130 valores, 1 ficheiros novos
+    - `0008286_dados_c0899bfd5e.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008286&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008287** Consumo de gás natural por 1000 habitantes (Nm³) — 130 valores, 1 ficheiros novos
+    - `0008287_dados_f7f0ca42c6.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008287&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008716** Taxa de abstenção nas eleições para o Parlamento Europeu (%) — 40 valores, 1 ficheiros novos
+    - `0008716_dados_b69fdb62cb.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008716&lang=PT&Dim1=S7A2004,S7A2009,S7A2014,S7A2019&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008574** Estabelecimentos hoteleiros (N.º) — 1000 valores, 1 ficheiros novos
+    - `0008574_dados_2ee5d12c13.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008574&lang=PT&Dim1=S7A2014,S7A2015,S7A2016,S7A2017&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008575** Capacidade de alojamento (N.º) nos estabelecimentos hoteleiros — 1000 valores, 1 ficheiros novos
+    - `0008575_dados_4a43000b89.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008575&lang=PT&Dim1=S7A2014,S7A2015,S7A2016,S7A2017&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008577** Hóspedes (N.º) nos estabelecimentos hoteleiros — 1000 valores, 1 ficheiros novos
+    - `0008577_dados_2a2c999f93.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008577&lang=PT&Dim1=S7A2014,S7A2015,S7A2016,S7A2017&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008578** Quartos (N.º) nos estabelecimentos hoteleiros — 1000 valores, 1 ficheiros novos
+    - `0008578_dados_982a4ea1b5.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008578&lang=PT&Dim1=S7A2014,S7A2015,S7A2016,S7A2017&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008579** Proveitos totais (€) dos estabelecimentos hoteleiros — 1000 valores, 1 ficheiros novos
+    - `0008579_dados_ff0febb6da.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008579&lang=PT&Dim1=S7A2014,S7A2015,S7A2016,S7A2017&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008580** Proveitos de aposento (€) dos estabelecimentos hoteleiros — 1000 valores, 1 ficheiros novos
+    - `0008580_dados_58b81c7dcc.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008580&lang=PT&Dim1=S7A2014,S7A2015,S7A2016,S7A2017&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009759** Rendimento bruto declarado por habitante (€) — 70 valores, 1 ficheiros novos
+    - `0009759_dados_b150c6d5ea.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009759&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009760** Imposto sobre o rendimento de pessoas singulares liquidado por habitante (€) — 70 valores, 1 ficheiros novos
+    - `0009760_dados_9e534e826e.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009760&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009761** Rendimento bruto declarado deduzido do IRS liquidado por habitante (€) — 70 valores, 1 ficheiros novos
+    - `0009761_dados_70be9832d0.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009761&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009762** Rendimento bruto declarado por agregado fiscal (€) — 70 valores, 1 ficheiros novos
+    - `0009762_dados_e672c1136a.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009762&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009763** Valor mediano do rendimento bruto declarado por agregado fiscal (€) — 70 valores, 1 ficheiros novos
+    - `0009763_dados_7c6a6f9aa1.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009763&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009764** Imposto sobre o rendimento de pessoas singulares liquidado por agregado fiscal (€) — 70 valores, 1 ficheiros novos
+    - `0009764_dados_eaf3e140b7.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009764&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009765** Rendimento bruto declarado deduzido do IRS liquidado por agregado fiscal (€) — 70 valores, 1 ficheiros novos
+    - `0009765_dados_ea9e165cef.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009765&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009766** Imposto sobre o rendimento de pessoas singulares liquidado no total de rendimento bruto declarado (%) — 70 valores, 1 ficheiros novos
+    - `0009766_dados_8a011945c8.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009766&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009767** Agregados fiscais (N.º) — 490 valores, 1 ficheiros novos
+    - `0009767_dados_af090efaf4.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009767&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009769** Sujeitos Passivos (N.º) — 70 valores, 1 ficheiros novos
+    - `0009769_dados_7ba488593c.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009769&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009770** Rendimento bruto declarado (€) — 70 valores, 1 ficheiros novos
+    - `0009770_dados_e53dcb53c2.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009770&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009771** Rendimento coletável (€) — 70 valores, 1 ficheiros novos
+    - `0009771_dados_2927a63ec6.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009771&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009772** Imposto sobre o rendimento de pessoas singulares liquidado (€) — 70 valores, 1 ficheiros novos
+    - `0009772_dados_6eebdf8239.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009772&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009775** Rendimento bruto declarado deduzido do IRS liquidado (€) — 70 valores, 1 ficheiros novos
+    - `0009775_dados_e73ff176c2.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009775&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009933** Rendimento bruto declarado por sujeito passivo (€) — 70 valores, 1 ficheiros novos
+    - `0009933_dados_d772f03cc5.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009933&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009934** Valor mediano do rendimento bruto declarado por sujeito passivo (€) — 70 valores, 1 ficheiros novos
+    - `0009934_dados_53802eabf9.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009934&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009935** Imposto sobre o rendimento de pessoas singulares liquidado por sujeito passivo (€) — 70 valores, 1 ficheiros novos
+    - `0009935_dados_bf08484652.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009935&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009936** Rendimento bruto declarado deduzido do IRS liquidado por sujeito passivo (€) — 0 valores, 0 ficheiros novos; FALHAS: metadados: orçamento da volta esgotado
