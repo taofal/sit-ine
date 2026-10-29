@@ -1,0 +1,2303 @@
+[ {
+  "IndicadorCod" : "0002962",
+  "IndicadorDsg" : "Valores médios de avaliação bancária (€/ m²) dos alojamentos por Localização geográfica (Municípios com cidades médias) e Tipo de construção; Trimestral - INE, Inquérito à avaliação bancária na habitação",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0002962&lingua=PT",
+  "DataExtracao" : "2026-10-29T02:08:41.373Z",
+  "DataUltimoAtualizacao" : "2010-01-28",
+  "UltimoPref" : "4.º Trimestre de 2009",
+  "Dados" : {
+    "3.º Trimestre de 2003" : [ {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "837",
+      "valor" : "837"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "920",
+      "valor" : "920"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "790",
+      "valor" : "790"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "923",
+      "valor" : "923"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "957",
+      "valor" : "957"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "908",
+      "valor" : "908"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "906",
+      "valor" : "906"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "909",
+      "valor" : "909"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "903",
+      "valor" : "903"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "4.º Trimestre de 2003" : [ {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "867",
+      "valor" : "867"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "955",
+      "valor" : "955"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "798",
+      "valor" : "798"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "926",
+      "valor" : "926"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "952",
+      "valor" : "952"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "913",
+      "valor" : "913"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "906",
+      "valor" : "906"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "942",
+      "valor" : "942"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "875",
+      "valor" : "875"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "1.º Trimestre de 2004" : [ {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "895",
+      "valor" : "895"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "948",
+      "valor" : "948"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "859",
+      "valor" : "859"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "915",
+      "valor" : "915"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "914",
+      "valor" : "914"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "915",
+      "valor" : "915"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "914",
+      "valor" : "914"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "924",
+      "valor" : "924"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "902",
+      "valor" : "902"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "2.º Trimestre de 2004" : [ {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "909",
+      "valor" : "909"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "955",
+      "valor" : "955"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "875",
+      "valor" : "875"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "939",
+      "valor" : "939"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "960",
+      "valor" : "960"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "929",
+      "valor" : "929"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "923",
+      "valor" : "923"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "933",
+      "valor" : "933"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "913",
+      "valor" : "913"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "3.º Trimestre de 2004" : [ {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "918",
+      "valor" : "918"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "963",
+      "valor" : "963"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "881",
+      "valor" : "881"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "939",
+      "valor" : "939"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "894",
+      "valor" : "894"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "964",
+      "valor" : "964"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "937",
+      "valor" : "937"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "948",
+      "valor" : "948"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "928",
+      "valor" : "928"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "4.º Trimestre de 2004" : [ {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "948",
+      "valor" : "948"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "1 020",
+      "valor" : "1020"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "893",
+      "valor" : "893"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "993",
+      "valor" : "993"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "981",
+      "valor" : "981"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "999",
+      "valor" : "999"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "961",
+      "valor" : "961"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "952",
+      "valor" : "952"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "970",
+      "valor" : "970"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "1.º Trimestre de 2005" : [ {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "947",
+      "valor" : "947"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "985",
+      "valor" : "985"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "924",
+      "valor" : "924"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "945",
+      "valor" : "945"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "955",
+      "valor" : "955"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "941",
+      "valor" : "941"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "986",
+      "valor" : "986"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "978",
+      "valor" : "978"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "996",
+      "valor" : "996"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "2.º Trimestre de 2005" : [ {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "953",
+      "valor" : "953"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "1 028",
+      "valor" : "1028"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "904",
+      "valor" : "904"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "992",
+      "valor" : "992"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "964",
+      "valor" : "964"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "1 008",
+      "valor" : "1008"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 014",
+      "valor" : "1014"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "988",
+      "valor" : "988"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "1 041",
+      "valor" : "1041"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "3.º Trimestre de 2005" : [ {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "955",
+      "valor" : "955"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "961",
+      "valor" : "961"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "951",
+      "valor" : "951"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "930",
+      "valor" : "930"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "884",
+      "valor" : "884"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "954",
+      "valor" : "954"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 011",
+      "valor" : "1011"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "972",
+      "valor" : "972"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "1 051",
+      "valor" : "1051"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "4.º Trimestre de 2005" : [ {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "971",
+      "valor" : "971"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "987",
+      "valor" : "987"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "958",
+      "valor" : "958"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "979",
+      "valor" : "979"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "949",
+      "valor" : "949"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "993",
+      "valor" : "993"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 023",
+      "valor" : "1023"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "1 010",
+      "valor" : "1010"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "1 036",
+      "valor" : "1036"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "1.º Trimestre de 2006" : [ {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "965",
+      "valor" : "965"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "1 030",
+      "valor" : "1030"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "923",
+      "valor" : "923"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "986",
+      "valor" : "986"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "936",
+      "valor" : "936"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "1 017",
+      "valor" : "1017"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "976",
+      "valor" : "976"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "981",
+      "valor" : "981"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "969",
+      "valor" : "969"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "2.º Trimestre de 2006" : [ {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "971",
+      "valor" : "971"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "1 023",
+      "valor" : "1023"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "937",
+      "valor" : "937"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "923",
+      "valor" : "923"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "948",
+      "valor" : "948"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "914",
+      "valor" : "914"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "936",
+      "valor" : "936"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "907",
+      "valor" : "907"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "981",
+      "valor" : "981"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "3.º Trimestre de 2006" : [ {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 001",
+      "valor" : "1001"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "986",
+      "valor" : "986"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "1 009",
+      "valor" : "1009"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "978",
+      "valor" : "978"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "900",
+      "valor" : "900"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "1 016",
+      "valor" : "1016"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "979",
+      "valor" : "979"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "938",
+      "valor" : "938"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "1 022",
+      "valor" : "1022"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "4.º Trimestre de 2006" : [ {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "963",
+      "valor" : "963"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "975",
+      "valor" : "975"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "954",
+      "valor" : "954"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "951",
+      "valor" : "951"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "928",
+      "valor" : "928"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "963",
+      "valor" : "963"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "943",
+      "valor" : "943"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "929",
+      "valor" : "929"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "958",
+      "valor" : "958"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "1.º Trimestre de 2007" : [ {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "977",
+      "valor" : "977"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "979",
+      "valor" : "979"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "975",
+      "valor" : "975"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "959",
+      "valor" : "959"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "937",
+      "valor" : "937"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "973",
+      "valor" : "973"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "965",
+      "valor" : "965"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "951",
+      "valor" : "951"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "984",
+      "valor" : "984"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "2.º Trimestre de 2007" : [ {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 053",
+      "valor" : "1053"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "1 014",
+      "valor" : "1014"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "1 087",
+      "valor" : "1087"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 001",
+      "valor" : "1001"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "923",
+      "valor" : "923"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "1 041",
+      "valor" : "1041"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "960",
+      "valor" : "960"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "943",
+      "valor" : "943"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "984",
+      "valor" : "984"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "3.º Trimestre de 2007" : [ {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 012",
+      "valor" : "1012"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "940",
+      "valor" : "940"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "1 069",
+      "valor" : "1069"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "989",
+      "valor" : "989"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "905",
+      "valor" : "905"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "1 039",
+      "valor" : "1039"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "954",
+      "valor" : "954"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "923",
+      "valor" : "923"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "1 005",
+      "valor" : "1005"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "4.º Trimestre de 2007" : [ {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 006",
+      "valor" : "1006"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "989",
+      "valor" : "989"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "1 022",
+      "valor" : "1022"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "996",
+      "valor" : "996"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "921",
+      "valor" : "921"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "1 061",
+      "valor" : "1061"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "949",
+      "valor" : "949"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "913",
+      "valor" : "913"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "993",
+      "valor" : "993"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "1.º Trimestre de 2008" : [ {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "983",
+      "valor" : "983"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "985",
+      "valor" : "985"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "982",
+      "valor" : "982"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 037",
+      "valor" : "1037"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "982",
+      "valor" : "982"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "1 064",
+      "valor" : "1064"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "949",
+      "valor" : "949"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "909",
+      "valor" : "909"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "995",
+      "valor" : "995"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "2.º Trimestre de 2008" : [ {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "937",
+      "valor" : "937"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "894",
+      "valor" : "894"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "977",
+      "valor" : "977"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 058",
+      "valor" : "1058"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "940",
+      "valor" : "940"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "1 125",
+      "valor" : "1125"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "903",
+      "valor" : "903"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "851",
+      "valor" : "851"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "968",
+      "valor" : "968"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "3.º Trimestre de 2008" : [ {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "920",
+      "valor" : "920"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "912",
+      "valor" : "912"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "927",
+      "valor" : "927"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 012",
+      "valor" : "1012"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "857",
+      "valor" : "857"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "1 102",
+      "valor" : "1102"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "905",
+      "valor" : "905"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "838",
+      "valor" : "838"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "981",
+      "valor" : "981"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "4.º Trimestre de 2008" : [ {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "936",
+      "valor" : "936"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "910",
+      "valor" : "910"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "957",
+      "valor" : "957"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 049",
+      "valor" : "1049"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "879",
+      "valor" : "879"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "1 158",
+      "valor" : "1158"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "904",
+      "valor" : "904"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "881",
+      "valor" : "881"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "927",
+      "valor" : "927"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "1.º Trimestre de 2009" : [ {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "910",
+      "valor" : "910"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "945",
+      "valor" : "945"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "902",
+      "valor" : "902"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 001",
+      "valor" : "1001"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "807",
+      "valor" : "807"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "1 116",
+      "valor" : "1116"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "882",
+      "valor" : "882"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "826",
+      "valor" : "826"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "947",
+      "valor" : "947"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "2.º Trimestre de 2009" : [ {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "928",
+      "valor" : "928"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "950",
+      "valor" : "950"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "916",
+      "valor" : "916"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "991",
+      "valor" : "991"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "866",
+      "valor" : "866"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "1 062",
+      "valor" : "1062"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "901",
+      "valor" : "901"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "875",
+      "valor" : "875"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "930",
+      "valor" : "930"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "3.º Trimestre de 2009" : [ {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "926",
+      "valor" : "926"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "872",
+      "valor" : "872"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "957",
+      "valor" : "957"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 017",
+      "valor" : "1017"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "819",
+      "valor" : "819"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "1 166",
+      "valor" : "1166"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "884",
+      "valor" : "884"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "847",
+      "valor" : "847"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "926",
+      "valor" : "926"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "4.º Trimestre de 2009" : [ {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "903",
+      "valor" : "903"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "852",
+      "valor" : "852"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "932",
+      "valor" : "932"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 013",
+      "valor" : "1013"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "849",
+      "valor" : "849"
+    }, {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "1 116",
+      "valor" : "1116"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "880",
+      "valor" : "880"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "ind_string" : "848",
+      "valor" : "848"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "ind_string" : "917",
+      "valor" : "917"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Apartamentos",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Moradias",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

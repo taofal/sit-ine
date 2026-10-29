@@ -1,0 +1,103 @@
+# Entrega — INE — 2026-10-29
+
+- **Enviado por:** API JSON do INE (extração própria do DIIET, script 3_scripts/extrair_ine.py)
+- **Recebido em:** 2026-10-29
+- **Data de extração (da fonte):** campo `DataExtracao` de cada ficheiro
+- **Âmbito:** ver extrações abaixo
+- **Contrato / base legal:** 
+- **Ficheiros:** `<varcd>_dados_<hash>.json` (resposta de dados, exatamente como devolvida) e `<varcd>_meta.json` (metadados)
+- **Notas da ficha técnica:** ver `MetaInfUrl` em cada ficheiro de dados
+- **Restrições de reutilização:** 
+
+## Extração — 2026-10-29 02:41 — séries completas
+Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal. Todas as categorias das restantes dimensões.
+
+- **0005151** Proveitos de aposento (€) dos estabelecimentos hoteleiros — 1350 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0005151_dados_338bc3731d.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0005151&lang=PT&Dim1=S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2015&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0005153** Estada média (N.º) nos estabelecimentos hoteleiros — 1350 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0005153_dados_6e2580709d.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0005153&lang=PT&Dim1=S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2015&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0005154** Taxa líquida de ocupação cama (%) nos estabelecimentos hoteleiros — 1350 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0005154_dados_d5318cf626.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0005154&lang=PT&Dim1=S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2015&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0005155** Estabelecimentos hoteleiros (N.º) — 1350 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0005155_dados_e0c98f7ee0.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0005155&lang=PT&Dim1=S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2015&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0005156** Capacidade de alojamento (N.º) nos estabelecimentos hoteleiros — 1350 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0005156_dados_a03ccaeabc.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0005156&lang=PT&Dim1=S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2015&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0005157** Dormidas (N.º) nos estabelecimentos hoteleiros — 1350 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0005157_dados_ee135b00c8.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0005157&lang=PT&Dim1=S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2015&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0005158** Hóspedes (N.º) nos estabelecimentos hoteleiros — 1350 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0005158_dados_02b214ac29.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0005158&lang=PT&Dim1=S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2015&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0012591** Alunas/os inscritas/os no ensino superior (N.º) — 360 valores, 1 ficheiros novos
+    - `0012591_dados_47647741ff.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012591&lang=PT&Dim1=7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3,7A2024_3,7A2025_3,7A2026_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012597** Estabelecimentos de ensino superior (N.º) — 360 valores, 1 ficheiros novos
+    - `0012597_dados_506cd7755b.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012597&lang=PT&Dim1=7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3,7A2024_3,7A2025_3,7A2026_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012631** Proporção de inscritas/os em áreas de C&T no ensino superior (%) — 930 valores, 1 ficheiros novos
+    - `0012631_dados_9d25f2156e.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012631&lang=PT&Dim1=7A1996_3,7A1997_3,7A1998_3,7A1999_3,7A2000_3,7A2001_3,7A2002_3,7A2003_3,7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3,7A2024_3,7A2025_3,7A2026_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012633** Proporção de mulheres nos inscritos no ensino superior (%) — 310 valores, 1 ficheiros novos
+    - `0012633_dados_2f839dcc00.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012633&lang=PT&Dim1=7A1996_3,7A1997_3,7A1998_3,7A1999_3,7A2000_3,7A2001_3,7A2002_3,7A2003_3,7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3,7A2024_3,7A2025_3,7A2026_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012634** Taxa de escolarização no ensino superior (%) — 230 valores, 1 ficheiros novos
+    - `0012634_dados_4933004cf7.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012634&lang=PT&Dim1=7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3,7A2024_3,7A2025_3,7A2026_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009251** Proporção de inscritas/os em áreas de C&T no ensino superior (N.º) — 171 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0009251_dados_8e31e65bc2.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009251&lang=PT&Dim1=7A1996_3,7A1997_3,7A1998_3,7A1999_3,7A2000_3,7A2001_3,7A2002_3,7A2003_3,7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0012590** Alunas/os inscritas/os no ensino superior (N.º) — 550 valores, 1 ficheiros novos
+    - `0012590_dados_a3465bea1e.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012590&lang=PT&Dim1=7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3,7A2024_3,7A2025_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0002962** Valores médios de avaliação bancária (€/ m²) dos alojamentos — 312 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Ave, Cávado, Matosinhos, Área Metropolitana do Porto, Norte, Portugal
+    - `0002962_dados_57d60bcbe0.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0002962&lang=PT&Dim1=S5A20033,S5A20034,S5A20041,S5A20042,S5A20043,S5A20044,S5A20051,S5A20052,S5A20053,S5A20054,S5A20061,S5A20062,S5A20063,S5A20064,S5A20071,S5A20072,S5A20073,S5A20074,S5A20081,S5A20082,S5A20083,S5A20084,S5A20091,S5A20092,S5A20093,S5A20094&Dim2=0308,0302,1314,1312
+- **0010042** Valor mediano de avaliação bancária (€/ m²) — 4650 valores, 1 ficheiros novos
+    - `0010042_dados_c02a66b5cf.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010042&lang=PT&Dim1=S3A201101,S3A201102,S3A201103,S3A201104,S3A201105,S3A201106,S3A201107,S3A201108,S3A201109,S3A201110,S3A201111,S3A201112,S3A201201,S3A201202,S3A201203,S3A201204,S3A201205,S3A201206,S3A201207,S3A201208,S3A201209,S3A201210,S3A201211,S3A201212,S3A201301,S3A201302,S3A201303,S3A201304,S3A201305,S3A201306,S3A201307,S3A201308,S3A201309,S3A201310,S3A201311,S3A201312,S3A201401,S3A201402,S3A201403,S3A201404,S3A201405,S3A201406,S3A201407,S3A201408,S3A201409,S3A201410,S3A201411,S3A201412,S3A201501,S3A201502,S3A201503,S3A201504,S3A201505,S3A201506,S3A201507,S3A201508,S3A201509,S3A201510,S3A201511,S3A201512,S3A201601,S3A201602,S3A201603,S3A201604,S3A201605,S3A201606,S3A201607,S3A201608,S3A201609,S3A201610,S3A201611,S3A201612,S3A201701,S3A201702,S3A201703,S3A201704,S3A201705,S3A201706,S3A201707,S3A201708,S3A201709,S3A201710,S3A201711,S3A201712,S3A201801,S3A201802,S3A201803,S3A201804,S3A201805,S3A201806,S3A201807,S3A201808,S3A201809,S3A201810,S3A201811,S3A201812,S3A201901,S3A201902,S3A201903,S3A201904,S3A201905,S3A201906,S3A201907,S3A201908,S3A201909,S3A201910,S3A201911,S3A201912,S3A202001,S3A202002,S3A202003,S3A202004,S3A202005,S3A202006,S3A202007,S3A202008,S3A202009,S3A202010,S3A202011,S3A202012,S3A202101,S3A202102,S3A202103,S3A202104,S3A202105,S3A202106,S3A202107,S3A202108,S3A202109,S3A202110,S3A202111,S3A202112,S3A202201,S3A202202,S3A202203,S3A202204,S3A202205,S3A202206,S3A202207,S3A202208,S3A202209,S3A202210,S3A202211,S3A202212,S3A202301,S3A202302,S3A202303,S3A202304,S3A202305,S3A202306,S3A202307,S3A202308,S3A202309,S3A202310,S3A202311&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010373** Proporção de população empregada por conta de outrem em estabelecimentos de empresas com menos de 10 trabalhadores (%) — 100 valores, 1 ficheiros novos
+    - `0010373_dados_4a07bf6db2.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010373&lang=PT&Dim1=S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010374** Proporção de população empregada por conta de outrem em estabelecimentos de empresas com 250 ou mais trabalhadores (%) — 100 valores, 1 ficheiros novos
+    - `0010374_dados_b00273e2a4.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010374&lang=PT&Dim1=S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010375** Proporção de população empregada por conta de outrem que mudou de empresa em relação ao emprego total (%) — 50 valores, 1 ficheiros novos
+    - `0010375_dados_5f6ab651af.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010375&lang=PT&Dim1=S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010377** Disparidade no ganho médio mensal (Entre escalões de empresa - %) da população empregada por conta de outrem — 100 valores, 1 ficheiros novos
+    - `0010377_dados_b67bc523cc.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010377&lang=PT&Dim1=S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010381** Ganho médio mensal (€) — 700 valores, 1 ficheiros novos
+    - `0010381_dados_31fddc61d9.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010381&lang=PT&Dim1=S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008714** Taxa de abstenção nas eleições para a Assembleia da República (%) — 70 valores, 1 ficheiros novos
+    - `0008714_dados_e5adbd353a.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008714&lang=PT&Dim1=S7A2002,S7A2005,S7A2009,S7A2011,S7A2015,S7A2019,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010173** Proporção de votos em branco nas eleições para a Assembleia da República (%) — 30 valores, 1 ficheiros novos
+    - `0010173_dados_3eae55f8d8.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010173&lang=PT&Dim1=S7A2015,S7A2019,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010174** Proporção de votos nulos nas eleições para a Assembleia da República (%) — 30 valores, 1 ficheiros novos
+    - `0010174_dados_a3131de704.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010174&lang=PT&Dim1=S7A2015,S7A2019,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010175** Proporção de votos do partido/coligação mais votado nas eleições para a Assembleia da República (%) — 30 valores, 1 ficheiros novos
+    - `0010175_dados_433fa0efbe.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010175&lang=PT&Dim1=S7A2015,S7A2019,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010192** População inscrita nas eleições para a Assembleia da República (N.º) — 30 valores, 1 ficheiros novos
+    - `0010192_dados_1a20449a79.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010192&lang=PT&Dim1=S7A2015,S7A2019,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010198** Abstenção nas eleições para a Assembleia da República (N.º) — 30 valores, 1 ficheiros novos
+    - `0010198_dados_8e8c36c830.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010198&lang=PT&Dim1=S7A2015,S7A2019,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010219** Votos nas eleições para a Assembleia da República (N.º) — 120 valores, 1 ficheiros novos
+    - `0010219_dados_5b13ec31b6.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010219&lang=PT&Dim1=S7A2015,S7A2019,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012646** Proporção de população empregada por conta de outrem que mudou de empresa em relação ao emprego total (%) — 40 valores, 1 ficheiros novos
+    - `0012646_dados_3d7b00b3f9.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012646&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012647** Taxa de atração líquida (%) de população empregada por conta de outrem — 40 valores, 1 ficheiros novos
+    - `0012647_dados_8a53e9a86a.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012647&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012648** População empregada por conta de outrem (N.º) — 480 valores, 1 ficheiros novos
+    - `0012648_dados_8ca304ea3b.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012648&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012649** Ganho médio mensal (€) — 480 valores, 1 ficheiros novos
+    - `0012649_dados_aa54388250.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012649&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012650** População empregada por conta de outrem (N.º) — 280 valores, 1 ficheiros novos
+    - `0012650_dados_0c95cd30ea.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012650&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012651** Ganho médio mensal (€) — 280 valores, 1 ficheiros novos
+    - `0012651_dados_bd01d2952a.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012651&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012654** População empregada por conta de outrem (N.º) — 400 valores, 1 ficheiros novos
+    - `0012654_dados_1deeaa108a.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012654&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012655** Ganho médio mensal (€) — 400 valores, 1 ficheiros novos
+    - `0012655_dados_2731c506f2.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012655&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012657** Disparidade no ganho médio mensal (Entre níveis de habilitação - %) da população empregada por conta de outrem — 40 valores, 1 ficheiros novos
+    - `0012657_dados_05d7a606d4.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012657&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012658** Disparidade no ganho médio mensal (Entre setores de atividade em CAE Rev.3 - %) da população empregada por conta de outrem — 40 valores, 1 ficheiros novos
+    - `0012658_dados_e3177e55a8.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012658&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012659** Disparidade no ganho médio mensal (Entre profissões - %) da população empregada por conta de outrem — 40 valores, 1 ficheiros novos
+    - `0012659_dados_0bbd7a6dbb.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012659&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012660** Proporção da população empregada por conta de outrem com ensino superior (%) — 40 valores, 1 ficheiros novos
+    - `0012660_dados_b120d5faa4.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012660&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012661** Disparidade no ganho médio mensal (Entre sexos - %) da população empregada por conta de outrem — 40 valores, 1 ficheiros novos
+    - `0012661_dados_d5d83aec85.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012661&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012662** Proporção de população empregada por conta de outrem em estabelecimentos de empresas com menos de 10 trabalhadores (%) — 40 valores, 1 ficheiros novos
+    - `0012662_dados_3a2abacd26.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012662&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012663** Proporção de população empregada por conta de outrem em estabelecimentos de empresas com 250 ou mais trabalhadores (%) — 40 valores, 1 ficheiros novos
+    - `0012663_dados_e25a9457de.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012663&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012664** Disparidade no ganho médio mensal (Entre escalões de empresa - %) da população empregada por conta de outrem — 40 valores, 1 ficheiros novos
+    - `0012664_dados_3bcd4c2213.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012664&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0002960** Valores médios de avaliação bancária (€/ m²) dos alojamentos — 0 valores, 0 ficheiros novos; FALHAS: metadados: orçamento da volta esgotado
