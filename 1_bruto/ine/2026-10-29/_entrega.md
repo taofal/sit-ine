@@ -180,3 +180,8 @@ Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos,
 - **0009935** Imposto sobre o rendimento de pessoas singulares liquidado por sujeito passivo (€) — 70 valores, 1 ficheiros novos
     - `0009935_dados_bf08484652.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009935&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
 - **0009936** Rendimento bruto declarado deduzido do IRS liquidado por sujeito passivo (€) — 0 valores, 0 ficheiros novos; FALHAS: metadados: orçamento da volta esgotado
+
+## Extração — 2026-10-29 08:40 — séries completas
+Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal. Todas as categorias das restantes dimensões.
+
+- **0009936** Rendimento bruto declarado deduzido do IRS liquidado por sujeito passivo (€) — 0 valores, 0 ficheiros novos; FALHAS: metadados: INE recusou: <urlopen error timed out>
