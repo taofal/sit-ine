@@ -362,3 +362,76 @@ Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos,
 - **0008572** Estada média (N.º) nos estabelecimentos hoteleiros — 2750 valores, 1 ficheiros novos
     - `0008572_dados_a256e1f838.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008572&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
 - **0008573** Taxa líquida de ocupação cama (%) nos estabelecimentos hoteleiros — 0 valores, 0 ficheiros novos; FALHAS: S7A2011: volta parada | S7A2012: volta parada | S7A2013: volta parada | S7A2014: volta parada | S7A2015: volta parada | S7A2016: volta parada | S7A2017: volta parada | S7A2018: volta parada | S7A2019: volta parada | S7A2020: volta parada | S7A2021: volta parada
+
+## Extração — 2026-10-29 00:25 — séries completas
+Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal. Todas as categorias das restantes dimensões.
+
+- **0008573** Taxa líquida de ocupação cama (%) nos estabelecimentos hoteleiros — 2750 valores, 1 ficheiros novos
+    - `0008573_dados_625773c51a.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008573&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008576** Dormidas (N.º) nos estabelecimentos hoteleiros — 2750 valores, 1 ficheiros novos
+    - `0008576_dados_866c8e5362.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008576&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0002109** Dormidas nos estabelecimentos hoteleiros por 100 habitantes (N.º) — 108 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0002109_dados_dc69f875ed.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0002109&lang=PT&Dim1=S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0002111** Capacidade de alojamento nos estabelecimentos hoteleiros por 1000 habitantes (N.º) — 108 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0002111_dados_107652d217.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0002111&lang=PT&Dim1=S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0012242** Constituição de pessoas coletivas e entidades equiparadas (N.º) — 325080 valores, 18 ficheiros novos
+    - `0012242_dados_401e4cb106.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012242&lang=PT&Dim1=S7A2008&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012242_dados_3a4410bb82.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012242&lang=PT&Dim1=S7A2009&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012242_dados_909f518b9f.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012242&lang=PT&Dim1=S7A2010&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012242_dados_07c9b6c92f.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012242&lang=PT&Dim1=S7A2011&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012242_dados_c8cf82c033.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012242&lang=PT&Dim1=S7A2012&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012242_dados_a7e46c67cd.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012242&lang=PT&Dim1=S7A2013&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012242_dados_6442ab9a7c.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012242&lang=PT&Dim1=S7A2014&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012242_dados_6a14ccde79.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012242&lang=PT&Dim1=S7A2015&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012242_dados_894d16cfa0.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012242&lang=PT&Dim1=S7A2016&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012242_dados_65ef644342.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012242&lang=PT&Dim1=S7A2017&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012242_dados_e1bb34a067.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012242&lang=PT&Dim1=S7A2018&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012242_dados_4764953109.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012242&lang=PT&Dim1=S7A2019&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012242_dados_075e5d6970.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012242&lang=PT&Dim1=S7A2020&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012242_dados_7886daecb5.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012242&lang=PT&Dim1=S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012242_dados_41e8ab9375.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012242&lang=PT&Dim1=S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012242_dados_1ec1aef9b1.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012242&lang=PT&Dim1=S7A2023&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012242_dados_d5d699670a.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012242&lang=PT&Dim1=S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012242_dados_d9161bd647.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012242&lang=PT&Dim1=S7A2025&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012243** Dissolução de pessoas coletivas e entidades equiparadas (N.º) — 325080 valores, 18 ficheiros novos
+    - `0012243_dados_d4e3065a48.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012243&lang=PT&Dim1=S7A2008&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012243_dados_fb834b0aff.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012243&lang=PT&Dim1=S7A2009&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012243_dados_50950096c1.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012243&lang=PT&Dim1=S7A2010&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012243_dados_93d992c290.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012243&lang=PT&Dim1=S7A2011&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012243_dados_19884d2acb.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012243&lang=PT&Dim1=S7A2012&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012243_dados_de0408205e.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012243&lang=PT&Dim1=S7A2013&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012243_dados_d5667b0571.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012243&lang=PT&Dim1=S7A2014&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012243_dados_5c474486ef.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012243&lang=PT&Dim1=S7A2015&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012243_dados_68dd0ccd1e.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012243&lang=PT&Dim1=S7A2016&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012243_dados_2317451a44.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012243&lang=PT&Dim1=S7A2017&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012243_dados_dc66cd321a.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012243&lang=PT&Dim1=S7A2018&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012243_dados_f49499642c.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012243&lang=PT&Dim1=S7A2019&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012243_dados_74abb1a8d8.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012243&lang=PT&Dim1=S7A2020&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012243_dados_81ef28f6d0.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012243&lang=PT&Dim1=S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012243_dados_e8b2d6ec13.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012243&lang=PT&Dim1=S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012243_dados_47c148c367.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012243&lang=PT&Dim1=S7A2023&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012243_dados_f0871577bc.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012243&lang=PT&Dim1=S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0012243_dados_7e552129df.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012243&lang=PT&Dim1=S7A2025&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0014643** Constituição de pessoas coletivas e entidades equiparadas (N.º) — 19170 valores, 1 ficheiros novos
+    - `0014643_dados_a2668cefc4.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0014643&lang=PT&Dim1=S7A2025&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0014644** Dissolução de pessoas coletivas e entidades equiparadas (N.º) — 19170 valores, 1 ficheiros novos
+    - `0014644_dados_8ffd12be7c.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0014644&lang=PT&Dim1=S7A2025&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008795** Prémios brutos emitidos pelos estabelecimentos de empresas de seguros por habitante (€/ hab.) — 110 valores, 1 ficheiros novos
+    - `0008795_dados_876585b515.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008795&lang=PT&Dim1=S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008796** Pessoal ao serviço (N.º) nos estabelecimentos de empresas de seguros — 110 valores, 1 ficheiros novos
+    - `0008796_dados_dd47f97b7b.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008796&lang=PT&Dim1=S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008797** Custos com o pessoal (€) nos estabelecimentos de empresas de seguros — 110 valores, 1 ficheiros novos
+    - `0008797_dados_3e217b7d4f.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008797&lang=PT&Dim1=S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008798** Prémios brutos emitidos (€) pelos estabelecimentos de empresas de seguros — 110 valores, 1 ficheiros novos
+    - `0008798_dados_5ce08a35a5.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008798&lang=PT&Dim1=S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008799** Estabelecimentos de empresas de seguros (N.º) — 110 valores, 1 ficheiros novos
+    - `0008799_dados_ed3ebf751c.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008799&lang=PT&Dim1=S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010380** População empregada por conta de outrem (N.º) — 700 valores, 1 ficheiros novos
+    - `0010380_dados_3a933fc09d.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010380&lang=PT&Dim1=S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008764** Proporção de declarações fiscais do IRS - Modelo 3 entregues on-line (%) — 120 valores, 1 ficheiros novos
+    - `0008764_dados_c99f46615c.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008764&lang=PT&Dim1=S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0005147** Quartos (N.º) nos estabelecimentos hoteleiros — 1350 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0005147_dados_45a8a96957.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0005147&lang=PT&Dim1=S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2015&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0005150** Proveitos totais (€) dos estabelecimentos hoteleiros — 1350 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0005150_dados_b5c4d7b7ee.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0005150&lang=PT&Dim1=S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2015&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0005151** Proveitos de aposento (€) dos estabelecimentos hoteleiros — 0 valores, 0 ficheiros novos; FALHAS: metadados: orçamento da volta esgotado
