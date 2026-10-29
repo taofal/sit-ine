@@ -301,3 +301,60 @@ Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos,
 - **0012757** Valor mediano do rendimento bruto declarado deduzido do IRS liquidado por sujeito passivo (€) — 70 valores, 1 ficheiros novos
     - `0012757_dados_c80dcfe76b.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012757&lang=PT&Dim1=S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
 - **0012758** Sujeitos Passivos (N.º) — 0 valores, 0 ficheiros novos; FALHAS: metadados: orçamento da volta esgotado
+
+## Extração — 2026-10-29 17:55 — séries completas
+Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal. Todas as categorias das restantes dimensões.
+
+- **0012758** Sujeitos Passivos (N.º) — 490 valores, 1 ficheiros novos
+    - `0012758_dados_1899f9c2c9.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012758&lang=PT&Dim1=S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012759** Distribuição do rendimento bruto declarado deduzido de IRS liquidado (€) dos sujeitos passivos — 280 valores, 1 ficheiros novos
+    - `0012759_dados_35d35e2127.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012759&lang=PT&Dim1=S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012760** Coeficiente de Gini do rendimento bruto declarado deduzido do IRS liquidado por sujeito passivo (%) — 70 valores, 1 ficheiros novos
+    - `0012760_dados_2d2d6b426d.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012760&lang=PT&Dim1=S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012761** Desigualdade na distribuição do rendimento bruto declarado deduzido do IRS liquidado dos sujeitos passivos (P80/P20 - N.º) — 70 valores, 1 ficheiros novos
+    - `0012761_dados_08b3656309.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012761&lang=PT&Dim1=S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012762** Desigualdade na distribuição do rendimento bruto declarado deduzido do IRS liquidado dos sujeitos passivos (P90/P10 - N.º) — 70 valores, 1 ficheiros novos
+    - `0012762_dados_e3bdb81f0a.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012762&lang=PT&Dim1=S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013318** Agregados fiscais (N.º) — 70 valores, 1 ficheiros novos
+    - `0013318_dados_4720251de4.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013318&lang=PT&Dim1=S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009569** Média de alunas/os matriculadas/os no ensino não superior por computador (N.º) — 850 valores, 1 ficheiros novos
+    - `0009569_dados_1e3ae16fd9.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009569&lang=PT&Dim1=7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009570** Média de alunas/os matriculadas/os no ensino não superior por computador com ligação à Internet (N.º) — 850 valores, 1 ficheiros novos
+    - `0009570_dados_76bebf87ee.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009570&lang=PT&Dim1=7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0007139** Taxa de abandono escolar (%) — 9 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0007139_dados_1ceeb7a4cb.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0007139&lang=PT&Dim1=S7A2011&Dim2=0308,113,112,0302,1314,1308,1312,11,PT
+- **0011420** Constituição de pessoas coletivas e entidades equiparadas (N.º) — 288960 valores, 16 ficheiros novos
+    - `0011420_dados_04629095b8.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011420&lang=PT&Dim1=S7A2008&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011420_dados_03001a20fa.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011420&lang=PT&Dim1=S7A2009&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011420_dados_1f1780c82b.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011420&lang=PT&Dim1=S7A2010&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011420_dados_862626006b.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011420&lang=PT&Dim1=S7A2011&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011420_dados_bedc39026f.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011420&lang=PT&Dim1=S7A2012&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011420_dados_ae7027028f.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011420&lang=PT&Dim1=S7A2013&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011420_dados_222580eb8f.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011420&lang=PT&Dim1=S7A2014&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011420_dados_655cac3afc.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011420&lang=PT&Dim1=S7A2015&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011420_dados_224628218d.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011420&lang=PT&Dim1=S7A2016&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011420_dados_f2df99f590.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011420&lang=PT&Dim1=S7A2017&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011420_dados_deec7b3bab.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011420&lang=PT&Dim1=S7A2018&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011420_dados_dc7e93c82a.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011420&lang=PT&Dim1=S7A2019&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011420_dados_6303ccda1c.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011420&lang=PT&Dim1=S7A2020&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011420_dados_a695c3c6c0.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011420&lang=PT&Dim1=S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011420_dados_c1cc56b7c1.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011420&lang=PT&Dim1=S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011420_dados_30b6533a96.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011420&lang=PT&Dim1=S7A2023&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0011421** Dissolução de pessoas coletivas e entidades equiparadas (N.º) — 288960 valores, 16 ficheiros novos
+    - `0011421_dados_228a33de83.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011421&lang=PT&Dim1=S7A2008&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011421_dados_85925f39f6.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011421&lang=PT&Dim1=S7A2009&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011421_dados_6aa708b959.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011421&lang=PT&Dim1=S7A2010&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011421_dados_467f42306b.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011421&lang=PT&Dim1=S7A2011&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011421_dados_98094c5b68.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011421&lang=PT&Dim1=S7A2012&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011421_dados_62257653f6.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011421&lang=PT&Dim1=S7A2013&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011421_dados_0d70b88120.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011421&lang=PT&Dim1=S7A2014&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011421_dados_ce85cc3e31.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011421&lang=PT&Dim1=S7A2015&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011421_dados_64aaa4c77e.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011421&lang=PT&Dim1=S7A2016&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011421_dados_8e57b602a2.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011421&lang=PT&Dim1=S7A2017&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011421_dados_b012bc036e.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011421&lang=PT&Dim1=S7A2018&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011421_dados_38a6725546.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011421&lang=PT&Dim1=S7A2019&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011421_dados_f3f6699f0f.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011421&lang=PT&Dim1=S7A2020&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011421_dados_bab583b894.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011421&lang=PT&Dim1=S7A2021&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011421_dados_e8094c2825.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011421&lang=PT&Dim1=S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+    - `0011421_dados_e8ce55697b.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011421&lang=PT&Dim1=S7A2023&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008080** Despesa em investigação e desenvolvimento (I&D - €) das instituições e empresas com investigação e desenvolvimento — 0 valores, 0 ficheiros novos; FALHAS: metadados: orçamento da volta esgotado

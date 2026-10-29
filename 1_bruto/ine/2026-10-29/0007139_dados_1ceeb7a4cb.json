@@ -1,0 +1,79 @@
+[ {
+  "IndicadorCod" : "0007139",
+  "IndicadorDsg" : "Taxa de abandono escolar (%) por Local de residência (à data dos Censos 2011); Decenal - INE, Recenseamento da população e habitação - Censos 2011",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0007139&lingua=PT",
+  "DataExtracao" : "2026-10-29T17:12:34.307Z",
+  "DataUltimoAtualizacao" : "2015-07-24",
+  "UltimoPref" : "2011",
+  "Dados" : {
+    "2011" : [ {
+      "geocod" : "1314",
+      "geodsg" : "Santo Tirso",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "1,02 *",
+      "valor" : "1.02"
+    }, {
+      "geocod" : "0302",
+      "geodsg" : "Barcelos",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "1,33 *",
+      "valor" : "1.33"
+    }, {
+      "geocod" : "0308",
+      "geodsg" : "Guimarães",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "1,32 *",
+      "valor" : "1.32"
+    }, {
+      "geocod" : "1312",
+      "geodsg" : "Porto",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "1,72 *",
+      "valor" : "1.72"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "1,41 *",
+      "valor" : "1.41"
+    }, {
+      "geocod" : "113",
+      "geodsg" : "Ave",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "1,37 *",
+      "valor" : "1.37"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "1,53 *",
+      "valor" : "1.53"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "1,70 *",
+      "valor" : "1.7"
+    }, {
+      "geocod" : "1308",
+      "geodsg" : "Matosinhos",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "1,45 *",
+      "valor" : "1.45"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
