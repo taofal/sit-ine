@@ -1,0 +1,611 @@
+[ {
+  "IndicadorCod" : "0002962",
+  "IndicadorNome" : "Valores médios de avaliação bancária (€/ m²) dos alojamentos por Localização geográfica (Municípios com cidades médias) e Tipo de construção; Trimestral - INE, Inquérito à avaliação bancária na habitação",
+  "Periodic" : "Trimestral",
+  "PrimeiroPeriodo" : "3.º Trimestre de 2003",
+  "UltimoPeriodo" : "4.º Trimestre de 2009",
+  "UnidadeMedida" : "Euro/ Metro quadrado (€/ m²)",
+  "Potencia10" : "0",
+  "PrecisaoDecimal" : "0",
+  "Lingua" : "PT",
+  "DataUltimaAtualizacao" : "2010-01-28",
+  "DataExtracao" : "2026-10-29T02:08:36.867Z",
+  "Dimensoes" : {
+    "Descricao_Dim" : [ {
+      "dim_num" : "1",
+      "abrv" : "Período de referência dos dados (Trimestre)",
+      "versao" : "XXXXX"
+    }, {
+      "dim_num" : "2",
+      "abrv" : "Localização geográfica (Municípios com cidades médias)",
+      "versao" : "01967"
+    }, {
+      "dim_num" : "3",
+      "abrv" : "Tipo de construção",
+      "versao" : "01135"
+    } ],
+    "Categoria_Dim" : [ {
+      "Dim_Num1_S5A20033" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20033",
+        "categ_cod" : "S5A20033",
+        "categ_dsg" : "3.º Trimestre de 2003",
+        "categ_ord" : "20030701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20034" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20034",
+        "categ_cod" : "S5A20034",
+        "categ_dsg" : "4.º Trimestre de 2003",
+        "categ_ord" : "20031001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20041" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20041",
+        "categ_cod" : "S5A20041",
+        "categ_dsg" : "1.º Trimestre de 2004",
+        "categ_ord" : "20040101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20042" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20042",
+        "categ_cod" : "S5A20042",
+        "categ_dsg" : "2.º Trimestre de 2004",
+        "categ_ord" : "20040401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20043" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20043",
+        "categ_cod" : "S5A20043",
+        "categ_dsg" : "3.º Trimestre de 2004",
+        "categ_ord" : "20040701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20044" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20044",
+        "categ_cod" : "S5A20044",
+        "categ_dsg" : "4.º Trimestre de 2004",
+        "categ_ord" : "20041001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20051" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20051",
+        "categ_cod" : "S5A20051",
+        "categ_dsg" : "1.º Trimestre de 2005",
+        "categ_ord" : "20050101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20052" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20052",
+        "categ_cod" : "S5A20052",
+        "categ_dsg" : "2.º Trimestre de 2005",
+        "categ_ord" : "20050401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20053" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20053",
+        "categ_cod" : "S5A20053",
+        "categ_dsg" : "3.º Trimestre de 2005",
+        "categ_ord" : "20050701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20054" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20054",
+        "categ_cod" : "S5A20054",
+        "categ_dsg" : "4.º Trimestre de 2005",
+        "categ_ord" : "20051001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20061" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20061",
+        "categ_cod" : "S5A20061",
+        "categ_dsg" : "1.º Trimestre de 2006",
+        "categ_ord" : "20060101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20062" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20062",
+        "categ_cod" : "S5A20062",
+        "categ_dsg" : "2.º Trimestre de 2006",
+        "categ_ord" : "20060401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20063" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20063",
+        "categ_cod" : "S5A20063",
+        "categ_dsg" : "3.º Trimestre de 2006",
+        "categ_ord" : "20060701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20064" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20064",
+        "categ_cod" : "S5A20064",
+        "categ_dsg" : "4.º Trimestre de 2006",
+        "categ_ord" : "20061001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20071" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20071",
+        "categ_cod" : "S5A20071",
+        "categ_dsg" : "1.º Trimestre de 2007",
+        "categ_ord" : "20070101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20072" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20072",
+        "categ_cod" : "S5A20072",
+        "categ_dsg" : "2.º Trimestre de 2007",
+        "categ_ord" : "20070401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20073" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20073",
+        "categ_cod" : "S5A20073",
+        "categ_dsg" : "3.º Trimestre de 2007",
+        "categ_ord" : "20070701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20074" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20074",
+        "categ_cod" : "S5A20074",
+        "categ_dsg" : "4.º Trimestre de 2007",
+        "categ_ord" : "20071001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20081" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20081",
+        "categ_cod" : "S5A20081",
+        "categ_dsg" : "1.º Trimestre de 2008",
+        "categ_ord" : "20080101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20082" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20082",
+        "categ_cod" : "S5A20082",
+        "categ_dsg" : "2.º Trimestre de 2008",
+        "categ_ord" : "20080401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20083" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20083",
+        "categ_cod" : "S5A20083",
+        "categ_dsg" : "3.º Trimestre de 2008",
+        "categ_ord" : "20080701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20084" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20084",
+        "categ_cod" : "S5A20084",
+        "categ_dsg" : "4.º Trimestre de 2008",
+        "categ_ord" : "20081001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20091" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20091",
+        "categ_cod" : "S5A20091",
+        "categ_dsg" : "1.º Trimestre de 2009",
+        "categ_ord" : "20090101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20092" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20092",
+        "categ_cod" : "S5A20092",
+        "categ_dsg" : "2.º Trimestre de 2009",
+        "categ_ord" : "20090401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20093" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20093",
+        "categ_cod" : "S5A20093",
+        "categ_dsg" : "3.º Trimestre de 2009",
+        "categ_ord" : "20090701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20094" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20094",
+        "categ_cod" : "S5A20094",
+        "categ_dsg" : "4.º Trimestre de 2009",
+        "categ_ord" : "20091001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_0105" : [ {
+        "dim_num" : "2",
+        "cat_id" : "0105",
+        "categ_cod" : "0105",
+        "categ_dsg" : "Aveiro",
+        "categ_ord" : "10",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_0109" : [ {
+        "dim_num" : "2",
+        "cat_id" : "0109",
+        "categ_cod" : "0109",
+        "categ_dsg" : "Santa Maria da Feira",
+        "categ_ord" : "160",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_0113" : [ {
+        "dim_num" : "2",
+        "cat_id" : "0113",
+        "categ_cod" : "0113",
+        "categ_dsg" : "Oliveira de Azeméis",
+        "categ_ord" : "480",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_0116" : [ {
+        "dim_num" : "2",
+        "cat_id" : "0116",
+        "categ_cod" : "0116",
+        "categ_dsg" : "São João da Madeira",
+        "categ_ord" : "680",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_0205" : [ {
+        "dim_num" : "2",
+        "cat_id" : "0205",
+        "categ_cod" : "0205",
+        "categ_dsg" : "Beja",
+        "categ_ord" : "700",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_0302" : [ {
+        "dim_num" : "2",
+        "cat_id" : "0302",
+        "categ_cod" : "0302",
+        "categ_dsg" : "Barcelos",
+        "categ_ord" : "890",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_0303" : [ {
+        "dim_num" : "2",
+        "cat_id" : "0303",
+        "categ_cod" : "0303",
+        "categ_dsg" : "Braga",
+        "categ_ord" : "1790",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_0307" : [ {
+        "dim_num" : "2",
+        "cat_id" : "0307",
+        "categ_cod" : "0307",
+        "categ_dsg" : "Fafe",
+        "categ_ord" : "2420",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_0308" : [ {
+        "dim_num" : "2",
+        "cat_id" : "0308",
+        "categ_cod" : "0308",
+        "categ_dsg" : "Guimarães",
+        "categ_ord" : "2790",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_0312" : [ {
+        "dim_num" : "2",
+        "cat_id" : "0312",
+        "categ_cod" : "0312",
+        "categ_dsg" : "Vila Nova de Famalicão",
+        "categ_ord" : "3480",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_0402" : [ {
+        "dim_num" : "2",
+        "cat_id" : "0402",
+        "categ_cod" : "0402",
+        "categ_dsg" : "Bragança",
+        "categ_ord" : "3980",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_0407" : [ {
+        "dim_num" : "2",
+        "cat_id" : "0407",
+        "categ_cod" : "0407",
+        "categ_dsg" : "Mirandela",
+        "categ_ord" : "4480",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_0502" : [ {
+        "dim_num" : "2",
+        "cat_id" : "0502",
+        "categ_cod" : "0502",
+        "categ_dsg" : "Castelo Branco",
+        "categ_ord" : "4860",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_0503" : [ {
+        "dim_num" : "2",
+        "cat_id" : "0503",
+        "categ_cod" : "0503",
+        "categ_dsg" : "Covilhã",
+        "categ_ord" : "5120",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_0603" : [ {
+        "dim_num" : "2",
+        "cat_id" : "0603",
+        "categ_cod" : "0603",
+        "categ_dsg" : "Coimbra",
+        "categ_ord" : "5440",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_0605" : [ {
+        "dim_num" : "2",
+        "cat_id" : "0605",
+        "categ_cod" : "0605",
+        "categ_dsg" : "Figueira da Foz",
+        "categ_ord" : "5760",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_0705" : [ {
+        "dim_num" : "2",
+        "cat_id" : "0705",
+        "categ_cod" : "0705",
+        "categ_dsg" : "Évora",
+        "categ_ord" : "5950",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_0805" : [ {
+        "dim_num" : "2",
+        "cat_id" : "0805",
+        "categ_cod" : "0805",
+        "categ_dsg" : "Faro",
+        "categ_ord" : "6150",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_0810" : [ {
+        "dim_num" : "2",
+        "cat_id" : "0810",
+        "categ_cod" : "0810",
+        "categ_dsg" : "Olhão",
+        "categ_ord" : "6220",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_0811" : [ {
+        "dim_num" : "2",
+        "cat_id" : "0811",
+        "categ_cod" : "0811",
+        "categ_dsg" : "Portimão",
+        "categ_ord" : "6280",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_0907" : [ {
+        "dim_num" : "2",
+        "cat_id" : "0907",
+        "categ_cod" : "0907",
+        "categ_dsg" : "Guarda",
+        "categ_ord" : "6320",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1006" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1006",
+        "categ_cod" : "1006",
+        "categ_dsg" : "Caldas da Rainha",
+        "categ_ord" : "6880",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1009" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1009",
+        "categ_cod" : "1009",
+        "categ_dsg" : "Leiria",
+        "categ_ord" : "7050",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1010" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1010",
+        "categ_cod" : "1010",
+        "categ_dsg" : "Marinha Grande",
+        "categ_ord" : "7350",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1106" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1106",
+        "categ_cod" : "1106",
+        "categ_dsg" : "Lisboa",
+        "categ_ord" : "7390",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1113" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1113",
+        "categ_cod" : "1113",
+        "categ_dsg" : "Torres Vedras",
+        "categ_ord" : "7930",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1214" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1214",
+        "categ_cod" : "1214",
+        "categ_dsg" : "Portalegre",
+        "categ_ord" : "8140",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1310" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1310",
+        "categ_cod" : "1310",
+        "categ_dsg" : "Paredes",
+        "categ_ord" : "8250",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1311" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1311",
+        "categ_cod" : "1311",
+        "categ_dsg" : "Penafiel",
+        "categ_ord" : "8500",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1312" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1312",
+        "categ_cod" : "1312",
+        "categ_dsg" : "Porto",
+        "categ_ord" : "8890",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1314" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1314",
+        "categ_cod" : "1314",
+        "categ_dsg" : "Santo Tirso",
+        "categ_ord" : "9050",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1401" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1401",
+        "categ_cod" : "1401",
+        "categ_dsg" : "Abrantes",
+        "categ_ord" : "9300",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1410" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1410",
+        "categ_cod" : "1410",
+        "categ_dsg" : "Entroncamento",
+        "categ_ord" : "9500",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1416" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1416",
+        "categ_cod" : "1416",
+        "categ_dsg" : "Santarém",
+        "categ_ord" : "9520",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1418" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1418",
+        "categ_cod" : "1418",
+        "categ_dsg" : "Tomar",
+        "categ_ord" : "9810",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1419" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1419",
+        "categ_cod" : "1419",
+        "categ_dsg" : "Torres Novas",
+        "categ_ord" : "9980",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1512" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1512",
+        "categ_cod" : "1512",
+        "categ_dsg" : "Setúbal",
+        "categ_ord" : "10160",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1609" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1609",
+        "categ_cod" : "1609",
+        "categ_dsg" : "Viana do Castelo",
+        "categ_ord" : "10250",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1703" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1703",
+        "categ_cod" : "1703",
+        "categ_dsg" : "Chaves",
+        "categ_ord" : "10660",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1708" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1708",
+        "categ_cod" : "1708",
+        "categ_dsg" : "Peso da Régua",
+        "categ_ord" : "11180",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1714" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1714",
+        "categ_cod" : "1714",
+        "categ_dsg" : "Vila Real",
+        "categ_ord" : "11310",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1805" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1805",
+        "categ_cod" : "1805",
+        "categ_dsg" : "Lamego",
+        "categ_ord" : "11620",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1823" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1823",
+        "categ_cod" : "1823",
+        "categ_dsg" : "Viseu",
+        "categ_ord" : "11870",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num3_T" : [ {
+        "dim_num" : "3",
+        "cat_id" : "T",
+        "categ_cod" : "T",
+        "categ_dsg" : "Total",
+        "categ_ord" : "10",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num3_1" : [ {
+        "dim_num" : "3",
+        "cat_id" : "1",
+        "categ_cod" : "1",
+        "categ_dsg" : "Apartamentos",
+        "categ_ord" : "20",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_2" : [ {
+        "dim_num" : "3",
+        "cat_id" : "2",
+        "categ_cod" : "2",
+        "categ_dsg" : "Moradias",
+        "categ_ord" : "30",
+        "categ_nivel" : "2"
+      } ]
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

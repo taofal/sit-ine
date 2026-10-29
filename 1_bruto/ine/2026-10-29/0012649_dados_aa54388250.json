@@ -1,0 +1,4339 @@
+[ {
+  "IndicadorCod" : "0012649",
+  "IndicadorDsg" : "Ganho médio mensal (€) por Localização geográfica (NUTS - 2024), Sector de atividade económica (CAE Rev. 3) e Sexo; Anual - MTSSS/GEP, Quadros de pessoal",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0012649&lingua=PT",
+  "DataExtracao" : "2026-10-29T02:26:50.632Z",
+  "DataUltimoAtualizacao" : "2026-03-27",
+  "UltimoPref" : "2024",
+  "Dados" : {
+    "2021" : [ {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "784,52",
+      "valor" : "784.52"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "796,03",
+      "valor" : "796.03"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "806,44",
+      "valor" : "806.44"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "812,52",
+      "valor" : "812.52"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "825,93",
+      "valor" : "825.93"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "847,83",
+      "valor" : "847.83"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "853,90",
+      "valor" : "853.9"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "860,10",
+      "valor" : "860.1"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "864,61",
+      "valor" : "864.61"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "871,06",
+      "valor" : "871.06"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "871,71",
+      "valor" : "871.71"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "884,21",
+      "valor" : "884.21"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "891,92",
+      "valor" : "891.92"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "894,06",
+      "valor" : "894.06"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "906,33",
+      "valor" : "906.33"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "917,10",
+      "valor" : "917.1"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "923,74",
+      "valor" : "923.74"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "929,80",
+      "valor" : "929.8"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "932,89",
+      "valor" : "932.89"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "937,30",
+      "valor" : "937.3"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "952,40",
+      "valor" : "952.4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "960,87",
+      "valor" : "960.87"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "960,92",
+      "valor" : "960.92"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "961,16",
+      "valor" : "961.16"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "978,79",
+      "valor" : "978.79"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "980,18",
+      "valor" : "980.18"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "990,06",
+      "valor" : "990.06"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "991,66",
+      "valor" : "991.66"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "994,44",
+      "valor" : "994.44"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "994,61",
+      "valor" : "994.61"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 007,71",
+      "valor" : "1007.71"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 010,74",
+      "valor" : "1010.74"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 017,72",
+      "valor" : "1017.72"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 020,28",
+      "valor" : "1020.28"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 021,17",
+      "valor" : "1021.17"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 024,35",
+      "valor" : "1024.35"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 031,27",
+      "valor" : "1031.27"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 032,17",
+      "valor" : "1032.17"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 032,47",
+      "valor" : "1032.47"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 033,09",
+      "valor" : "1033.09"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 036,25",
+      "valor" : "1036.25"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 058,14",
+      "valor" : "1058.14"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 061,80",
+      "valor" : "1061.8"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 064,39",
+      "valor" : "1064.39"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 065,26",
+      "valor" : "1065.26"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 075,36",
+      "valor" : "1075.36"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 075,94",
+      "valor" : "1075.94"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 080,58",
+      "valor" : "1080.58"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 080,78",
+      "valor" : "1080.78"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 084,60",
+      "valor" : "1084.6"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 084,88",
+      "valor" : "1084.88"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 090,49",
+      "valor" : "1090.49"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 092,55",
+      "valor" : "1092.55"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 101,29",
+      "valor" : "1101.29"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 102,10",
+      "valor" : "1102.1"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 102,11",
+      "valor" : "1102.11"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 103,40",
+      "valor" : "1103.4"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 106,03",
+      "valor" : "1106.03"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 106,75",
+      "valor" : "1106.75"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 107,65",
+      "valor" : "1107.65"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 108,13",
+      "valor" : "1108.13"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 117,99",
+      "valor" : "1117.99"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 119,77",
+      "valor" : "1119.77"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 122,62",
+      "valor" : "1122.62"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 124,50",
+      "valor" : "1124.5"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 134,32",
+      "valor" : "1134.32"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 156,45",
+      "valor" : "1156.45"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 163,12",
+      "valor" : "1163.12"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 165,13",
+      "valor" : "1165.13"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 165,93",
+      "valor" : "1165.93"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 166,11",
+      "valor" : "1166.11"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 167,24",
+      "valor" : "1167.24"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 168,91",
+      "valor" : "1168.91"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 168,98",
+      "valor" : "1168.98"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 170,89",
+      "valor" : "1170.89"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 187,19",
+      "valor" : "1187.19"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 190,48",
+      "valor" : "1190.48"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 192,53",
+      "valor" : "1192.53"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 192,97",
+      "valor" : "1192.97"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 194,08",
+      "valor" : "1194.08"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 194,43",
+      "valor" : "1194.43"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 195,59",
+      "valor" : "1195.59"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 213,17",
+      "valor" : "1213.17"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 216,88",
+      "valor" : "1216.88"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 224,82",
+      "valor" : "1224.82"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 227,16",
+      "valor" : "1227.16"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 238,28",
+      "valor" : "1238.28"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 242,74",
+      "valor" : "1242.74"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 272,07",
+      "valor" : "1272.07"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 277,46",
+      "valor" : "1277.46"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 287,03",
+      "valor" : "1287.03"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 289,50",
+      "valor" : "1289.5"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 290,81",
+      "valor" : "1290.81"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 301,06",
+      "valor" : "1301.06"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 332,34",
+      "valor" : "1332.34"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 340,36",
+      "valor" : "1340.36"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 354,44",
+      "valor" : "1354.44"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 359,00",
+      "valor" : "1359"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 369,37",
+      "valor" : "1369.37"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 373,22",
+      "valor" : "1373.22"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 389,76",
+      "valor" : "1389.76"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 397,37",
+      "valor" : "1397.37"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 406,73",
+      "valor" : "1406.73"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 417,03",
+      "valor" : "1417.03"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 423,73",
+      "valor" : "1423.73"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 450,07",
+      "valor" : "1450.07"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 483,79",
+      "valor" : "1483.79"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 487,94",
+      "valor" : "1487.94"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 532,64",
+      "valor" : "1532.64"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 547,90",
+      "valor" : "1547.9"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 555,37",
+      "valor" : "1555.37"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 572,87",
+      "valor" : "1572.87"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 574,79",
+      "valor" : "1574.79"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 585,34",
+      "valor" : "1585.34"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 635,16",
+      "valor" : "1635.16"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 714,34",
+      "valor" : "1714.34"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 748,45",
+      "valor" : "1748.45"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 751,54",
+      "valor" : "1751.54"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 949,52",
+      "valor" : "1949.52"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "2 139,05",
+      "valor" : "2139.05"
+    } ],
+    "2022" : [ {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "817,14",
+      "valor" : "817.14"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "851,34",
+      "valor" : "851.34"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "857,17",
+      "valor" : "857.17"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "857,23",
+      "valor" : "857.23"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "863,16",
+      "valor" : "863.16"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "881,30",
+      "valor" : "881.3"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "885,35",
+      "valor" : "885.35"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "893,79",
+      "valor" : "893.79"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "919,64",
+      "valor" : "919.64"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "925,26",
+      "valor" : "925.26"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "931,78",
+      "valor" : "931.78"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "932,63",
+      "valor" : "932.63"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "944,18",
+      "valor" : "944.18"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "948,52",
+      "valor" : "948.52"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "975,00",
+      "valor" : "975"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "978,00",
+      "valor" : "978"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "978,48",
+      "valor" : "978.48"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "984,99",
+      "valor" : "984.99"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "986,29",
+      "valor" : "986.29"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 000,95",
+      "valor" : "1000.95"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 006,96",
+      "valor" : "1006.96"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 009,00",
+      "valor" : "1009"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 010,44",
+      "valor" : "1010.44"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 015,22",
+      "valor" : "1015.22"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 021,60",
+      "valor" : "1021.6"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 023,72",
+      "valor" : "1023.72"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 039,27",
+      "valor" : "1039.27"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 043,68",
+      "valor" : "1043.68"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 044,64",
+      "valor" : "1044.64"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 049,48",
+      "valor" : "1049.48"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 054,54",
+      "valor" : "1054.54"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 056,18",
+      "valor" : "1056.18"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 062,23",
+      "valor" : "1062.23"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 066,61",
+      "valor" : "1066.61"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 067,63",
+      "valor" : "1067.63"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 076,56",
+      "valor" : "1076.56"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 080,48",
+      "valor" : "1080.48"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 082,22",
+      "valor" : "1082.22"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 083,93",
+      "valor" : "1083.93"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 091,80",
+      "valor" : "1091.8"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 103,62",
+      "valor" : "1103.62"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 108,64",
+      "valor" : "1108.64"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 120,56",
+      "valor" : "1120.56"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 129,43",
+      "valor" : "1129.43"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 130,99",
+      "valor" : "1130.99"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 132,33",
+      "valor" : "1132.33"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 132,34",
+      "valor" : "1132.34"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 135,12",
+      "valor" : "1135.12"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 136,56",
+      "valor" : "1136.56"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 138,57",
+      "valor" : "1138.57"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 150,62",
+      "valor" : "1150.62"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 153,22",
+      "valor" : "1153.22"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 153,73",
+      "valor" : "1153.73"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 153,83",
+      "valor" : "1153.83"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 155,95",
+      "valor" : "1155.95"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 156,85",
+      "valor" : "1156.85"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 157,72",
+      "valor" : "1157.72"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 160,51",
+      "valor" : "1160.51"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 161,39",
+      "valor" : "1161.39"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 165,33",
+      "valor" : "1165.33"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 173,38",
+      "valor" : "1173.38"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 173,96",
+      "valor" : "1173.96"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 177,39",
+      "valor" : "1177.39"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 181,32",
+      "valor" : "1181.32"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 183,08",
+      "valor" : "1183.08"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 202,42",
+      "valor" : "1202.42"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 207,61",
+      "valor" : "1207.61"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 210,98",
+      "valor" : "1210.98"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 220,21",
+      "valor" : "1220.21"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 220,76",
+      "valor" : "1220.76"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 222,53",
+      "valor" : "1222.53"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 228,46",
+      "valor" : "1228.46"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 233,53",
+      "valor" : "1233.53"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 235,35",
+      "valor" : "1235.35"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 245,37",
+      "valor" : "1245.37"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 245,63",
+      "valor" : "1245.63"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 248,85",
+      "valor" : "1248.85"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 253,46",
+      "valor" : "1253.46"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 255,45",
+      "valor" : "1255.45"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 258,27",
+      "valor" : "1258.27"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 261,58",
+      "valor" : "1261.58"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 263,91",
+      "valor" : "1263.91"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 279,73",
+      "valor" : "1279.73"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 288,77",
+      "valor" : "1288.77"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 290,16",
+      "valor" : "1290.16"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 308,80",
+      "valor" : "1308.8"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 326,80",
+      "valor" : "1326.8"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 332,32",
+      "valor" : "1332.32"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 333,26",
+      "valor" : "1333.26"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 336,96",
+      "valor" : "1336.96"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 347,67",
+      "valor" : "1347.67"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 350,07",
+      "valor" : "1350.07"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 354,26",
+      "valor" : "1354.26"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 362,37",
+      "valor" : "1362.37"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 378,56",
+      "valor" : "1378.56"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 407,30",
+      "valor" : "1407.3"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 412,72",
+      "valor" : "1412.72"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 415,01",
+      "valor" : "1415.01"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 423,39",
+      "valor" : "1423.39"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 450,58",
+      "valor" : "1450.58"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 461,66",
+      "valor" : "1461.66"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 469,15",
+      "valor" : "1469.15"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 490,70",
+      "valor" : "1490.7"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 500,40",
+      "valor" : "1500.4"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 526,26",
+      "valor" : "1526.26"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 536,50",
+      "valor" : "1536.5"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 570,16",
+      "valor" : "1570.16"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 580,88",
+      "valor" : "1580.88"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 584,13",
+      "valor" : "1584.13"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 605,74",
+      "valor" : "1605.74"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 628,10",
+      "valor" : "1628.1"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 628,73",
+      "valor" : "1628.73"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 634,85",
+      "valor" : "1634.85"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 677,63",
+      "valor" : "1677.63"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 686,67",
+      "valor" : "1686.67"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 710,31",
+      "valor" : "1710.31"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 721,02",
+      "valor" : "1721.02"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 795,22",
+      "valor" : "1795.22"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 830,90",
+      "valor" : "1830.9"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 845,26",
+      "valor" : "1845.26"
+    } ],
+    "2023" : [ {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "905,81",
+      "valor" : "905.81"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "939,43",
+      "valor" : "939.43"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "945,39",
+      "valor" : "945.39"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "948,90",
+      "valor" : "948.9"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "950,85",
+      "valor" : "950.85"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "952,23",
+      "valor" : "952.23"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "952,37",
+      "valor" : "952.37"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "964,94",
+      "valor" : "964.94"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "968,13",
+      "valor" : "968.13"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "972,84",
+      "valor" : "972.84"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "979,61",
+      "valor" : "979.61"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "979,63",
+      "valor" : "979.63"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "994,99",
+      "valor" : "994.99"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "996,03",
+      "valor" : "996.03"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 023,28",
+      "valor" : "1023.28"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 042,30",
+      "valor" : "1042.3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 046,37",
+      "valor" : "1046.37"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 049,99",
+      "valor" : "1049.99"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 051,09",
+      "valor" : "1051.09"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 058,60",
+      "valor" : "1058.6"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 061,74",
+      "valor" : "1061.74"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 071,74",
+      "valor" : "1071.74"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 072,75",
+      "valor" : "1072.75"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 074,45",
+      "valor" : "1074.45"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 091,60",
+      "valor" : "1091.6"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 099,72",
+      "valor" : "1099.72"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 109,55",
+      "valor" : "1109.55"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 117,80",
+      "valor" : "1117.8"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 123,44",
+      "valor" : "1123.44"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 127,64",
+      "valor" : "1127.64"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 133,80",
+      "valor" : "1133.8"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 136,17",
+      "valor" : "1136.17"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 136,85",
+      "valor" : "1136.85"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 142,46",
+      "valor" : "1142.46"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 145,06",
+      "valor" : "1145.06"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 147,50",
+      "valor" : "1147.5"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 151,04",
+      "valor" : "1151.04"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 154,56",
+      "valor" : "1154.56"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 162,44",
+      "valor" : "1162.44"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 165,05",
+      "valor" : "1165.05"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 165,42",
+      "valor" : "1165.42"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 167,69",
+      "valor" : "1167.69"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 175,69",
+      "valor" : "1175.69"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 175,78",
+      "valor" : "1175.78"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 178,99",
+      "valor" : "1178.99"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 190,23",
+      "valor" : "1190.23"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 199,53",
+      "valor" : "1199.53"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 200,48",
+      "valor" : "1200.48"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 207,65",
+      "valor" : "1207.65"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 215,13",
+      "valor" : "1215.13"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 215,74",
+      "valor" : "1215.74"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 218,57",
+      "valor" : "1218.57"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 223,77",
+      "valor" : "1223.77"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 224,03",
+      "valor" : "1224.03"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 225,62",
+      "valor" : "1225.62"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 225,82",
+      "valor" : "1225.82"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 232,29",
+      "valor" : "1232.29"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 234,76",
+      "valor" : "1234.76"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 248,54",
+      "valor" : "1248.54"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 248,56",
+      "valor" : "1248.56"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 260,81",
+      "valor" : "1260.81"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 261,42",
+      "valor" : "1261.42"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 264,13",
+      "valor" : "1264.13"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 265,16",
+      "valor" : "1265.16"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 266,20",
+      "valor" : "1266.2"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 276,47",
+      "valor" : "1276.47"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 279,02",
+      "valor" : "1279.02"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 279,26",
+      "valor" : "1279.26"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 295,94",
+      "valor" : "1295.94"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 306,84",
+      "valor" : "1306.84"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 306,93",
+      "valor" : "1306.93"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 307,66",
+      "valor" : "1307.66"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 315,59",
+      "valor" : "1315.59"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 318,56",
+      "valor" : "1318.56"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 327,92",
+      "valor" : "1327.92"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 331,25",
+      "valor" : "1331.25"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 344,06",
+      "valor" : "1344.06"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 348,66",
+      "valor" : "1348.66"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 350,96",
+      "valor" : "1350.96"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 352,69",
+      "valor" : "1352.69"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 355,27",
+      "valor" : "1355.27"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 358,73",
+      "valor" : "1358.73"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 360,56",
+      "valor" : "1360.56"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 374,24",
+      "valor" : "1374.24"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 376,79",
+      "valor" : "1376.79"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 395,79",
+      "valor" : "1395.79"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 401,18",
+      "valor" : "1401.18"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 412,84",
+      "valor" : "1412.84"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 428,34",
+      "valor" : "1428.34"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 435,40",
+      "valor" : "1435.4"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 435,97",
+      "valor" : "1435.97"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 446,45",
+      "valor" : "1446.45"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 456,82",
+      "valor" : "1456.82"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 460,81",
+      "valor" : "1460.81"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 480,08",
+      "valor" : "1480.08"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 506,67",
+      "valor" : "1506.67"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 522,19",
+      "valor" : "1522.19"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 525,01",
+      "valor" : "1525.01"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 530,60",
+      "valor" : "1530.6"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 551,95",
+      "valor" : "1551.95"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 570,12",
+      "valor" : "1570.12"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 572,79",
+      "valor" : "1572.79"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 596,59",
+      "valor" : "1596.59"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 600,75",
+      "valor" : "1600.75"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 630,39",
+      "valor" : "1630.39"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 638,99",
+      "valor" : "1638.99"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 653,42",
+      "valor" : "1653.42"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 675,16",
+      "valor" : "1675.16"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 691,37",
+      "valor" : "1691.37"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 714,77",
+      "valor" : "1714.77"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 731,60",
+      "valor" : "1731.6"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 732,66",
+      "valor" : "1732.66"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 740,23",
+      "valor" : "1740.23"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 749,18",
+      "valor" : "1749.18"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 761,44",
+      "valor" : "1761.44"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 761,91",
+      "valor" : "1761.91"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 762,71",
+      "valor" : "1762.71"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 784,55",
+      "valor" : "1784.55"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 979,13",
+      "valor" : "1979.13"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "2 005,07",
+      "valor" : "2005.07"
+    } ],
+    "2024" : [ {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "991,89",
+      "valor" : "991.89"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 013,86",
+      "valor" : "1013.86"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 018,44",
+      "valor" : "1018.44"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 027,05",
+      "valor" : "1027.05"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 029,72",
+      "valor" : "1029.72"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 035,76",
+      "valor" : "1035.76"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 037,63",
+      "valor" : "1037.63"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 038,91",
+      "valor" : "1038.91"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 044,68",
+      "valor" : "1044.68"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 048,42",
+      "valor" : "1048.42"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 072,03",
+      "valor" : "1072.03"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 073,76",
+      "valor" : "1073.76"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 092,33",
+      "valor" : "1092.33"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 096,79",
+      "valor" : "1096.79"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 098,09",
+      "valor" : "1098.09"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 114,74",
+      "valor" : "1114.74"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 149,01",
+      "valor" : "1149.01"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 158,37",
+      "valor" : "1158.37"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 161,95",
+      "valor" : "1161.95"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 167,76",
+      "valor" : "1167.76"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 169,75",
+      "valor" : "1169.75"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 176,56",
+      "valor" : "1176.56"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 185,45",
+      "valor" : "1185.45"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 199,60",
+      "valor" : "1199.6"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 201,28",
+      "valor" : "1201.28"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 203,26",
+      "valor" : "1203.26"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 207,65",
+      "valor" : "1207.65"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 218,50",
+      "valor" : "1218.5"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 224,55",
+      "valor" : "1224.55"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 226,91",
+      "valor" : "1226.91"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 227,00",
+      "valor" : "1227"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 237,21",
+      "valor" : "1237.21"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 243,94",
+      "valor" : "1243.94"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 259,11",
+      "valor" : "1259.11"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 260,46",
+      "valor" : "1260.46"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 262,97",
+      "valor" : "1262.97"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 263,23",
+      "valor" : "1263.23"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 267,00",
+      "valor" : "1267"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 269,73",
+      "valor" : "1269.73"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 285,82",
+      "valor" : "1285.82"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 289,60",
+      "valor" : "1289.6"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 290,22",
+      "valor" : "1290.22"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 307,49",
+      "valor" : "1307.49"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 311,86",
+      "valor" : "1311.86"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 316,08",
+      "valor" : "1316.08"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 321,75",
+      "valor" : "1321.75"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 322,76",
+      "valor" : "1322.76"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 326,21",
+      "valor" : "1326.21"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 333,52",
+      "valor" : "1333.52"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 336,44",
+      "valor" : "1336.44"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 344,63",
+      "valor" : "1344.63"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 346,16",
+      "valor" : "1346.16"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 346,42",
+      "valor" : "1346.42"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 346,84",
+      "valor" : "1346.84"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 354,76",
+      "valor" : "1354.76"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 362,77",
+      "valor" : "1362.77"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 366,12",
+      "valor" : "1366.12"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 366,49",
+      "valor" : "1366.49"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 374,66",
+      "valor" : "1374.66"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 374,80",
+      "valor" : "1374.8"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 378,01",
+      "valor" : "1378.01"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 384,30",
+      "valor" : "1384.3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 386,70",
+      "valor" : "1386.7"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 390,42",
+      "valor" : "1390.42"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 392,23",
+      "valor" : "1392.23"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 397,20",
+      "valor" : "1397.2"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 400,40",
+      "valor" : "1400.4"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 403,34",
+      "valor" : "1403.34"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 416,31",
+      "valor" : "1416.31"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 424,38",
+      "valor" : "1424.38"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 434,26",
+      "valor" : "1434.26"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 440,52",
+      "valor" : "1440.52"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 444,69",
+      "valor" : "1444.69"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 453,50",
+      "valor" : "1453.5"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 461,70",
+      "valor" : "1461.7"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 464,13",
+      "valor" : "1464.13"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 464,76",
+      "valor" : "1464.76"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 474,68",
+      "valor" : "1474.68"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 475,25",
+      "valor" : "1475.25"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 486,70",
+      "valor" : "1486.7"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 486,85",
+      "valor" : "1486.85"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 491,11",
+      "valor" : "1491.11"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 511,07",
+      "valor" : "1511.07"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 513,31",
+      "valor" : "1513.31"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 535,26",
+      "valor" : "1535.26"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 536,11",
+      "valor" : "1536.11"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 557,68",
+      "valor" : "1557.68"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 565,80",
+      "valor" : "1565.8"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 575,21",
+      "valor" : "1575.21"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 576,03",
+      "valor" : "1576.03"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 582,38",
+      "valor" : "1582.38"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 604,45",
+      "valor" : "1604.45"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 620,05",
+      "valor" : "1620.05"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 623,34",
+      "valor" : "1623.34"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 630,66",
+      "valor" : "1630.66"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 630,72",
+      "valor" : "1630.72"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 670,35",
+      "valor" : "1670.35"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 677,02",
+      "valor" : "1677.02"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 681,30",
+      "valor" : "1681.3"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 685,56",
+      "valor" : "1685.56"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 696,28",
+      "valor" : "1696.28"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 741,34",
+      "valor" : "1741.34"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 779,31",
+      "valor" : "1779.31"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 796,11",
+      "valor" : "1796.11"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 796,54",
+      "valor" : "1796.54"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 820,25",
+      "valor" : "1820.25"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "1 842,42",
+      "valor" : "1842.42"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 847,56",
+      "valor" : "1847.56"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 852,71",
+      "valor" : "1852.71"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 873,17",
+      "valor" : "1873.17"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 884,23",
+      "valor" : "1884.23"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 921,09",
+      "valor" : "1921.09"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 929,73",
+      "valor" : "1929.73"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "1 936,96",
+      "valor" : "1936.96"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 948,13",
+      "valor" : "1948.13"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 973,05",
+      "valor" : "1973.05"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "1 983,61",
+      "valor" : "1983.61"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "2 161,74",
+      "valor" : "2161.74"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "2 167,44",
+      "valor" : "2167.44"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "2 205,38",
+      "valor" : "2205.38"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

@@ -1,0 +1,4939 @@
+[ {
+  "IndicadorCod" : "0010381",
+  "IndicadorDsg" : "Ganho médio mensal (€) por Localização geográfica (NUTS - 2013) e Escalão de pessoal ao serviço; Anual - MTSSS/GEP, Quadros de pessoal",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0010381&lingua=PT",
+  "DataExtracao" : "2026-10-29T02:15:15.834Z",
+  "DataUltimoAtualizacao" : "2024-09-27",
+  "UltimoPref" : "2022",
+  "Dados" : {
+    "2013" : [ {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "706,73",
+      "valor" : "706.73"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "816,25",
+      "valor" : "816.25"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "740,90",
+      "valor" : "740.9"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "873,80",
+      "valor" : "873.8"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 002,08",
+      "valor" : "1002.08"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "897,09",
+      "valor" : "897.09"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 371,64",
+      "valor" : "1371.64"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "735,54",
+      "valor" : "735.54"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "823,88",
+      "valor" : "823.88"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "882,18",
+      "valor" : "882.18"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "956,57",
+      "valor" : "956.57"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 065,04",
+      "valor" : "1065.04"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 168,31",
+      "valor" : "1168.31"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 325,16",
+      "valor" : "1325.16"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "708,71",
+      "valor" : "708.71"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "780,80",
+      "valor" : "780.8"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "833,86",
+      "valor" : "833.86"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "943,41",
+      "valor" : "943.41"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 056,06",
+      "valor" : "1056.06"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 021,85",
+      "valor" : "1021.85"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 242,03",
+      "valor" : "1242.03"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "667,33",
+      "valor" : "667.33"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "695,51",
+      "valor" : "695.51"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "765,16",
+      "valor" : "765.16"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "907,49",
+      "valor" : "907.49"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "943,75",
+      "valor" : "943.75"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 089,87",
+      "valor" : "1089.87"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "929,60",
+      "valor" : "929.6"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "692,74",
+      "valor" : "692.74"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "734,93",
+      "valor" : "734.93"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "774,87",
+      "valor" : "774.87"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "857,24",
+      "valor" : "857.24"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "879,22",
+      "valor" : "879.22"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 032,85",
+      "valor" : "1032.85"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 234,35",
+      "valor" : "1234.35"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "702,23",
+      "valor" : "702.23"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "731,25",
+      "valor" : "731.25"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "780,86",
+      "valor" : "780.86"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "884,06",
+      "valor" : "884.06"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "859,63",
+      "valor" : "859.63"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "895,06",
+      "valor" : "895.06"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 124,81",
+      "valor" : "1124.81"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "790,17",
+      "valor" : "790.17"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "909,31",
+      "valor" : "909.31"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "987,56",
+      "valor" : "987.56"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 071,67",
+      "valor" : "1071.67"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 216,50",
+      "valor" : "1216.5"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 284,41",
+      "valor" : "1284.41"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 349,61",
+      "valor" : "1349.61"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "869,03",
+      "valor" : "869.03"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "981,95",
+      "valor" : "981.95"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 133,90",
+      "valor" : "1133.9"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 212,24",
+      "valor" : "1212.24"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 270,50",
+      "valor" : "1270.5"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 313,52",
+      "valor" : "1313.52"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 191,40",
+      "valor" : "1191.4"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "884,60",
+      "valor" : "884.6"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 067,40",
+      "valor" : "1067.4"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 174,65",
+      "valor" : "1174.65"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 300,00",
+      "valor" : "1300"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 609,68",
+      "valor" : "1609.68"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 448,86",
+      "valor" : "1448.86"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 602,98",
+      "valor" : "1602.98"
+    } ],
+    "2014" : [ {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "730,82",
+      "valor" : "730.82"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "806,63",
+      "valor" : "806.63"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "773,40",
+      "valor" : "773.4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "869,16",
+      "valor" : "869.16"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 002,19",
+      "valor" : "1002.19"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "928,44",
+      "valor" : "928.44"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 408,76",
+      "valor" : "1408.76"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "744,36",
+      "valor" : "744.36"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "829,67",
+      "valor" : "829.67"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "895,02",
+      "valor" : "895.02"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "969,45",
+      "valor" : "969.45"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 054,78",
+      "valor" : "1054.78"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 157,41",
+      "valor" : "1157.41"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 320,22",
+      "valor" : "1320.22"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "716,05",
+      "valor" : "716.05"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "777,05",
+      "valor" : "777.05"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "864,57",
+      "valor" : "864.57"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "989,18",
+      "valor" : "989.18"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "955,35",
+      "valor" : "955.35"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 058,08",
+      "valor" : "1058.08"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 220,49",
+      "valor" : "1220.49"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "680,06",
+      "valor" : "680.06"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "713,11",
+      "valor" : "713.11"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "811,73",
+      "valor" : "811.73"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "870,46",
+      "valor" : "870.46"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "929,65",
+      "valor" : "929.65"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 097,71",
+      "valor" : "1097.71"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "993,84",
+      "valor" : "993.84"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "704,11",
+      "valor" : "704.11"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "746,15",
+      "valor" : "746.15"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "778,60",
+      "valor" : "778.6"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "859,30",
+      "valor" : "859.3"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "884,74",
+      "valor" : "884.74"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 052,44",
+      "valor" : "1052.44"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 261,83",
+      "valor" : "1261.83"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "715,38",
+      "valor" : "715.38"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "749,67",
+      "valor" : "749.67"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "785,42",
+      "valor" : "785.42"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "886,77",
+      "valor" : "886.77"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "877,33",
+      "valor" : "877.33"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "943,90",
+      "valor" : "943.9"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 229,69",
+      "valor" : "1229.69"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "798,62",
+      "valor" : "798.62"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "914,77",
+      "valor" : "914.77"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 001,35",
+      "valor" : "1001.35"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 079,71",
+      "valor" : "1079.71"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 213,61",
+      "valor" : "1213.61"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 253,96",
+      "valor" : "1253.96"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 348,03",
+      "valor" : "1348.03"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "868,57",
+      "valor" : "868.57"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "983,80",
+      "valor" : "983.8"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 162,91",
+      "valor" : "1162.91"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 209,94",
+      "valor" : "1209.94"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 263,30",
+      "valor" : "1263.3"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 256,37",
+      "valor" : "1256.37"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 181,39",
+      "valor" : "1181.39"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "891,75",
+      "valor" : "891.75"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 054,59",
+      "valor" : "1054.59"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 175,82",
+      "valor" : "1175.82"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 321,74",
+      "valor" : "1321.74"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 498,18",
+      "valor" : "1498.18"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 439,90",
+      "valor" : "1439.9"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 566,68",
+      "valor" : "1566.68"
+    } ],
+    "2015" : [ {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "719,38",
+      "valor" : "719.38"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "838,59",
+      "valor" : "838.59"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "771,64",
+      "valor" : "771.64"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "828,07",
+      "valor" : "828.07"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 022,53",
+      "valor" : "1022.53"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "948,38",
+      "valor" : "948.38"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 381,56",
+      "valor" : "1381.56"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "790,76",
+      "valor" : "790.76"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "916,38",
+      "valor" : "916.38"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 011,29",
+      "valor" : "1011.29"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 088,43",
+      "valor" : "1088.43"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 254,00",
+      "valor" : "1254"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 274,29",
+      "valor" : "1274.29"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 417,85",
+      "valor" : "1417.85"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "744,61",
+      "valor" : "744.61"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "828,25",
+      "valor" : "828.25"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "899,33",
+      "valor" : "899.33"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "974,87",
+      "valor" : "974.87"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 102,96",
+      "valor" : "1102.96"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 137,65",
+      "valor" : "1137.65"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 310,04",
+      "valor" : "1310.04"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "714,69",
+      "valor" : "714.69"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "785,43",
+      "valor" : "785.43"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "861,91",
+      "valor" : "861.91"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "974,55",
+      "valor" : "974.55"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "994,59",
+      "valor" : "994.59"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 087,78",
+      "valor" : "1087.78"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 230,02",
+      "valor" : "1230.02"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "679,87",
+      "valor" : "679.87"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "719,86",
+      "valor" : "719.86"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "785,46",
+      "valor" : "785.46"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "885,98",
+      "valor" : "885.98"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "985,32",
+      "valor" : "985.32"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 092,48",
+      "valor" : "1092.48"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 010,57",
+      "valor" : "1010.57"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "706,19",
+      "valor" : "706.19"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "740,74",
+      "valor" : "740.74"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "786,62",
+      "valor" : "786.62"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "867,63",
+      "valor" : "867.63"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "922,59",
+      "valor" : "922.59"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "973,37",
+      "valor" : "973.37"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 257,81",
+      "valor" : "1257.81"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "721,94",
+      "valor" : "721.94"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "744,71",
+      "valor" : "744.71"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "797,09",
+      "valor" : "797.09"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "890,36",
+      "valor" : "890.36"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "903,40",
+      "valor" : "903.4"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "907,87",
+      "valor" : "907.87"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 230,63",
+      "valor" : "1230.63"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "798,10",
+      "valor" : "798.1"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "909,82",
+      "valor" : "909.82"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 008,47",
+      "valor" : "1008.47"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 093,10",
+      "valor" : "1093.1"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 283,04",
+      "valor" : "1283.04"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 235,03",
+      "valor" : "1235.03"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 329,23",
+      "valor" : "1329.23"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "867,25",
+      "valor" : "867.25"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "966,82",
+      "valor" : "966.82"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 157,24",
+      "valor" : "1157.24"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 263,77",
+      "valor" : "1263.77"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 237,70",
+      "valor" : "1237.7"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 275,92",
+      "valor" : "1275.92"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 224,68",
+      "valor" : "1224.68"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "894,68",
+      "valor" : "894.68"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 051,17",
+      "valor" : "1051.17"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 159,80",
+      "valor" : "1159.8"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 331,96",
+      "valor" : "1331.96"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 820,76",
+      "valor" : "1820.76"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 476,77",
+      "valor" : "1476.77"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 488,86",
+      "valor" : "1488.86"
+    } ],
+    "2016" : [ {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "739,97",
+      "valor" : "739.97"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "885,33",
+      "valor" : "885.33"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "791,73",
+      "valor" : "791.73"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "841,92",
+      "valor" : "841.92"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 059,08",
+      "valor" : "1059.08"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 023,28",
+      "valor" : "1023.28"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 367,40",
+      "valor" : "1367.4"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "806,14",
+      "valor" : "806.14"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "926,62",
+      "valor" : "926.62"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 018,40",
+      "valor" : "1018.4"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 098,26",
+      "valor" : "1098.26"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 248,61",
+      "valor" : "1248.61"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 341,55",
+      "valor" : "1341.55"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 413,89",
+      "valor" : "1413.89"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "757,37",
+      "valor" : "757.37"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "848,41",
+      "valor" : "848.41"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "913,74",
+      "valor" : "913.74"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "978,40",
+      "valor" : "978.4"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 118,90",
+      "valor" : "1118.9"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 145,19",
+      "valor" : "1145.19"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 310,00",
+      "valor" : "1310"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "729,81",
+      "valor" : "729.81"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "799,59",
+      "valor" : "799.59"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "878,21",
+      "valor" : "878.21"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "933,86",
+      "valor" : "933.86"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 063,16",
+      "valor" : "1063.16"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 097,13",
+      "valor" : "1097.13"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 205,51",
+      "valor" : "1205.51"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "703,11",
+      "valor" : "703.11"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "737,52",
+      "valor" : "737.52"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "804,15",
+      "valor" : "804.15"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "895,11",
+      "valor" : "895.11"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "989,95",
+      "valor" : "989.95"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 073,97",
+      "valor" : "1073.97"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "997,32",
+      "valor" : "997.32"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "724,96",
+      "valor" : "724.96"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "760,35",
+      "valor" : "760.35"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "804,80",
+      "valor" : "804.8"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "871,34",
+      "valor" : "871.34"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "952,93",
+      "valor" : "952.93"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "955,85",
+      "valor" : "955.85"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 279,53",
+      "valor" : "1279.53"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "738,51",
+      "valor" : "738.51"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "764,09",
+      "valor" : "764.09"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "808,53",
+      "valor" : "808.53"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "882,35",
+      "valor" : "882.35"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "936,29",
+      "valor" : "936.29"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "913,91",
+      "valor" : "913.91"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 253,30",
+      "valor" : "1253.3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "807,45",
+      "valor" : "807.45"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "933,17",
+      "valor" : "933.17"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 018,42",
+      "valor" : "1018.42"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 107,29",
+      "valor" : "1107.29"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 277,33",
+      "valor" : "1277.33"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 266,78",
+      "valor" : "1266.78"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 330,77",
+      "valor" : "1330.77"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "856,88",
+      "valor" : "856.88"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 008,58",
+      "valor" : "1008.58"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 130,54",
+      "valor" : "1130.54"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 217,38",
+      "valor" : "1217.38"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 357,15",
+      "valor" : "1357.15"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 202,49",
+      "valor" : "1202.49"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 372,06",
+      "valor" : "1372.06"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "891,42",
+      "valor" : "891.42"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 065,90",
+      "valor" : "1065.9"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 164,96",
+      "valor" : "1164.96"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 386,49",
+      "valor" : "1386.49"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 697,91",
+      "valor" : "1697.91"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 500,42",
+      "valor" : "1500.42"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 510,18",
+      "valor" : "1510.18"
+    } ],
+    "2017" : [ {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "759,46",
+      "valor" : "759.46"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "899,88",
+      "valor" : "899.88"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "830,30",
+      "valor" : "830.3"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "908,55",
+      "valor" : "908.55"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 096,31",
+      "valor" : "1096.31"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 026,52",
+      "valor" : "1026.52"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 401,93",
+      "valor" : "1401.93"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "833,10",
+      "valor" : "833.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "955,19",
+      "valor" : "955.19"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 040,98",
+      "valor" : "1040.98"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 130,17",
+      "valor" : "1130.17"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 265,98",
+      "valor" : "1265.98"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 382,11",
+      "valor" : "1382.11"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 420,58",
+      "valor" : "1420.58"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "787,59",
+      "valor" : "787.59"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "874,24",
+      "valor" : "874.24"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "944,63",
+      "valor" : "944.63"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 023,78",
+      "valor" : "1023.78"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 135,10",
+      "valor" : "1135.1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 181,07",
+      "valor" : "1181.07"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 314,67",
+      "valor" : "1314.67"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "759,40",
+      "valor" : "759.4"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "840,91",
+      "valor" : "840.91"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "901,99",
+      "valor" : "901.99"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "986,22",
+      "valor" : "986.22"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 072,18",
+      "valor" : "1072.18"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 139,00",
+      "valor" : "1139"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 255,81",
+      "valor" : "1255.81"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "731,81",
+      "valor" : "731.81"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "771,64",
+      "valor" : "771.64"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "829,00",
+      "valor" : "829"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "947,35",
+      "valor" : "947.35"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "994,12",
+      "valor" : "994.12"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 123,68",
+      "valor" : "1123.68"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 022,17",
+      "valor" : "1022.17"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "752,73",
+      "valor" : "752.73"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "792,07",
+      "valor" : "792.07"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "841,89",
+      "valor" : "841.89"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "899,77",
+      "valor" : "899.77"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "959,78",
+      "valor" : "959.78"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 024,28",
+      "valor" : "1024.28"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 318,41",
+      "valor" : "1318.41"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "765,62",
+      "valor" : "765.62"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "802,65",
+      "valor" : "802.65"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "852,39",
+      "valor" : "852.39"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "885,72",
+      "valor" : "885.72"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "953,14",
+      "valor" : "953.14"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "968,13",
+      "valor" : "968.13"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 196,55",
+      "valor" : "1196.55"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "839,74",
+      "valor" : "839.74"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "951,92",
+      "valor" : "951.92"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 047,53",
+      "valor" : "1047.53"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 154,98",
+      "valor" : "1154.98"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 289,73",
+      "valor" : "1289.73"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 285,40",
+      "valor" : "1285.4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 322,20",
+      "valor" : "1322.2"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "895,11",
+      "valor" : "895.11"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 013,06",
+      "valor" : "1013.06"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 169,55",
+      "valor" : "1169.55"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 343,00",
+      "valor" : "1343"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 304,07",
+      "valor" : "1304.07"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 373,04",
+      "valor" : "1373.04"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 388,80",
+      "valor" : "1388.8"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "927,36",
+      "valor" : "927.36"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 059,99",
+      "valor" : "1059.99"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 230,90",
+      "valor" : "1230.9"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 363,31",
+      "valor" : "1363.31"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 766,81",
+      "valor" : "1766.81"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 455,57",
+      "valor" : "1455.57"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 496,79",
+      "valor" : "1496.79"
+    } ],
+    "2018" : [ {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "811,05",
+      "valor" : "811.05"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "892,96",
+      "valor" : "892.96"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "909,12",
+      "valor" : "909.12"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "964,09",
+      "valor" : "964.09"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 108,62",
+      "valor" : "1108.62"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 145,61",
+      "valor" : "1145.61"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 361,85",
+      "valor" : "1361.85"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "867,16",
+      "valor" : "867.16"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "983,69",
+      "valor" : "983.69"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 075,93",
+      "valor" : "1075.93"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 172,10",
+      "valor" : "1172.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 304,94",
+      "valor" : "1304.94"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 394,89",
+      "valor" : "1394.89"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 454,29",
+      "valor" : "1454.29"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "821,62",
+      "valor" : "821.62"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "911,09",
+      "valor" : "911.09"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "986,67",
+      "valor" : "986.67"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 076,18",
+      "valor" : "1076.18"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 159,57",
+      "valor" : "1159.57"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 259,94",
+      "valor" : "1259.94"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 354,10",
+      "valor" : "1354.1"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "797,74",
+      "valor" : "797.74"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "877,22",
+      "valor" : "877.22"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "950,85",
+      "valor" : "950.85"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 010,33",
+      "valor" : "1010.33"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 100,08",
+      "valor" : "1100.08"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 134,34",
+      "valor" : "1134.34"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 309,15",
+      "valor" : "1309.15"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "767,00",
+      "valor" : "767"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "821,80",
+      "valor" : "821.8"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "881,85",
+      "valor" : "881.85"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "969,31",
+      "valor" : "969.31"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 023,11",
+      "valor" : "1023.11"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 188,27",
+      "valor" : "1188.27"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 058,29",
+      "valor" : "1058.29"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "788,49",
+      "valor" : "788.49"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "828,66",
+      "valor" : "828.66"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "885,19",
+      "valor" : "885.19"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "946,31",
+      "valor" : "946.31"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "997,27",
+      "valor" : "997.27"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 033,47",
+      "valor" : "1033.47"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 316,86",
+      "valor" : "1316.86"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "807,61",
+      "valor" : "807.61"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "835,60",
+      "valor" : "835.6"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "906,65",
+      "valor" : "906.65"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "944,39",
+      "valor" : "944.39"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 000,04",
+      "valor" : "1000.04"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "945,25",
+      "valor" : "945.25"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 265,24",
+      "valor" : "1265.24"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "872,86",
+      "valor" : "872.86"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "988,45",
+      "valor" : "988.45"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 091,87",
+      "valor" : "1091.87"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 210,03",
+      "valor" : "1210.03"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 310,86",
+      "valor" : "1310.86"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 396,89",
+      "valor" : "1396.89"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 377,45",
+      "valor" : "1377.45"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "930,79",
+      "valor" : "930.79"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 050,22",
+      "valor" : "1050.22"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 187,65",
+      "valor" : "1187.65"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 431,08",
+      "valor" : "1431.08"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 290,93",
+      "valor" : "1290.93"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 457,57",
+      "valor" : "1457.57"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 514,56",
+      "valor" : "1514.56"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "954,18",
+      "valor" : "954.18"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 115,88",
+      "valor" : "1115.88"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 240,66",
+      "valor" : "1240.66"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 417,78",
+      "valor" : "1417.78"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 762,29",
+      "valor" : "1762.29"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 583,46",
+      "valor" : "1583.46"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 540,98",
+      "valor" : "1540.98"
+    } ],
+    "2019" : [ {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "841,72",
+      "valor" : "841.72"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "954,84",
+      "valor" : "954.84"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "945,84",
+      "valor" : "945.84"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "993,92",
+      "valor" : "993.92"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 152,22",
+      "valor" : "1152.22"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 181,33",
+      "valor" : "1181.33"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 325,23",
+      "valor" : "1325.23"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "903,90",
+      "valor" : "903.9"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 020,02",
+      "valor" : "1020.02"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 118,58",
+      "valor" : "1118.58"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 218,47",
+      "valor" : "1218.47"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 323,52",
+      "valor" : "1323.52"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 463,86",
+      "valor" : "1463.86"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 475,92",
+      "valor" : "1475.92"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "858,28",
+      "valor" : "858.28"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "949,31",
+      "valor" : "949.31"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 028,48",
+      "valor" : "1028.48"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 127,41",
+      "valor" : "1127.41"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 220,02",
+      "valor" : "1220.02"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 311,55",
+      "valor" : "1311.55"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 365,85",
+      "valor" : "1365.85"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "831,53",
+      "valor" : "831.53"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "920,19",
+      "valor" : "920.19"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "982,14",
+      "valor" : "982.14"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 071,83",
+      "valor" : "1071.83"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 159,48",
+      "valor" : "1159.48"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 206,27",
+      "valor" : "1206.27"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 381,74",
+      "valor" : "1381.74"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "802,60",
+      "valor" : "802.6"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "870,24",
+      "valor" : "870.24"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "898,73",
+      "valor" : "898.73"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 007,63",
+      "valor" : "1007.63"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 057,25",
+      "valor" : "1057.25"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 302,93",
+      "valor" : "1302.93"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 085,72",
+      "valor" : "1085.72"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "823,35",
+      "valor" : "823.35"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "866,34",
+      "valor" : "866.34"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "927,10",
+      "valor" : "927.1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "991,31",
+      "valor" : "991.31"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 024,93",
+      "valor" : "1024.93"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 091,39",
+      "valor" : "1091.39"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 311,30",
+      "valor" : "1311.3"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "845,32",
+      "valor" : "845.32"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "871,38",
+      "valor" : "871.38"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "943,98",
+      "valor" : "943.98"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "969,42",
+      "valor" : "969.42"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 020,75",
+      "valor" : "1020.75"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 061,60",
+      "valor" : "1061.6"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 215,80",
+      "valor" : "1215.8"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "914,77",
+      "valor" : "914.77"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 027,65",
+      "valor" : "1027.65"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 133,18",
+      "valor" : "1133.18"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 257,82",
+      "valor" : "1257.82"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 379,77",
+      "valor" : "1379.77"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 453,18",
+      "valor" : "1453.18"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 382,91",
+      "valor" : "1382.91"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "958,44",
+      "valor" : "958.44"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 081,40",
+      "valor" : "1081.4"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 225,48",
+      "valor" : "1225.48"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 418,15",
+      "valor" : "1418.15"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 491,26",
+      "valor" : "1491.26"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 596,67",
+      "valor" : "1596.67"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 517,93",
+      "valor" : "1517.93"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "1 013,76",
+      "valor" : "1013.76"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 143,97",
+      "valor" : "1143.97"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 285,06",
+      "valor" : "1285.06"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 453,63",
+      "valor" : "1453.63"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 817,27",
+      "valor" : "1817.27"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 640,87",
+      "valor" : "1640.87"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 540,39",
+      "valor" : "1540.39"
+    } ],
+    "2020" : [ {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "870,12",
+      "valor" : "870.12"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "981,27",
+      "valor" : "981.27"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "995,87",
+      "valor" : "995.87"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "996,16",
+      "valor" : "996.16"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 183,14",
+      "valor" : "1183.14"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 236,22",
+      "valor" : "1236.22"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 202,46",
+      "valor" : "1202.46"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "940,50",
+      "valor" : "940.5"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 062,15",
+      "valor" : "1062.15"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 160,59",
+      "valor" : "1160.59"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 250,02",
+      "valor" : "1250.02"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 376,31",
+      "valor" : "1376.31"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 516,50",
+      "valor" : "1516.5"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 502,96",
+      "valor" : "1502.96"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "893,23",
+      "valor" : "893.23"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "984,89",
+      "valor" : "984.89"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 066,82",
+      "valor" : "1066.82"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 151,87",
+      "valor" : "1151.87"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 262,05",
+      "valor" : "1262.05"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 353,13",
+      "valor" : "1353.13"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 436,61",
+      "valor" : "1436.61"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "866,73",
+      "valor" : "866.73"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "962,57",
+      "valor" : "962.57"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 006,82",
+      "valor" : "1006.82"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 086,23",
+      "valor" : "1086.23"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 241,52",
+      "valor" : "1241.52"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 199,16",
+      "valor" : "1199.16"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 460,06",
+      "valor" : "1460.06"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "835,77",
+      "valor" : "835.77"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "902,02",
+      "valor" : "902.02"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "916,62",
+      "valor" : "916.62"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 057,08",
+      "valor" : "1057.08"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 150,46",
+      "valor" : "1150.46"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 345,09",
+      "valor" : "1345.09"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 309,93",
+      "valor" : "1309.93"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "859,49",
+      "valor" : "859.49"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "895,26",
+      "valor" : "895.26"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "955,54",
+      "valor" : "955.54"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 005,62",
+      "valor" : "1005.62"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 078,04",
+      "valor" : "1078.04"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 084,31",
+      "valor" : "1084.31"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 424,37",
+      "valor" : "1424.37"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "885,22",
+      "valor" : "885.22"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "896,54",
+      "valor" : "896.54"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "980,59",
+      "valor" : "980.59"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "993,90",
+      "valor" : "993.9"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 042,13",
+      "valor" : "1042.13"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "956,97",
+      "valor" : "956.97"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 339,23",
+      "valor" : "1339.23"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "950,72",
+      "valor" : "950.72"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 063,86",
+      "valor" : "1063.86"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 179,49",
+      "valor" : "1179.49"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 299,68",
+      "valor" : "1299.68"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 417,53",
+      "valor" : "1417.53"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 509,77",
+      "valor" : "1509.77"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 449,49",
+      "valor" : "1449.49"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "982,85",
+      "valor" : "982.85"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 157,48",
+      "valor" : "1157.48"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 280,71",
+      "valor" : "1280.71"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 427,70",
+      "valor" : "1427.7"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 456,47",
+      "valor" : "1456.47"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 763,27",
+      "valor" : "1763.27"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 574,08",
+      "valor" : "1574.08"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "1 068,21",
+      "valor" : "1068.21"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 198,49",
+      "valor" : "1198.49"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 433,72",
+      "valor" : "1433.72"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 586,03",
+      "valor" : "1586.03"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 862,84",
+      "valor" : "1862.84"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 611,63",
+      "valor" : "1611.63"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 624,45",
+      "valor" : "1624.45"
+    } ],
+    "2021" : [ {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "917,80",
+      "valor" : "917.8"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 012,49",
+      "valor" : "1012.49"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 056,07",
+      "valor" : "1056.07"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 072,00",
+      "valor" : "1072"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 225,86",
+      "valor" : "1225.86"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 294,89",
+      "valor" : "1294.89"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 340,24",
+      "valor" : "1340.24"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "981,57",
+      "valor" : "981.57"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 099,35",
+      "valor" : "1099.35"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 199,36",
+      "valor" : "1199.36"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 312,96",
+      "valor" : "1312.96"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 394,38",
+      "valor" : "1394.38"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 568,75",
+      "valor" : "1568.75"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 551,38",
+      "valor" : "1551.38"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "931,51",
+      "valor" : "931.51"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 027,55",
+      "valor" : "1027.55"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 105,08",
+      "valor" : "1105.08"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 196,61",
+      "valor" : "1196.61"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 278,26",
+      "valor" : "1278.26"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 455,90",
+      "valor" : "1455.9"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 487,65",
+      "valor" : "1487.65"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "907,50",
+      "valor" : "907.5"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 008,39",
+      "valor" : "1008.39"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 062,06",
+      "valor" : "1062.06"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 101,87",
+      "valor" : "1101.87"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 279,56",
+      "valor" : "1279.56"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 325,37",
+      "valor" : "1325.37"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 470,54",
+      "valor" : "1470.54"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "871,52",
+      "valor" : "871.52"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "938,97",
+      "valor" : "938.97"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "978,66",
+      "valor" : "978.66"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 046,43",
+      "valor" : "1046.43"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 170,02",
+      "valor" : "1170.02"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 487,47",
+      "valor" : "1487.47"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 229,58",
+      "valor" : "1229.58"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "898,56",
+      "valor" : "898.56"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "941,09",
+      "valor" : "941.09"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "986,72",
+      "valor" : "986.72"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 098,17",
+      "valor" : "1098.17"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 120,06",
+      "valor" : "1120.06"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 179,71",
+      "valor" : "1179.71"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 496,58",
+      "valor" : "1496.58"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "917,93",
+      "valor" : "917.93"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "962,21",
+      "valor" : "962.21"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 003,68",
+      "valor" : "1003.68"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 077,46",
+      "valor" : "1077.46"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 082,10",
+      "valor" : "1082.1"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 018,41",
+      "valor" : "1018.41"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 390,54",
+      "valor" : "1390.54"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "990,56",
+      "valor" : "990.56"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 108,26",
+      "valor" : "1108.26"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 218,30",
+      "valor" : "1218.3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 337,51",
+      "valor" : "1337.51"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 405,36",
+      "valor" : "1405.36"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 649,87",
+      "valor" : "1649.87"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 506,46",
+      "valor" : "1506.46"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "1 040,97",
+      "valor" : "1040.97"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 181,49",
+      "valor" : "1181.49"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 359,03",
+      "valor" : "1359.03"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 472,81",
+      "valor" : "1472.81"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 526,19",
+      "valor" : "1526.19"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 595,72",
+      "valor" : "1595.72"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 611,58",
+      "valor" : "1611.58"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "1 108,53",
+      "valor" : "1108.53"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 262,09",
+      "valor" : "1262.09"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 439,38",
+      "valor" : "1439.38"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 602,20",
+      "valor" : "1602.2"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 667,15",
+      "valor" : "1667.15"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "2 110,83",
+      "valor" : "2110.83"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 696,65",
+      "valor" : "1696.65"
+    } ],
+    "2022" : [ {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "966,80",
+      "valor" : "966.8"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 084,72",
+      "valor" : "1084.72"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 108,82",
+      "valor" : "1108.82"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 116,76",
+      "valor" : "1116.76"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 289,31",
+      "valor" : "1289.31"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 317,85",
+      "valor" : "1317.85"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 596,07",
+      "valor" : "1596.07"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "1 036,98",
+      "valor" : "1036.98"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 157,91",
+      "valor" : "1157.91"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 255,93",
+      "valor" : "1255.93"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 379,69",
+      "valor" : "1379.69"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 468,50",
+      "valor" : "1468.5"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 668,30",
+      "valor" : "1668.3"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 637,67",
+      "valor" : "1637.67"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "982,91",
+      "valor" : "982.91"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 086,63",
+      "valor" : "1086.63"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 163,60",
+      "valor" : "1163.6"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 263,34",
+      "valor" : "1263.34"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 350,12",
+      "valor" : "1350.12"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 524,73",
+      "valor" : "1524.73"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 560,51",
+      "valor" : "1560.51"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "952,95",
+      "valor" : "952.95"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 062,88",
+      "valor" : "1062.88"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 124,81",
+      "valor" : "1124.81"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 193,79",
+      "valor" : "1193.79"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 239,71",
+      "valor" : "1239.71"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 490,82",
+      "valor" : "1490.82"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 486,39",
+      "valor" : "1486.39"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "927,35",
+      "valor" : "927.35"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "985,65",
+      "valor" : "985.65"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 040,28",
+      "valor" : "1040.28"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 167,09",
+      "valor" : "1167.09"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 202,73",
+      "valor" : "1202.73"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 585,86",
+      "valor" : "1585.86"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 217,30",
+      "valor" : "1217.3"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "949,36",
+      "valor" : "949.36"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "996,77",
+      "valor" : "996.77"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 044,72",
+      "valor" : "1044.72"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 167,02",
+      "valor" : "1167.02"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 166,65",
+      "valor" : "1166.65"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 256,97",
+      "valor" : "1256.97"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 518,22",
+      "valor" : "1518.22"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "973,55",
+      "valor" : "973.55"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 006,58",
+      "valor" : "1006.58"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 046,43",
+      "valor" : "1046.43"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 138,21",
+      "valor" : "1138.21"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 124,53",
+      "valor" : "1124.53"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 092,29",
+      "valor" : "1092.29"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 424,77",
+      "valor" : "1424.77"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "1 047,00",
+      "valor" : "1047"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 171,39",
+      "valor" : "1171.39"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 277,19",
+      "valor" : "1277.19"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 400,61",
+      "valor" : "1400.61"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 515,64",
+      "valor" : "1515.64"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 684,71",
+      "valor" : "1684.71"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 602,67",
+      "valor" : "1602.67"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "1 098,43",
+      "valor" : "1098.43"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 261,29",
+      "valor" : "1261.29"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 408,96",
+      "valor" : "1408.96"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 539,25",
+      "valor" : "1539.25"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 656,68",
+      "valor" : "1656.68"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "1 864,60",
+      "valor" : "1864.6"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 753,65",
+      "valor" : "1753.65"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "1 a 9 pessoas",
+      "ind_string" : "1 175,46",
+      "valor" : "1175.46"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "10 a 19 pessoas",
+      "ind_string" : "1 339,35",
+      "valor" : "1339.35"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "20 a 49 pessoas",
+      "ind_string" : "1 462,35",
+      "valor" : "1462.35"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "50 a 99 pessoas",
+      "ind_string" : "1 678,35",
+      "valor" : "1678.35"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "100 a 249 pessoas",
+      "ind_string" : "1 853,16",
+      "valor" : "1853.16"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "6",
+      "dim_3_t" : "250 a 499 pessoas",
+      "ind_string" : "2 034,54",
+      "valor" : "2034.54"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "7",
+      "dim_3_t" : "500 ou mais pessoas",
+      "ind_string" : "1 763,69",
+      "valor" : "1763.69"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
