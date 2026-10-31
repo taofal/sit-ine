@@ -22,6 +22,7 @@ Convenções aplicadas (README da SIT):
 import argparse
 import calendar
 import csv
+import gzip
 import hashlib
 import json
 import re
@@ -118,8 +119,11 @@ def carregar(sit):
 
     novas, avisos, geos_sem_dicionario = {}, [], set()
     novas_cargas = []
-    for f in sorted(bruto.glob("*/*_dados_*.json")):
-        texto = f.read_text(encoding="utf-8")
+    # *.json.gz: respostas grandes comprimidas pelo workflow do GitHub (limite de 100 MB por ficheiro);
+    # o conteúdo descomprimido é byte a byte o que o INE devolveu, por isso o hash não muda.
+    for f in sorted(list(bruto.glob("*/*_dados_*.json")) + list(bruto.glob("*/*_dados_*.json.gz"))):
+        texto = (gzip.decompress(f.read_bytes()).decode("utf-8") if f.suffix == ".gz"
+                 else f.read_text(encoding="utf-8"))
         h = hashlib.sha256(texto.encode("utf-8")).hexdigest()
         r = json.loads(texto)
         r = r[0] if isinstance(r, list) else r

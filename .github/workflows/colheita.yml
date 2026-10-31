@@ -30,9 +30,21 @@ jobs:
         run: python 3_scripts/colheita_ine.py --pedidos 120 --minutos 50
 
       - name: Gravar no repositório
+        if: always()              # grava o que houver mesmo que a volta tenha falhado
         run: |
           git config user.name  "colheita-ine[bot]"
           git config user.email "colheita-ine@users.noreply.github.com"
+          # O GitHub recusa ficheiros > 100 MB (e com isso o push inteiro). Os que passem de 90 MB
+          # vão comprimidos (.json.gz); o conteúdo descomprimido é exatamente a resposta do INE.
+          find 1_bruto -type f -name '*.json' -size +90M -print -exec gzip -9 {} \;
+          grande=$(find 1_bruto -type f -size +95M)
+          if [ -n "$grande" ]; then
+            echo "::warning::Ainda acima de 95 MB depois de comprimir — fica fora do commit: $grande"
+            for f in $grande; do
+              echo "$(date -u +'%Y-%m-%d %H:%M:%S')  aviso: $f > 95 MB mesmo comprimido — não gravado" >> 3_scripts/_estado/colheita_ine.log
+              rm -f "$f"
+            done
+          fi
           git add 1_bruto 3_scripts/_estado
           if git diff --cached --quiet; then
             echo "Nada de novo."
