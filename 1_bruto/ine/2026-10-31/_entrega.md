@@ -249,3 +249,8 @@ Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos,
 - **0002091** Consumo de energia elétrica na indústria por consumidor (kWh/ cons.) — 108 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
     - `0002091_dados_fadc0c517f.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0002091&lang=PT&Dim1=S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
 - **0013049** Depósitos de clientes (€) nos estabelecimentos de outra intermediação monetária — 0 valores, 0 ficheiros novos; FALHAS: metadados: orçamento da volta esgotado
+
+## Extração — 2026-10-31 21:44 — séries completas
+Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal. Todas as categorias das restantes dimensões.
+
+- **0013049** Depósitos de clientes (€) nos estabelecimentos de outra intermediação monetária — 0 valores, 0 ficheiros novos; FALHAS: metadados: INE recusou: <urlopen error timed out>
