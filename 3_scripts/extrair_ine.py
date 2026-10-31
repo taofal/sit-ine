@@ -228,31 +228,41 @@ def extrair_indicador(varcd, nome, geos, n_periodos, completo, pasta):
     for n, cats in dims.items():
         if n not in ("1", "2"):
             por_periodo *= max(1, len(cats))
-    bloco = max(1, min(len(periodos), MAX_VALORES // max(1, por_periodo)))
-    def um_pedido(p):
-        url = url_dados(varcd, p, dim2)
+    # Um só período acima do limite (muitas categorias): parte-se também por geografia, uma de cada vez.
+    # Sem isto, um período pode dar um JSON de >100 MB, que o GitHub recusa (caso 0011641: 158 MB).
+    if por_periodo > MAX_VALORES and len(dim2) > 1:
+        grupos_geo = [[g] for g in dim2]
+        por_pedido = por_periodo // len(dim2)
+    else:
+        grupos_geo = [dim2]
+        por_pedido = por_periodo
+    bloco = max(1, min(len(periodos), MAX_VALORES // max(1, por_pedido)))
+
+    def um_pedido(p, geos_p):
+        url = url_dados(varcd, p, geos_p)
         nome_f = f"{varcd}_dados_{hashlib.sha256(url.encode()).hexdigest()[:10]}.json"
-        if (pasta / nome_f).exists():                          # retoma: já gravado hoje, não volta a pedir
+        if (pasta / nome_f).exists() or (pasta / (nome_f + ".gz")).exists():   # retoma: já gravado hoje
             res["ja_existiam"] = res.get("ja_existiam", 0) + 1
             return
-        url, texto, n = pedir(varcd, p, dim2)
+        url, texto, n = pedir(varcd, p, geos_p)
         if gravar(pasta, nome_f, texto):
             res["ficheiros"].append((nome_f, url))
         res["valores"] += n
 
-    for k in range(0, len(periodos), bloco):
-        parte = periodos[k:k + bloco]
-        try:
-            um_pedido(parte)
-        except Exception as e:
-            if len(parte) == 1:
-                res["falhas"].append(f"{parte[0]}: {str(e)[:150]}")
-                continue
-            for p in parte:                            # bloco recusado -> período a período
-                try:
-                    um_pedido([p])
-                except Exception as e2:
-                    res["falhas"].append(f"{p}: {str(e2)[:150]}")
+    for geos_p in grupos_geo:
+        for k in range(0, len(periodos), bloco):
+            parte = periodos[k:k + bloco]
+            try:
+                um_pedido(parte, geos_p)
+            except Exception as e:
+                if len(parte) == 1:
+                    res["falhas"].append(f"{parte[0]}: {str(e)[:150]}")
+                    continue
+                for p in parte:                        # bloco recusado -> período a período
+                    try:
+                        um_pedido([p], geos_p)
+                    except Exception as e2:
+                        res["falhas"].append(f"{p}: {str(e2)[:150]}")
     return res
 
 
