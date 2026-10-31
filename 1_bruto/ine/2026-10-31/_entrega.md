@@ -13,3 +13,8 @@
 Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal. Todas as categorias das restantes dimensões.
 
 - **0008080** Despesa em investigação e desenvolvimento (I&D - €) das instituições e empresas com investigação e desenvolvimento — 0 valores, 0 ficheiros novos; FALHAS: metadados: INE recusou: HTTP Error 403: Forbidden
+
+## Extração — 2026-10-31 13:57 — séries completas
+Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal. Todas as categorias das restantes dimensões.
+
+- **0008080** Despesa em investigação e desenvolvimento (I&D - €) das instituições e empresas com investigação e desenvolvimento — 0 valores, 0 ficheiros novos; FALHAS: metadados: INE recusou: <urlopen error timed out>
