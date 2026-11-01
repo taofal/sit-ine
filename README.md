@@ -3,7 +3,7 @@
 Colheita lenta e contínua dos indicadores do INE com dados por município, para uma base de dados local de indicadores territoriais. Os dados são públicos (API JSON do INE).
 
 - **Agendamento:** `.github/workflows/colheita.yml` corre `3_scripts/colheita_ine.py` de hora a hora (até 100 pedidos por volta, 5 s entre pedidos; à 1.ª recusa persistente do INE a volta pára e retoma na seguinte). Para correr à mão: separador **Actions → Colheita INE → Run workflow**.
-- **O que colhe:** primeiro os indicadores de `3_scripts/ine_indicadores.json`; depois todo o catálogo do INE cujo nível geográfico mais fino é o município ou a freguesia. Séries completas, todas as categorias de todas as dimensões (CAE incluída), para as geografias de `ine_indicadores.json`.
+- **O que colhe:** primeiro os indicadores de `3_scripts/ine_indicadores.json` — incluindo, desde 2026-11-01, indicadores sem detalhe municipal: preços (IPC, IHPC, preços da habitação, custo de construção, preços na produção), índices de atividade (indústria, construção, comércio, serviços, conjuntura, PIB) e contas regionais por NUTS; depois todo o catálogo do INE cujo nível geográfico mais fino é o município ou a freguesia. Séries completas, todas as categorias de todas as dimensões (CAE incluída), para as geografias de `ine_indicadores.json`.
 - **Onde fica:**
   - `1_bruto/ine/<AAAA-MM-DD>/` — respostas do INE exatamente como devolvidas (`<varcd>_dados_<hash>.json`, `<varcd>_meta.json`) + `_entrega.md` com o URL de cada pedido. Só se acrescenta; nada é reescrito.
   - `1_bruto/ine-catalogo/<AAAA-MM-DD>/catalogo.xml` — catálogo do INE (relido de 7 em 7 dias).

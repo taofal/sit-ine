@@ -170,6 +170,16 @@ def atualizar_catalogo(est, cfg):
     return feito
 
 
+def data_iso(s):
+    """Data de atualização do catálogo do INE («27-10-2026») -> «2026-10-27», comparável com data_colheita.
+    (Comparar o texto tal como vem dava «27-10-2026» > «2026-10-29» e reabria quase tudo.)"""
+    m = re.match(r"\s*(\d{2})-(\d{2})-(\d{4})", s or "")
+    if m:
+        return f"{m.group(3)}-{m.group(2)}-{m.group(1)}"
+    m = re.match(r"\s*(\d{4}-\d{2}-\d{2})", s or "")
+    return m.group(1) if m else ""
+
+
 def integrar_catalogo(est, cfg, texto, nome=""):
     prioritarios = {str(i["varcd"]).zfill(7) for i in cfg["indicadores"]}
     novos = reabertos = 0
@@ -191,7 +201,10 @@ def integrar_catalogo(est, cfg, texto, nome=""):
         t = lambda tag: (el.findtext(tag) or "").strip()  # noqa: E731
         varcd = (t("varcd") or el.get("id") or "").zfill(7)
         nivel = t("geo_lastlevel")
-        if not varcd.strip("0") or not any(n in X.norm(nivel) for n in NIVEIS_MUNICIPAIS):
+        # entram os de nível municipal e os da lista (estes mesmo que sejam só nacionais ou regionais,
+        # para terem título e data de atualização — e serem reabertos quando o INE os atualiza)
+        if not varcd.strip("0") or (varcd not in prioritarios
+                                    and not any(n in X.norm(nivel) for n in NIVEIS_MUNICIPAIS)):
             el.clear()
             continue
         atual = (el.findtext("dates/last_update") or "").strip()
@@ -199,7 +212,7 @@ def integrar_catalogo(est, cfg, texto, nome=""):
         if r is None:
             est[varcd] = r = {"varcd": varcd, "estado": "pendente", "tentativas": "0"}
             novos += 1
-        elif r.get("estado") == "feito" and atual and r.get("data_colheita") and atual[:10] > r["data_colheita"]:
+        elif r.get("estado") == "feito" and data_iso(atual) and r.get("data_colheita") and data_iso(atual) > r["data_colheita"]:
             r["estado"], r["nota"] = "pendente", f"INE atualizou a {atual[:10]}"
             reabertos += 1
         r.update({"titulo": t("title"), "tema": t("theme"), "nivel_geo": nivel,
@@ -220,7 +233,7 @@ def fila(est):
             r["prioridade"] = str(prioridade_tema(r.get("tema", "")))
     pend = [r for r in est.values() if r.get("estado") == "pendente" or
             (r.get("estado") == "erro" and int(r.get("tentativas") or 0) < MAX_TENTATIVAS)]
-    pend.sort(key=lambda r: r.get("atualizacao_ine") or "", reverse=True)          # mais recentes primeiro
+    pend.sort(key=lambda r: data_iso(r.get("atualizacao_ine")), reverse=True)     # mais recentes primeiro
     pend.sort(key=lambda r: (int(r.get("prioridade") or 9), r.get("estado") == "erro"))  # lista prioritária e temas prioritários primeiro; erros no fim
     return pend
 
@@ -257,9 +270,20 @@ def main():
                 v = str(i["varcd"]).zfill(7)  # noqa
                 est.setdefault(v, {"varcd": v, "titulo": i.get("nome", ""), "estado": "pendente",
                                    "tentativas": "0", "prioridade": "1"})
-        atualizar_catalogo(est, cfg)
+        relido = atualizar_catalogo(est, cfg)
     except Parar as e:
         log(f"catálogo adiado: {e}")
+        relido = False
+    # Indicadores acrescentados à lista depois da última leitura do catálogo: entram já, a partir dos
+    # catálogos guardados (sem pedidos ao INE), sem esperar pela releitura de 7 em 7 dias.
+    lista = {str(i["varcd"]).zfill(7) for i in cfg["indicadores"]}
+    em_falta = {v for v in lista if v not in est or est[v].get("prioridade") != "1"}
+    if em_falta and not relido:
+        for nome in CATALOGOS:
+            f = catalogo_mais_recente(nome)
+            if f:
+                integrar_catalogo(est, cfg, f.read_text(encoding="utf-8"), f"{nome} (guardado, {f.parent.name})")
+        log(f"lista: {len(em_falta)} indicadores da lista integrados a partir dos catálogos guardados")
     gravar_estado(est)
 
     pasta = X.BRUTO / date.today().isoformat()
