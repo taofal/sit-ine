@@ -68,6 +68,9 @@ def periodo(cod, rotulo):
     if m:
         a, t = int(m.group(1)), int(m.group(2))
         return "trimestre", date(a, 3 * t - 2, 1), date(a, 3 * t, calendar.monthrange(a, 3 * t)[1])
+    m = re.fullmatch(r"\s*(\d{4})\s*-\s*(\d{4})\s*", rotulo or "")   # período plurianual «1997 - 2001»
+    if m:
+        return "periodo", date(int(m.group(1)), 1, 1), date(int(m.group(2)), 12, 31)
     m = re.search(r"(\d{4})\s*/\s*(\d{4})", rotulo or "")        # ano letivo 2025/2026
     if m:
         return "ano_letivo", date(int(m.group(1)), 9, 1), date(int(m.group(2)), 8, 31)

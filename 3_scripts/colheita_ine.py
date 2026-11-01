@@ -15,7 +15,7 @@ Regras:
       pendente → feito | sem_geografia | erro   (com data, períodos, ficheiros, valores e nota)
   - Prioridade: primeiro os indicadores de ine_indicadores.json, depois o resto do catálogo, os mais
     recentes primeiro.
-  - Atualização: quando o catálogo (relido de 7 em 7 dias) mostra uma atualização do INE posterior à colheita,
+  - Atualização: quando o catálogo (relido todos os dias, CATALOGO_DIAS) mostra uma atualização do INE posterior à colheita,
     o indicador volta a «pendente».
   - Respostas gravadas como em extrair_ine.py: 1_bruto/ine/<AAAA-MM-DD>/ + _entrega.md. O catálogo fica em
     1_bruto/ine-catalogo/<AAAA-MM-DD>/catalogo.xml.
@@ -47,9 +47,13 @@ CAT_DIR = SIT / "1_bruto" / "ine-catalogo"
 # O INE tem mais de um catálogo XML: opc=3 é curto (~330 indicadores); opc=2 é mais amplo. Lêem-se ambos e juntam-se.
 CATALOGOS = {"catalogo.xml": "https://www.ine.pt/ine/xml_indic.jsp?opc=3&lang=PT",
              "catalogo_opc2.xml": "https://www.ine.pt/ine/xml_indic.jsp?opc=2&lang=PT"}
+CATALOGO_DIAS = 1          # releitura do catálogo: é por ele que se sabe que séries o INE atualizou
 NIVEIS_MUNICIPAIS = ("munic", "freguesia", "seccao", "subseccao", "lugar", "concelho")
 CAMPOS = ["varcd", "titulo", "tema", "nivel_geo", "ultimo_periodo_ine", "atualizacao_ine", "prioridade",
           "estado", "data_colheita", "periodos", "ficheiros", "valores", "tentativas", "nota"]
+
+
+REABERTO = "INE atualizou"   # marca, na nota, os indicadores já colhidos que voltam à fila por atualização
 
 
 class Parar(Exception):
@@ -149,7 +153,7 @@ def atualizar_catalogo(est, cfg):
     feito = False
     for nome, url in CATALOGOS.items():
         f = catalogo_mais_recente(nome)
-        if f and date.fromisoformat(f.parent.name) > date.today() - timedelta(days=7):
+        if f and date.fromisoformat(f.parent.name) > date.today() - timedelta(days=CATALOGO_DIAS):
             continue
         log(f"a descarregar o catálogo do INE {nome} (1 pedido, pode demorar)")
         texto = X.http_get(url, timeout=900)
@@ -213,7 +217,7 @@ def integrar_catalogo(est, cfg, texto, nome=""):
             est[varcd] = r = {"varcd": varcd, "estado": "pendente", "tentativas": "0"}
             novos += 1
         elif r.get("estado") == "feito" and data_iso(atual) and r.get("data_colheita") and data_iso(atual) > r["data_colheita"]:
-            r["estado"], r["nota"] = "pendente", f"INE atualizou a {atual[:10]}"
+            r["estado"], r["nota"] = "pendente", f"{REABERTO} a {atual[:10]} (colhido a {r['data_colheita']})"
             reabertos += 1
         r.update({"titulo": t("title"), "tema": t("theme"), "nivel_geo": nivel,
                   "ultimo_periodo_ine": (el.findtext("dates/last_period_available") or "").strip(),
@@ -234,7 +238,8 @@ def fila(est):
     pend = [r for r in est.values() if r.get("estado") == "pendente" or
             (r.get("estado") == "erro" and int(r.get("tentativas") or 0) < MAX_TENTATIVAS)]
     pend.sort(key=lambda r: data_iso(r.get("atualizacao_ine")), reverse=True)     # mais recentes primeiro
-    pend.sort(key=lambda r: (int(r.get("prioridade") or 9), r.get("estado") == "erro"))  # lista prioritária e temas prioritários primeiro; erros no fim
+    pend.sort(key=lambda r: (not (r.get("nota") or "").startswith(REABERTO),            # 1.º as atualizações do INE
+                             int(r.get("prioridade") or 9), r.get("estado") == "erro"))  # depois por prioridade; erros no fim
     return pend
 
 
@@ -309,7 +314,9 @@ def main():
             _estado_rede.update(parado=True, motivo=erro)
         r["tentativas"] = str(int(r.get("tentativas") or 0) + (0 if parou else 1))
         if parou:
-            r["nota"] = "interrompido a meio; retoma na próxima volta"
+            atualizacao = (r.get("nota") or "").startswith(REABERTO)          # mantém a marca: continua à frente
+            r["nota"] = ((r["nota"].split("; interrompido")[0] + "; ") if atualizacao else "") + \
+                "interrompido a meio; retoma na próxima volta"
         elif not res["falhas"]:
             r.update(estado="feito", data_colheita=date.today().isoformat(), ficheiros=str(len(res["ficheiros"])),
                      valores=str(res["valores"]), tentativas="0",
