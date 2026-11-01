@@ -49,6 +49,7 @@ BASE_DADOS = "https://www.ine.pt/ine/json_indicador/pindica.jsp"
 BASE_META = "https://www.ine.pt/ine/json_indicador/pindicaMeta.jsp"
 UA = "colheita-ine/1.0"
 MAX_VALORES = 30000          # valores estimados por pedido; acima disso parte-se em blocos de períodos
+MAX_PERIODOS = 120           # períodos por pedido: o INE aceita 150 e recusa 355 (ORA-06502, «buffer too small»)
 
 
 def log(msg):
@@ -236,7 +237,7 @@ def extrair_indicador(varcd, nome, geos, n_periodos, completo, pasta):
     else:
         grupos_geo = [dim2]
         por_pedido = por_periodo
-    bloco = max(1, min(len(periodos), MAX_VALORES // max(1, por_pedido)))
+    bloco = max(1, min(len(periodos), MAX_VALORES // max(1, por_pedido), MAX_PERIODOS))
 
     def um_pedido(p, geos_p):
         url = url_dados(varcd, p, geos_p)
@@ -249,20 +250,26 @@ def extrair_indicador(varcd, nome, geos, n_periodos, completo, pasta):
             res["ficheiros"].append((nome_f, url))
         res["valores"] += n
 
+    def tentar(parte, geos_p):
+        try:
+            um_pedido(parte, geos_p)
+        except ValueError as e:                        # o INE recusou este pedido: divide-se ao meio
+            if len(parte) == 1:                        # (antes era período a período: 355 pedidos numa série mensal)
+                res["falhas"].append(f"{parte[0]}: {str(e)[:150]}")
+                return
+            meio = len(parte) // 2
+            tentar(parte[:meio], geos_p)
+            tentar(parte[meio:], geos_p)
+        except Exception as e:                         # rede/recusa geral: dividir não ajuda
+            res["falhas"].append(f"{parte[0]}…{parte[-1]}: {str(e)[:150]}")
+            raise
+
     for geos_p in grupos_geo:
         for k in range(0, len(periodos), bloco):
-            parte = periodos[k:k + bloco]
             try:
-                um_pedido(parte, geos_p)
-            except Exception as e:
-                if len(parte) == 1:
-                    res["falhas"].append(f"{parte[0]}: {str(e)[:150]}")
-                    continue
-                for p in parte:                        # bloco recusado -> período a período
-                    try:
-                        um_pedido([p], geos_p)
-                    except Exception as e2:
-                        res["falhas"].append(f"{p}: {str(e2)[:150]}")
+                tentar(periodos[k:k + bloco], geos_p)
+            except Exception:
+                return res
     return res
 
 
