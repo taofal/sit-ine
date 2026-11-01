@@ -1,0 +1,117 @@
+[ {
+  "IndicadorCod" : "0013645",
+  "IndicadorDsg" : "Taxa de abstenção nas eleições para as Assembleias Municipais (%) por Local de residência (NUTS - 2024); Não periódica - Secretaria-Geral da Administração Interna - Administração Eleitoral",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0013645&lingua=PT",
+  "DataExtracao" : "2026-11-01T01:30:10.391Z",
+  "DataUltimoAtualizacao" : "2025-12-16",
+  "UltimoPref" : "2025",
+  "Dados" : {
+    "2021" : [ {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "ind_string" : "30,0",
+      "valor" : "30"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "36,0",
+      "valor" : "36"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "ind_string" : "36,4",
+      "valor" : "36.4"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "38,1",
+      "valor" : "38.1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "42,2",
+      "valor" : "42.2"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "42,7",
+      "valor" : "42.7"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "46,4",
+      "valor" : "46.4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "48,1",
+      "valor" : "48.1"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "ind_string" : "51,2",
+      "valor" : "51.2"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "ind_string" : "54,0",
+      "valor" : "54"
+    } ],
+    "2025" : [ {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "ind_string" : "27,6",
+      "valor" : "27.6"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "ind_string" : "29,9",
+      "valor" : "29.9"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "31,0",
+      "valor" : "31"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "32,3",
+      "valor" : "32.3"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "33,1",
+      "valor" : "33.1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "36,4",
+      "valor" : "36.4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "40,6",
+      "valor" : "40.6"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "40,7",
+      "valor" : "40.7"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "ind_string" : "43,0",
+      "valor" : "43"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "ind_string" : "44,6",
+      "valor" : "44.6"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
