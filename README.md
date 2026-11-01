@@ -18,3 +18,11 @@ Colheita lenta e contínua dos indicadores do INE com dados por município, para
 4. **Colheita** — série completa de cada indicador, para `1_bruto/ine/<data>/`. Uma atualização vai para a pasta do dia: a versão anterior fica, e o carregamento guarda as duas (a chave inclui a data de extração).
 5. **Volta sem trabalho** — fila vazia, calendário lido hoje e catálogo em dia: a volta termina logo, sem pedidos ao INE e sem gravar nada. O agendamento fica de hora a hora; depois de colhido o atraso, na prática só há trabalho uma vez por dia e nos dias de publicação.
 6. **Passagem para a base local** — copiam-se só os ficheiros novos; o carregamento junta todas as versões; depois verifica-se a base contra o registo (indicadores `feito` sem valores na base, valores na base fora do registo, colheitas mais recentes ainda não carregadas).
+
+## Banco de Portugal (BPstat)
+
+- **Agendamento:** `.github/workflows/colheita_bportugal.yml` corre `3_scripts/extrair_bportugal.py` no dia 2 de cada mês (06:23 UTC). Para correr à mão: **Actions → Colheita Banco de Portugal → Run workflow**.
+- **O que colhe:** API pública do BPstat (JSON-stat), todas as geografias publicadas (Portugal, NUTS II, NUTS III): domínio 178 (indicadores das empresas por região, Central de Balanços, anual), 188 (empréstimos por região do devedor, mensal) e 206 (depósitos por região do balcão, mensal).
+- **Só o que mudou:** cada domínio só é descarregado se o BP o atualizou (`obs_updated_at`) depois da última extração guardada; se nenhum mudou, a corrida não grava nada.
+- **Onde fica:** `1_bruto/bportugal/<AAAA-MM-DD>/d<domínio>/` — metadados, dimensões e páginas de dados exatamente como devolvidas + `_entrega.md`. Só se acrescenta.
+- **Passagem para a base local:** `sincronizar_github.py` traz as pastas novas; depois `carregar_bportugal.py` e `construir_duckdb.py` (scripts da base local).
