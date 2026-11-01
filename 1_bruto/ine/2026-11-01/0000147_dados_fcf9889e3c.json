@@ -1,0 +1,44 @@
+[ {
+  "IndicadorCod" : "0000147",
+  "IndicadorDsg" : "Indicador de confiança (Saldo de respostas extremas) da construção por Atividade económica (Divisão - CAE Rev. 3); Mensal - INE, Inquérito qualitativo de conjuntura à construção e obras públicas",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0000147&lingua=PT",
+  "DataExtracao" : "2026-11-01T15:25:03.022Z",
+  "DataUltimoAtualizacao" : "2026-10-29",
+  "UltimoPref" : "Outubro de 2026",
+  "Dados" : {
+    "Julho de 2013" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "42",
+      "dim_3_t" : "Engenharia civil",
+      "ind_string" : "-56,8",
+      "valor" : "-56.8"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "41",
+      "dim_3_t" : "Promoção imobiliária (desenvolvimento de projectos de edifícios); construção de edifícios",
+      "ind_string" : "-55,0",
+      "valor" : "-55"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "-50,9",
+      "valor" : "-50.9"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "43",
+      "dim_3_t" : "Atividades especializadas de construção",
+      "ind_string" : "-34,9",
+      "valor" : "-34.9"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
