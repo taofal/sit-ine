@@ -1,11 +1,11 @@
 ﻿varcd;titulo;tema;nivel_geo;ultimo_periodo_ine;atualizacao_ine;prioridade;estado;data_colheita;periodos;ficheiros;valores;tentativas;nota
-0000147;Indicador de confiança (Saldo de respostas extremas) da construção;Conjuntura;Portugal;S3A202609;29-09-2026;1;pendente;;;;;0;
-0001163;Indicador de confiança (Saldo de respostas extremas) do comércio;Conjuntura;Portugal;S3A202609;29-09-2026;1;pendente;;;;;0;
-0001173;Indicador de confiança dos consumidores (Saldo de respostas extremas);Conjuntura;Portugal;S3A202609;30-09-2026;1;pendente;;;;;0;
-0001188;Indicador de confiança (Saldo de respostas extremas) da indústria transformadora;Conjuntura;Portugal;S3A202609;29-09-2026;1;pendente;;;;;0;
-0001213;Indicador de confiança (SRE - Valores corrigidos de sazonalidade) dos serviços;Conjuntura;Portugal;S3A202609;29-09-2026;1;pendente;;;;;0;
-0001214;Indicador de confiança (Saldo de respostas extremas) dos serviços;Conjuntura;Portugal;S3A202609;29-09-2026;1;pendente;;;;;0;
-0001222;Indicador de clima económico (% - mm3m);Conjuntura;Portugal;S3A202609;29-09-2026;1;pendente;;;;;0;
+0000147;Indicador de confiança (Saldo de respostas extremas) da construção;Conjuntura;Portugal;S3A202610;29-10-2026;1;pendente;;;;;0;"interrompido a meio; retoma na próxima volta"
+0001163;Indicador de confiança (Saldo de respostas extremas) do comércio;Conjuntura;Portugal;S3A202610;29-10-2026;1;pendente;;;;;0;
+0001173;Indicador de confiança dos consumidores (Saldo de respostas extremas);Conjuntura;Portugal;S3A202610;29-10-2026;1;pendente;;;;;0;
+0001188;Indicador de confiança (Saldo de respostas extremas) da indústria transformadora;Conjuntura;Portugal;S3A202610;29-10-2026;1;pendente;;;;;0;
+0001213;Indicador de confiança (SRE - Valores corrigidos de sazonalidade) dos serviços;Conjuntura;Portugal;S3A202610;29-10-2026;1;pendente;;;;;0;
+0001214;Indicador de confiança (Saldo de respostas extremas) dos serviços;Conjuntura;Portugal;S3A202610;29-10-2026;1;pendente;;;;;0;
+0001222;Indicador de clima económico (% - mm3m);Conjuntura;Portugal;S3A202610;29-10-2026;1;pendente;;;;;0;
 0008168;Importações (€) de bens;Comércio internacional;Município;S7A2025;07-08-2026;1;feito;2026-10-27;;2;54000;0;
 0008169;Exportações (€) de bens;Comércio internacional;Município;S7A2025;07-08-2026;1;feito;2026-10-27;;2;54000;0;
 0008273;População residente (N.º);População;Município;S7A2023;17-07-2026;1;feito;2026-10-27;;1;7410;0;
@@ -352,7 +352,7 @@
 0013428;Produto interno bruto (B.1*g) a preços correntes (Base 2021 - €);Contas nacionais e regionais;Portugal;S5A20262;23-09-2026;1;pendente;;;;;0;
 0013429;Produto interno bruto (B.1*g) a preços correntes (Taxa de variação homóloga - Base 2021 - %);Contas nacionais e regionais;Portugal;S5A20262;23-09-2026;1;pendente;;;;;0;
 0013430;Produto interno bruto dados encadeados em volume (B.1*g) (Base 2021 - €);Contas nacionais e regionais;Portugal;S5A20262;23-09-2026;1;pendente;;;;;0;
-0013431;Produto interno bruto dados encadeados em volume (B.1*g) (Taxa de variação homóloga - Base 2021 - %);Contas nacionais e regionais;Portugal;S5A20262;23-09-2026;1;pendente;;;;;0;
+0013431;Produto interno bruto dados encadeados em volume (B.1*g) (Taxa de variação homóloga - Base 2021 - %);Contas nacionais e regionais;Portugal;S5A20263;30-10-2026;1;feito;2026-11-01;;1;123;0;geografias inexistentes: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos, Porto, Área Metropolitana do Porto, Norte
 0013493;Produto interno bruto real per capita (Taxa de variação anual - Base 2021 - %);Contas nacionais e regionais;Portugal;S7A2025;24-09-2026;1;pendente;;;;;0;
 0013494;Produto interno bruto real por emprego equivalente a tempo completo (Taxa de variação anual - Base 2021 - %);Contas nacionais e regionais;Portugal;S7A2025;24-09-2026;1;pendente;;;;;0;
 0013857;Valor acrescentado bruto (€) das empresas;Empresas;NUTS III;S7A2024;11-12-2025;1;pendente;;;;;0;
@@ -427,9 +427,9 @@
 0014152;Valor acrescentado bruto (B.1g) a preços correntes (Base 2021 - €);Contas nacionais e regionais;NUTS 2;S7A2024;10-01-2026;1;pendente;;;;;0;
 0014153;"Proporção do valor acrescentado bruto da indústria e dos serviços (excluindo as atividades financeiras e de seguros, as atividades imobiliárias e a administração pública e defesa; segurança social obrigatória; educação; saúde humana e ação social) (Base 2021 - %)";Contas nacionais e regionais;NUTS 2;S7A2024;10-01-2026;1;pendente;;;;;0;
 0014321;Índice de produção industrial dos principais países clientes de Portugal - ajustado de efeitos de calendário e de sazonalidade (Taxa de variação homóloga - Base 2021 - %);Conjuntura;Total;S3A202608;20-10-2026;1;pendente;;;;;0;
-0014332;Indicador de confiança (SRE - Valores corrigidos de sazonalidade) da indústria transformadora;Conjuntura;Portugal;S3A202609;29-09-2026;1;pendente;;;;;0;
-0014333;Indicador de confiança (SRE - Valores corrigidos de sazonalidade) do comércio;Conjuntura;Portugal;S3A202609;29-09-2026;1;pendente;;;;;0;
-0014334;Indicador de clima económico (%);Conjuntura;Portugal;S3A202609;29-09-2026;1;pendente;;;;;0;
+0014332;Indicador de confiança (SRE - Valores corrigidos de sazonalidade) da indústria transformadora;Conjuntura;Portugal;S3A202610;29-10-2026;1;pendente;;;;;0;
+0014333;Indicador de confiança (SRE - Valores corrigidos de sazonalidade) do comércio;Conjuntura;Portugal;S3A202610;29-10-2026;1;pendente;;;;;0;
+0014334;Indicador de clima económico (%);Conjuntura;Portugal;S3A202610;29-10-2026;1;pendente;;;;;0;
 0014340;Índice de preços da habitação (Taxa de variação trimestral - Base 2015 - %);Construção e habitação;Portugal;S5A20254;23-03-2026;1;pendente;;;;;0;
 0014341;Índice de preços da habitação (Taxa de variação homóloga - Base 2015 - %);Construção e habitação;Portugal;S5A20254;23-03-2026;1;pendente;;;;;0;
 0014342;Índice de preços da habitação (Taxa de variação média - Base 2015 - %);Construção e habitação;Portugal;S5A20254;23-03-2026;1;pendente;;;;;0;
@@ -491,16 +491,16 @@
 0000140;Pessoal ao serviço (N.º) nos estabelecimentos de empresas de seguros;Empresas;Município;S7A2013;31-12-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
 0000141;Custos com o pessoal (€) nos estabelecimentos de empresas de seguros;Empresas;Município;S7A2013;31-12-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
 0000142;Prémios brutos emitidos (€) pelos estabelecimentos de empresas de seguros;Empresas;Município;S7A2013;31-12-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
-0000220;Estabelecimentos de outra intermediação monetária por 10 000 habitantes (N.º);Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
-0000221;Crédito à habitação por habitante (€);Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
-0000222;Depósitos de clientes (€) nos estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;378;0;geografias inexistentes: Área Metropolitana do Porto
-0000223;Crédito concedido (€) por estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;756;0;geografias inexistentes: Área Metropolitana do Porto
-0000224;Estabelecimentos de bancos e caixas económicas (N.º);Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
-0000225;Estabelecimentos de caixas de crédito agrícola mútuo (N.º);Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
-0000226;Pessoal ao serviço (N.º) nos estabelecimentos de bancos e caixas económicas;Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
-0000227;Pessoal ao serviço (N.º) nos estabelecimentos de caixas de crédito agrícola mútuo;Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
-0000228;Custos com o pessoal (€) nos estabelecimentos de bancos e caixas económicas;Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
-0000229;Custos com o pessoal (€) nos estabelecimentos de caixas de crédito agrícola mútuo;Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
+0000220;Estabelecimentos de outra intermediação monetária por 10 000 habitantes (Série CAE Rev. 3 - N.º);Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
+0000221;Crédito à habitação por habitante (Série CAE Rev. 3 - €);Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
+0000222;Depósitos de clientes (Série CAE Rev. 3 - €) nos Estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;378;0;geografias inexistentes: Área Metropolitana do Porto
+0000223;Crédito concedido (Série CAE Rev. 3 - €) por Estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;756;0;geografias inexistentes: Área Metropolitana do Porto
+0000224;Estabelecimentos de bancos e caixas económicas (Série - CAE Rev.3 - N.º);Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
+0000225;Estabelecimentos de caixas de crédito agrícola mútuo (Série CAE Rev. 3 - N.º);Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
+0000226;Pessoal ao serviço (Série CAE Rev. 3 - N.º) nos Estabelecimentos de bancos e caixas económicas;Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
+0000227;Pessoal ao serviço (Série CAE Rev. 3 - N.º) nos Estabelecimentos de caixas de crédito agrícola mútuo;Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
+0000228;Custos com o pessoal (Série CAE Rev. 3 - €) nos Estabelecimentos de bancos e caixas económicas;Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
+0000229;Custos com o pessoal (Série CAE Rev. 3 - €) nos Estabelecimentos de caixas de crédito agrícola mútuo;Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
 0000390;Estada média (Série 2002-2008 - N.º) nos estabelecimentos hoteleiros;Turismo;Município;S7A2008;01-07-2008;2;pendente;;;;;0;
 0000391;Taxa líquida de ocupação cama (Série 2006-2008 - %) nos estabelecimentos hoteleiros;Turismo;Município;S7A2008;01-07-2008;2;pendente;;;;;0;
 0000392;Estabelecimentos hoteleiros (Série 2002-2008 - N.º);Turismo;Município;S7A2008;13-05-2011;2;pendente;;;;;0;
@@ -527,11 +527,11 @@
 0001818;Proporção de hóspedes estrangeiros (%);Turismo;Município;S7A2013;20-07-2015;2;feito;2026-10-31;;1;108;0;geografias inexistentes: Área Metropolitana do Porto
 0001842;Dormidas (Série 2002-2008 - N.º) nos estabelecimentos hoteleiros;Turismo;Município;S7A2008;13-05-2011;2;pendente;;;;;0;
 0001843;Hóspedes (Série 2002-2008 - N.º) nos estabelecimentos hoteleiros;Turismo;Município;S7A2008;21-10-2008;2;feito;2026-10-31;;1;567;0;geografias inexistentes: Área Metropolitana do Porto
-0001971;Taxa de depósitos de emigrantes (%);Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
-0001972;Taxa de crédito à habitação (%);Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
-0001973;Juros e custos equiparados (€) estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
-0001974;Juros e proveitos equiparados (€) dos estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
-0001975;Juros de depósitos de clientes (€) estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
+0001971;Taxa de depósitos de emigrantes (Série - CAE Rev. 3 - %);Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
+0001972;Taxa de crédito à habitação (Série - CAE Rev. 3 - %);Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
+0001973;Juros e custos equiparados (Série - CAE Rev.3 - €) dos Estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
+0001974;Juros e proveitos equiparados (Série CAE Rev. 3 - €) dos Estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
+0001975;Juros de depósitos de clientes (Série - CAE Rev. 3 - €) em Estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2013;31-10-2014;2;feito;2026-10-27;;1;126;0;geografias inexistentes: Área Metropolitana do Porto
 0001976;Caixas Automáticos Multibanco em 31 de Dezembro (N.º);Empresas;Município;S7A2013;05-08-2014;2;pendente;;;;;0;
 0001977;Compras através de Terminais de Pagamento Automático (N.º);Empresas;Município;S7A2013;05-08-2014;2;pendente;;;;;0;
 0001978;Compras através de Terminais de Pagamento Automático (€);Empresas;Município;S7A2013;05-08-2014;2;pendente;;;;;0;
@@ -574,9 +574,9 @@
 0003920;Taxa de escolarização no ensino superior (%);Educação, formação e aprendizagem;Município;7A2016_3;15-12-2017;2;feito;2026-11-01;;1;117;0;geografias inexistentes: Área Metropolitana do Porto
 0003930;Alunas/os inscritas/os no ensino superior (N.º);Educação, formação e aprendizagem;Município;7A2020_3;30-09-2020;2;feito;2026-10-28;;1;765;0;geografias inexistentes: Área Metropolitana do Porto
 0003970;Valores médios de avaliação bancária (€/ m²) dos alojamentos;Empresas;Município;S3A201411;23-12-2014;2;feito;2026-10-31;;1;900;0;geografias inexistentes: Ave, Cávado, Matosinhos, Área Metropolitana do Porto, Norte, Portugal
-0004719;Estabelecimentos de outra intermediação monetária por 10 000 habitantes (N.º);Empresas;Município;S7A2012;05-11-2013;2;pendente;;;;;0;
-0004720;Estabelecimentos de bancos e caixas económicas (N.º);Empresas;Município;S7A2012;05-11-2013;2;pendente;;;;;0;
-0004721;Estabelecimentos de caixas de crédito agrícola mútuo (N.º);Empresas;Município;S7A2012;05-11-2013;2;pendente;;;;;0;
+0004719;Estabelecimentos de outra intermediação monetária por 10 000 habitantes (Série CAE Rev. 3 - N.º);Empresas;Município;S7A2012;05-11-2013;2;pendente;;;;;0;
+0004720;Estabelecimentos de bancos e caixas económicas (Série - CAE Rev.3 - N.º);Empresas;Município;S7A2012;05-11-2013;2;pendente;;;;;0;
+0004721;Estabelecimentos de caixas de crédito agrícola mútuo (Série CAE Rev. 3 - N.º);Empresas;Município;S7A2012;05-11-2013;2;pendente;;;;;0;
 0005147;Quartos (N.º) nos estabelecimentos hoteleiros;Turismo;Município;S7A2015;28-11-2016;2;feito;2026-10-29;;1;1350;0;geografias inexistentes: Área Metropolitana do Porto
 0005150;Proveitos totais (€) dos estabelecimentos hoteleiros;Turismo;Município;S7A2015;28-11-2016;2;feito;2026-10-29;;1;1350;0;geografias inexistentes: Área Metropolitana do Porto
 0005151;Proveitos de aposento (€) dos estabelecimentos hoteleiros;Turismo;Município;S7A2015;28-11-2016;2;feito;2026-10-29;;1;1350;0;geografias inexistentes: Área Metropolitana do Porto
@@ -658,19 +658,19 @@
 0008615;Proporção de poder de compra (% - no total do País);Condições de vida e cidadania;Município;S7A2021;06-11-2023;2;pendente;;;;;0;
 0008616;Fator dinamismo relativo de poder de compra;Condições de vida e cidadania;Município;S7A2021;06-11-2023;2;pendente;;;;;0;
 0008644;Taxa de sobrevivência (%) das Empresas nascidas 2 anos antes;Empresas;Município;S7A2022;15-12-2023;2;feito;2026-11-01;;1;130;0;
-0008686;Pessoal ao serviço (N.º) nos estabelecimentos de bancos e caixas económicas;Empresas;Município;S7A2022;22-12-2023;2;feito;2026-10-31;;1;110;0;
-0008687;Custos com o pessoal (€) nos estabelecimentos de bancos e caixas económicas;Empresas;Município;S7A2022;22-12-2023;2;feito;2026-10-31;;1;110;0;
-0008689;Pessoal ao serviço (N.º) nos estabelecimentos de caixas de crédito agrícola mútuo;Empresas;Município;S7A2022;22-12-2023;2;feito;2026-10-31;;1;110;0;
-0008690;Custos com o pessoal (€) nos estabelecimentos de caixas de crédito agrícola mútuo;Empresas;Município;S7A2022;22-12-2023;2;feito;2026-10-31;;1;110;0;
-0008691;Estabelecimentos de outra intermediação monetária por 10 000 habitantes (N.º);Empresas;Município;S7A2022;22-12-2023;2;feito;2026-10-31;;1;110;0;
-0008692;Taxa de depósitos de emigrantes (%);Empresas;Município;S7A2022;22-12-2023;2;feito;2026-10-31;;1;110;0;
-0008693;Depósitos de clientes (€) nos estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2022;22-12-2023;2;feito;2026-10-31;;1;330;0;
-0008694;Crédito concedido (€) por estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2022;22-12-2023;2;feito;2026-10-31;;1;660;0;
-0008695;Crédito à habitação por habitante (€);Empresas;Município;S7A2022;22-12-2023;2;feito;2026-10-31;;1;110;0;
-0008696;Taxa de crédito à habitação (%);Empresas;Município;S7A2022;22-12-2023;2;feito;2026-10-31;;1;30;0;
-0008697;Juros e custos equiparados (€) estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2022;22-12-2023;2;feito;2026-10-31;;1;30;0;
-0008698;Juros e proveitos equiparados (€) dos estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2022;22-12-2023;2;feito;2026-10-31;;1;110;0;
-0008699;Juros de depósitos de clientes (€) estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2022;22-12-2023;2;feito;2026-10-31;;1;110;0;
+0008686;Pessoal ao serviço (Série CAE Rev. 3 - N.º) nos Estabelecimentos de bancos e caixas económicas;Empresas;Município;S7A2022;22-12-2023;2;feito;2026-10-31;;1;110;0;
+0008687;Custos com o pessoal (Série CAE Rev. 3 - €) nos Estabelecimentos de bancos e caixas económicas;Empresas;Município;S7A2022;22-12-2023;2;feito;2026-10-31;;1;110;0;
+0008689;Pessoal ao serviço (Série CAE Rev. 3 - N.º) nos Estabelecimentos de caixas de crédito agrícola mútuo;Empresas;Município;S7A2022;22-12-2023;2;feito;2026-10-31;;1;110;0;
+0008690;Custos com o pessoal (Série CAE Rev. 3 - €) nos Estabelecimentos de caixas de crédito agrícola mútuo;Empresas;Município;S7A2022;22-12-2023;2;feito;2026-10-31;;1;110;0;
+0008691;Estabelecimentos de outra intermediação monetária por 10 000 habitantes (Série CAE Rev. 3 - N.º);Empresas;Município;S7A2022;22-12-2023;2;feito;2026-10-31;;1;110;0;
+0008692;Taxa de depósitos de emigrantes (Série - CAE Rev. 3 - %);Empresas;Município;S7A2022;22-12-2023;2;feito;2026-10-31;;1;110;0;
+0008693;Depósitos de clientes (Série CAE Rev. 3 - €) nos Estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2022;22-12-2023;2;feito;2026-10-31;;1;330;0;
+0008694;Crédito concedido (Série CAE Rev. 3 - €) por Estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2022;22-12-2023;2;feito;2026-10-31;;1;660;0;
+0008695;Crédito à habitação por habitante (Série CAE Rev. 3 - €);Empresas;Município;S7A2022;22-12-2023;2;feito;2026-10-31;;1;110;0;
+0008696;Taxa de crédito à habitação (Série - CAE Rev. 3 - %);Empresas;Município;S7A2022;22-12-2023;2;feito;2026-10-31;;1;30;0;
+0008697;Juros e custos equiparados (Série - CAE Rev.3 - €) dos Estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2022;22-12-2023;2;feito;2026-10-31;;1;30;0;
+0008698;Juros e proveitos equiparados (Série CAE Rev. 3 - €) dos Estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2022;22-12-2023;2;feito;2026-10-31;;1;110;0;
+0008699;Juros de depósitos de clientes (Série - CAE Rev. 3 - €) em Estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2022;22-12-2023;2;feito;2026-10-31;;1;110;0;
 0008713;Taxa de abstenção nas eleições para as Câmaras Municipais (%);Condições de vida e cidadania;Município;S7A2021;30-11-2021;2;feito;2026-10-28;;1;60;0;
 0008714;Taxa de abstenção nas eleições para a Assembleia da República (%);Condições de vida e cidadania;Município;S7A2022;27-06-2022;2;feito;2026-10-29;;1;70;0;
 0008715;Taxa de abstenção nas eleições para a Presidência da República (%);Condições de vida e cidadania;Freguesia;S7A2021;02-03-2021;2;pendente;;;;;0;
@@ -861,7 +861,7 @@
 0011140;Estada média (N.º) nos estabelecimentos de alojamento turístico;Turismo;Município;S7A2025;09-07-2026;2;pendente;;;;;0;
 0011141;Hóspedes por habitante (N.º) nos estabelecimentos de alojamento turístico;Turismo;Município;S7A2025;09-07-2026;2;pendente;;;;;0;
 0011142;Proporção de dormidas entre julho-setembro (%) nos estabelecimentos de alojamento turístico;Turismo;Município;S7A2025;09-07-2026;2;pendente;;;;;0;
-0011172;Comissões (Recebidas) (milhares €);Empresas;Município;S7A2022;22-12-2023;2;feito;2026-10-31;;1;80;0;
+0011172;Comissões (Recebidas) dos estabelecimentos de outra intermediação monetária (Série - CAE Rev. 3 - €);Empresas;Município;S7A2022;22-12-2023;2;feito;2026-10-31;;1;80;0;
 0011420;Constituição de pessoas coletivas e entidades equiparadas (N.º);Empresas;Município;S7A2023;24-01-2024;2;feito;2026-10-29;;16;288960;0;
 0011421;Dissolução de pessoas coletivas e entidades equiparadas (N.º);Empresas;Município;S7A2023;24-01-2024;2;feito;2026-10-29;;16;288960;0;
 0011601;Indivíduos desempregados (N.º) nos agregados  domésticos privados;Mercado de trabalho;Freguesia;S7A2021;23-11-2022;2;feito;2026-10-31;;1;690;0;
@@ -900,8 +900,8 @@
 0012104;Levantamentos nacionais em Caixas Automáticos Multibanco (€);Empresas;Município;S3A202609;15-10-2026;2;pendente;;;;;0;"interrompido a meio; retoma na próxima volta"
 0012242;Constituição de pessoas coletivas e entidades equiparadas (N.º);Empresas;Município;S7A2025;29-01-2026;2;feito;2026-10-28;;18;325080;0;
 0012243;Dissolução de pessoas coletivas e entidades equiparadas (N.º);Empresas;Município;S7A2025;29-01-2026;2;feito;2026-10-29;;18;325080;0;
-0012244;Constituição de pessoas coletivas e entidades equiparadas (N.º);Empresas;Município;S3A202608;30-09-2026;2;feito;2026-10-28;;2;45320;0;
-0012245;Dissolução de pessoas coletivas e entidades equiparadas (N.º);Empresas;Município;S3A202608;30-09-2026;2;feito;2026-10-28;;2;45320;0;
+0012244;Constituição de pessoas coletivas e entidades equiparadas (N.º);Empresas;Município;S3A202609;29-10-2026;2;feito;2026-11-01;;2;46350;0;
+0012245;Dissolução de pessoas coletivas e entidades equiparadas (N.º);Empresas;Município;S3A202609;29-10-2026;2;feito;2026-11-01;;2;46350;0;
 0012273;Taxa de analfabetismo (%);Educação, formação e aprendizagem;Freguesia;S7A2021;19-03-2024;2;feito;2026-10-31;;1;30;0;
 0012422;Alunas/os matriculadas/os no ensino básico em ofertas de educação e formação orientadas para jovens (N.º);Educação, formação e aprendizagem;Município;7A2025_3;29-06-2026;2;feito;2026-10-28;;1;2200;0;
 0012423;Alunas/os matriculadas/os no ensino básico público em ofertas de educação e formação orientadas para jovens (N.º);Educação, formação e aprendizagem;Município;7A2025_3;29-06-2026;2;feito;2026-10-28;;1;2200;0;
@@ -1030,22 +1030,22 @@
 0013011;Ganho mensal (€);Mercado de trabalho;Município;S7A2024;08-04-2026;2;pendente;;;;;0;
 0013012;Ganho mensal (€);Mercado de trabalho;Município;S7A2024;08-04-2026;2;pendente;;;;;0;
 0013013;Ganho mensal em setores de alta e média-alta tecnologia (CAE Rev.3 - €);Mercado de trabalho;Município;S7A2024;08-04-2026;2;pendente;;;;;0;
-0013047;Estabelecimentos de outra intermediação monetária por 10 000 habitantes (N.º);Empresas;Município;S7A2024;20-07-2026;2;feito;2026-10-31;;1;30;0;
-0013048;Crédito à habitação por habitante (€);Empresas;Município;S7A2024;20-07-2026;2;feito;2026-10-31;;1;30;0;
-0013049;Depósitos de clientes (€) nos estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2024;19-12-2025;2;feito;2026-10-31;;1;90;0;
-0013050;Crédito concedido (€) por estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2024;19-12-2025;2;feito;2026-10-31;;1;180;0;
-0013051;Taxa de depósitos de emigrantes (%);Empresas;Município;S7A2024;19-12-2025;2;feito;2026-10-31;;1;30;0;
-0013052;Taxa de crédito à habitação (%);Empresas;Município;S7A2024;19-12-2025;2;feito;2026-10-31;;1;30;0;
-0013053;Juros e custos equiparados (€) estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2024;19-12-2025;2;feito;2026-10-31;;1;30;0;
-0013054;Juros e proveitos equiparados (€) dos estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2024;19-12-2025;2;feito;2026-10-31;;1;30;0;
-0013055;Juros de depósitos de clientes (€) estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2024;19-12-2025;2;feito;2026-10-31;;1;30;0;
-0013056;Comissões (Recebidas) dos estabelecimentos de outra intermediação monetária (€);Empresas;Município;S7A2024;19-12-2025;2;feito;2026-10-31;;1;30;0;
-0013057;Estabelecimentos de bancos e caixas económicas (N.º);Empresas;Município;S7A2024;19-12-2025;2;feito;2026-10-31;;1;30;0;
-0013058;Pessoal ao serviço (N.º) nos estabelecimentos de bancos e caixas económicas;Empresas;Município;S7A2024;19-12-2025;2;feito;2026-10-31;;1;30;0;
-0013059;Custos com o pessoal (€) nos estabelecimentos de bancos e caixas económicas;Empresas;Município;S7A2024;19-12-2025;2;feito;2026-10-31;;1;30;0;
-0013060;Estabelecimentos de caixas de crédito agrícola mútuo (N.º);Empresas;Município;S7A2024;19-12-2025;2;feito;2026-10-31;;1;30;0;
-0013061;Pessoal ao serviço (N.º) nos estabelecimentos de caixas de crédito agrícola mútuo;Empresas;Município;S7A2024;12-06-2026;2;pendente;;;;;0;
-0013062;Custos com o pessoal (€) nos estabelecimentos de caixas de crédito agrícola mútuo;Empresas;Município;S7A2024;12-06-2026;2;pendente;;;;;0;
+0013047;Estabelecimentos de outra intermediação monetária por 10 000 habitantes (Série CAE Rev. 3 - N.º);Empresas;Município;S7A2024;20-07-2026;2;feito;2026-10-31;;1;30;0;
+0013048;Crédito à habitação por habitante (Série CAE Rev. 3 - €);Empresas;Município;S7A2024;20-07-2026;2;feito;2026-10-31;;1;30;0;
+0013049;Depósitos de clientes (Série CAE Rev. 3 - €) nos Estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2024;19-12-2025;2;feito;2026-10-31;;1;90;0;
+0013050;Crédito concedido (Série CAE Rev. 3 - €) por Estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2024;19-12-2025;2;feito;2026-10-31;;1;180;0;
+0013051;Taxa de depósitos de emigrantes (Série - CAE Rev. 3 - %);Empresas;Município;S7A2024;19-12-2025;2;feito;2026-10-31;;1;30;0;
+0013052;Taxa de crédito à habitação (Série - CAE Rev. 3 - %);Empresas;Município;S7A2024;19-12-2025;2;feito;2026-10-31;;1;30;0;
+0013053;Juros e custos equiparados (Série - CAE Rev.3 - €) dos Estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2024;19-12-2025;2;feito;2026-10-31;;1;30;0;
+0013054;Juros e proveitos equiparados (Série CAE Rev. 3 - €) dos Estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2024;19-12-2025;2;feito;2026-10-31;;1;30;0;
+0013055;Juros de depósitos de clientes (Série - CAE Rev. 3 - €) em Estabelecimentos de outra intermediação monetária;Empresas;Município;S7A2024;19-12-2025;2;feito;2026-10-31;;1;30;0;
+0013056;Comissões (Recebidas) dos estabelecimentos de outra intermediação monetária (Série - CAE Rev. 3 - €);Empresas;Município;S7A2024;19-12-2025;2;feito;2026-10-31;;1;30;0;
+0013057;Estabelecimentos de bancos e caixas económicas (Série - CAE Rev.3 - N.º);Empresas;Município;S7A2024;19-12-2025;2;feito;2026-10-31;;1;30;0;
+0013058;Pessoal ao serviço (Série CAE Rev. 3 - N.º) nos Estabelecimentos de bancos e caixas económicas;Empresas;Município;S7A2024;19-12-2025;2;feito;2026-10-31;;1;30;0;
+0013059;Custos com o pessoal (Série CAE Rev. 3 - €) nos Estabelecimentos de bancos e caixas económicas;Empresas;Município;S7A2024;19-12-2025;2;feito;2026-10-31;;1;30;0;
+0013060;Estabelecimentos de caixas de crédito agrícola mútuo (Série CAE Rev. 3 - N.º);Empresas;Município;S7A2024;19-12-2025;2;feito;2026-10-31;;1;30;0;
+0013061;Pessoal ao serviço (Série CAE Rev. 3 - N.º) nos Estabelecimentos de caixas de crédito agrícola mútuo;Empresas;Município;S7A2024;12-06-2026;2;pendente;;;;;0;
+0013062;Custos com o pessoal (Série CAE Rev. 3 - €) nos Estabelecimentos de caixas de crédito agrícola mútuo;Empresas;Município;S7A2024;12-06-2026;2;pendente;;;;;0;
 0013063;Prémios brutos emitidos pelos estabelecimentos de empresas de seguros por habitante (€/ hab.);Empresas;Município;S7A2024;20-07-2026;2;feito;2026-10-31;;1;30;0;
 0013064;Pessoal ao serviço (N.º) nos estabelecimentos de empresas de seguros;Empresas;Município;S7A2024;19-12-2025;2;feito;2026-10-31;;1;30;0;
 0013065;Custos com o pessoal (€) nos estabelecimentos de empresas de seguros;Empresas;Município;S7A2024;19-12-2025;2;feito;2026-10-31;;1;30;0;
@@ -1121,8 +1121,8 @@
 0013799;Unidades de investigação e desenvolvimento (I&D) - (N.º) nas instituições e empresas com investigação e desenvolvimento;Inovação e conhecimento;Município;S7A2024;01-04-2026;2;pendente;;;;;0;
 0013800;Despesa em investigação e desenvolvimento (I&D - €) das instituições e empresas com investigação e desenvolvimento;Inovação e conhecimento;Município;S7A2024;01-04-2026;2;pendente;;;;;0;
 0013801;Despesa em investigação e desenvolvimento (I&D) - (€) das instituições dos setores de execução do Estado, ensino superior e instituições privadas sem fins lucrativos com investigação e desenvolvimento;Inovação e conhecimento;Município;S7A2024;01-04-2026;2;pendente;;;;;0;
-0014364;Constituição de pessoas coletivas e entidades equiparadas (N.º);Empresas;Município;S3A202608;30-09-2026;2;feito;2026-10-28;;1;20600;0;
-0014365;Dissolução de pessoas coletivas e entidades equiparadas (N.º);Empresas;Município;S3A202608;30-09-2026;2;feito;2026-10-28;;1;20600;0;
+0014364;Constituição de pessoas coletivas e entidades equiparadas (N.º);Empresas;Município;S3A202609;29-10-2026;2;feito;2026-11-01;;1;21630;0;
+0014365;Dissolução de pessoas coletivas e entidades equiparadas (N.º);Empresas;Município;S3A202609;29-10-2026;2;feito;2026-11-01;;1;21630;0;
 0014402;Investigadoras/es equivalente a tempo integral (ETI) por 1000 habitantes (N.º) nas instituições e empresas com investigação e desenvolvimento;Inovação e conhecimento;Município;S7A2024;26-08-2026;2;feito;2026-10-29;;1;40;0;
 0014580;Poder de compra per capita;Condições de vida e cidadania;Município;S7A2023;06-11-2025;2;pendente;;;;;0;
 0014581;Proporção de poder de compra (% - no total do País);Condições de vida e cidadania;Município;S7A2023;06-11-2025;2;pendente;;;;;0;
@@ -2388,7 +2388,7 @@
 0008453;Postos de correio (N.º) das empresas de serviços postais nacionais;Transportes e comunicações;Município;S7A2025;09-06-2026;3;pendente;;;;;0;
 0008454;Habitantes por estações de correio (N.º);Transportes e comunicações;Município;S7A2023;29-08-2026;3;pendente;;;;;0;
 0008455;Habitantes por postos de correio (N.º);Transportes e comunicações;Município;S7A2023;29-08-2026;3;pendente;;;;;0;
-0008464;Registo de propriedade de veículos novos por 1000 habitantes (N.º);Transportes e comunicações;Município;S7A2025;30-06-2026;3;pendente;;;;;0;
+0008464;Registo de propriedade de veículos novos por 1000 habitantes (N.º);Transportes e comunicações;Município;S7A2025;30-10-2026;3;pendente;;;;;0;
 0008565;Museus (N.º);Cultura, desporto e lazer;Município;S7A2023;07-03-2025;3;pendente;;;;;0;
 0008566;Visitantes (N.º) de museus;Cultura, desporto e lazer;Município;S7A2023;07-03-2025;3;pendente;;;;;0;
 0008567;Visitantes inseridos em grupos escolares (N.º) de museus;Cultura, desporto e lazer;Município;S7A2023;07-03-2025;3;pendente;;;;;0;
@@ -2435,8 +2435,8 @@
 0008662;Qualidade (N.º de análises) das Águas para consumo humano;Ambiente;Município;S7A2024;21-05-2026;3;pendente;;;;;0;
 0008663;Água segura (%);Ambiente;Município;S7A2024;21-05-2026;3;pendente;;;;;0;
 0008664;Águas balneares (N.º);Ambiente;Município;S7A2025;26-09-2026;3;pendente;;;;;0;
-0008685;Estabelecimentos de bancos e caixas económicas (N.º);Território;Município;S7A2022;22-12-2023;3;pendente;;;;;0;
-0008688;Estabelecimentos de caixas de crédito agrícola mútuo (N.º);Território;Município;S7A2022;22-12-2023;3;pendente;;;;;0;
+0008685;Estabelecimentos de bancos e caixas económicas (Série - CAE Rev.3 - N.º);Território;Município;S7A2022;22-12-2023;3;pendente;;;;;0;
+0008688;Estabelecimentos de caixas de crédito agrícola mútuo (Série CAE Rev. 3 - N.º);Território;Município;S7A2022;22-12-2023;3;pendente;;;;;0;
 0008710;Taxa quinquenal de mortalidade neonatal (‰);População;Município;S11A20182022;01-10-2024;3;pendente;;;;;0;
 0008711;Taxa quinquenal de mortalidade infantil (‰);População;Município;S11A20202024;15-11-2025;3;pendente;;;;;0;
 0008757;Comprimento máximo Este/ Oeste (km) das unidades territoriais;Território;Município;S7A2022;11-12-2023;3;pendente;;;;;0;
@@ -2606,7 +2606,7 @@
 0010327;Museus em atividade (N.º);Cultura, desporto e lazer;Município;S7A2023;07-03-2025;3;pendente;;;;;0;
 0010351;Assinantes do serviço de televisão através de subscrição (N.º);Transportes e comunicações;Município;S7A2025;29-08-2026;3;pendente;;;;;0;
 0010352;Postos telefónicos públicos (N.º);Transportes e comunicações;Município;S7A2025;09-06-2026;3;pendente;;;;;0;
-0010353;Registo de propriedade de veículos novos (N.º);Transportes e comunicações;Município;S7A2025;27-05-2026;3;pendente;;;;;0;
+0010353;Registo de propriedade de veículos novos (N.º);Transportes e comunicações;Município;S7A2025;30-10-2026;3;pendente;;;;;0;
 0010354;Proporção de acidentes de viação com vítimas em autoestradas (%);Transportes e comunicações;Município;S7A2024;02-04-2026;3;pendente;;;;;0;
 0010363;Avaliações bancárias de alojamentos familiares nos últimos 3 meses;Construção e habitação;Município;S3A202311;27-12-2023;3;pendente;;;;;0;
 0010417;Explorações agrícolas com efetivo animal (N.º);Agricultura, floresta e pescas;Freguesia;S7A2019;31-03-2021;3;pendente;;;;;0;
@@ -3238,7 +3238,7 @@
 0012080;Despesas em ambiente dos municípios por 1000 habitantes (€/ hab.);Ambiente;Município;S7A2024;31-10-2025;3;feito;2026-10-27;;1;3200;0;
 0012081;Receitas em ambiente dos municípios por habitante (€/ hab.);Ambiente;Município;S7A2024;31-10-2025;3;feito;2026-10-27;;1;3100;0;
 0012082;Despesas em ambiente dos municípios por habitante (€/ hab.);Ambiente;Município;S7A2024;31-10-2025;3;feito;2026-10-27;;1;3200;0;
-0012083;Investimentos em gestão de resíduos dos municípios (€);Ambiente;Município;S7A2024;31-10-2025;3;feito;2026-10-27;;1;1280;0;
+0012083;Investimentos em gestão de resíduos dos municípios (€);Ambiente;Município;S7A2025;30-10-2026;3;feito;2026-11-01;;1;1320;0;
 0012084;Investimentos na proteção da biodiversidade e paisagem dos municípios (€);Ambiente;Município;S7A2024;31-10-2025;3;feito;2026-10-27;;1;1280;0;
 0012085;Receitas em ambiente (€) dos municípios;Ambiente;Município;S7A2024;31-10-2025;3;feito;2026-10-27;;2;37200;0;
 0012098;Fogos licenciados em construções novas para habitação familiar nos últimos 3 meses (N.º);Construção e habitação;Município;S3A202608;09-10-2026;3;pendente;;;;;0;
@@ -3592,7 +3592,7 @@
 0012769;Resíduos urbanos recolhidos (t);Ambiente;Município;S7A2024;10-11-2025;3;pendente;;;;;0;
 0012770;Resíduos urbanos geridos (t);Ambiente;Município;S7A2024;18-12-2025;3;pendente;;;;;0;
 0012771;Resíduos urbanos recolhidos (t);Ambiente;Município;S7A2024;10-11-2025;3;pendente;;;;;0;
-0012773;Registo de propriedade de veículos novos (N.º);Transportes e comunicações;Município;S7A2025;27-05-2026;3;pendente;;;;;0;
+0012773;Registo de propriedade de veículos novos (N.º);Transportes e comunicações;Município;S7A2025;30-10-2026;3;pendente;;;;;0;
 0012774;Acidentes de viação com vítimas (N.º);Transportes e comunicações;Município;S7A2024;02-04-2026;3;pendente;;;;;0;
 0012775;Vítimas de acidentes de viação (N.º);Transportes e comunicações;Município;S7A2024;02-04-2026;3;pendente;;;;;0;
 0012776;Índice de gravidade (N.º) dos acidentes de viação com vítimas;Transportes e comunicações;Município;S7A2024;02-04-2026;3;pendente;;;;;0;
@@ -3661,7 +3661,7 @@
 0013139;Postos de correio (N.º) das empresas de serviços postais nacionais;Transportes e comunicações;Município;S7A2025;09-06-2026;3;pendente;;;;;0;
 0013140;Acessos à Internet em banda larga em local fixo (N.º);Transportes e comunicações;Município;S7A2025;09-06-2026;3;pendente;;;;;0;
 0013163;Lagares de azeite (N.º);Agricultura, floresta e pescas;Município;S7A2025;09-07-2026;3;pendente;;;;;0;
-0013171;Registo de propriedade de veículos novos por 1000 habitantes (N.º);Transportes e comunicações;Município;S7A2025;30-06-2026;3;pendente;;;;;0;
+0013171;Registo de propriedade de veículos novos por 1000 habitantes (N.º);Transportes e comunicações;Município;S7A2025;30-10-2026;3;pendente;;;;;0;
 0013177;Taxa de crescimento natural (%);População;Município;S7A2025;22-06-2026;3;pendente;;;;;0;
 0013178;Taxa de crescimento efetivo (%);População;Município;S7A2025;22-06-2026;3;pendente;;;;;0;
 0013179;Saldo migratório (N.º);População;Município;S7A2025;22-06-2026;3;pendente;;;;;0;
@@ -3803,21 +3803,21 @@
 0013536;Proporção de espaços florestais ardidos (%);Agricultura, floresta e pescas;Município;S7A2025;30-05-2026;3;pendente;;;;;0;
 0013537;Proporção de superfície ardida (%);Agricultura, floresta e pescas;Município;S7A2025;30-05-2026;3;pendente;;;;;0;
 0013538;Proporção de superfície ardida (da unidade territorial %);Agricultura, floresta e pescas;Município;S7A2025;30-05-2026;3;pendente;;;;;0;
-0013543;Despesas em atividades culturais e criativas (€) das câmaras municipais;Cultura, desporto e lazer;Município;S7A2024;24-10-2025;3;pendente;;;;;0;
-0013544;Despesas em património cultural (€) das câmaras municipais;Cultura, desporto e lazer;Município;S7A2024;24-10-2025;3;pendente;;;;;0;
-0013545;Despesas em bibliotecas e arquivos (€) das câmaras municipais;Cultura, desporto e lazer;Município;S7A2024;24-10-2025;3;pendente;;;;;0;
-0013546;Despesas em livros e publicações periódicas (€) das câmaras municipais;Cultura, desporto e lazer;Município;S7A2024;24-10-2025;3;pendente;;;;;0;
-0013547;Despesas em artes visuais (€) das câmaras municipais;Cultura, desporto e lazer;Município;S7A2024;24-10-2025;3;pendente;;;;;0;
-0013548;Despesas em artes do espetáculo (€) das câmaras municipais;Cultura, desporto e lazer;Município;S7A2024;24-10-2025;3;pendente;;;;;0;
-0013549;Despesas em audiovisual e multimédia (€) das câmaras municipais;Cultura, desporto e lazer;Município;S7A2024;24-10-2025;3;pendente;;;;;0;
-0013550;Despesas em arquitetura (€) das câmaras municipais;Cultura, desporto e lazer;Município;S7A2024;24-10-2025;3;pendente;;;;;0;
-0013551;Despesas em atividades interdisciplinares (€) das câmaras municipais;Cultura, desporto e lazer;Município;S7A2024;24-10-2025;3;pendente;;;;;0;
-0013552;Despesas em publicidade (€) das câmaras municipais;Cultura, desporto e lazer;Município;S7A2024;24-10-2025;3;pendente;;;;;0;
-0013553;Despesas em artesanato (€) das câmaras municipais;Cultura, desporto e lazer;Município;S7A2024;24-10-2025;3;pendente;;;;;0;
-0013554;Despesas em atividades e equipamentos desportivos (€) das câmaras municipais;Cultura, desporto e lazer;Município;S7A2024;24-10-2025;3;pendente;;;;;0;
-0013555;Despesas em atividades culturais e criativas das câmaras municipais por habitante (€);Cultura, desporto e lazer;Município;S7A2024;10-07-2026;3;pendente;;;;;0;
-0013556;Despesas em atividades e equipamentos desportivos das câmaras municipais por habitante (€);Cultura, desporto e lazer;Município;S7A2024;10-07-2026;3;pendente;;;;;0;
-0013557;Despesas das câmaras municipais em cultura e desporto no total de despesas (%);Cultura, desporto e lazer;Município;S7A2024;24-10-2025;3;pendente;;;;;0;
+0013543;Despesas em atividades culturais e criativas (€) das câmaras municipais;Cultura, desporto e lazer;Município;S7A2025;30-10-2026;3;pendente;;;;;0;
+0013544;Despesas em património cultural (€) das câmaras municipais;Cultura, desporto e lazer;Município;S7A2025;30-10-2026;3;pendente;;;;;0;
+0013545;Despesas em bibliotecas e arquivos (€) das câmaras municipais;Cultura, desporto e lazer;Município;S7A2025;30-10-2026;3;pendente;;;;;0;
+0013546;Despesas em livros e publicações periódicas (€) das câmaras municipais;Cultura, desporto e lazer;Município;S7A2025;30-10-2026;3;pendente;;;;;0;
+0013547;Despesas em artes visuais (€) das câmaras municipais;Cultura, desporto e lazer;Município;S7A2025;30-10-2026;3;pendente;;;;;0;
+0013548;Despesas em artes do espetáculo (€) das câmaras municipais;Cultura, desporto e lazer;Município;S7A2025;30-10-2026;3;pendente;;;;;0;
+0013549;Despesas em audiovisual e multimédia (€) das câmaras municipais;Cultura, desporto e lazer;Município;S7A2025;30-10-2026;3;pendente;;;;;0;
+0013550;Despesas em arquitetura (€) das câmaras municipais;Cultura, desporto e lazer;Município;S7A2025;30-10-2026;3;pendente;;;;;0;
+0013551;Despesas em atividades interdisciplinares (€) das câmaras municipais;Cultura, desporto e lazer;Município;S7A2025;30-10-2026;3;pendente;;;;;0;
+0013552;Despesas em publicidade (€) das câmaras municipais;Cultura, desporto e lazer;Município;S7A2025;30-10-2026;3;pendente;;;;;0;
+0013553;Despesas em artesanato (€) das câmaras municipais;Cultura, desporto e lazer;Município;S7A2025;30-10-2026;3;pendente;;;;;0;
+0013554;Despesas em atividades e equipamentos desportivos (€) das câmaras municipais;Cultura, desporto e lazer;Município;S7A2025;30-10-2026;3;pendente;;;;;0;
+0013555;Despesas em atividades culturais e criativas das câmaras municipais por habitante (€);Cultura, desporto e lazer;Município;S7A2025;30-10-2026;3;pendente;;;;;0;
+0013556;Despesas em atividades e equipamentos desportivos das câmaras municipais por habitante (€);Cultura, desporto e lazer;Município;S7A2025;30-10-2026;3;pendente;;;;;0;
+0013557;Despesas das câmaras municipais em cultura e desporto no total de despesas (%);Cultura, desporto e lazer;Município;S7A2025;30-10-2026;3;pendente;;;;;0;
 0013558;Água captada (Série 2011 - m³);Ambiente;Município;S7A2023;28-02-2026;3;pendente;;;;;0;
 0013559;Água distribuída (Série 2011 - m³);Ambiente;Município;S7A2023;05-03-2026;3;pendente;;;;;0;
 0013560;Água distribuída por habitante (Série 2011 - m³/ hab.);Ambiente;Município;S7A2023;05-03-2026;3;pendente;;;;;0;
@@ -3941,6 +3941,9 @@
 0014773;Valor mediano das rendas de novos contratos de arrendamento de alojamentos familiares (Metodologia 2026 - €/ m²);Construção e habitação;Freguesia;S7A2025;26-06-2026;3;pendente;;;;;0;
 0014799;Superfície terrestre (km² - COS - Série 2) das unidades territoriais;Território;Município;S7A2023;31-07-2026;3;feito;2026-10-28;;1;18;0;geografias inexistentes: Portugal
 0014802;Evolução da eficiência dos territórios artificializados por habitante (% - COS - Série 2);Território;Município;S7A2023;31-07-2026;3;feito;2026-10-28;;1;9;0;geografias inexistentes: Portugal
+0014916;Gastos, rendimentos e investimentos (€) dos municípios;Ambiente;Município;S7A2025;30-10-2026;3;pendente;;;;;0;
+0014917;Gastos em ambiente dos municípios por 1000 habitantes (€/ hab.);Ambiente;Município;S7A2025;30-10-2026;3;pendente;;;;;0;
+0014918;Rendimentos em ambiente dos municípios por 1000 habitantes (€/ hab.);Ambiente;Município;S7A2025;30-10-2026;3;pendente;;;;;0;
 0000044;Internamentos nos estabelecimentos de saúde por 1000 habitantes (N.º);Saúde;Município;S7A2012;29-09-2014;4;pendente;;;;;0;
 0000045;Consultas médicas nos estabelecimentos de saúde por habitante (N.º);Saúde;Município;S7A2012;14-10-2014;4;pendente;;;;;0;
 0000069;Taxa de ocupação das camas (%) nos estabelecimentos de saúde;Saúde;Município;S7A2012;12-12-2014;4;pendente;;;;;0;
@@ -4069,7 +4072,7 @@
 0008001;Intervenções de grande e média cirurgia por dia (N.º) nos hospitais;Saúde;Município;S7A2013;10-07-2015;4;pendente;;;;;0;
 0008002;Intervenções de grande e média cirurgia por dia (N.º) nos hospitais;Saúde;Município;S7A2012;19-01-2015;4;pendente;;;;;0;
 0008030;Cirurgias (exceto pequenas cirurgias) por dia (N.º) nos hospitais;Saúde;Município;S7A2023;18-12-2025;4;pendente;;;;;0;
-0008073;Crimes registados (N.º) pelas autoridades policiais;Justiça;Município;S7A2022;31-03-2023;4;pendente;;;;;0;
+0008073;Crimes registados (N.º) pelas autoridades policiais;Justiça;Município;S7A2022;30-10-2026;4;pendente;;;;;0;
 0008074;Taxa de criminalidade (‰);Justiça;Município;S7A2022;30-06-2026;4;pendente;;;;;0;
 0008100;Camas (N.º) dos hospitais;Saúde;Município;S7A2023;18-12-2025;4;pendente;;;;;0;
 0008101;Hospitais (N.º);Saúde;Município;S7A2023;18-12-2025;4;pendente;;;;;0;
@@ -4162,8 +4165,8 @@
 0010299;Beneficiárias/os da prestação social para a inclusão da segurança social (N.º);Proteção social;Município;S7A2022;25-08-2023;4;pendente;;;;;0;
 0010300;Beneficiárias/os da prestação social para a inclusão da segurança social (N.º);Proteção social;Município;S7A2022;25-08-2023;4;pendente;;;;;0;
 0010301;Valor processado da prestação social para a inclusão da segurança social (€);Proteção social;Município;S7A2022;25-08-2023;4;pendente;;;;;0;
-0012258;Principais atos notariais celebrados por escritura pública (N.º) nos cartórios notariais;Justiça;Município;S7A2025;30-04-2026;4;pendente;;;;;0;
-0012259;Escrituras públicas celebradas (N.º) nos cartórios notariais;Justiça;Município;S7A2025;30-04-2026;4;pendente;;;;;0;
+0012258;Principais atos notariais celebrados por escritura pública (N.º) nos cartórios notariais;Justiça;Município;S7A2025;30-10-2026;4;pendente;;;;;0;
+0012259;Escrituras públicas celebradas (N.º) nos cartórios notariais;Justiça;Município;S7A2025;30-10-2026;4;pendente;;;;;0;
 0012260;Taxa de criminalidade (‰);Justiça;Município;S7A2025;26-06-2026;4;pendente;;;;;0;
 0012261;Crimes registados (N.º) pelas autoridades policiais;Justiça;Município;S7A2025;31-03-2026;4;pendente;;;;;0;
 0012836;Médicas/os especialistas (N.º);Saúde;Município;S7A2025;28-07-2026;4;pendente;;;;;0;

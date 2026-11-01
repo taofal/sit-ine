@@ -6,3 +6,5 @@
 - **Contrato / base legal:** 
 - **Restrições de reutilização:** 
 - `catalogo.xml` ← https://www.ine.pt/ine/xml_indic.jsp?opc=3&lang=PT (13:32 de Lisboa; leitura diária)
+- `catalogo_1341.xml` ← https://www.ine.pt/ine/xml_indic.jsp?opc=3&lang=PT (13:41 de Lisboa; leitura diária)
+- `catalogo_opc2.xml` ← https://www.ine.pt/ine/xml_indic.jsp?opc=2&lang=PT (13:41 de Lisboa; leitura diária)
