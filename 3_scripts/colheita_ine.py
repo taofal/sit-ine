@@ -15,6 +15,9 @@ Regras:
       pendente → feito | sem_geografia | erro   (com data, períodos, ficheiros, valores e nota)
   - Prioridade: primeiro os indicadores de ine_indicadores.json, depois o resto do catálogo, os mais
     recentes primeiro.
+  - Calendário de difusão do INE (lido uma vez por dia, guardado em 1_bruto/ine-calendario/<data>/): nos dias com
+    publicação, o catálogo é relido outra vez depois das 11:15 de Lisboa (o INE publica às 11:00).
+  - Volta sem trabalho (fila vazia, calendário e catálogo em dia) termina logo, sem pedidos nem gravações.
   - Atualização: quando o catálogo (relido todos os dias, CATALOGO_DIAS) mostra uma atualização do INE posterior à colheita,
     o indicador volta a «pendente».
   - Respostas gravadas como em extrair_ine.py: 1_bruto/ine/<AAAA-MM-DD>/ + _entrega.md. O catálogo fica em
@@ -28,12 +31,14 @@ Regras:
 import argparse
 import csv
 import io
+import json
 import re
 import sys
 import time
 import xml.etree.ElementTree as ET
-from datetime import date, datetime, timedelta
+from datetime import date, datetime, timedelta, timezone, time as hora
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 AQUI = Path(__file__).resolve().parent
 sys.path.insert(0, str(AQUI))
@@ -48,6 +53,12 @@ CAT_DIR = SIT / "1_bruto" / "ine-catalogo"
 CATALOGOS = {"catalogo.xml": "https://www.ine.pt/ine/xml_indic.jsp?opc=3&lang=PT",
              "catalogo_opc2.xml": "https://www.ine.pt/ine/xml_indic.jsp?opc=2&lang=PT"}
 CATALOGO_DIAS = 1          # releitura do catálogo: é por ele que se sabe que séries o INE atualizou
+# Calendário de difusão do INE: diz QUANDO há publicações (o catálogo continua a dizer O QUÊ foi atualizado).
+CAL_DIR = SIT / "1_bruto" / "ine-calendario"
+CALENDARIO_URL = "https://www.ine.pt/ine/calend_mobile.jsp?lang=PT"
+HORA_PUBLICACAO = hora(11, 15)   # o INE publica às 11:00 de Lisboa; nos dias com publicação o catálogo é relido depois disto
+LISBOA = ZoneInfo("Europe/Lisbon")
+LIDO = ESTADO_DIR / "catalogo_lido.txt"   # data e hora da última leitura completa do catálogo
 NIVEIS_MUNICIPAIS = ("munic", "freguesia", "seccao", "subseccao", "lugar", "concelho")
 CAMPOS = ["varcd", "titulo", "tema", "nivel_geo", "ultimo_periodo_ine", "atualizacao_ine", "prioridade",
           "estado", "data_colheita", "periodos", "ficheiros", "valores", "tentativas", "nota"]
@@ -145,21 +156,98 @@ def gravar_estado(est):
 
 # ------------------------------------------------------------------ catálogo
 def catalogo_mais_recente(nome):
-    xs = sorted(CAT_DIR.glob(f"*/{nome}"))
+    base = Path(nome).stem                                # releituras do mesmo dia: catalogo_1130.xml
+    xs = list(CAT_DIR.glob(f"*/{nome}")) + list(CAT_DIR.glob(f"*/{base}_[0-9][0-9][0-9][0-9].xml"))
+    xs.sort(key=lambda p: (p.parent.name, p.name))
     return xs[-1] if xs else None
 
 
+# ------------------------------------------------------------------ calendário de difusão do INE
+def agora():
+    return datetime.now(LISBOA)
+
+
+def calendario_mais_recente():
+    xs = sorted(CAL_DIR.glob("*/calendario.json"))
+    return xs[-1] if xs else None
+
+
+def calendario_em_dia():
+    f = calendario_mais_recente()
+    return bool(f) and f.parent.name == agora().date().isoformat()
+
+
+def publicacoes(dia):
+    """Publicações do INE previstas para o dia, segundo o último calendário guardado."""
+    f = calendario_mais_recente()
+    if not f:
+        return []
+    try:
+        cal = json.loads(f.read_text(encoding="utf-8"))
+    except ValueError:
+        return []
+    alvo = dia.strftime("%d-%m-%Y")
+    return [e for e in cal if (e.get("releaseDate") or "").strip() == alvo]
+
+
+def atualizar_calendario():
+    """Uma leitura por dia (1 pedido pequeno). Guarda-se como veio, numa pasta por dia; nada é reescrito."""
+    if calendario_em_dia():
+        return False
+    texto = X.http_get(CALENDARIO_URL, timeout=120)
+    cal = json.loads(texto)
+    pasta = CAL_DIR / agora().date().isoformat()
+    pasta.mkdir(parents=True, exist_ok=True)
+    X.gravar(pasta, "calendario.json", texto)
+    if not (pasta / "_entrega.md").exists():
+        (pasta / "_entrega.md").write_text(
+            f"# Entrega — INE (calendário de difusão) — {pasta.name}\n\n"
+            f"- **Enviado por:** INE, calend_mobile.jsp (colheita_ine.py)\n- **Recebido em:** {pasta.name}\n"
+            f"- **Âmbito:** publicações previstas (data, título, situação)\n- `calendario.json` ← {CALENDARIO_URL}\n",
+            encoding="utf-8")
+    hoje = publicacoes(agora().date())
+    log(f"calendário do INE: {len(cal)} publicações previstas"
+        + (f"; hoje: {' | '.join(e.get('title', '').strip() for e in hoje)}" if hoje else "; nenhuma hoje"))
+    return True
+
+
+def ultima_leitura_catalogo():
+    try:
+        return datetime.fromisoformat(LIDO.read_text(encoding="utf-8").strip()).astimezone(LISBOA)
+    except (OSError, ValueError):                          # antes deste registo: a data da pasta do catálogo
+        fs = [catalogo_mais_recente(n) for n in CATALOGOS]
+        if not all(fs):
+            return None
+        return datetime.combine(min(date.fromisoformat(f.parent.name) for f in fs), hora(0, 0), LISBOA)
+
+
+def catalogo_devido():
+    """(é preciso reler o catálogo?, porquê)"""
+    ult, ag = ultima_leitura_catalogo(), agora()
+    if ult is None:
+        return True, "sem catálogo guardado"
+    if (ag.date() - ult.date()).days >= CATALOGO_DIAS:
+        return True, "leitura diária"
+    corte = datetime.combine(ag.date(), HORA_PUBLICACAO, LISBOA)
+    pub = publicacoes(ag.date())
+    if pub and ag >= corte > ult:
+        return True, f"releitura depois das publicações do INE de hoje ({len(pub)})"
+    return False, ""
+
+
 def atualizar_catalogo(est, cfg):
-    feito = False
+    devido, motivo = catalogo_devido()
+    if not devido:
+        return False
+    ag = agora()
+    reabertos = 0
     for nome, url in CATALOGOS.items():
-        f = catalogo_mais_recente(nome)
-        if f and date.fromisoformat(f.parent.name) > date.today() - timedelta(days=CATALOGO_DIAS):
-            continue
-        log(f"a descarregar o catálogo do INE {nome} (1 pedido, pode demorar)")
+        log(f"a descarregar o catálogo do INE {nome} — {motivo} (1 pedido, pode demorar)")
         texto = X.http_get(url, timeout=900)
-        pasta = CAT_DIR / date.today().isoformat()
+        pasta = CAT_DIR / ag.date().isoformat()
         pasta.mkdir(parents=True, exist_ok=True)
-        X.gravar(pasta, nome, texto)
+        destino = nome if not (pasta / nome).exists() else f"{Path(nome).stem}_{ag:%H%M}.xml"  # releitura no dia
+        X.gravar(pasta, destino, texto)
         if not (pasta / "_entrega.md").exists():
             (pasta / "_entrega.md").write_text(
                 f"# Entrega — INE (catálogos de indicadores) — {pasta.name}\n\n"
@@ -168,10 +256,14 @@ def atualizar_catalogo(est, cfg):
                 "- **Âmbito:** catálogos de indicadores (código, tema, nível geográfico, último período, última atualização)\n"
                 "- **Contrato / base legal:** \n- **Restrições de reutilização:** \n", encoding="utf-8")
         with (pasta / "_entrega.md").open("a", encoding="utf-8") as fh:
-            fh.write(f"- `{nome}` ← {url}\n")
-        integrar_catalogo(est, cfg, texto, nome)
-        feito = True
-    return feito
+            fh.write(f"- `{destino}` ← {url} ({ag:%H:%M} de Lisboa; {motivo})\n")
+        reabertos += integrar_catalogo(est, cfg, texto, destino)
+    LIDO.parent.mkdir(exist_ok=True)
+    LIDO.write_text(agora().astimezone(timezone.utc).isoformat(timespec="seconds"), encoding="utf-8")
+    pub = publicacoes(ag.date())
+    if pub and ag.time() >= HORA_PUBLICACAO:
+        log(f"publicações do INE hoje: {len(pub)} no calendário · {reabertos} séries colhidas reabertas pelo catálogo")
+    return True
 
 
 def data_iso(s):
@@ -229,6 +321,7 @@ def integrar_catalogo(est, cfg, texto, nome=""):
             novos += 1
     log(f"catálogo {nome} integrado: {total} indicadores no catálogo, {novos} novos com nível municipal, "
         f"{reabertos} reabertos por atualização do INE")
+    return reabertos
 
 
 def fila(est):
@@ -260,11 +353,16 @@ def main():
     ap.add_argument("--estado", action="store_true")
     a = ap.parse_args()
 
-    import json
     cfg = json.loads(X.CONFIG.read_text(encoding="utf-8"))
     est = ler_estado()
     if a.estado:
         print(ponto_de_situacao(est))
+        return
+    # Volta sem trabalho: fila vazia, calendário lido hoje e catálogo em dia (incluindo a releitura depois das
+    # publicações do INE do dia). Termina já: não faz pedidos ao INE nem grava nada (não gera commit).
+    if est and not fila(est) and calendario_em_dia() and not catalogo_devido()[0]:
+        print(f"{agora():%Y-%m-%d %H:%M}  nada a fazer: fila vazia, calendário e catálogo em dia "
+              f"({ponto_de_situacao(est)})")
         return
     _estado_rede.update(limite=a.pedidos, fim=time.time() + a.minutos * 60)
     log(f"--- volta: até {a.pedidos} pedidos / {a.minutos} min · {ponto_de_situacao(est)}")
@@ -275,12 +373,13 @@ def main():
                 v = str(i["varcd"]).zfill(7)  # noqa
                 est.setdefault(v, {"varcd": v, "titulo": i.get("nome", ""), "estado": "pendente",
                                    "tentativas": "0", "prioridade": "1"})
+        atualizar_calendario()
         relido = atualizar_catalogo(est, cfg)
     except Parar as e:
-        log(f"catálogo adiado: {e}")
+        log(f"calendário/catálogo adiados: {e}")
         relido = False
     # Indicadores acrescentados à lista depois da última leitura do catálogo: entram já, a partir dos
-    # catálogos guardados (sem pedidos ao INE), sem esperar pela releitura de 7 em 7 dias.
+    # catálogos guardados (sem pedidos ao INE), sem esperar pela releitura seguinte.
     lista = {str(i["varcd"]).zfill(7) for i in cfg["indicadores"]}
     em_falta = {v for v in lista if v not in est or est[v].get("prioridade") != "1"}
     if em_falta and not relido:
