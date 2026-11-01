@@ -93,3 +93,73 @@ Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos,
 - **0009702** Nascimentos (N.º) de empresas — 450 valores, 1 ficheiros novos
     - `0009702_dados_171948306f.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009702&lang=PT&Dim1=S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
 - **0009703** Nascimentos (N.º) de empresas — 0 valores, 0 ficheiros novos; FALHAS: S7A2008: volta parada | S7A2009: volta parada | S7A2010: volta parada | S7A2011: volta parada | S7A2012: volta parada | S7A2013: volta parada | S7A2014: volta parada | S7A2015: volta parada | S7A2016: volta parada | S7A2017: volta parada | S7A2018: volta parada | S7A2019: volta parada | S7A2020: volta parada | S7A2021: volta parada | S7A2022: volta parada
+
+## Extração — 2026-11-01 08:30 — séries completas
+Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal. Todas as categorias das restantes dimensões.
+
+- **0009703** Nascimentos (N.º) de empresas — 2700 valores, 1 ficheiros novos
+    - `0009703_dados_726951c180.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009703&lang=PT&Dim1=S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009704** Mortes (N.º) de Empresas — 450 valores, 1 ficheiros novos
+    - `0009704_dados_cdf0e32a9e.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009704&lang=PT&Dim1=S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009705** Mortes (N.º) de Empresas — 2700 valores, 1 ficheiros novos
+    - `0009705_dados_6f002be6d1.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009705&lang=PT&Dim1=S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009706** Sobrevivências (N.º) de empresas nascidas 1 ano antes — 420 valores, 1 ficheiros novos
+    - `0009706_dados_ec05df4f47.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009706&lang=PT&Dim1=S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009707** Sobrevivências (N.º) de empresas nascidas 1 ano antes — 2520 valores, 1 ficheiros novos
+    - `0009707_dados_6c0294eaac.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009707&lang=PT&Dim1=S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009708** Sobrevivências (N.º) de empresas nascidas 2 anos antes — 390 valores, 1 ficheiros novos
+    - `0009708_dados_8bf29508ce.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009708&lang=PT&Dim1=S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009709** Sobrevivências (N.º) de empresas nascidas 2 anos antes — 2340 valores, 1 ficheiros novos
+    - `0009709_dados_3e56cf387d.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009709&lang=PT&Dim1=S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009819** Empresas (N.º) — 1050 valores, 1 ficheiros novos
+    - `0009819_dados_fdc622d2f1.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009819&lang=PT&Dim1=S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009820** Indicador de concentração do pessoal ao serviço das quatro maiores empresas (%) — 150 valores, 1 ficheiros novos
+    - `0009820_dados_2d342395f5.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009820&lang=PT&Dim1=S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0011728** Empresas (N.º) — 787950 valores, 34 ficheiros novos
+    - `0011728_dados_ceb2918d71.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2008,S7A2009,S7A2010,S7A2011,S7A2012&Dim2=1190308
+    - `0011728_dados_f8149333ea.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2013,S7A2014,S7A2015,S7A2016,S7A2017&Dim2=1190308
+    - `0011728_dados_67d8ca4724.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308
+    - `0011728_dados_634adece9f.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2008,S7A2009,S7A2010,S7A2011,S7A2012&Dim2=119
+    - `0011728_dados_eee5a70278.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2013,S7A2014,S7A2015,S7A2016,S7A2017&Dim2=119
+    - `0011728_dados_7c7700eb15.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=119
+    - `0011728_dados_123a37f15c.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2008,S7A2009,S7A2010,S7A2011,S7A2012&Dim2=112
+    - `0011728_dados_e7b8b53a7b.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2013,S7A2014,S7A2015,S7A2016,S7A2017&Dim2=112
+    - `0011728_dados_71239eacb5.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=112
+    - `0011728_dados_673fe9c842.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2008,S7A2009,S7A2010,S7A2011,S7A2012&Dim2=1120302
+    - `0011728_dados_eefb74a861.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2013,S7A2014,S7A2015,S7A2016,S7A2017&Dim2=1120302
+    - `0011728_dados_adbb609de7.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1120302
+    - `0011728_dados_9b032d5c92.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2008,S7A2009,S7A2010,S7A2011,S7A2012&Dim2=11A1314
+    - `0011728_dados_7c6d873683.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2013,S7A2014,S7A2015,S7A2016,S7A2017&Dim2=11A1314
+    - `0011728_dados_2db8c23a7e.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=11A1314
+    - `0011728_dados_1d149e6c88.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2008,S7A2009,S7A2010,S7A2011,S7A2012&Dim2=11A1308
+    - `0011728_dados_904fd49c89.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2013,S7A2014,S7A2015,S7A2016,S7A2017&Dim2=11A1308
+    - `0011728_dados_b47fb2daed.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=11A1308
+    - `0011728_dados_f42ca1fa41.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2008,S7A2009,S7A2010,S7A2011,S7A2012&Dim2=11A1312
+    - `0011728_dados_66525e3961.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2013,S7A2014,S7A2015,S7A2016,S7A2017&Dim2=11A1312
+    - `0011728_dados_91970ad512.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=11A1312
+    - `0011728_dados_1f2ea5adc0.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2008,S7A2009,S7A2010,S7A2011,S7A2012&Dim2=11A
+    - `0011728_dados_609c7aaabc.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2013,S7A2014,S7A2015,S7A2016,S7A2017&Dim2=11A
+    - `0011728_dados_a5cf08bfe7.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=11A
+    - `0011728_dados_665e57b636.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2008,S7A2009,S7A2010,S7A2011,S7A2012&Dim2=11
+    - `0011728_dados_02187b1f2e.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2013,S7A2014,S7A2015,S7A2016,S7A2017&Dim2=11
+    - `0011728_dados_9728f9f2d8.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2018&Dim2=11
+    - `0011728_dados_e06abdca8f.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2019&Dim2=11
+    - `0011728_dados_152aea3314.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2020&Dim2=11
+    - `0011728_dados_05075d5e4c.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2021&Dim2=11
+    - `0011728_dados_5b78804bf3.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2022&Dim2=11
+    - `0011728_dados_b0a6189ec9.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2008,S7A2009,S7A2010,S7A2011,S7A2012&Dim2=PT
+    - `0011728_dados_95470ee543.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2013,S7A2014,S7A2015,S7A2016,S7A2017&Dim2=PT
+    - `0011728_dados_52bdd0d208.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011728&lang=PT&Dim1=S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=PT
+- **0011690** Taxa de emprego (%) — 840 valores, 1 ficheiros novos
+    - `0011690_dados_7051d76ff7.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011690&lang=PT&Dim1=S7A2011,S7A2021&Dim2=0308,119,112,0302,1314,1308,1312,11A,11,PT
+- **0003920** Taxa de escolarização no ensino superior (%) — 117 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0003920_dados_5f4fbbb0c3.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0003920&lang=PT&Dim1=7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0009253** Proporção de mulheres nos inscritos no ensino superior (N.º) — 171 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Área Metropolitana do Porto
+    - `0009253_dados_98cd8d07cf.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009253&lang=PT&Dim1=7A1996_3,7A1997_3,7A1998_3,7A1999_3,7A2000_3,7A2001_3,7A2002_3,7A2003_3,7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3&Dim2=1130308,113,112,1120302,1131314,1141308,1141312,11,PT
+- **0012088** Dormidas (N.º) nos estabelecimentos de alojamento turístico — 2240 valores, 1 ficheiros novos
+    - `0012088_dados_8a6eead806.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012088&lang=PT&Dim1=S3A202201,S3A202202,S3A202203,S3A202204,S3A202205,S3A202206,S3A202207,S3A202208,S3A202209,S3A202210,S3A202211,S3A202212,S3A202301,S3A202302,S3A202303,S3A202304,S3A202305,S3A202306,S3A202307,S3A202308,S3A202309,S3A202310,S3A202311,S3A202312,S3A202401,S3A202402,S3A202403,S3A202404,S3A202405,S3A202406,S3A202407,S3A202408,S3A202409,S3A202410,S3A202411,S3A202412,S3A202501,S3A202502,S3A202503,S3A202504,S3A202505,S3A202506,S3A202507,S3A202508,S3A202509,S3A202510,S3A202511,S3A202512,S3A202601,S3A202602,S3A202603,S3A202604,S3A202605,S3A202606,S3A202607,S3A202608&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012089** Hóspedes (N.º) nos estabelecimentos de alojamento turístico — 2240 valores, 1 ficheiros novos
+    - `0012089_dados_94d7f74104.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012089&lang=PT&Dim1=S3A202201,S3A202202,S3A202203,S3A202204,S3A202205,S3A202206,S3A202207,S3A202208,S3A202209,S3A202210,S3A202211,S3A202212,S3A202301,S3A202302,S3A202303,S3A202304,S3A202305,S3A202306,S3A202307,S3A202308,S3A202309,S3A202310,S3A202311,S3A202312,S3A202401,S3A202402,S3A202403,S3A202404,S3A202405,S3A202406,S3A202407,S3A202408,S3A202409,S3A202410,S3A202411,S3A202412,S3A202501,S3A202502,S3A202503,S3A202504,S3A202505,S3A202506,S3A202507,S3A202508,S3A202509,S3A202510,S3A202511,S3A202512,S3A202601,S3A202602,S3A202603,S3A202604,S3A202605,S3A202606,S3A202607,S3A202608&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012103** Compras através de Terminais de Pagamento Automático (€) — 2430 valores, 1 ficheiros novos
+    - `0012103_dados_952a81f316.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012103&lang=PT&Dim1=S3A202001,S3A202002,S3A202003,S3A202004,S3A202005,S3A202006,S3A202007,S3A202008,S3A202009,S3A202010,S3A202011,S3A202012,S3A202101,S3A202102,S3A202103,S3A202104,S3A202105,S3A202106,S3A202107,S3A202108,S3A202109,S3A202110,S3A202111,S3A202112,S3A202201,S3A202202,S3A202203,S3A202204,S3A202205,S3A202206,S3A202207,S3A202208,S3A202209,S3A202210,S3A202211,S3A202212,S3A202301,S3A202302,S3A202303,S3A202304,S3A202305,S3A202306,S3A202307,S3A202308,S3A202309,S3A202310,S3A202311,S3A202312,S3A202401,S3A202402,S3A202403,S3A202404,S3A202405,S3A202406,S3A202407,S3A202408,S3A202409,S3A202410,S3A202411,S3A202412,S3A202501,S3A202502,S3A202503,S3A202504,S3A202505,S3A202506,S3A202507,S3A202508,S3A202509,S3A202510,S3A202511,S3A202512,S3A202601,S3A202602,S3A202603,S3A202604,S3A202605,S3A202606,S3A202607,S3A202608,S3A202609&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012104** Levantamentos nacionais em Caixas Automáticos Multibanco (€) — 0 valores, 0 ficheiros novos; FALHAS: metadados: orçamento da volta esgotado
