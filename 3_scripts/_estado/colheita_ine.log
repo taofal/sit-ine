@@ -869,3 +869,15 @@
 2026-11-03 21:52:10  feito         0014397 Índice de volume de negócios nos serviços deflacionado - aju     1824 valores  (geografias inexistentes: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinh)
 2026-11-03 21:56:52  pendente      0014639 Índice de preços no consumidor (IPC, Base - 2025)              149700 valores  (interrompido a meio; retoma na próxima volta)
 2026-11-03 21:56:52  --- fim da volta (limite de pedidos/tempo): 87 pedidos · erro: 11 · feito: 696 · pendente: 3556 · sem_geografia: 1
+2026-11-04 01:26:46  --- volta: até 120 pedidos / 50 min · erro: 11 · feito: 696 · pendente: 3556 · sem_geografia: 1
+2026-11-04 01:26:46  calendário do INE: 50 publicações previstas; hoje: Estatísticas do Emprego - 3.º Trimestre de 2026
+2026-11-04 01:26:46  a descarregar o catálogo do INE catalogo.xml — leitura diária (1 pedido, pode demorar)
+2026-11-04 01:26:53  catálogo catalogo.xml integrado: 326 indicadores no catálogo, 0 novos com nível municipal, 0 reabertos por atualização do INE
+2026-11-04 01:26:53  a descarregar o catálogo do INE catalogo_opc2.xml — leitura diária (1 pedido, pode demorar)
+2026-11-04 01:28:22  catálogo catalogo_opc2.xml integrado: 13242 indicadores no catálogo, 0 novos com nível municipal, 0 reabertos por atualização do INE
+2026-11-04 01:35:08  erro          0014639 Índice de preços no consumidor (IPC, Base - 2025)             — o INE responde a outros pedidos; segue para o próximo (1/3)
+2026-11-04 01:44:14  feito         0014640 Índice de preços no consumidor (IPC, Base - 2025)                9450 valores  (geografias inexistentes: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinh)
+2026-11-04 01:53:19  erro          0014645 Índice de preços no consumidor (Taxa de variação mensal - Ba  — o INE responde a outros pedidos; segue para o próximo (1/3)
+2026-11-04 02:03:07  erro          0014646 Índice de preços no consumidor (Taxa de variação mensal - Ba  — o INE responde a outros pedidos; segue para o próximo (1/3)
+2026-11-04 02:17:21  pendente      0014647 Índice de preços no consumidor (Taxa de variação homóloga -    389220 valores  (interrompido a meio; retoma na próxima volta)
+2026-11-04 02:17:21  --- fim da volta (limite de pedidos/tempo): 49 pedidos · erro: 14 · feito: 697 · pendente: 3552 · sem_geografia: 1

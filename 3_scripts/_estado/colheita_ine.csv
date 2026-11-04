@@ -449,13 +449,13 @@
 0014482;Índice de preços na produção de serviços (taxa de variação média anual - Base 2021 - %);Preços;Portugal;S5A20262;06-10-2026;1;pendente;;;;;0;
 0014606;Valor acrescentado bruto (€) das empresas;Empresas;NUTS III;S7A2024;11-12-2025;1;pendente;;;;;0;
 0014608;Proporção da despesa em desenvolvimento das empresas no Valor Acrescentado Bruto a preços de mercado (%);Empresas;NUTS III;S7A2024;11-12-2025;1;pendente;;;;;0;
-0014639;Índice de preços no consumidor (IPC, Base - 2025);Conjuntura;PT/Continente;S3A202609;13-10-2026;1;pendente;;;;;0;"interrompido a meio; retoma na próxima volta"
-0014640;Índice de preços no consumidor (IPC, Base - 2025);Conjuntura;PT/Continente;S3A202609;13-10-2026;1;pendente;;;;;0;
+0014639;Índice de preços no consumidor (IPC, Base - 2025);Conjuntura;PT/Continente;S3A202609;13-10-2026;1;erro;;;;;1;erro neste indicador (1/3): <urlopen error _ssl.c:993: The handshake operation timed out>
+0014640;Índice de preços no consumidor (IPC, Base - 2025);Conjuntura;PT/Continente;S3A202609;13-10-2026;1;feito;2026-11-04;;8;9450;0;geografias inexistentes: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos, Porto, Área Metropolitana do Porto, Norte
 0014641;Índice de preços no consumidor (IPC, Base - 2025);Conjuntura;PT/Continente;S7A2025;11-02-2026;1;pendente;;;;;0;
 0014642;Índice de preços no consumidor (IPC, Base - 2025);Conjuntura;PT/Continente;S7A2025;11-02-2026;1;pendente;;;;;0;
-0014645;Índice de preços no consumidor (Taxa de variação mensal - Base 2025 - %);Conjuntura;PT/Continente;S3A202609;13-10-2026;1;pendente;;;;;0;
-0014646;Índice de preços no consumidor (Taxa de variação mensal - Base 2025 - %);Conjuntura;PT/Continente;S3A202609;13-10-2026;1;pendente;;;;;0;
-0014647;Índice de preços no consumidor (Taxa de variação homóloga - Base 2025 - %);Conjuntura;PT/Continente;S3A202609;13-10-2026;1;pendente;;;;;0;
+0014645;Índice de preços no consumidor (Taxa de variação mensal - Base 2025 - %);Conjuntura;PT/Continente;S3A202609;13-10-2026;1;erro;;;;;1;erro neste indicador (1/3): <urlopen error _ssl.c:993: The handshake operation timed out>
+0014646;Índice de preços no consumidor (Taxa de variação mensal - Base 2025 - %);Conjuntura;PT/Continente;S3A202609;13-10-2026;1;erro;;;;;1;erro neste indicador (1/3): <urlopen error _ssl.c:993: The handshake operation timed out>
+0014647;Índice de preços no consumidor (Taxa de variação homóloga - Base 2025 - %);Conjuntura;PT/Continente;S3A202609;13-10-2026;1;pendente;;;;;0;"interrompido a meio; retoma na próxima volta"
 0014648;Índice de preços no consumidor (Taxa de variação homóloga - Base 2025 - %);Conjuntura;PT/Continente;S3A202609;13-10-2026;1;pendente;;;;;0;
 0014649;Índice de preços no consumidor (Taxa de variação média dos últimos 12 meses - Base 2025 - %);Conjuntura;PT/Continente;S3A202609;13-10-2026;1;pendente;;;;;0;
 0014650;Índice de preços no consumidor (Taxa de variação média dos últimos 12 meses - Base 2025 - %);Preços;PT/Continente;S3A202609;13-10-2026;1;pendente;;;;;0;
@@ -4247,7 +4247,7 @@
 0013417;Beneficiárias/os do rendimento social de inserção, da segurança social (N.º);Proteção social;Município;S7A2025;28-08-2026;4;pendente;;;;;0;
 0013418;Beneficiárias/os do rendimento social de inserção, da segurança social (N.º);Proteção social;Município;S7A2025;28-08-2026;4;pendente;;;;;0;
 0013419;Beneficiárias/os do rendimento social de inserção, da segurança social (N.º);Proteção social;Município;S7A2025;28-08-2026;4;pendente;;;;;0;
-0013420;Beneficiárias/os do rendimento social de inserção, da segurança social por 1000 habitantes em idade ativa (‰);Proteção social;Município;S7A2024;06-10-2025;4;pendente;;;;;0;
+0013420;Beneficiárias/os do rendimento social de inserção, da segurança social por 1000 habitantes em idade ativa (‰);Proteção social;Município;S7A2025;03-11-2026;4;pendente;;;;;0;
 0013421;Valor processado do rendimento social de inserção da segurança social (€);Proteção social;Município;S7A2025;28-08-2026;4;pendente;;;;;0;
 0013578;Taxa quinquenal de mortalidade infantil (‰);Saúde;Município;S11A20212025;17-09-2026;4;pendente;;;;;0;
 0013579;Taxa quinquenal de mortalidade neonatal (‰);Saúde;Município;S11A20212025;17-09-2026;4;pendente;;;;;0;
