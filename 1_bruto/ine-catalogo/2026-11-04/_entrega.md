@@ -7,3 +7,5 @@
 - **Restrições de reutilização:** 
 - `catalogo.xml` ← https://www.ine.pt/ine/xml_indic.jsp?opc=3&lang=PT (01:26 de Lisboa; leitura diária)
 - `catalogo_opc2.xml` ← https://www.ine.pt/ine/xml_indic.jsp?opc=2&lang=PT (01:26 de Lisboa; leitura diária)
+- `catalogo_1802.xml` ← https://www.ine.pt/ine/xml_indic.jsp?opc=3&lang=PT (18:02 de Lisboa; releitura depois das publicações do INE de hoje (1))
+- `catalogo_opc2_1802.xml` ← https://www.ine.pt/ine/xml_indic.jsp?opc=2&lang=PT (18:02 de Lisboa; releitura depois das publicações do INE de hoje (1))
