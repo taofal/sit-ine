@@ -1,0 +1,460 @@
+[ {
+  "IndicadorCod" : "0009726",
+  "IndicadorNome" : "Índices anuais de valor unitário das importações (Taxa de variação homóloga, volume - %) por Tipo de bem, produto por atividade (CPA 2008); Anual - INE, Estatísticas do comércio internacional de bens",
+  "Periodic" : "Mensal",
+  "PrimeiroPeriodo" : "2012",
+  "UltimoPeriodo" : "2025",
+  "UnidadeMedida" : "Percentagem (%)",
+  "Potencia10" : "0",
+  "PrecisaoDecimal" : "1",
+  "Lingua" : "PT",
+  "DataUltimaAtualizacao" : "2026-10-09",
+  "DataExtracao" : "2026-11-05T16:13:37.161Z",
+  "Dimensoes" : {
+    "Descricao_Dim" : [ {
+      "dim_num" : "1",
+      "abrv" : "Período de referência dos dados",
+      "versao" : "XXXXX",
+      "nota_dsg" : "Informação de base do Comércio Internacional de Bens: 2012-2025 - dados definitivos"
+    }, {
+      "dim_num" : "2",
+      "abrv" : "Localização geográfica (Portugal)",
+      "versao" : "05361"
+    }, {
+      "dim_num" : "3",
+      "abrv" : "Tipo de bem, produto por atividade (CPA 2008)",
+      "versao" : "04075"
+    } ],
+    "Categoria_Dim" : [ {
+      "Dim_Num1_S7A2012" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2012",
+        "categ_cod" : "S7A2012",
+        "categ_dsg" : "2012",
+        "categ_ord" : "20120101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2013" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2013",
+        "categ_cod" : "S7A2013",
+        "categ_dsg" : "2013",
+        "categ_ord" : "20130101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2014" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2014",
+        "categ_cod" : "S7A2014",
+        "categ_dsg" : "2014",
+        "categ_ord" : "20140101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2015" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2015",
+        "categ_cod" : "S7A2015",
+        "categ_dsg" : "2015",
+        "categ_ord" : "20150101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2016" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2016",
+        "categ_cod" : "S7A2016",
+        "categ_dsg" : "2016",
+        "categ_ord" : "20160101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2017" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2017",
+        "categ_cod" : "S7A2017",
+        "categ_dsg" : "2017",
+        "categ_ord" : "20170101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2018" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2018",
+        "categ_cod" : "S7A2018",
+        "categ_dsg" : "2018",
+        "categ_ord" : "20180101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2019" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2019",
+        "categ_cod" : "S7A2019",
+        "categ_dsg" : "2019",
+        "categ_ord" : "20190101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2020" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2020",
+        "categ_cod" : "S7A2020",
+        "categ_dsg" : "2020",
+        "categ_ord" : "20200101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2021" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2021",
+        "categ_cod" : "S7A2021",
+        "categ_dsg" : "2021",
+        "categ_ord" : "20210101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2022" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2022",
+        "categ_cod" : "S7A2022",
+        "categ_dsg" : "2022",
+        "categ_ord" : "20220101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2023" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2023",
+        "categ_cod" : "S7A2023",
+        "categ_dsg" : "2023",
+        "categ_ord" : "20230101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2024" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2024",
+        "categ_cod" : "S7A2024",
+        "categ_dsg" : "2024",
+        "categ_ord" : "20240101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2025" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2025",
+        "categ_cod" : "S7A2025",
+        "categ_dsg" : "2025",
+        "categ_ord" : "20250101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_PT" : [ {
+        "dim_num" : "2",
+        "cat_id" : "PT",
+        "categ_cod" : "PT",
+        "categ_dsg" : "Portugal",
+        "categ_ord" : "1",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num3_T" : [ {
+        "dim_num" : "3",
+        "cat_id" : "T",
+        "categ_cod" : "T",
+        "categ_dsg" : "Total",
+        "categ_ord" : "1",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num3_A" : [ {
+        "dim_num" : "3",
+        "cat_id" : "A",
+        "categ_cod" : "A",
+        "categ_dsg" : "Produtos da agricultura, silvicultura e pesca",
+        "categ_ord" : "2",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_01" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01",
+        "categ_cod" : "01",
+        "categ_dsg" : "Produtos da agricultura, da produção animal, da caça e dos serviços relacionados",
+        "categ_ord" : "3",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_02" : [ {
+        "dim_num" : "3",
+        "cat_id" : "02",
+        "categ_cod" : "02",
+        "categ_dsg" : "Produtos da silvicultura, da exploração florestal e serviços relacionados",
+        "categ_ord" : "4",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_03" : [ {
+        "dim_num" : "3",
+        "cat_id" : "03",
+        "categ_cod" : "03",
+        "categ_dsg" : "Produtos da pesca e da aquicultura e serviços relacionados",
+        "categ_ord" : "5",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_B" : [ {
+        "dim_num" : "3",
+        "cat_id" : "B",
+        "categ_cod" : "B",
+        "categ_dsg" : "Indústrias extrativas",
+        "categ_ord" : "6",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_05" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05",
+        "categ_cod" : "05",
+        "categ_dsg" : "Hulha (incluindo antracite) e linhite",
+        "categ_ord" : "7",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_06" : [ {
+        "dim_num" : "3",
+        "cat_id" : "06",
+        "categ_cod" : "06",
+        "categ_dsg" : "Petróleo bruto e gás natural",
+        "categ_ord" : "8",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_07" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07",
+        "categ_cod" : "07",
+        "categ_dsg" : "Minérios metálicos",
+        "categ_ord" : "9",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_08" : [ {
+        "dim_num" : "3",
+        "cat_id" : "08",
+        "categ_cod" : "08",
+        "categ_dsg" : "Outros produtos das indústrias extrativas",
+        "categ_ord" : "10",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_C" : [ {
+        "dim_num" : "3",
+        "cat_id" : "C",
+        "categ_cod" : "C",
+        "categ_dsg" : "Produtos das indústrias transformadoras",
+        "categ_ord" : "11",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_10" : [ {
+        "dim_num" : "3",
+        "cat_id" : "10",
+        "categ_cod" : "10",
+        "categ_dsg" : "Produtos alimentares",
+        "categ_ord" : "12",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_11" : [ {
+        "dim_num" : "3",
+        "cat_id" : "11",
+        "categ_cod" : "11",
+        "categ_dsg" : "Bebidas",
+        "categ_ord" : "13",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_12" : [ {
+        "dim_num" : "3",
+        "cat_id" : "12",
+        "categ_cod" : "12",
+        "categ_dsg" : "Produtos da industria do tabaco",
+        "categ_ord" : "14",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_13" : [ {
+        "dim_num" : "3",
+        "cat_id" : "13",
+        "categ_cod" : "13",
+        "categ_dsg" : "Produtos têxteis",
+        "categ_ord" : "15",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_14" : [ {
+        "dim_num" : "3",
+        "cat_id" : "14",
+        "categ_cod" : "14",
+        "categ_dsg" : "Artigos de vestuário",
+        "categ_ord" : "16",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_15" : [ {
+        "dim_num" : "3",
+        "cat_id" : "15",
+        "categ_cod" : "15",
+        "categ_dsg" : "Couro e produtos afins",
+        "categ_ord" : "17",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_16" : [ {
+        "dim_num" : "3",
+        "cat_id" : "16",
+        "categ_cod" : "16",
+        "categ_dsg" : "Madeira e cortiça e suas obras, excepto mobiliário; obras de espartaria e de cestaria",
+        "categ_ord" : "18",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_17" : [ {
+        "dim_num" : "3",
+        "cat_id" : "17",
+        "categ_cod" : "17",
+        "categ_dsg" : "Papel e cartão e seus artigos",
+        "categ_ord" : "19",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_18" : [ {
+        "dim_num" : "3",
+        "cat_id" : "18",
+        "categ_cod" : "18",
+        "categ_dsg" : "Trabalhos de impressão e gravação",
+        "categ_ord" : "20",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_19" : [ {
+        "dim_num" : "3",
+        "cat_id" : "19",
+        "categ_cod" : "19",
+        "categ_dsg" : "Coque e produtos petrolíferos refinados",
+        "categ_ord" : "21",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_20" : [ {
+        "dim_num" : "3",
+        "cat_id" : "20",
+        "categ_cod" : "20",
+        "categ_dsg" : "Produtos químicos",
+        "categ_ord" : "22",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_21" : [ {
+        "dim_num" : "3",
+        "cat_id" : "21",
+        "categ_cod" : "21",
+        "categ_dsg" : "Produtos farmacêuticos e preparações farmacêuticas de base",
+        "categ_ord" : "23",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_22" : [ {
+        "dim_num" : "3",
+        "cat_id" : "22",
+        "categ_cod" : "22",
+        "categ_dsg" : "Artigos de borracha e de matérias plásticas",
+        "categ_ord" : "24",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_23" : [ {
+        "dim_num" : "3",
+        "cat_id" : "23",
+        "categ_cod" : "23",
+        "categ_dsg" : "Outros produtos minerais não metálicos",
+        "categ_ord" : "25",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_24" : [ {
+        "dim_num" : "3",
+        "cat_id" : "24",
+        "categ_cod" : "24",
+        "categ_dsg" : "Metais de base",
+        "categ_ord" : "26",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_25" : [ {
+        "dim_num" : "3",
+        "cat_id" : "25",
+        "categ_cod" : "25",
+        "categ_dsg" : "Produtos metálicos transformados, excepto máquinas e equipamento",
+        "categ_ord" : "27",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_26" : [ {
+        "dim_num" : "3",
+        "cat_id" : "26",
+        "categ_cod" : "26",
+        "categ_dsg" : "Produtos informáticos, eletrónicos e ópticos",
+        "categ_ord" : "28",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_27" : [ {
+        "dim_num" : "3",
+        "cat_id" : "27",
+        "categ_cod" : "27",
+        "categ_dsg" : "Equipamento elétrico",
+        "categ_ord" : "29",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_28" : [ {
+        "dim_num" : "3",
+        "cat_id" : "28",
+        "categ_cod" : "28",
+        "categ_dsg" : "Máquinas e equipamentos, n.e.",
+        "categ_ord" : "30",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_29" : [ {
+        "dim_num" : "3",
+        "cat_id" : "29",
+        "categ_cod" : "29",
+        "categ_dsg" : "Veículos automóveis, reboques e semi-reboques",
+        "categ_ord" : "31",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_30" : [ {
+        "dim_num" : "3",
+        "cat_id" : "30",
+        "categ_cod" : "30",
+        "categ_dsg" : "Outro equipamento de transporte",
+        "categ_ord" : "32",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_31" : [ {
+        "dim_num" : "3",
+        "cat_id" : "31",
+        "categ_cod" : "31",
+        "categ_dsg" : "Mobiliário",
+        "categ_ord" : "33",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_32" : [ {
+        "dim_num" : "3",
+        "cat_id" : "32",
+        "categ_cod" : "32",
+        "categ_dsg" : "Produtos diversos das industrias transformadoras",
+        "categ_ord" : "34",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_D" : [ {
+        "dim_num" : "3",
+        "cat_id" : "D",
+        "categ_cod" : "D",
+        "categ_dsg" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+        "categ_ord" : "35",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_35" : [ {
+        "dim_num" : "3",
+        "cat_id" : "35",
+        "categ_cod" : "35",
+        "categ_dsg" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+        "categ_ord" : "36",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_E_S" : [ {
+        "dim_num" : "3",
+        "cat_id" : "E_S",
+        "categ_cod" : "E_S",
+        "categ_dsg" : "Outros (E a S)",
+        "categ_ord" : "37",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_TSC" : [ {
+        "dim_num" : "3",
+        "cat_id" : "TSC",
+        "categ_cod" : "TSC",
+        "categ_dsg" : "Total excluindo produtos petrolíferos",
+        "categ_ord" : "38",
+        "categ_nivel" : "1"
+      } ]
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
