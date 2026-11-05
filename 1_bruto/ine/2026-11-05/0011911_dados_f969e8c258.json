@@ -1,0 +1,4935 @@
+[ {
+  "IndicadorCod" : "0011911",
+  "IndicadorDsg" : "Índice de remunerações na indústria - bruto (Base - 2021) por Atividade económica (Divisão - CAE Rev. 3); Mensal - INE, Índices de volume de negócios e emprego (Base 2021)",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0011911&lingua=PT",
+  "DataExtracao" : "2026-11-05T22:24:35.386Z",
+  "DataUltimoAtualizacao" : "2026-10-09",
+  "UltimoPref" : "Agosto de 2026",
+  "Dados" : {
+    "Janeiro de 2025" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "19",
+      "dim_3_t" : "Fabricação de coque, produtos petrolíferos refinados e de aglomerados de combustíveis",
+      "ind_string" : "83,85",
+      "valor" : "83.85"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "35",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "92,10",
+      "valor" : "92.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "D",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "92,10",
+      "valor" : "92.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "15",
+      "dim_3_t" : "Indústria do couro e dos produtos do couro",
+      "ind_string" : "98,21",
+      "valor" : "98.21"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "14",
+      "dim_3_t" : "Indústria do vestuário",
+      "ind_string" : "100,32",
+      "valor" : "100.32"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "12",
+      "dim_3_t" : "Indústria do tabaco",
+      "ind_string" : "103,49",
+      "valor" : "103.49"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "18",
+      "dim_3_t" : "Impressão e reprodução de suportes gravados",
+      "ind_string" : "104,69",
+      "valor" : "104.69"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "08",
+      "dim_3_t" : "Outras indústrias extrativas",
+      "ind_string" : "108,43",
+      "valor" : "108.43"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "13",
+      "dim_3_t" : "Fabricação de têxteis",
+      "ind_string" : "110,12",
+      "valor" : "110.12"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "29",
+      "dim_3_t" : "Fabricação de veículos automóveis, reboques, semi-reboques e componentes para veículos automóveis",
+      "ind_string" : "110,94",
+      "valor" : "110.94"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "27",
+      "dim_3_t" : "Fabricação de equipamento elétrico",
+      "ind_string" : "111,67",
+      "valor" : "111.67"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "16",
+      "dim_3_t" : "Indústrias da madeira e da cortiça e suas obras, excepto mobiliário; Fabricação de obras de cestaria e de espartaria",
+      "ind_string" : "111,84",
+      "valor" : "111.84"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "20",
+      "dim_3_t" : "Fabricação de produtos químicos e de fibras sintéticas ou artificiais, excepto produtos farmacêuticos",
+      "ind_string" : "112,51",
+      "valor" : "112.51"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "24",
+      "dim_3_t" : "Indústrias metalúrgicas de base",
+      "ind_string" : "113,71",
+      "valor" : "113.71"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "116,04",
+      "valor" : "116.04"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "116,28",
+      "valor" : "116.28"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "23",
+      "dim_3_t" : "Fabrico de outros produtos minerais não metálicos",
+      "ind_string" : "116,33",
+      "valor" : "116.33"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "36",
+      "dim_3_t" : "Captação, tratamento e distribuição de água",
+      "ind_string" : "116,89",
+      "valor" : "116.89"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "21",
+      "dim_3_t" : "Fabricação de produtos farmacêuticos de base e de preparações farmacêuticas",
+      "ind_string" : "117,14",
+      "valor" : "117.14"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "22",
+      "dim_3_t" : "Fabricação de artigos de borracha e de matérias plásticas",
+      "ind_string" : "117,57",
+      "valor" : "117.57"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "119,62",
+      "valor" : "119.62"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "28",
+      "dim_3_t" : "Fabricação de máquinas e de equipamentos, n.e.",
+      "ind_string" : "120,35",
+      "valor" : "120.35"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "11",
+      "dim_3_t" : "Indústria das bebidas",
+      "ind_string" : "121,10",
+      "valor" : "121.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "38",
+      "dim_3_t" : "Recolha, tratamento e eliminação de resíduos; valorização de materiais",
+      "ind_string" : "121,82",
+      "valor" : "121.82"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "26",
+      "dim_3_t" : "Fabricação de equipamentos informáticos, equipamento para comunicações e produtos eletrónicos e ópticos",
+      "ind_string" : "122,06",
+      "valor" : "122.06"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "25",
+      "dim_3_t" : "Fabricação de produtos metálicos, excepto máquinas e equipamentos",
+      "ind_string" : "122,18",
+      "valor" : "122.18"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "17",
+      "dim_3_t" : "Fabricação de pasta, de papel, de cartão e seus artigos",
+      "ind_string" : "123,84",
+      "valor" : "123.84"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "31",
+      "dim_3_t" : "Fabrico de mobiliário e de colchões",
+      "ind_string" : "125,07",
+      "valor" : "125.07"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "07",
+      "dim_3_t" : "Extração e preparação de minérios metálicos",
+      "ind_string" : "125,52",
+      "valor" : "125.52"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "10",
+      "dim_3_t" : "Indústrias alimentares",
+      "ind_string" : "125,93",
+      "valor" : "125.93"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "32",
+      "dim_3_t" : "Outras indústrias transformadoras",
+      "ind_string" : "128,23",
+      "valor" : "128.23"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "33",
+      "dim_3_t" : "Reparação, manutenção e instalação de máquinas e equipamentos",
+      "ind_string" : "129,31",
+      "valor" : "129.31"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "132,31",
+      "valor" : "132.31"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "30",
+      "dim_3_t" : "Fabricação de outro equipamento de transporte",
+      "ind_string" : "140,62",
+      "valor" : "140.62"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "09",
+      "dim_3_t" : "Atividades dos serviços relacionados com as indústrias extrativas",
+      "ind_string" : "488,04",
+      "valor" : "488.04"
+    } ],
+    "Fevereiro de 2025" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "19",
+      "dim_3_t" : "Fabricação de coque, produtos petrolíferos refinados e de aglomerados de combustíveis",
+      "ind_string" : "78,10",
+      "valor" : "78.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "35",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "92,33",
+      "valor" : "92.33"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "D",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "92,33",
+      "valor" : "92.33"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "15",
+      "dim_3_t" : "Indústria do couro e dos produtos do couro",
+      "ind_string" : "98,51",
+      "valor" : "98.51"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "14",
+      "dim_3_t" : "Indústria do vestuário",
+      "ind_string" : "99,82",
+      "valor" : "99.82"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "18",
+      "dim_3_t" : "Impressão e reprodução de suportes gravados",
+      "ind_string" : "105,62",
+      "valor" : "105.62"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "24",
+      "dim_3_t" : "Indústrias metalúrgicas de base",
+      "ind_string" : "105,78",
+      "valor" : "105.78"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "07",
+      "dim_3_t" : "Extração e preparação de minérios metálicos",
+      "ind_string" : "107,48",
+      "valor" : "107.48"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "13",
+      "dim_3_t" : "Fabricação de têxteis",
+      "ind_string" : "108,05",
+      "valor" : "108.05"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "22",
+      "dim_3_t" : "Fabricação de artigos de borracha e de matérias plásticas",
+      "ind_string" : "108,45",
+      "valor" : "108.45"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "08",
+      "dim_3_t" : "Outras indústrias extrativas",
+      "ind_string" : "109,37",
+      "valor" : "109.37"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "16",
+      "dim_3_t" : "Indústrias da madeira e da cortiça e suas obras, excepto mobiliário; Fabricação de obras de cestaria e de espartaria",
+      "ind_string" : "112,00",
+      "valor" : "112"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "20",
+      "dim_3_t" : "Fabricação de produtos químicos e de fibras sintéticas ou artificiais, excepto produtos farmacêuticos",
+      "ind_string" : "112,00",
+      "valor" : "112"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "29",
+      "dim_3_t" : "Fabricação de veículos automóveis, reboques, semi-reboques e componentes para veículos automóveis",
+      "ind_string" : "112,19",
+      "valor" : "112.19"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "27",
+      "dim_3_t" : "Fabricação de equipamento elétrico",
+      "ind_string" : "113,38",
+      "valor" : "113.38"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "21",
+      "dim_3_t" : "Fabricação de produtos farmacêuticos de base e de preparações farmacêuticas",
+      "ind_string" : "114,29",
+      "valor" : "114.29"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "115,59",
+      "valor" : "115.59"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "115,87",
+      "valor" : "115.87"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "23",
+      "dim_3_t" : "Fabrico de outros produtos minerais não metálicos",
+      "ind_string" : "116,49",
+      "valor" : "116.49"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "36",
+      "dim_3_t" : "Captação, tratamento e distribuição de água",
+      "ind_string" : "116,73",
+      "valor" : "116.73"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "11",
+      "dim_3_t" : "Indústria das bebidas",
+      "ind_string" : "117,85",
+      "valor" : "117.85"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "28",
+      "dim_3_t" : "Fabricação de máquinas e de equipamentos, n.e.",
+      "ind_string" : "120,16",
+      "valor" : "120.16"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "120,32",
+      "valor" : "120.32"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "26",
+      "dim_3_t" : "Fabricação de equipamentos informáticos, equipamento para comunicações e produtos eletrónicos e ópticos",
+      "ind_string" : "120,78",
+      "valor" : "120.78"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "12",
+      "dim_3_t" : "Indústria do tabaco",
+      "ind_string" : "121,33",
+      "valor" : "121.33"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "38",
+      "dim_3_t" : "Recolha, tratamento e eliminação de resíduos; valorização de materiais",
+      "ind_string" : "123,23",
+      "valor" : "123.23"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "10",
+      "dim_3_t" : "Indústrias alimentares",
+      "ind_string" : "124,00",
+      "valor" : "124"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "17",
+      "dim_3_t" : "Fabricação de pasta, de papel, de cartão e seus artigos",
+      "ind_string" : "124,07",
+      "valor" : "124.07"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "25",
+      "dim_3_t" : "Fabricação de produtos metálicos, excepto máquinas e equipamentos",
+      "ind_string" : "124,41",
+      "valor" : "124.41"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "31",
+      "dim_3_t" : "Fabrico de mobiliário e de colchões",
+      "ind_string" : "124,89",
+      "valor" : "124.89"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "125,22",
+      "valor" : "125.22"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "32",
+      "dim_3_t" : "Outras indústrias transformadoras",
+      "ind_string" : "127,93",
+      "valor" : "127.93"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "33",
+      "dim_3_t" : "Reparação, manutenção e instalação de máquinas e equipamentos",
+      "ind_string" : "133,89",
+      "valor" : "133.89"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "30",
+      "dim_3_t" : "Fabricação de outro equipamento de transporte",
+      "ind_string" : "144,47",
+      "valor" : "144.47"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "09",
+      "dim_3_t" : "Atividades dos serviços relacionados com as indústrias extrativas",
+      "ind_string" : "483,25",
+      "valor" : "483.25"
+    } ],
+    "Março de 2025" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "19",
+      "dim_3_t" : "Fabricação de coque, produtos petrolíferos refinados e de aglomerados de combustíveis",
+      "ind_string" : "79,28",
+      "valor" : "79.28"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "15",
+      "dim_3_t" : "Indústria do couro e dos produtos do couro",
+      "ind_string" : "99,90",
+      "valor" : "99.9"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "35",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "100,00",
+      "valor" : "100"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "D",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "100,00",
+      "valor" : "100"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "14",
+      "dim_3_t" : "Indústria do vestuário",
+      "ind_string" : "100,16",
+      "valor" : "100.16"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "24",
+      "dim_3_t" : "Indústrias metalúrgicas de base",
+      "ind_string" : "108,22",
+      "valor" : "108.22"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "08",
+      "dim_3_t" : "Outras indústrias extrativas",
+      "ind_string" : "109,24",
+      "valor" : "109.24"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "13",
+      "dim_3_t" : "Fabricação de têxteis",
+      "ind_string" : "109,42",
+      "valor" : "109.42"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "18",
+      "dim_3_t" : "Impressão e reprodução de suportes gravados",
+      "ind_string" : "109,91",
+      "valor" : "109.91"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "22",
+      "dim_3_t" : "Fabricação de artigos de borracha e de matérias plásticas",
+      "ind_string" : "110,15",
+      "valor" : "110.15"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "27",
+      "dim_3_t" : "Fabricação de equipamento elétrico",
+      "ind_string" : "117,95",
+      "valor" : "117.95"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "16",
+      "dim_3_t" : "Indústrias da madeira e da cortiça e suas obras, excepto mobiliário; Fabricação de obras de cestaria e de espartaria",
+      "ind_string" : "118,61",
+      "valor" : "118.61"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "23",
+      "dim_3_t" : "Fabrico de outros produtos minerais não metálicos",
+      "ind_string" : "119,65",
+      "valor" : "119.65"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "20",
+      "dim_3_t" : "Fabricação de produtos químicos e de fibras sintéticas ou artificiais, excepto produtos farmacêuticos",
+      "ind_string" : "119,73",
+      "valor" : "119.73"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "21",
+      "dim_3_t" : "Fabricação de produtos farmacêuticos de base e de preparações farmacêuticas",
+      "ind_string" : "119,99",
+      "valor" : "119.99"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "120,01",
+      "valor" : "120.01"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "120,14",
+      "valor" : "120.14"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "36",
+      "dim_3_t" : "Captação, tratamento e distribuição de água",
+      "ind_string" : "120,51",
+      "valor" : "120.51"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "29",
+      "dim_3_t" : "Fabricação de veículos automóveis, reboques, semi-reboques e componentes para veículos automóveis",
+      "ind_string" : "121,41",
+      "valor" : "121.41"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "28",
+      "dim_3_t" : "Fabricação de máquinas e de equipamentos, n.e.",
+      "ind_string" : "121,61",
+      "valor" : "121.61"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "12",
+      "dim_3_t" : "Indústria do tabaco",
+      "ind_string" : "121,91",
+      "valor" : "121.91"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "07",
+      "dim_3_t" : "Extração e preparação de minérios metálicos",
+      "ind_string" : "122,82",
+      "valor" : "122.82"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "124,90",
+      "valor" : "124.9"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "25",
+      "dim_3_t" : "Fabricação de produtos metálicos, excepto máquinas e equipamentos",
+      "ind_string" : "126,07",
+      "valor" : "126.07"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "31",
+      "dim_3_t" : "Fabrico de mobiliário e de colchões",
+      "ind_string" : "126,56",
+      "valor" : "126.56"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "10",
+      "dim_3_t" : "Indústrias alimentares",
+      "ind_string" : "127,92",
+      "valor" : "127.92"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "38",
+      "dim_3_t" : "Recolha, tratamento e eliminação de resíduos; valorização de materiais",
+      "ind_string" : "128,46",
+      "valor" : "128.46"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "17",
+      "dim_3_t" : "Fabricação de pasta, de papel, de cartão e seus artigos",
+      "ind_string" : "129,65",
+      "valor" : "129.65"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "132,18",
+      "valor" : "132.18"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "32",
+      "dim_3_t" : "Outras indústrias transformadoras",
+      "ind_string" : "133,00",
+      "valor" : "133"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "11",
+      "dim_3_t" : "Indústria das bebidas",
+      "ind_string" : "133,38",
+      "valor" : "133.38"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "33",
+      "dim_3_t" : "Reparação, manutenção e instalação de máquinas e equipamentos",
+      "ind_string" : "137,50",
+      "valor" : "137.5"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "30",
+      "dim_3_t" : "Fabricação de outro equipamento de transporte",
+      "ind_string" : "143,68",
+      "valor" : "143.68"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "26",
+      "dim_3_t" : "Fabricação de equipamentos informáticos, equipamento para comunicações e produtos eletrónicos e ópticos",
+      "ind_string" : "149,61",
+      "valor" : "149.61"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "09",
+      "dim_3_t" : "Atividades dos serviços relacionados com as indústrias extrativas",
+      "ind_string" : "499,95",
+      "valor" : "499.95"
+    } ],
+    "Abril de 2025" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "35",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "94,33",
+      "valor" : "94.33"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "D",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "94,33",
+      "valor" : "94.33"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "15",
+      "dim_3_t" : "Indústria do couro e dos produtos do couro",
+      "ind_string" : "99,79",
+      "valor" : "99.79"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "14",
+      "dim_3_t" : "Indústria do vestuário",
+      "ind_string" : "102,06",
+      "valor" : "102.06"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "12",
+      "dim_3_t" : "Indústria do tabaco",
+      "ind_string" : "109,14",
+      "valor" : "109.14"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "18",
+      "dim_3_t" : "Impressão e reprodução de suportes gravados",
+      "ind_string" : "109,41",
+      "valor" : "109.41"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "13",
+      "dim_3_t" : "Fabricação de têxteis",
+      "ind_string" : "109,96",
+      "valor" : "109.96"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "22",
+      "dim_3_t" : "Fabricação de artigos de borracha e de matérias plásticas",
+      "ind_string" : "110,71",
+      "valor" : "110.71"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "29",
+      "dim_3_t" : "Fabricação de veículos automóveis, reboques, semi-reboques e componentes para veículos automóveis",
+      "ind_string" : "111,58",
+      "valor" : "111.58"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "24",
+      "dim_3_t" : "Indústrias metalúrgicas de base",
+      "ind_string" : "112,53",
+      "valor" : "112.53"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "08",
+      "dim_3_t" : "Outras indústrias extrativas",
+      "ind_string" : "112,59",
+      "valor" : "112.59"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "16",
+      "dim_3_t" : "Indústrias da madeira e da cortiça e suas obras, excepto mobiliário; Fabricação de obras de cestaria e de espartaria",
+      "ind_string" : "114,21",
+      "valor" : "114.21"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "36",
+      "dim_3_t" : "Captação, tratamento e distribuição de água",
+      "ind_string" : "119,75",
+      "valor" : "119.75"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "20",
+      "dim_3_t" : "Fabricação de produtos químicos e de fibras sintéticas ou artificiais, excepto produtos farmacêuticos",
+      "ind_string" : "119,79",
+      "valor" : "119.79"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "122,02",
+      "valor" : "122.02"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "21",
+      "dim_3_t" : "Fabricação de produtos farmacêuticos de base e de preparações farmacêuticas",
+      "ind_string" : "122,08",
+      "valor" : "122.08"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "122,13",
+      "valor" : "122.13"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "28",
+      "dim_3_t" : "Fabricação de máquinas e de equipamentos, n.e.",
+      "ind_string" : "122,89",
+      "valor" : "122.89"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "11",
+      "dim_3_t" : "Indústria das bebidas",
+      "ind_string" : "123,84",
+      "valor" : "123.84"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "23",
+      "dim_3_t" : "Fabrico de outros produtos minerais não metálicos",
+      "ind_string" : "124,97",
+      "valor" : "124.97"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "31",
+      "dim_3_t" : "Fabrico de mobiliário e de colchões",
+      "ind_string" : "126,18",
+      "valor" : "126.18"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "127,19",
+      "valor" : "127.19"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "07",
+      "dim_3_t" : "Extração e preparação de minérios metálicos",
+      "ind_string" : "127,60",
+      "valor" : "127.6"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "25",
+      "dim_3_t" : "Fabricação de produtos metálicos, excepto máquinas e equipamentos",
+      "ind_string" : "128,31",
+      "valor" : "128.31"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "10",
+      "dim_3_t" : "Indústrias alimentares",
+      "ind_string" : "130,76",
+      "valor" : "130.76"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "38",
+      "dim_3_t" : "Recolha, tratamento e eliminação de resíduos; valorização de materiais",
+      "ind_string" : "133,21",
+      "valor" : "133.21"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "32",
+      "dim_3_t" : "Outras indústrias transformadoras",
+      "ind_string" : "133,49",
+      "valor" : "133.49"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "17",
+      "dim_3_t" : "Fabricação de pasta, de papel, de cartão e seus artigos",
+      "ind_string" : "133,92",
+      "valor" : "133.92"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "27",
+      "dim_3_t" : "Fabricação de equipamento elétrico",
+      "ind_string" : "137,12",
+      "valor" : "137.12"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "26",
+      "dim_3_t" : "Fabricação de equipamentos informáticos, equipamento para comunicações e produtos eletrónicos e ópticos",
+      "ind_string" : "139,50",
+      "valor" : "139.5"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "33",
+      "dim_3_t" : "Reparação, manutenção e instalação de máquinas e equipamentos",
+      "ind_string" : "139,82",
+      "valor" : "139.82"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "147,60",
+      "valor" : "147.6"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "30",
+      "dim_3_t" : "Fabricação de outro equipamento de transporte",
+      "ind_string" : "148,55",
+      "valor" : "148.55"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "19",
+      "dim_3_t" : "Fabricação de coque, produtos petrolíferos refinados e de aglomerados de combustíveis",
+      "ind_string" : "191,77",
+      "valor" : "191.77"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "09",
+      "dim_3_t" : "Atividades dos serviços relacionados com as indústrias extrativas",
+      "ind_string" : "761,61",
+      "valor" : "761.61"
+    } ],
+    "Maio de 2025" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "19",
+      "dim_3_t" : "Fabricação de coque, produtos petrolíferos refinados e de aglomerados de combustíveis",
+      "ind_string" : "80,03",
+      "valor" : "80.03"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "14",
+      "dim_3_t" : "Indústria do vestuário",
+      "ind_string" : "102,41",
+      "valor" : "102.41"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "15",
+      "dim_3_t" : "Indústria do couro e dos produtos do couro",
+      "ind_string" : "103,05",
+      "valor" : "103.05"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "12",
+      "dim_3_t" : "Indústria do tabaco",
+      "ind_string" : "109,06",
+      "valor" : "109.06"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "13",
+      "dim_3_t" : "Fabricação de têxteis",
+      "ind_string" : "110,34",
+      "valor" : "110.34"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "07",
+      "dim_3_t" : "Extração e preparação de minérios metálicos",
+      "ind_string" : "110,61",
+      "valor" : "110.61"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "08",
+      "dim_3_t" : "Outras indústrias extrativas",
+      "ind_string" : "113,25",
+      "valor" : "113.25"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "22",
+      "dim_3_t" : "Fabricação de artigos de borracha e de matérias plásticas",
+      "ind_string" : "113,38",
+      "valor" : "113.38"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "29",
+      "dim_3_t" : "Fabricação de veículos automóveis, reboques, semi-reboques e componentes para veículos automóveis",
+      "ind_string" : "114,82",
+      "valor" : "114.82"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "18",
+      "dim_3_t" : "Impressão e reprodução de suportes gravados",
+      "ind_string" : "114,90",
+      "valor" : "114.9"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "16",
+      "dim_3_t" : "Indústrias da madeira e da cortiça e suas obras, excepto mobiliário; Fabricação de obras de cestaria e de espartaria",
+      "ind_string" : "116,24",
+      "valor" : "116.24"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "27",
+      "dim_3_t" : "Fabricação de equipamento elétrico",
+      "ind_string" : "120,04",
+      "valor" : "120.04"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "28",
+      "dim_3_t" : "Fabricação de máquinas e de equipamentos, n.e.",
+      "ind_string" : "121,65",
+      "valor" : "121.65"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "123,88",
+      "valor" : "123.88"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "125,22",
+      "valor" : "125.22"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "24",
+      "dim_3_t" : "Indústrias metalúrgicas de base",
+      "ind_string" : "125,59",
+      "valor" : "125.59"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "23",
+      "dim_3_t" : "Fabrico de outros produtos minerais não metálicos",
+      "ind_string" : "125,88",
+      "valor" : "125.88"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "31",
+      "dim_3_t" : "Fabrico de mobiliário e de colchões",
+      "ind_string" : "127,14",
+      "valor" : "127.14"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "11",
+      "dim_3_t" : "Indústria das bebidas",
+      "ind_string" : "128,61",
+      "valor" : "128.61"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "20",
+      "dim_3_t" : "Fabricação de produtos químicos e de fibras sintéticas ou artificiais, excepto produtos farmacêuticos",
+      "ind_string" : "129,89",
+      "valor" : "129.89"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "25",
+      "dim_3_t" : "Fabricação de produtos metálicos, excepto máquinas e equipamentos",
+      "ind_string" : "130,19",
+      "valor" : "130.19"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "130,38",
+      "valor" : "130.38"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "38",
+      "dim_3_t" : "Recolha, tratamento e eliminação de resíduos; valorização de materiais",
+      "ind_string" : "133,24",
+      "valor" : "133.24"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "10",
+      "dim_3_t" : "Indústrias alimentares",
+      "ind_string" : "134,53",
+      "valor" : "134.53"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "32",
+      "dim_3_t" : "Outras indústrias transformadoras",
+      "ind_string" : "135,26",
+      "valor" : "135.26"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "136,68",
+      "valor" : "136.68"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "36",
+      "dim_3_t" : "Captação, tratamento e distribuição de água",
+      "ind_string" : "140,92",
+      "valor" : "140.92"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "26",
+      "dim_3_t" : "Fabricação de equipamentos informáticos, equipamento para comunicações e produtos eletrónicos e ópticos",
+      "ind_string" : "142,03",
+      "valor" : "142.03"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "33",
+      "dim_3_t" : "Reparação, manutenção e instalação de máquinas e equipamentos",
+      "ind_string" : "145,04",
+      "valor" : "145.04"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "35",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "147,35",
+      "valor" : "147.35"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "D",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "147,35",
+      "valor" : "147.35"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "30",
+      "dim_3_t" : "Fabricação de outro equipamento de transporte",
+      "ind_string" : "148,66",
+      "valor" : "148.66"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "21",
+      "dim_3_t" : "Fabricação de produtos farmacêuticos de base e de preparações farmacêuticas",
+      "ind_string" : "150,42",
+      "valor" : "150.42"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "17",
+      "dim_3_t" : "Fabricação de pasta, de papel, de cartão e seus artigos",
+      "ind_string" : "153,17",
+      "valor" : "153.17"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "09",
+      "dim_3_t" : "Atividades dos serviços relacionados com as indústrias extrativas",
+      "ind_string" : "522,94",
+      "valor" : "522.94"
+    } ],
+    "Junho de 2025" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "15",
+      "dim_3_t" : "Indústria do couro e dos produtos do couro",
+      "ind_string" : "101,18",
+      "valor" : "101.18"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "14",
+      "dim_3_t" : "Indústria do vestuário",
+      "ind_string" : "103,52",
+      "valor" : "103.52"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "13",
+      "dim_3_t" : "Fabricação de têxteis",
+      "ind_string" : "114,33",
+      "valor" : "114.33"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "35",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "115,08",
+      "valor" : "115.08"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "D",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "115,08",
+      "valor" : "115.08"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "24",
+      "dim_3_t" : "Indústrias metalúrgicas de base",
+      "ind_string" : "123,45",
+      "valor" : "123.45"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "16",
+      "dim_3_t" : "Indústrias da madeira e da cortiça e suas obras, excepto mobiliário; Fabricação de obras de cestaria e de espartaria",
+      "ind_string" : "123,88",
+      "valor" : "123.88"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "18",
+      "dim_3_t" : "Impressão e reprodução de suportes gravados",
+      "ind_string" : "124,06",
+      "valor" : "124.06"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "08",
+      "dim_3_t" : "Outras indústrias extrativas",
+      "ind_string" : "125,92",
+      "valor" : "125.92"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "07",
+      "dim_3_t" : "Extração e preparação de minérios metálicos",
+      "ind_string" : "136,01",
+      "valor" : "136.01"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "25",
+      "dim_3_t" : "Fabricação de produtos metálicos, excepto máquinas e equipamentos",
+      "ind_string" : "138,64",
+      "valor" : "138.64"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "31",
+      "dim_3_t" : "Fabrico de mobiliário e de colchões",
+      "ind_string" : "139,71",
+      "valor" : "139.71"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "23",
+      "dim_3_t" : "Fabrico de outros produtos minerais não metálicos",
+      "ind_string" : "142,32",
+      "valor" : "142.32"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "142,32",
+      "valor" : "142.32"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "22",
+      "dim_3_t" : "Fabricação de artigos de borracha e de matérias plásticas",
+      "ind_string" : "142,85",
+      "valor" : "142.85"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "26",
+      "dim_3_t" : "Fabricação de equipamentos informáticos, equipamento para comunicações e produtos eletrónicos e ópticos",
+      "ind_string" : "143,18",
+      "valor" : "143.18"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "144,39",
+      "valor" : "144.39"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "20",
+      "dim_3_t" : "Fabricação de produtos químicos e de fibras sintéticas ou artificiais, excepto produtos farmacêuticos",
+      "ind_string" : "144,48",
+      "valor" : "144.48"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "28",
+      "dim_3_t" : "Fabricação de máquinas e de equipamentos, n.e.",
+      "ind_string" : "145,56",
+      "valor" : "145.56"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "19",
+      "dim_3_t" : "Fabricação de coque, produtos petrolíferos refinados e de aglomerados de combustíveis",
+      "ind_string" : "153,66",
+      "valor" : "153.66"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "32",
+      "dim_3_t" : "Outras indústrias transformadoras",
+      "ind_string" : "153,69",
+      "valor" : "153.69"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "11",
+      "dim_3_t" : "Indústria das bebidas",
+      "ind_string" : "154,03",
+      "valor" : "154.03"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "10",
+      "dim_3_t" : "Indústrias alimentares",
+      "ind_string" : "157,07",
+      "valor" : "157.07"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "17",
+      "dim_3_t" : "Fabricação de pasta, de papel, de cartão e seus artigos",
+      "ind_string" : "159,01",
+      "valor" : "159.01"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "27",
+      "dim_3_t" : "Fabricação de equipamento elétrico",
+      "ind_string" : "160,84",
+      "valor" : "160.84"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "162,66",
+      "valor" : "162.66"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "29",
+      "dim_3_t" : "Fabricação de veículos automóveis, reboques, semi-reboques e componentes para veículos automóveis",
+      "ind_string" : "166,27",
+      "valor" : "166.27"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "21",
+      "dim_3_t" : "Fabricação de produtos farmacêuticos de base e de preparações farmacêuticas",
+      "ind_string" : "169,33",
+      "valor" : "169.33"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "30",
+      "dim_3_t" : "Fabricação de outro equipamento de transporte",
+      "ind_string" : "175,40",
+      "valor" : "175.4"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "12",
+      "dim_3_t" : "Indústria do tabaco",
+      "ind_string" : "180,66",
+      "valor" : "180.66"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "33",
+      "dim_3_t" : "Reparação, manutenção e instalação de máquinas e equipamentos",
+      "ind_string" : "184,05",
+      "valor" : "184.05"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "38",
+      "dim_3_t" : "Recolha, tratamento e eliminação de resíduos; valorização de materiais",
+      "ind_string" : "190,31",
+      "valor" : "190.31"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "196,15",
+      "valor" : "196.15"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "36",
+      "dim_3_t" : "Captação, tratamento e distribuição de água",
+      "ind_string" : "203,35",
+      "valor" : "203.35"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "09",
+      "dim_3_t" : "Atividades dos serviços relacionados com as indústrias extrativas",
+      "ind_string" : "859,47",
+      "valor" : "859.47"
+    } ],
+    "Julho de 2025" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "19",
+      "dim_3_t" : "Fabricação de coque, produtos petrolíferos refinados e de aglomerados de combustíveis",
+      "ind_string" : "77,07",
+      "valor" : "77.07"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "35",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "94,92",
+      "valor" : "94.92"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "D",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "94,92",
+      "valor" : "94.92"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "12",
+      "dim_3_t" : "Indústria do tabaco",
+      "ind_string" : "119,01",
+      "valor" : "119.01"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "14",
+      "dim_3_t" : "Indústria do vestuário",
+      "ind_string" : "119,25",
+      "valor" : "119.25"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "36",
+      "dim_3_t" : "Captação, tratamento e distribuição de água",
+      "ind_string" : "121,63",
+      "valor" : "121.63"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "15",
+      "dim_3_t" : "Indústria do couro e dos produtos do couro",
+      "ind_string" : "128,08",
+      "valor" : "128.08"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "18",
+      "dim_3_t" : "Impressão e reprodução de suportes gravados",
+      "ind_string" : "132,04",
+      "valor" : "132.04"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "08",
+      "dim_3_t" : "Outras indústrias extrativas",
+      "ind_string" : "135,19",
+      "valor" : "135.19"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "136,14",
+      "valor" : "136.14"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "07",
+      "dim_3_t" : "Extração e preparação de minérios metálicos",
+      "ind_string" : "136,26",
+      "valor" : "136.26"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "20",
+      "dim_3_t" : "Fabricação de produtos químicos e de fibras sintéticas ou artificiais, excepto produtos farmacêuticos",
+      "ind_string" : "144,65",
+      "valor" : "144.65"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "21",
+      "dim_3_t" : "Fabricação de produtos farmacêuticos de base e de preparações farmacêuticas",
+      "ind_string" : "147,57",
+      "valor" : "147.57"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "38",
+      "dim_3_t" : "Recolha, tratamento e eliminação de resíduos; valorização de materiais",
+      "ind_string" : "147,88",
+      "valor" : "147.88"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "22",
+      "dim_3_t" : "Fabricação de artigos de borracha e de matérias plásticas",
+      "ind_string" : "147,94",
+      "valor" : "147.94"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "13",
+      "dim_3_t" : "Fabricação de têxteis",
+      "ind_string" : "148,00",
+      "valor" : "148"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "29",
+      "dim_3_t" : "Fabricação de veículos automóveis, reboques, semi-reboques e componentes para veículos automóveis",
+      "ind_string" : "148,75",
+      "valor" : "148.75"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "10",
+      "dim_3_t" : "Indústrias alimentares",
+      "ind_string" : "149,54",
+      "valor" : "149.54"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "24",
+      "dim_3_t" : "Indústrias metalúrgicas de base",
+      "ind_string" : "149,87",
+      "valor" : "149.87"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "149,89",
+      "valor" : "149.89"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "23",
+      "dim_3_t" : "Fabrico de outros produtos minerais não metálicos",
+      "ind_string" : "150,85",
+      "valor" : "150.85"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "31",
+      "dim_3_t" : "Fabrico de mobiliário e de colchões",
+      "ind_string" : "151,23",
+      "valor" : "151.23"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "152,15",
+      "valor" : "152.15"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "17",
+      "dim_3_t" : "Fabricação de pasta, de papel, de cartão e seus artigos",
+      "ind_string" : "152,51",
+      "valor" : "152.51"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "153,73",
+      "valor" : "153.73"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "11",
+      "dim_3_t" : "Indústria das bebidas",
+      "ind_string" : "155,31",
+      "valor" : "155.31"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "33",
+      "dim_3_t" : "Reparação, manutenção e instalação de máquinas e equipamentos",
+      "ind_string" : "156,39",
+      "valor" : "156.39"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "16",
+      "dim_3_t" : "Indústrias da madeira e da cortiça e suas obras, excepto mobiliário; Fabricação de obras de cestaria e de espartaria",
+      "ind_string" : "162,62",
+      "valor" : "162.62"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "28",
+      "dim_3_t" : "Fabricação de máquinas e de equipamentos, n.e.",
+      "ind_string" : "164,42",
+      "valor" : "164.42"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "25",
+      "dim_3_t" : "Fabricação de produtos metálicos, excepto máquinas e equipamentos",
+      "ind_string" : "167,49",
+      "valor" : "167.49"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "32",
+      "dim_3_t" : "Outras indústrias transformadoras",
+      "ind_string" : "170,01",
+      "valor" : "170.01"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "27",
+      "dim_3_t" : "Fabricação de equipamento elétrico",
+      "ind_string" : "179,25",
+      "valor" : "179.25"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "26",
+      "dim_3_t" : "Fabricação de equipamentos informáticos, equipamento para comunicações e produtos eletrónicos e ópticos",
+      "ind_string" : "192,46",
+      "valor" : "192.46"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "30",
+      "dim_3_t" : "Fabricação de outro equipamento de transporte",
+      "ind_string" : "209,78",
+      "valor" : "209.78"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "09",
+      "dim_3_t" : "Atividades dos serviços relacionados com as indústrias extrativas",
+      "ind_string" : "542,38",
+      "valor" : "542.38"
+    } ],
+    "Agosto de 2025" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "19",
+      "dim_3_t" : "Fabricação de coque, produtos petrolíferos refinados e de aglomerados de combustíveis",
+      "ind_string" : "77,52",
+      "valor" : "77.52"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "35",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "91,53",
+      "valor" : "91.53"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "D",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "91,53",
+      "valor" : "91.53"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "12",
+      "dim_3_t" : "Indústria do tabaco",
+      "ind_string" : "98,42",
+      "valor" : "98.42"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "07",
+      "dim_3_t" : "Extração e preparação de minérios metálicos",
+      "ind_string" : "104,48",
+      "valor" : "104.48"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "29",
+      "dim_3_t" : "Fabricação de veículos automóveis, reboques, semi-reboques e componentes para veículos automóveis",
+      "ind_string" : "115,29",
+      "valor" : "115.29"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "20",
+      "dim_3_t" : "Fabricação de produtos químicos e de fibras sintéticas ou artificiais, excepto produtos farmacêuticos",
+      "ind_string" : "116,03",
+      "valor" : "116.03"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "18",
+      "dim_3_t" : "Impressão e reprodução de suportes gravados",
+      "ind_string" : "117,51",
+      "valor" : "117.51"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "21",
+      "dim_3_t" : "Fabricação de produtos farmacêuticos de base e de preparações farmacêuticas",
+      "ind_string" : "118,70",
+      "valor" : "118.7"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "22",
+      "dim_3_t" : "Fabricação de artigos de borracha e de matérias plásticas",
+      "ind_string" : "120,35",
+      "valor" : "120.35"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "27",
+      "dim_3_t" : "Fabricação de equipamento elétrico",
+      "ind_string" : "122,75",
+      "valor" : "122.75"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "36",
+      "dim_3_t" : "Captação, tratamento e distribuição de água",
+      "ind_string" : "123,66",
+      "valor" : "123.66"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "24",
+      "dim_3_t" : "Indústrias metalúrgicas de base",
+      "ind_string" : "124,36",
+      "valor" : "124.36"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "08",
+      "dim_3_t" : "Outras indústrias extrativas",
+      "ind_string" : "124,70",
+      "valor" : "124.7"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "11",
+      "dim_3_t" : "Indústria das bebidas",
+      "ind_string" : "126,68",
+      "valor" : "126.68"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "26",
+      "dim_3_t" : "Fabricação de equipamentos informáticos, equipamento para comunicações e produtos eletrónicos e ópticos",
+      "ind_string" : "129,53",
+      "valor" : "129.53"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "129,75",
+      "valor" : "129.75"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "23",
+      "dim_3_t" : "Fabrico de outros produtos minerais não metálicos",
+      "ind_string" : "130,64",
+      "valor" : "130.64"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "16",
+      "dim_3_t" : "Indústrias da madeira e da cortiça e suas obras, excepto mobiliário; Fabricação de obras de cestaria e de espartaria",
+      "ind_string" : "132,33",
+      "valor" : "132.33"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "133,91",
+      "valor" : "133.91"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "134,31",
+      "valor" : "134.31"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "38",
+      "dim_3_t" : "Recolha, tratamento e eliminação de resíduos; valorização de materiais",
+      "ind_string" : "134,68",
+      "valor" : "134.68"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "135,38",
+      "valor" : "135.38"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "10",
+      "dim_3_t" : "Indústrias alimentares",
+      "ind_string" : "135,63",
+      "valor" : "135.63"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "17",
+      "dim_3_t" : "Fabricação de pasta, de papel, de cartão e seus artigos",
+      "ind_string" : "135,79",
+      "valor" : "135.79"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "28",
+      "dim_3_t" : "Fabricação de máquinas e de equipamentos, n.e.",
+      "ind_string" : "136,29",
+      "valor" : "136.29"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "25",
+      "dim_3_t" : "Fabricação de produtos metálicos, excepto máquinas e equipamentos",
+      "ind_string" : "143,31",
+      "valor" : "143.31"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "33",
+      "dim_3_t" : "Reparação, manutenção e instalação de máquinas e equipamentos",
+      "ind_string" : "144,39",
+      "valor" : "144.39"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "32",
+      "dim_3_t" : "Outras indústrias transformadoras",
+      "ind_string" : "146,55",
+      "valor" : "146.55"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "13",
+      "dim_3_t" : "Fabricação de têxteis",
+      "ind_string" : "150,78",
+      "valor" : "150.78"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "15",
+      "dim_3_t" : "Indústria do couro e dos produtos do couro",
+      "ind_string" : "151,45",
+      "valor" : "151.45"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "30",
+      "dim_3_t" : "Fabricação de outro equipamento de transporte",
+      "ind_string" : "153,89",
+      "valor" : "153.89"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "31",
+      "dim_3_t" : "Fabrico de mobiliário e de colchões",
+      "ind_string" : "154,88",
+      "valor" : "154.88"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "14",
+      "dim_3_t" : "Indústria do vestuário",
+      "ind_string" : "155,19",
+      "valor" : "155.19"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "09",
+      "dim_3_t" : "Atividades dos serviços relacionados com as indústrias extrativas",
+      "ind_string" : "527,41",
+      "valor" : "527.41"
+    } ],
+    "Setembro de 2025" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "19",
+      "dim_3_t" : "Fabricação de coque, produtos petrolíferos refinados e de aglomerados de combustíveis",
+      "ind_string" : "80,40",
+      "valor" : "80.4"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "35",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "90,13",
+      "valor" : "90.13"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "D",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "90,13",
+      "valor" : "90.13"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "15",
+      "dim_3_t" : "Indústria do couro e dos produtos do couro",
+      "ind_string" : "99,75",
+      "valor" : "99.75"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "07",
+      "dim_3_t" : "Extração e preparação de minérios metálicos",
+      "ind_string" : "100,79",
+      "valor" : "100.79"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "14",
+      "dim_3_t" : "Indústria do vestuário",
+      "ind_string" : "101,78",
+      "valor" : "101.78"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "12",
+      "dim_3_t" : "Indústria do tabaco",
+      "ind_string" : "102,84",
+      "valor" : "102.84"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "18",
+      "dim_3_t" : "Impressão e reprodução de suportes gravados",
+      "ind_string" : "109,04",
+      "valor" : "109.04"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "20",
+      "dim_3_t" : "Fabricação de produtos químicos e de fibras sintéticas ou artificiais, excepto produtos farmacêuticos",
+      "ind_string" : "109,84",
+      "valor" : "109.84"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "22",
+      "dim_3_t" : "Fabricação de artigos de borracha e de matérias plásticas",
+      "ind_string" : "110,24",
+      "valor" : "110.24"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "08",
+      "dim_3_t" : "Outras indústrias extrativas",
+      "ind_string" : "110,71",
+      "valor" : "110.71"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "24",
+      "dim_3_t" : "Indústrias metalúrgicas de base",
+      "ind_string" : "111,04",
+      "valor" : "111.04"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "13",
+      "dim_3_t" : "Fabricação de têxteis",
+      "ind_string" : "112,54",
+      "valor" : "112.54"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "29",
+      "dim_3_t" : "Fabricação de veículos automóveis, reboques, semi-reboques e componentes para veículos automóveis",
+      "ind_string" : "112,69",
+      "valor" : "112.69"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "16",
+      "dim_3_t" : "Indústrias da madeira e da cortiça e suas obras, excepto mobiliário; Fabricação de obras de cestaria e de espartaria",
+      "ind_string" : "115,06",
+      "valor" : "115.06"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "21",
+      "dim_3_t" : "Fabricação de produtos farmacêuticos de base e de preparações farmacêuticas",
+      "ind_string" : "117,25",
+      "valor" : "117.25"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "27",
+      "dim_3_t" : "Fabricação de equipamento elétrico",
+      "ind_string" : "118,18",
+      "valor" : "118.18"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "23",
+      "dim_3_t" : "Fabrico de outros produtos minerais não metálicos",
+      "ind_string" : "119,08",
+      "valor" : "119.08"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "119,24",
+      "valor" : "119.24"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "119,54",
+      "valor" : "119.54"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "28",
+      "dim_3_t" : "Fabricação de máquinas e de equipamentos, n.e.",
+      "ind_string" : "120,64",
+      "valor" : "120.64"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "36",
+      "dim_3_t" : "Captação, tratamento e distribuição de água",
+      "ind_string" : "123,90",
+      "valor" : "123.9"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "26",
+      "dim_3_t" : "Fabricação de equipamentos informáticos, equipamento para comunicações e produtos eletrónicos e ópticos",
+      "ind_string" : "125,40",
+      "valor" : "125.4"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "125,45",
+      "valor" : "125.45"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "31",
+      "dim_3_t" : "Fabrico de mobiliário e de colchões",
+      "ind_string" : "127,05",
+      "valor" : "127.05"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "17",
+      "dim_3_t" : "Fabricação de pasta, de papel, de cartão e seus artigos",
+      "ind_string" : "127,41",
+      "valor" : "127.41"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "25",
+      "dim_3_t" : "Fabricação de produtos metálicos, excepto máquinas e equipamentos",
+      "ind_string" : "127,89",
+      "valor" : "127.89"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "128,25",
+      "valor" : "128.25"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "38",
+      "dim_3_t" : "Recolha, tratamento e eliminação de resíduos; valorização de materiais",
+      "ind_string" : "131,78",
+      "valor" : "131.78"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "11",
+      "dim_3_t" : "Indústria das bebidas",
+      "ind_string" : "132,24",
+      "valor" : "132.24"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "32",
+      "dim_3_t" : "Outras indústrias transformadoras",
+      "ind_string" : "132,50",
+      "valor" : "132.5"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "10",
+      "dim_3_t" : "Indústrias alimentares",
+      "ind_string" : "133,06",
+      "valor" : "133.06"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "30",
+      "dim_3_t" : "Fabricação de outro equipamento de transporte",
+      "ind_string" : "141,69",
+      "valor" : "141.69"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "33",
+      "dim_3_t" : "Reparação, manutenção e instalação de máquinas e equipamentos",
+      "ind_string" : "142,20",
+      "valor" : "142.2"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "09",
+      "dim_3_t" : "Atividades dos serviços relacionados com as indústrias extrativas",
+      "ind_string" : "533,85",
+      "valor" : "533.85"
+    } ],
+    "Outubro de 2025" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "35",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "91,08",
+      "valor" : "91.08"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "D",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "91,08",
+      "valor" : "91.08"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "19",
+      "dim_3_t" : "Fabricação de coque, produtos petrolíferos refinados e de aglomerados de combustíveis",
+      "ind_string" : "95,31",
+      "valor" : "95.31"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "14",
+      "dim_3_t" : "Indústria do vestuário",
+      "ind_string" : "97,72",
+      "valor" : "97.72"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "15",
+      "dim_3_t" : "Indústria do couro e dos produtos do couro",
+      "ind_string" : "98,44",
+      "valor" : "98.44"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "13",
+      "dim_3_t" : "Fabricação de têxteis",
+      "ind_string" : "106,92",
+      "valor" : "106.92"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "20",
+      "dim_3_t" : "Fabricação de produtos químicos e de fibras sintéticas ou artificiais, excepto produtos farmacêuticos",
+      "ind_string" : "109,46",
+      "valor" : "109.46"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "12",
+      "dim_3_t" : "Indústria do tabaco",
+      "ind_string" : "109,54",
+      "valor" : "109.54"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "18",
+      "dim_3_t" : "Impressão e reprodução de suportes gravados",
+      "ind_string" : "110,15",
+      "valor" : "110.15"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "29",
+      "dim_3_t" : "Fabricação de veículos automóveis, reboques, semi-reboques e componentes para veículos automóveis",
+      "ind_string" : "110,76",
+      "valor" : "110.76"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "24",
+      "dim_3_t" : "Indústrias metalúrgicas de base",
+      "ind_string" : "111,46",
+      "valor" : "111.46"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "08",
+      "dim_3_t" : "Outras indústrias extrativas",
+      "ind_string" : "111,50",
+      "valor" : "111.5"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "22",
+      "dim_3_t" : "Fabricação de artigos de borracha e de matérias plásticas",
+      "ind_string" : "111,53",
+      "valor" : "111.53"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "07",
+      "dim_3_t" : "Extração e preparação de minérios metálicos",
+      "ind_string" : "111,79",
+      "valor" : "111.79"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "16",
+      "dim_3_t" : "Indústrias da madeira e da cortiça e suas obras, excepto mobiliário; Fabricação de obras de cestaria e de espartaria",
+      "ind_string" : "114,97",
+      "valor" : "114.97"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "27",
+      "dim_3_t" : "Fabricação de equipamento elétrico",
+      "ind_string" : "118,29",
+      "valor" : "118.29"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "119,28",
+      "valor" : "119.28"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "119,61",
+      "valor" : "119.61"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "23",
+      "dim_3_t" : "Fabrico de outros produtos minerais não metálicos",
+      "ind_string" : "120,74",
+      "valor" : "120.74"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "36",
+      "dim_3_t" : "Captação, tratamento e distribuição de água",
+      "ind_string" : "120,85",
+      "valor" : "120.85"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "21",
+      "dim_3_t" : "Fabricação de produtos farmacêuticos de base e de preparações farmacêuticas",
+      "ind_string" : "122,36",
+      "valor" : "122.36"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "28",
+      "dim_3_t" : "Fabricação de máquinas e de equipamentos, n.e.",
+      "ind_string" : "123,23",
+      "valor" : "123.23"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "17",
+      "dim_3_t" : "Fabricação de pasta, de papel, de cartão e seus artigos",
+      "ind_string" : "125,12",
+      "valor" : "125.12"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "125,28",
+      "valor" : "125.28"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "11",
+      "dim_3_t" : "Indústria das bebidas",
+      "ind_string" : "126,17",
+      "valor" : "126.17"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "31",
+      "dim_3_t" : "Fabrico de mobiliário e de colchões",
+      "ind_string" : "127,70",
+      "valor" : "127.7"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "38",
+      "dim_3_t" : "Recolha, tratamento e eliminação de resíduos; valorização de materiais",
+      "ind_string" : "128,87",
+      "valor" : "128.87"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "25",
+      "dim_3_t" : "Fabricação de produtos metálicos, excepto máquinas e equipamentos",
+      "ind_string" : "129,08",
+      "valor" : "129.08"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "130,80",
+      "valor" : "130.8"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "10",
+      "dim_3_t" : "Indústrias alimentares",
+      "ind_string" : "132,33",
+      "valor" : "132.33"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "32",
+      "dim_3_t" : "Outras indústrias transformadoras",
+      "ind_string" : "135,73",
+      "valor" : "135.73"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "26",
+      "dim_3_t" : "Fabricação de equipamentos informáticos, equipamento para comunicações e produtos eletrónicos e ópticos",
+      "ind_string" : "137,48",
+      "valor" : "137.48"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "33",
+      "dim_3_t" : "Reparação, manutenção e instalação de máquinas e equipamentos",
+      "ind_string" : "143,24",
+      "valor" : "143.24"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "30",
+      "dim_3_t" : "Fabricação de outro equipamento de transporte",
+      "ind_string" : "149,76",
+      "valor" : "149.76"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "09",
+      "dim_3_t" : "Atividades dos serviços relacionados com as indústrias extrativas",
+      "ind_string" : "543,03",
+      "valor" : "543.03"
+    } ],
+    "Novembro de 2025" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "14",
+      "dim_3_t" : "Indústria do vestuário",
+      "ind_string" : "107,03",
+      "valor" : "107.03"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "15",
+      "dim_3_t" : "Indústria do couro e dos produtos do couro",
+      "ind_string" : "114,84",
+      "valor" : "114.84"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "13",
+      "dim_3_t" : "Fabricação de têxteis",
+      "ind_string" : "124,70",
+      "valor" : "124.7"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "18",
+      "dim_3_t" : "Impressão e reprodução de suportes gravados",
+      "ind_string" : "131,76",
+      "valor" : "131.76"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "08",
+      "dim_3_t" : "Outras indústrias extrativas",
+      "ind_string" : "136,10",
+      "valor" : "136.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "16",
+      "dim_3_t" : "Indústrias da madeira e da cortiça e suas obras, excepto mobiliário; Fabricação de obras de cestaria e de espartaria",
+      "ind_string" : "140,87",
+      "valor" : "140.87"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "31",
+      "dim_3_t" : "Fabrico de mobiliário e de colchões",
+      "ind_string" : "151,81",
+      "valor" : "151.81"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "23",
+      "dim_3_t" : "Fabrico de outros produtos minerais não metálicos",
+      "ind_string" : "160,15",
+      "valor" : "160.15"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "35",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "161,89",
+      "valor" : "161.89"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "D",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "161,89",
+      "valor" : "161.89"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "24",
+      "dim_3_t" : "Indústrias metalúrgicas de base",
+      "ind_string" : "162,04",
+      "valor" : "162.04"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "19",
+      "dim_3_t" : "Fabricação de coque, produtos petrolíferos refinados e de aglomerados de combustíveis",
+      "ind_string" : "163,44",
+      "valor" : "163.44"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "25",
+      "dim_3_t" : "Fabricação de produtos metálicos, excepto máquinas e equipamentos",
+      "ind_string" : "163,59",
+      "valor" : "163.59"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "165,91",
+      "valor" : "165.91"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "168,41",
+      "valor" : "168.41"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "22",
+      "dim_3_t" : "Fabricação de artigos de borracha e de matérias plásticas",
+      "ind_string" : "175,41",
+      "valor" : "175.41"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "28",
+      "dim_3_t" : "Fabricação de máquinas e de equipamentos, n.e.",
+      "ind_string" : "175,73",
+      "valor" : "175.73"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "07",
+      "dim_3_t" : "Extração e preparação de minérios metálicos",
+      "ind_string" : "175,87",
+      "valor" : "175.87"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "32",
+      "dim_3_t" : "Outras indústrias transformadoras",
+      "ind_string" : "178,07",
+      "valor" : "178.07"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "20",
+      "dim_3_t" : "Fabricação de produtos químicos e de fibras sintéticas ou artificiais, excepto produtos farmacêuticos",
+      "ind_string" : "179,55",
+      "valor" : "179.55"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "10",
+      "dim_3_t" : "Indústrias alimentares",
+      "ind_string" : "180,28",
+      "valor" : "180.28"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "12",
+      "dim_3_t" : "Indústria do tabaco",
+      "ind_string" : "186,14",
+      "valor" : "186.14"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "186,61",
+      "valor" : "186.61"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "11",
+      "dim_3_t" : "Indústria das bebidas",
+      "ind_string" : "189,21",
+      "valor" : "189.21"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "29",
+      "dim_3_t" : "Fabricação de veículos automóveis, reboques, semi-reboques e componentes para veículos automóveis",
+      "ind_string" : "192,52",
+      "valor" : "192.52"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "27",
+      "dim_3_t" : "Fabricação de equipamento elétrico",
+      "ind_string" : "196,96",
+      "valor" : "196.96"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "33",
+      "dim_3_t" : "Reparação, manutenção e instalação de máquinas e equipamentos",
+      "ind_string" : "198,18",
+      "valor" : "198.18"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "17",
+      "dim_3_t" : "Fabricação de pasta, de papel, de cartão e seus artigos",
+      "ind_string" : "200,36",
+      "valor" : "200.36"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "26",
+      "dim_3_t" : "Fabricação de equipamentos informáticos, equipamento para comunicações e produtos eletrónicos e ópticos",
+      "ind_string" : "206,66",
+      "valor" : "206.66"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "38",
+      "dim_3_t" : "Recolha, tratamento e eliminação de resíduos; valorização de materiais",
+      "ind_string" : "207,21",
+      "valor" : "207.21"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "30",
+      "dim_3_t" : "Fabricação de outro equipamento de transporte",
+      "ind_string" : "214,32",
+      "valor" : "214.32"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "21",
+      "dim_3_t" : "Fabricação de produtos farmacêuticos de base e de preparações farmacêuticas",
+      "ind_string" : "215,47",
+      "valor" : "215.47"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "215,52",
+      "valor" : "215.52"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "36",
+      "dim_3_t" : "Captação, tratamento e distribuição de água",
+      "ind_string" : "225,78",
+      "valor" : "225.78"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "09",
+      "dim_3_t" : "Atividades dos serviços relacionados com as indústrias extrativas",
+      "ind_string" : "905,28",
+      "valor" : "905.28"
+    } ],
+    "Dezembro de 2025" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "35",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "93,89",
+      "valor" : "93.89"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "D",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "93,89",
+      "valor" : "93.89"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "19",
+      "dim_3_t" : "Fabricação de coque, produtos petrolíferos refinados e de aglomerados de combustíveis",
+      "ind_string" : "96,17",
+      "valor" : "96.17"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "07",
+      "dim_3_t" : "Extração e preparação de minérios metálicos",
+      "ind_string" : "109,45",
+      "valor" : "109.45"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "12",
+      "dim_3_t" : "Indústria do tabaco",
+      "ind_string" : "111,86",
+      "valor" : "111.86"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "36",
+      "dim_3_t" : "Captação, tratamento e distribuição de água",
+      "ind_string" : "124,13",
+      "valor" : "124.13"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "20",
+      "dim_3_t" : "Fabricação de produtos químicos e de fibras sintéticas ou artificiais, excepto produtos farmacêuticos",
+      "ind_string" : "130,41",
+      "valor" : "130.41"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "29",
+      "dim_3_t" : "Fabricação de veículos automóveis, reboques, semi-reboques e componentes para veículos automóveis",
+      "ind_string" : "133,25",
+      "valor" : "133.25"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "21",
+      "dim_3_t" : "Fabricação de produtos farmacêuticos de base e de preparações farmacêuticas",
+      "ind_string" : "135,93",
+      "valor" : "135.93"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "22",
+      "dim_3_t" : "Fabricação de artigos de borracha e de matérias plásticas",
+      "ind_string" : "136,24",
+      "valor" : "136.24"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "26",
+      "dim_3_t" : "Fabricação de equipamentos informáticos, equipamento para comunicações e produtos eletrónicos e ópticos",
+      "ind_string" : "136,64",
+      "valor" : "136.64"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "24",
+      "dim_3_t" : "Indústrias metalúrgicas de base",
+      "ind_string" : "139,28",
+      "valor" : "139.28"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "139,55",
+      "valor" : "139.55"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "11",
+      "dim_3_t" : "Indústria das bebidas",
+      "ind_string" : "143,83",
+      "valor" : "143.83"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "18",
+      "dim_3_t" : "Impressão e reprodução de suportes gravados",
+      "ind_string" : "146,98",
+      "valor" : "146.98"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "08",
+      "dim_3_t" : "Outras indústrias extrativas",
+      "ind_string" : "147,01",
+      "valor" : "147.01"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "27",
+      "dim_3_t" : "Fabricação de equipamento elétrico",
+      "ind_string" : "147,55",
+      "valor" : "147.55"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "38",
+      "dim_3_t" : "Recolha, tratamento e eliminação de resíduos; valorização de materiais",
+      "ind_string" : "152,04",
+      "valor" : "152.04"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "17",
+      "dim_3_t" : "Fabricação de pasta, de papel, de cartão e seus artigos",
+      "ind_string" : "152,15",
+      "valor" : "152.15"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "153,48",
+      "valor" : "153.48"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "154,42",
+      "valor" : "154.42"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "156,99",
+      "valor" : "156.99"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "23",
+      "dim_3_t" : "Fabrico de outros produtos minerais não metálicos",
+      "ind_string" : "161,02",
+      "valor" : "161.02"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "14",
+      "dim_3_t" : "Indústria do vestuário",
+      "ind_string" : "162,40",
+      "valor" : "162.4"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "28",
+      "dim_3_t" : "Fabricação de máquinas e de equipamentos, n.e.",
+      "ind_string" : "163,97",
+      "valor" : "163.97"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "10",
+      "dim_3_t" : "Indústrias alimentares",
+      "ind_string" : "164,87",
+      "valor" : "164.87"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "15",
+      "dim_3_t" : "Indústria do couro e dos produtos do couro",
+      "ind_string" : "165,03",
+      "valor" : "165.03"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "25",
+      "dim_3_t" : "Fabricação de produtos metálicos, excepto máquinas e equipamentos",
+      "ind_string" : "166,52",
+      "valor" : "166.52"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "33",
+      "dim_3_t" : "Reparação, manutenção e instalação de máquinas e equipamentos",
+      "ind_string" : "166,72",
+      "valor" : "166.72"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "16",
+      "dim_3_t" : "Indústrias da madeira e da cortiça e suas obras, excepto mobiliário; Fabricação de obras de cestaria e de espartaria",
+      "ind_string" : "169,48",
+      "valor" : "169.48"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "31",
+      "dim_3_t" : "Fabrico de mobiliário e de colchões",
+      "ind_string" : "172,19",
+      "valor" : "172.19"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "32",
+      "dim_3_t" : "Outras indústrias transformadoras",
+      "ind_string" : "175,05",
+      "valor" : "175.05"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "13",
+      "dim_3_t" : "Fabricação de têxteis",
+      "ind_string" : "176,20",
+      "valor" : "176.2"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "30",
+      "dim_3_t" : "Fabricação de outro equipamento de transporte",
+      "ind_string" : "187,62",
+      "valor" : "187.62"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "09",
+      "dim_3_t" : "Atividades dos serviços relacionados com as indústrias extrativas",
+      "ind_string" : "639,15",
+      "valor" : "639.15"
+    } ],
+    "Janeiro de 2026" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "19",
+      "dim_3_t" : "Fabricação de coque, produtos petrolíferos refinados e de aglomerados de combustíveis",
+      "ind_string" : "83,08",
+      "valor" : "83.08"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "35",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "91,91",
+      "valor" : "91.91"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "D",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "91,91",
+      "valor" : "91.91"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "15",
+      "dim_3_t" : "Indústria do couro e dos produtos do couro",
+      "ind_string" : "100,27",
+      "valor" : "100.27"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "14",
+      "dim_3_t" : "Indústria do vestuário",
+      "ind_string" : "100,89",
+      "valor" : "100.89"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "12",
+      "dim_3_t" : "Indústria do tabaco",
+      "ind_string" : "101,62",
+      "valor" : "101.62"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "13",
+      "dim_3_t" : "Fabricação de têxteis",
+      "ind_string" : "109,51",
+      "valor" : "109.51"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "18",
+      "dim_3_t" : "Impressão e reprodução de suportes gravados",
+      "ind_string" : "110,17",
+      "valor" : "110.17"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "08",
+      "dim_3_t" : "Outras indústrias extrativas",
+      "ind_string" : "111,20",
+      "valor" : "111.2"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "20",
+      "dim_3_t" : "Fabricação de produtos químicos e de fibras sintéticas ou artificiais, excepto produtos farmacêuticos",
+      "ind_string" : "114,19",
+      "valor" : "114.19"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "27",
+      "dim_3_t" : "Fabricação de equipamento elétrico",
+      "ind_string" : "114,72",
+      "valor" : "114.72"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "29",
+      "dim_3_t" : "Fabricação de veículos automóveis, reboques, semi-reboques e componentes para veículos automóveis",
+      "ind_string" : "117,23",
+      "valor" : "117.23"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "16",
+      "dim_3_t" : "Indústrias da madeira e da cortiça e suas obras, excepto mobiliário; Fabricação de obras de cestaria e de espartaria",
+      "ind_string" : "117,59",
+      "valor" : "117.59"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "24",
+      "dim_3_t" : "Indústrias metalúrgicas de base",
+      "ind_string" : "119,77",
+      "valor" : "119.77"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "122,00",
+      "valor" : "122"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "122,21",
+      "valor" : "122.21"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "26",
+      "dim_3_t" : "Fabricação de equipamentos informáticos, equipamento para comunicações e produtos eletrónicos e ópticos",
+      "ind_string" : "123,75",
+      "valor" : "123.75"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "07",
+      "dim_3_t" : "Extração e preparação de minérios metálicos",
+      "ind_string" : "124,27",
+      "valor" : "124.27"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "23",
+      "dim_3_t" : "Fabrico de outros produtos minerais não metálicos",
+      "ind_string" : "124,46",
+      "valor" : "124.46"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "36",
+      "dim_3_t" : "Captação, tratamento e distribuição de água",
+      "ind_string" : "125,15",
+      "valor" : "125.15"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "22",
+      "dim_3_t" : "Fabricação de artigos de borracha e de matérias plásticas",
+      "ind_string" : "125,44",
+      "valor" : "125.44"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "11",
+      "dim_3_t" : "Indústria das bebidas",
+      "ind_string" : "126,71",
+      "valor" : "126.71"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "28",
+      "dim_3_t" : "Fabricação de máquinas e de equipamentos, n.e.",
+      "ind_string" : "127,00",
+      "valor" : "127"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "21",
+      "dim_3_t" : "Fabricação de produtos farmacêuticos de base e de preparações farmacêuticas",
+      "ind_string" : "128,05",
+      "valor" : "128.05"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "17",
+      "dim_3_t" : "Fabricação de pasta, de papel, de cartão e seus artigos",
+      "ind_string" : "129,07",
+      "valor" : "129.07"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "25",
+      "dim_3_t" : "Fabricação de produtos metálicos, excepto máquinas e equipamentos",
+      "ind_string" : "129,51",
+      "valor" : "129.51"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "130,03",
+      "valor" : "130.03"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "31",
+      "dim_3_t" : "Fabrico de mobiliário e de colchões",
+      "ind_string" : "130,87",
+      "valor" : "130.87"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "38",
+      "dim_3_t" : "Recolha, tratamento e eliminação de resíduos; valorização de materiais",
+      "ind_string" : "133,98",
+      "valor" : "133.98"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "10",
+      "dim_3_t" : "Indústrias alimentares",
+      "ind_string" : "135,53",
+      "valor" : "135.53"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "32",
+      "dim_3_t" : "Outras indústrias transformadoras",
+      "ind_string" : "137,59",
+      "valor" : "137.59"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "137,83",
+      "valor" : "137.83"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "33",
+      "dim_3_t" : "Reparação, manutenção e instalação de máquinas e equipamentos",
+      "ind_string" : "143,28",
+      "valor" : "143.28"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "30",
+      "dim_3_t" : "Fabricação de outro equipamento de transporte",
+      "ind_string" : "151,10",
+      "valor" : "151.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "09",
+      "dim_3_t" : "Atividades dos serviços relacionados com as indústrias extrativas",
+      "ind_string" : "589,68",
+      "valor" : "589.68"
+    } ],
+    "Fevereiro de 2026" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "19",
+      "dim_3_t" : "Fabricação de coque, produtos petrolíferos refinados e de aglomerados de combustíveis",
+      "ind_string" : "80,24",
+      "valor" : "80.24"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "35",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "97,32",
+      "valor" : "97.32"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "D",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "97,32",
+      "valor" : "97.32"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "15",
+      "dim_3_t" : "Indústria do couro e dos produtos do couro",
+      "ind_string" : "100,31",
+      "valor" : "100.31"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "14",
+      "dim_3_t" : "Indústria do vestuário",
+      "ind_string" : "100,50",
+      "valor" : "100.5"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "12",
+      "dim_3_t" : "Indústria do tabaco",
+      "ind_string" : "103,46",
+      "valor" : "103.46"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "13",
+      "dim_3_t" : "Fabricação de têxteis",
+      "ind_string" : "109,74",
+      "valor" : "109.74"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "20",
+      "dim_3_t" : "Fabricação de produtos químicos e de fibras sintéticas ou artificiais, excepto produtos farmacêuticos",
+      "ind_string" : "111,36",
+      "valor" : "111.36"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "18",
+      "dim_3_t" : "Impressão e reprodução de suportes gravados",
+      "ind_string" : "111,54",
+      "valor" : "111.54"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "08",
+      "dim_3_t" : "Outras indústrias extrativas",
+      "ind_string" : "112,53",
+      "valor" : "112.53"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "07",
+      "dim_3_t" : "Extração e preparação de minérios metálicos",
+      "ind_string" : "114,25",
+      "valor" : "114.25"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "24",
+      "dim_3_t" : "Indústrias metalúrgicas de base",
+      "ind_string" : "114,63",
+      "valor" : "114.63"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "22",
+      "dim_3_t" : "Fabricação de artigos de borracha e de matérias plásticas",
+      "ind_string" : "115,30",
+      "valor" : "115.3"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "16",
+      "dim_3_t" : "Indústrias da madeira e da cortiça e suas obras, excepto mobiliário; Fabricação de obras de cestaria e de espartaria",
+      "ind_string" : "118,52",
+      "valor" : "118.52"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "27",
+      "dim_3_t" : "Fabricação de equipamento elétrico",
+      "ind_string" : "120,19",
+      "valor" : "120.19"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "29",
+      "dim_3_t" : "Fabricação de veículos automóveis, reboques, semi-reboques e componentes para veículos automóveis",
+      "ind_string" : "120,58",
+      "valor" : "120.58"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "122,45",
+      "valor" : "122.45"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "122,60",
+      "valor" : "122.6"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "26",
+      "dim_3_t" : "Fabricação de equipamentos informáticos, equipamento para comunicações e produtos eletrónicos e ópticos",
+      "ind_string" : "122,89",
+      "valor" : "122.89"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "11",
+      "dim_3_t" : "Indústria das bebidas",
+      "ind_string" : "124,44",
+      "valor" : "124.44"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "21",
+      "dim_3_t" : "Fabricação de produtos farmacêuticos de base e de preparações farmacêuticas",
+      "ind_string" : "124,66",
+      "valor" : "124.66"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "23",
+      "dim_3_t" : "Fabrico de outros produtos minerais não metálicos",
+      "ind_string" : "125,80",
+      "valor" : "125.8"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "36",
+      "dim_3_t" : "Captação, tratamento e distribuição de água",
+      "ind_string" : "127,38",
+      "valor" : "127.38"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "28",
+      "dim_3_t" : "Fabricação de máquinas e de equipamentos, n.e.",
+      "ind_string" : "127,86",
+      "valor" : "127.86"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "130,18",
+      "valor" : "130.18"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "25",
+      "dim_3_t" : "Fabricação de produtos metálicos, excepto máquinas e equipamentos",
+      "ind_string" : "131,95",
+      "valor" : "131.95"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "17",
+      "dim_3_t" : "Fabricação de pasta, de papel, de cartão e seus artigos",
+      "ind_string" : "132,09",
+      "valor" : "132.09"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "38",
+      "dim_3_t" : "Recolha, tratamento e eliminação de resíduos; valorização de materiais",
+      "ind_string" : "132,44",
+      "valor" : "132.44"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "31",
+      "dim_3_t" : "Fabrico de mobiliário e de colchões",
+      "ind_string" : "133,04",
+      "valor" : "133.04"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "134,23",
+      "valor" : "134.23"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "10",
+      "dim_3_t" : "Indústrias alimentares",
+      "ind_string" : "134,48",
+      "valor" : "134.48"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "32",
+      "dim_3_t" : "Outras indústrias transformadoras",
+      "ind_string" : "139,50",
+      "valor" : "139.5"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "33",
+      "dim_3_t" : "Reparação, manutenção e instalação de máquinas e equipamentos",
+      "ind_string" : "145,48",
+      "valor" : "145.48"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "30",
+      "dim_3_t" : "Fabricação de outro equipamento de transporte",
+      "ind_string" : "155,95",
+      "valor" : "155.95"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "09",
+      "dim_3_t" : "Atividades dos serviços relacionados com as indústrias extrativas",
+      "ind_string" : "584,80",
+      "valor" : "584.8"
+    } ],
+    "Março de 2026" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "19",
+      "dim_3_t" : "Fabricação de coque, produtos petrolíferos refinados e de aglomerados de combustíveis",
+      "ind_string" : "81,13",
+      "valor" : "81.13"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "35",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "95,27",
+      "valor" : "95.27"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "D",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "95,27",
+      "valor" : "95.27"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "15",
+      "dim_3_t" : "Indústria do couro e dos produtos do couro",
+      "ind_string" : "100,46",
+      "valor" : "100.46"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "14",
+      "dim_3_t" : "Indústria do vestuário",
+      "ind_string" : "101,32",
+      "valor" : "101.32"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "07",
+      "dim_3_t" : "Extração e preparação de minérios metálicos",
+      "ind_string" : "109,65",
+      "valor" : "109.65"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "13",
+      "dim_3_t" : "Fabricação de têxteis",
+      "ind_string" : "111,16",
+      "valor" : "111.16"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "18",
+      "dim_3_t" : "Impressão e reprodução de suportes gravados",
+      "ind_string" : "115,52",
+      "valor" : "115.52"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "08",
+      "dim_3_t" : "Outras indústrias extrativas",
+      "ind_string" : "115,72",
+      "valor" : "115.72"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "12",
+      "dim_3_t" : "Indústria do tabaco",
+      "ind_string" : "116,40",
+      "valor" : "116.4"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "22",
+      "dim_3_t" : "Fabricação de artigos de borracha e de matérias plásticas",
+      "ind_string" : "116,58",
+      "valor" : "116.58"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "20",
+      "dim_3_t" : "Fabricação de produtos químicos e de fibras sintéticas ou artificiais, excepto produtos farmacêuticos",
+      "ind_string" : "117,53",
+      "valor" : "117.53"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "24",
+      "dim_3_t" : "Indústrias metalúrgicas de base",
+      "ind_string" : "118,65",
+      "valor" : "118.65"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "29",
+      "dim_3_t" : "Fabricação de veículos automóveis, reboques, semi-reboques e componentes para veículos automóveis",
+      "ind_string" : "123,20",
+      "valor" : "123.2"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "16",
+      "dim_3_t" : "Indústrias da madeira e da cortiça e suas obras, excepto mobiliário; Fabricação de obras de cestaria e de espartaria",
+      "ind_string" : "123,77",
+      "valor" : "123.77"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "27",
+      "dim_3_t" : "Fabricação de equipamento elétrico",
+      "ind_string" : "125,35",
+      "valor" : "125.35"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "125,66",
+      "valor" : "125.66"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "125,98",
+      "valor" : "125.98"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "21",
+      "dim_3_t" : "Fabricação de produtos farmacêuticos de base e de preparações farmacêuticas",
+      "ind_string" : "127,30",
+      "valor" : "127.3"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "23",
+      "dim_3_t" : "Fabrico de outros produtos minerais não metálicos",
+      "ind_string" : "128,23",
+      "valor" : "128.23"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "28",
+      "dim_3_t" : "Fabricação de máquinas e de equipamentos, n.e.",
+      "ind_string" : "130,32",
+      "valor" : "130.32"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "36",
+      "dim_3_t" : "Captação, tratamento e distribuição de água",
+      "ind_string" : "130,98",
+      "valor" : "130.98"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "17",
+      "dim_3_t" : "Fabricação de pasta, de papel, de cartão e seus artigos",
+      "ind_string" : "132,26",
+      "valor" : "132.26"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "133,80",
+      "valor" : "133.8"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "25",
+      "dim_3_t" : "Fabricação de produtos metálicos, excepto máquinas e equipamentos",
+      "ind_string" : "134,57",
+      "valor" : "134.57"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "31",
+      "dim_3_t" : "Fabrico de mobiliário e de colchões",
+      "ind_string" : "134,86",
+      "valor" : "134.86"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "135,55",
+      "valor" : "135.55"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "38",
+      "dim_3_t" : "Recolha, tratamento e eliminação de resíduos; valorização de materiais",
+      "ind_string" : "136,09",
+      "valor" : "136.09"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "10",
+      "dim_3_t" : "Indústrias alimentares",
+      "ind_string" : "136,27",
+      "valor" : "136.27"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "26",
+      "dim_3_t" : "Fabricação de equipamentos informáticos, equipamento para comunicações e produtos eletrónicos e ópticos",
+      "ind_string" : "143,62",
+      "valor" : "143.62"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "11",
+      "dim_3_t" : "Indústria das bebidas",
+      "ind_string" : "144,11",
+      "valor" : "144.11"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "32",
+      "dim_3_t" : "Outras indústrias transformadoras",
+      "ind_string" : "145,04",
+      "valor" : "145.04"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "33",
+      "dim_3_t" : "Reparação, manutenção e instalação de máquinas e equipamentos",
+      "ind_string" : "149,13",
+      "valor" : "149.13"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "30",
+      "dim_3_t" : "Fabricação de outro equipamento de transporte",
+      "ind_string" : "161,26",
+      "valor" : "161.26"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "09",
+      "dim_3_t" : "Atividades dos serviços relacionados com as indústrias extrativas",
+      "ind_string" : "617,83",
+      "valor" : "617.83"
+    } ],
+    "Abril de 2026" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "35",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "90,82",
+      "valor" : "90.82"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "D",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "90,82",
+      "valor" : "90.82"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "12",
+      "dim_3_t" : "Indústria do tabaco",
+      "ind_string" : "99,55",
+      "valor" : "99.55"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "15",
+      "dim_3_t" : "Indústria do couro e dos produtos do couro",
+      "ind_string" : "99,71",
+      "valor" : "99.71"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "14",
+      "dim_3_t" : "Indústria do vestuário",
+      "ind_string" : "101,29",
+      "valor" : "101.29"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "13",
+      "dim_3_t" : "Fabricação de têxteis",
+      "ind_string" : "110,66",
+      "valor" : "110.66"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "07",
+      "dim_3_t" : "Extração e preparação de minérios metálicos",
+      "ind_string" : "114,68",
+      "valor" : "114.68"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "18",
+      "dim_3_t" : "Impressão e reprodução de suportes gravados",
+      "ind_string" : "114,83",
+      "valor" : "114.83"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "29",
+      "dim_3_t" : "Fabricação de veículos automóveis, reboques, semi-reboques e componentes para veículos automóveis",
+      "ind_string" : "115,22",
+      "valor" : "115.22"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "22",
+      "dim_3_t" : "Fabricação de artigos de borracha e de matérias plásticas",
+      "ind_string" : "118,13",
+      "valor" : "118.13"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "08",
+      "dim_3_t" : "Outras indústrias extrativas",
+      "ind_string" : "119,08",
+      "valor" : "119.08"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "24",
+      "dim_3_t" : "Indústrias metalúrgicas de base",
+      "ind_string" : "119,29",
+      "valor" : "119.29"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "20",
+      "dim_3_t" : "Fabricação de produtos químicos e de fibras sintéticas ou artificiais, excepto produtos farmacêuticos",
+      "ind_string" : "119,40",
+      "valor" : "119.4"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "16",
+      "dim_3_t" : "Indústrias da madeira e da cortiça e suas obras, excepto mobiliário; Fabricação de obras de cestaria e de espartaria",
+      "ind_string" : "121,22",
+      "valor" : "121.22"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "127,36",
+      "valor" : "127.36"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "127,50",
+      "valor" : "127.5"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "36",
+      "dim_3_t" : "Captação, tratamento e distribuição de água",
+      "ind_string" : "128,72",
+      "valor" : "128.72"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "11",
+      "dim_3_t" : "Indústria das bebidas",
+      "ind_string" : "131,30",
+      "valor" : "131.3"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "26",
+      "dim_3_t" : "Fabricação de equipamentos informáticos, equipamento para comunicações e produtos eletrónicos e ópticos",
+      "ind_string" : "131,72",
+      "valor" : "131.72"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "27",
+      "dim_3_t" : "Fabricação de equipamento elétrico",
+      "ind_string" : "132,37",
+      "valor" : "132.37"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "28",
+      "dim_3_t" : "Fabricação de máquinas e de equipamentos, n.e.",
+      "ind_string" : "132,54",
+      "valor" : "132.54"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "31",
+      "dim_3_t" : "Fabrico de mobiliário e de colchões",
+      "ind_string" : "133,33",
+      "valor" : "133.33"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "23",
+      "dim_3_t" : "Fabrico de outros produtos minerais não metálicos",
+      "ind_string" : "133,52",
+      "valor" : "133.52"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "21",
+      "dim_3_t" : "Fabricação de produtos farmacêuticos de base e de preparações farmacêuticas",
+      "ind_string" : "134,65",
+      "valor" : "134.65"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "25",
+      "dim_3_t" : "Fabricação de produtos metálicos, excepto máquinas e equipamentos",
+      "ind_string" : "136,70",
+      "valor" : "136.7"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "136,92",
+      "valor" : "136.92"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "17",
+      "dim_3_t" : "Fabricação de pasta, de papel, de cartão e seus artigos",
+      "ind_string" : "138,20",
+      "valor" : "138.2"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "10",
+      "dim_3_t" : "Indústrias alimentares",
+      "ind_string" : "139,63",
+      "valor" : "139.63"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "38",
+      "dim_3_t" : "Recolha, tratamento e eliminação de resíduos; valorização de materiais",
+      "ind_string" : "143,56",
+      "valor" : "143.56"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "32",
+      "dim_3_t" : "Outras indústrias transformadoras",
+      "ind_string" : "145,00",
+      "valor" : "145"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "33",
+      "dim_3_t" : "Reparação, manutenção e instalação de máquinas e equipamentos",
+      "ind_string" : "152,81",
+      "valor" : "152.81"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "153,79",
+      "valor" : "153.79"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "30",
+      "dim_3_t" : "Fabricação de outro equipamento de transporte",
+      "ind_string" : "162,47",
+      "valor" : "162.47"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "19",
+      "dim_3_t" : "Fabricação de coque, produtos petrolíferos refinados e de aglomerados de combustíveis",
+      "ind_string" : "190,38",
+      "valor" : "190.38"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "09",
+      "dim_3_t" : "Atividades dos serviços relacionados com as indústrias extrativas",
+      "ind_string" : "940,65",
+      "valor" : "940.65"
+    } ],
+    "Maio de 2026" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "19",
+      "dim_3_t" : "Fabricação de coque, produtos petrolíferos refinados e de aglomerados de combustíveis",
+      "ind_string" : "81,41",
+      "valor" : "81.41"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "12",
+      "dim_3_t" : "Indústria do tabaco",
+      "ind_string" : "100,98",
+      "valor" : "100.98"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "14",
+      "dim_3_t" : "Indústria do vestuário",
+      "ind_string" : "101,10",
+      "valor" : "101.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "15",
+      "dim_3_t" : "Indústria do couro e dos produtos do couro",
+      "ind_string" : "102,50",
+      "valor" : "102.5"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "13",
+      "dim_3_t" : "Fabricação de têxteis",
+      "ind_string" : "111,27",
+      "valor" : "111.27"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "29",
+      "dim_3_t" : "Fabricação de veículos automóveis, reboques, semi-reboques e componentes para veículos automóveis",
+      "ind_string" : "117,89",
+      "valor" : "117.89"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "07",
+      "dim_3_t" : "Extração e preparação de minérios metálicos",
+      "ind_string" : "118,48",
+      "valor" : "118.48"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "08",
+      "dim_3_t" : "Outras indústrias extrativas",
+      "ind_string" : "119,28",
+      "valor" : "119.28"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "18",
+      "dim_3_t" : "Impressão e reprodução de suportes gravados",
+      "ind_string" : "119,92",
+      "valor" : "119.92"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "22",
+      "dim_3_t" : "Fabricação de artigos de borracha e de matérias plásticas",
+      "ind_string" : "121,44",
+      "valor" : "121.44"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "16",
+      "dim_3_t" : "Indústrias da madeira e da cortiça e suas obras, excepto mobiliário; Fabricação de obras de cestaria e de espartaria",
+      "ind_string" : "121,72",
+      "valor" : "121.72"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "27",
+      "dim_3_t" : "Fabricação de equipamento elétrico",
+      "ind_string" : "123,01",
+      "valor" : "123.01"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "20",
+      "dim_3_t" : "Fabricação de produtos químicos e de fibras sintéticas ou artificiais, excepto produtos farmacêuticos",
+      "ind_string" : "129,19",
+      "valor" : "129.19"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "130,02",
+      "valor" : "130.02"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "131,23",
+      "valor" : "131.23"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "28",
+      "dim_3_t" : "Fabricação de máquinas e de equipamentos, n.e.",
+      "ind_string" : "132,45",
+      "valor" : "132.45"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "24",
+      "dim_3_t" : "Indústrias metalúrgicas de base",
+      "ind_string" : "132,93",
+      "valor" : "132.93"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "31",
+      "dim_3_t" : "Fabrico de mobiliário e de colchões",
+      "ind_string" : "133,44",
+      "valor" : "133.44"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "23",
+      "dim_3_t" : "Fabrico de outros produtos minerais não metálicos",
+      "ind_string" : "133,58",
+      "valor" : "133.58"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "11",
+      "dim_3_t" : "Indústria das bebidas",
+      "ind_string" : "135,88",
+      "valor" : "135.88"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "35",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "139,09",
+      "valor" : "139.09"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "D",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "139,09",
+      "valor" : "139.09"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "25",
+      "dim_3_t" : "Fabricação de produtos metálicos, excepto máquinas e equipamentos",
+      "ind_string" : "139,44",
+      "valor" : "139.44"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "140,11",
+      "valor" : "140.11"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "38",
+      "dim_3_t" : "Recolha, tratamento e eliminação de resíduos; valorização de materiais",
+      "ind_string" : "144,25",
+      "valor" : "144.25"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "10",
+      "dim_3_t" : "Indústrias alimentares",
+      "ind_string" : "144,54",
+      "valor" : "144.54"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "32",
+      "dim_3_t" : "Outras indústrias transformadoras",
+      "ind_string" : "144,95",
+      "valor" : "144.95"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "26",
+      "dim_3_t" : "Fabricação de equipamentos informáticos, equipamento para comunicações e produtos eletrónicos e ópticos",
+      "ind_string" : "145,18",
+      "valor" : "145.18"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "147,51",
+      "valor" : "147.51"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "36",
+      "dim_3_t" : "Captação, tratamento e distribuição de água",
+      "ind_string" : "151,54",
+      "valor" : "151.54"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "33",
+      "dim_3_t" : "Reparação, manutenção e instalação de máquinas e equipamentos",
+      "ind_string" : "157,97",
+      "valor" : "157.97"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "17",
+      "dim_3_t" : "Fabricação de pasta, de papel, de cartão e seus artigos",
+      "ind_string" : "159,96",
+      "valor" : "159.96"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "30",
+      "dim_3_t" : "Fabricação de outro equipamento de transporte",
+      "ind_string" : "162,68",
+      "valor" : "162.68"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "21",
+      "dim_3_t" : "Fabricação de produtos farmacêuticos de base e de preparações farmacêuticas",
+      "ind_string" : "165,77",
+      "valor" : "165.77"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "09",
+      "dim_3_t" : "Atividades dos serviços relacionados com as indústrias extrativas",
+      "ind_string" : "595,26",
+      "valor" : "595.26"
+    } ],
+    "Junho de 2026" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "15",
+      "dim_3_t" : "Indústria do couro e dos produtos do couro",
+      "ind_string" : "100,69",
+      "valor" : "100.69"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "14",
+      "dim_3_t" : "Indústria do vestuário",
+      "ind_string" : "102,93",
+      "valor" : "102.93"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "35",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "116,21",
+      "valor" : "116.21"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "D",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "116,21",
+      "valor" : "116.21"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "13",
+      "dim_3_t" : "Fabricação de têxteis",
+      "ind_string" : "116,40",
+      "valor" : "116.4"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "18",
+      "dim_3_t" : "Impressão e reprodução de suportes gravados",
+      "ind_string" : "133,34",
+      "valor" : "133.34"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "16",
+      "dim_3_t" : "Indústrias da madeira e da cortiça e suas obras, excepto mobiliário; Fabricação de obras de cestaria e de espartaria",
+      "ind_string" : "133,79",
+      "valor" : "133.79"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "24",
+      "dim_3_t" : "Indústrias metalúrgicas de base",
+      "ind_string" : "141,19",
+      "valor" : "141.19"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "07",
+      "dim_3_t" : "Extração e preparação de minérios metálicos",
+      "ind_string" : "141,33",
+      "valor" : "141.33"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "08",
+      "dim_3_t" : "Outras indústrias extrativas",
+      "ind_string" : "142,76",
+      "valor" : "142.76"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "31",
+      "dim_3_t" : "Fabrico de mobiliário e de colchões",
+      "ind_string" : "147,49",
+      "valor" : "147.49"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "20",
+      "dim_3_t" : "Fabricação de produtos químicos e de fibras sintéticas ou artificiais, excepto produtos farmacêuticos",
+      "ind_string" : "151,47",
+      "valor" : "151.47"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "151,62",
+      "valor" : "151.62"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "25",
+      "dim_3_t" : "Fabricação de produtos metálicos, excepto máquinas e equipamentos",
+      "ind_string" : "151,99",
+      "valor" : "151.99"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "153,95",
+      "valor" : "153.95"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "19",
+      "dim_3_t" : "Fabricação de coque, produtos petrolíferos refinados e de aglomerados de combustíveis",
+      "ind_string" : "155,92",
+      "valor" : "155.92"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "23",
+      "dim_3_t" : "Fabrico de outros produtos minerais não metálicos",
+      "ind_string" : "156,46",
+      "valor" : "156.46"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "28",
+      "dim_3_t" : "Fabricação de máquinas e de equipamentos, n.e.",
+      "ind_string" : "158,20",
+      "valor" : "158.2"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "22",
+      "dim_3_t" : "Fabricação de artigos de borracha e de matérias plásticas",
+      "ind_string" : "158,25",
+      "valor" : "158.25"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "26",
+      "dim_3_t" : "Fabricação de equipamentos informáticos, equipamento para comunicações e produtos eletrónicos e ópticos",
+      "ind_string" : "161,71",
+      "valor" : "161.71"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "11",
+      "dim_3_t" : "Indústria das bebidas",
+      "ind_string" : "162,20",
+      "valor" : "162.2"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "17",
+      "dim_3_t" : "Fabricação de pasta, de papel, de cartão e seus artigos",
+      "ind_string" : "163,44",
+      "valor" : "163.44"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "27",
+      "dim_3_t" : "Fabricação de equipamento elétrico",
+      "ind_string" : "166,72",
+      "valor" : "166.72"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "12",
+      "dim_3_t" : "Indústria do tabaco",
+      "ind_string" : "168,94",
+      "valor" : "168.94"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "29",
+      "dim_3_t" : "Fabricação de veículos automóveis, reboques, semi-reboques e componentes para veículos automóveis",
+      "ind_string" : "168,99",
+      "valor" : "168.99"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "32",
+      "dim_3_t" : "Outras indústrias transformadoras",
+      "ind_string" : "169,68",
+      "valor" : "169.68"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "10",
+      "dim_3_t" : "Indústrias alimentares",
+      "ind_string" : "171,30",
+      "valor" : "171.3"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "21",
+      "dim_3_t" : "Fabricação de produtos farmacêuticos de base e de preparações farmacêuticas",
+      "ind_string" : "175,69",
+      "valor" : "175.69"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "178,29",
+      "valor" : "178.29"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "30",
+      "dim_3_t" : "Fabricação de outro equipamento de transporte",
+      "ind_string" : "195,96",
+      "valor" : "195.96"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "33",
+      "dim_3_t" : "Reparação, manutenção e instalação de máquinas e equipamentos",
+      "ind_string" : "201,08",
+      "valor" : "201.08"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "38",
+      "dim_3_t" : "Recolha, tratamento e eliminação de resíduos; valorização de materiais",
+      "ind_string" : "210,79",
+      "valor" : "210.79"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "214,00",
+      "valor" : "214"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "36",
+      "dim_3_t" : "Captação, tratamento e distribuição de água",
+      "ind_string" : "217,97",
+      "valor" : "217.97"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "09",
+      "dim_3_t" : "Atividades dos serviços relacionados com as indústrias extrativas",
+      "ind_string" : "955,34",
+      "valor" : "955.34"
+    } ],
+    "Julho de 2026" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "19",
+      "dim_3_t" : "Fabricação de coque, produtos petrolíferos refinados e de aglomerados de combustíveis",
+      "ind_string" : "80,85",
+      "valor" : "80.85"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "35",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "93,13",
+      "valor" : "93.13"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "D",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "93,13",
+      "valor" : "93.13"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "12",
+      "dim_3_t" : "Indústria do tabaco",
+      "ind_string" : "106,64",
+      "valor" : "106.64"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "14",
+      "dim_3_t" : "Indústria do vestuário",
+      "ind_string" : "116,62",
+      "valor" : "116.62"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "15",
+      "dim_3_t" : "Indústria do couro e dos produtos do couro",
+      "ind_string" : "126,77",
+      "valor" : "126.77"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "36",
+      "dim_3_t" : "Captação, tratamento e distribuição de água",
+      "ind_string" : "130,60",
+      "valor" : "130.6"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "07",
+      "dim_3_t" : "Extração e preparação de minérios metálicos",
+      "ind_string" : "136,64",
+      "valor" : "136.64"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "18",
+      "dim_3_t" : "Impressão e reprodução de suportes gravados",
+      "ind_string" : "138,20",
+      "valor" : "138.2"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "08",
+      "dim_3_t" : "Outras indústrias extrativas",
+      "ind_string" : "138,80",
+      "valor" : "138.8"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "20",
+      "dim_3_t" : "Fabricação de produtos químicos e de fibras sintéticas ou artificiais, excepto produtos farmacêuticos",
+      "ind_string" : "144,65",
+      "valor" : "144.65"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "145,80",
+      "valor" : "145.8"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "24",
+      "dim_3_t" : "Indústrias metalúrgicas de base",
+      "ind_string" : "149,72",
+      "valor" : "149.72"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "13",
+      "dim_3_t" : "Fabricação de têxteis",
+      "ind_string" : "151,01",
+      "valor" : "151.01"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "22",
+      "dim_3_t" : "Fabricação de artigos de borracha e de matérias plásticas",
+      "ind_string" : "153,26",
+      "valor" : "153.26"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "17",
+      "dim_3_t" : "Fabricação de pasta, de papel, de cartão e seus artigos",
+      "ind_string" : "155,27",
+      "valor" : "155.27"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "29",
+      "dim_3_t" : "Fabricação de veículos automóveis, reboques, semi-reboques e componentes para veículos automóveis",
+      "ind_string" : "155,27",
+      "valor" : "155.27"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "156,71",
+      "valor" : "156.71"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "38",
+      "dim_3_t" : "Recolha, tratamento e eliminação de resíduos; valorização de materiais",
+      "ind_string" : "158,10",
+      "valor" : "158.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "23",
+      "dim_3_t" : "Fabrico de outros produtos minerais não metálicos",
+      "ind_string" : "158,27",
+      "valor" : "158.27"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "159,11",
+      "valor" : "159.11"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "159,66",
+      "valor" : "159.66"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "21",
+      "dim_3_t" : "Fabricação de produtos farmacêuticos de base e de preparações farmacêuticas",
+      "ind_string" : "160,38",
+      "valor" : "160.38"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "10",
+      "dim_3_t" : "Indústrias alimentares",
+      "ind_string" : "160,55",
+      "valor" : "160.55"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "31",
+      "dim_3_t" : "Fabrico de mobiliário e de colchões",
+      "ind_string" : "163,25",
+      "valor" : "163.25"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "11",
+      "dim_3_t" : "Indústria das bebidas",
+      "ind_string" : "165,87",
+      "valor" : "165.87"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "16",
+      "dim_3_t" : "Indústrias da madeira e da cortiça e suas obras, excepto mobiliário; Fabricação de obras de cestaria e de espartaria",
+      "ind_string" : "168,87",
+      "valor" : "168.87"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "33",
+      "dim_3_t" : "Reparação, manutenção e instalação de máquinas e equipamentos",
+      "ind_string" : "173,00",
+      "valor" : "173"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "28",
+      "dim_3_t" : "Fabricação de máquinas e de equipamentos, n.e.",
+      "ind_string" : "176,73",
+      "valor" : "176.73"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "25",
+      "dim_3_t" : "Fabricação de produtos metálicos, excepto máquinas e equipamentos",
+      "ind_string" : "177,84",
+      "valor" : "177.84"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "27",
+      "dim_3_t" : "Fabricação de equipamento elétrico",
+      "ind_string" : "184,76",
+      "valor" : "184.76"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "32",
+      "dim_3_t" : "Outras indústrias transformadoras",
+      "ind_string" : "185,41",
+      "valor" : "185.41"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "26",
+      "dim_3_t" : "Fabricação de equipamentos informáticos, equipamento para comunicações e produtos eletrónicos e ópticos",
+      "ind_string" : "193,14",
+      "valor" : "193.14"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "30",
+      "dim_3_t" : "Fabricação de outro equipamento de transporte",
+      "ind_string" : "225,18",
+      "valor" : "225.18"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "09",
+      "dim_3_t" : "Atividades dos serviços relacionados com as indústrias extrativas",
+      "ind_string" : "627,94",
+      "valor" : "627.94"
+    } ],
+    "Agosto de 2026" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "19",
+      "dim_3_t" : "Fabricação de coque, produtos petrolíferos refinados e de aglomerados de combustíveis",
+      "ind_string" : "81,69",
+      "valor" : "81.69"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "35",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "86,96",
+      "valor" : "86.96"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "D",
+      "dim_3_t" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "86,96",
+      "valor" : "86.96"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "12",
+      "dim_3_t" : "Indústria do tabaco",
+      "ind_string" : "99,94",
+      "valor" : "99.94"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "07",
+      "dim_3_t" : "Extração e preparação de minérios metálicos",
+      "ind_string" : "111,64",
+      "valor" : "111.64"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "20",
+      "dim_3_t" : "Fabricação de produtos químicos e de fibras sintéticas ou artificiais, excepto produtos farmacêuticos",
+      "ind_string" : "116,40",
+      "valor" : "116.4"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "29",
+      "dim_3_t" : "Fabricação de veículos automóveis, reboques, semi-reboques e componentes para veículos automóveis",
+      "ind_string" : "118,70",
+      "valor" : "118.7"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "18",
+      "dim_3_t" : "Impressão e reprodução de suportes gravados",
+      "ind_string" : "123,27",
+      "valor" : "123.27"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "08",
+      "dim_3_t" : "Outras indústrias extrativas",
+      "ind_string" : "125,82",
+      "valor" : "125.82"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "22",
+      "dim_3_t" : "Fabricação de artigos de borracha e de matérias plásticas",
+      "ind_string" : "127,37",
+      "valor" : "127.37"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "21",
+      "dim_3_t" : "Fabricação de produtos farmacêuticos de base e de preparações farmacêuticas",
+      "ind_string" : "127,70",
+      "valor" : "127.7"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "27",
+      "dim_3_t" : "Fabricação de equipamento elétrico",
+      "ind_string" : "129,17",
+      "valor" : "129.17"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "24",
+      "dim_3_t" : "Indústrias metalúrgicas de base",
+      "ind_string" : "129,57",
+      "valor" : "129.57"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "36",
+      "dim_3_t" : "Captação, tratamento e distribuição de água",
+      "ind_string" : "130,12",
+      "valor" : "130.12"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "11",
+      "dim_3_t" : "Indústria das bebidas",
+      "ind_string" : "132,18",
+      "valor" : "132.18"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "26",
+      "dim_3_t" : "Fabricação de equipamentos informáticos, equipamento para comunicações e produtos eletrónicos e ópticos",
+      "ind_string" : "133,77",
+      "valor" : "133.77"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "23",
+      "dim_3_t" : "Fabrico de outros produtos minerais não metálicos",
+      "ind_string" : "136,33",
+      "valor" : "136.33"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "136,67",
+      "valor" : "136.67"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "17",
+      "dim_3_t" : "Fabricação de pasta, de papel, de cartão e seus artigos",
+      "ind_string" : "138,15",
+      "valor" : "138.15"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "16",
+      "dim_3_t" : "Indústrias da madeira e da cortiça e suas obras, excepto mobiliário; Fabricação de obras de cestaria e de espartaria",
+      "ind_string" : "138,72",
+      "valor" : "138.72"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "139,22",
+      "valor" : "139.22"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "140,87",
+      "valor" : "140.87"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "141,04",
+      "valor" : "141.04"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "38",
+      "dim_3_t" : "Recolha, tratamento e eliminação de resíduos; valorização de materiais",
+      "ind_string" : "141,97",
+      "valor" : "141.97"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "10",
+      "dim_3_t" : "Indústrias alimentares",
+      "ind_string" : "142,60",
+      "valor" : "142.6"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "28",
+      "dim_3_t" : "Fabricação de máquinas e de equipamentos, n.e.",
+      "ind_string" : "145,14",
+      "valor" : "145.14"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "15",
+      "dim_3_t" : "Indústria do couro e dos produtos do couro",
+      "ind_string" : "150,63",
+      "valor" : "150.63"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "14",
+      "dim_3_t" : "Indústria do vestuário",
+      "ind_string" : "151,80",
+      "valor" : "151.8"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "13",
+      "dim_3_t" : "Fabricação de têxteis",
+      "ind_string" : "152,19",
+      "valor" : "152.19"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "25",
+      "dim_3_t" : "Fabricação de produtos metálicos, excepto máquinas e equipamentos",
+      "ind_string" : "152,63",
+      "valor" : "152.63"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "33",
+      "dim_3_t" : "Reparação, manutenção e instalação de máquinas e equipamentos",
+      "ind_string" : "155,35",
+      "valor" : "155.35"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "32",
+      "dim_3_t" : "Outras indústrias transformadoras",
+      "ind_string" : "159,48",
+      "valor" : "159.48"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "31",
+      "dim_3_t" : "Fabrico de mobiliário e de colchões",
+      "ind_string" : "160,14",
+      "valor" : "160.14"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "30",
+      "dim_3_t" : "Fabricação de outro equipamento de transporte",
+      "ind_string" : "183,39",
+      "valor" : "183.39"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "09",
+      "dim_3_t" : "Atividades dos serviços relacionados com as indústrias extrativas",
+      "ind_string" : "599,02",
+      "valor" : "599.02"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
