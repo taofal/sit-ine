@@ -1,0 +1,812 @@
+[ {
+  "IndicadorCod" : "0009638",
+  "IndicadorNome" : "Índices trimestrais de valor unitário das importações (Taxa de variação homóloga, preço - %) por Tipo de bem, produto por atividade (CPA 2008); Trimestral - INE, Estatísticas do comércio internacional de bens",
+  "Periodic" : "Trimestral",
+  "PrimeiroPeriodo" : "1.º Trimestre de 2012",
+  "UltimoPeriodo" : "2.º Trimestre de 2026",
+  "UnidadeMedida" : "Percentagem (%)",
+  "Potencia10" : "0",
+  "PrecisaoDecimal" : "1",
+  "Lingua" : "PT",
+  "DataUltimaAtualizacao" : "2026-09-09",
+  "DataExtracao" : "2026-11-07T11:04:40.072Z",
+  "Dimensoes" : {
+    "Descricao_Dim" : [ {
+      "dim_num" : "1",
+      "abrv" : "Período de referência dos dados (Trimestre)",
+      "versao" : "XXXXX",
+      "nota_dsg" : "Informação de base do Comércio Internacional de Bens: 2012-2023 - dados definitivos; 2024 até ao presente - Índices Trimestrais baseados nos dados disponíveis 40 dias após o mês de referência (último mês do trimestre), utilizando-se a informação mais atual para ambos os períodos de comparação (trimestre de referência em análise e trimestre homólogo)."
+    }, {
+      "dim_num" : "2",
+      "abrv" : "Localização geográfica (Portugal)",
+      "versao" : "05361"
+    }, {
+      "dim_num" : "3",
+      "abrv" : "Tipo de bem, produto por atividade (CPA 2008)",
+      "versao" : "04075"
+    } ],
+    "Categoria_Dim" : [ {
+      "Dim_Num1_S5A20121" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20121",
+        "categ_cod" : "S5A20121",
+        "categ_dsg" : "1.º Trimestre de 2012",
+        "categ_ord" : "20120101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20122" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20122",
+        "categ_cod" : "S5A20122",
+        "categ_dsg" : "2.º Trimestre de 2012",
+        "categ_ord" : "20120401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20123" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20123",
+        "categ_cod" : "S5A20123",
+        "categ_dsg" : "3.º Trimestre de 2012",
+        "categ_ord" : "20120701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20124" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20124",
+        "categ_cod" : "S5A20124",
+        "categ_dsg" : "4.º Trimestre de 2012",
+        "categ_ord" : "20121001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20131" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20131",
+        "categ_cod" : "S5A20131",
+        "categ_dsg" : "1.º Trimestre de 2013",
+        "categ_ord" : "20130101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20132" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20132",
+        "categ_cod" : "S5A20132",
+        "categ_dsg" : "2.º Trimestre de 2013",
+        "categ_ord" : "20130401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20133" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20133",
+        "categ_cod" : "S5A20133",
+        "categ_dsg" : "3.º Trimestre de 2013",
+        "categ_ord" : "20130701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20134" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20134",
+        "categ_cod" : "S5A20134",
+        "categ_dsg" : "4.º Trimestre de 2013",
+        "categ_ord" : "20131001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20141" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20141",
+        "categ_cod" : "S5A20141",
+        "categ_dsg" : "1.º Trimestre de 2014",
+        "categ_ord" : "20140101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20142" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20142",
+        "categ_cod" : "S5A20142",
+        "categ_dsg" : "2.º Trimestre de 2014",
+        "categ_ord" : "20140401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20143" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20143",
+        "categ_cod" : "S5A20143",
+        "categ_dsg" : "3.º Trimestre de 2014",
+        "categ_ord" : "20140701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20144" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20144",
+        "categ_cod" : "S5A20144",
+        "categ_dsg" : "4.º Trimestre de 2014",
+        "categ_ord" : "20141001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20151" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20151",
+        "categ_cod" : "S5A20151",
+        "categ_dsg" : "1.º Trimestre de 2015",
+        "categ_ord" : "20150101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20152" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20152",
+        "categ_cod" : "S5A20152",
+        "categ_dsg" : "2.º Trimestre de 2015",
+        "categ_ord" : "20150401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20153" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20153",
+        "categ_cod" : "S5A20153",
+        "categ_dsg" : "3.º Trimestre de 2015",
+        "categ_ord" : "20150701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20154" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20154",
+        "categ_cod" : "S5A20154",
+        "categ_dsg" : "4.º Trimestre de 2015",
+        "categ_ord" : "20151001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20161" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20161",
+        "categ_cod" : "S5A20161",
+        "categ_dsg" : "1.º Trimestre de 2016",
+        "categ_ord" : "20160101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20162" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20162",
+        "categ_cod" : "S5A20162",
+        "categ_dsg" : "2.º Trimestre de 2016",
+        "categ_ord" : "20160401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20163" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20163",
+        "categ_cod" : "S5A20163",
+        "categ_dsg" : "3.º Trimestre de 2016",
+        "categ_ord" : "20160701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20164" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20164",
+        "categ_cod" : "S5A20164",
+        "categ_dsg" : "4.º Trimestre de 2016",
+        "categ_ord" : "20161001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20171" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20171",
+        "categ_cod" : "S5A20171",
+        "categ_dsg" : "1.º Trimestre de 2017",
+        "categ_ord" : "20170101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20172" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20172",
+        "categ_cod" : "S5A20172",
+        "categ_dsg" : "2.º Trimestre de 2017",
+        "categ_ord" : "20170401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20173" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20173",
+        "categ_cod" : "S5A20173",
+        "categ_dsg" : "3.º Trimestre de 2017",
+        "categ_ord" : "20170701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20174" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20174",
+        "categ_cod" : "S5A20174",
+        "categ_dsg" : "4.º Trimestre de 2017",
+        "categ_ord" : "20171001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20181" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20181",
+        "categ_cod" : "S5A20181",
+        "categ_dsg" : "1.º Trimestre de 2018",
+        "categ_ord" : "20180101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20182" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20182",
+        "categ_cod" : "S5A20182",
+        "categ_dsg" : "2.º Trimestre de 2018",
+        "categ_ord" : "20180401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20183" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20183",
+        "categ_cod" : "S5A20183",
+        "categ_dsg" : "3.º Trimestre de 2018",
+        "categ_ord" : "20180701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20184" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20184",
+        "categ_cod" : "S5A20184",
+        "categ_dsg" : "4.º Trimestre de 2018",
+        "categ_ord" : "20181001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20191" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20191",
+        "categ_cod" : "S5A20191",
+        "categ_dsg" : "1.º Trimestre de 2019",
+        "categ_ord" : "20190101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20192" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20192",
+        "categ_cod" : "S5A20192",
+        "categ_dsg" : "2.º Trimestre de 2019",
+        "categ_ord" : "20190401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20193" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20193",
+        "categ_cod" : "S5A20193",
+        "categ_dsg" : "3.º Trimestre de 2019",
+        "categ_ord" : "20190701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20194" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20194",
+        "categ_cod" : "S5A20194",
+        "categ_dsg" : "4.º Trimestre de 2019",
+        "categ_ord" : "20191001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20201" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20201",
+        "categ_cod" : "S5A20201",
+        "categ_dsg" : "1.º Trimestre de 2020",
+        "categ_ord" : "20200101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20202" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20202",
+        "categ_cod" : "S5A20202",
+        "categ_dsg" : "2.º Trimestre de 2020",
+        "categ_ord" : "20200401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20203" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20203",
+        "categ_cod" : "S5A20203",
+        "categ_dsg" : "3.º Trimestre de 2020",
+        "categ_ord" : "20200701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20204" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20204",
+        "categ_cod" : "S5A20204",
+        "categ_dsg" : "4.º Trimestre de 2020",
+        "categ_ord" : "20201001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20211" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20211",
+        "categ_cod" : "S5A20211",
+        "categ_dsg" : "1.º Trimestre de 2021",
+        "categ_ord" : "20210101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20212" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20212",
+        "categ_cod" : "S5A20212",
+        "categ_dsg" : "2.º Trimestre de 2021",
+        "categ_ord" : "20210401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20213" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20213",
+        "categ_cod" : "S5A20213",
+        "categ_dsg" : "3.º Trimestre de 2021",
+        "categ_ord" : "20210701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20214" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20214",
+        "categ_cod" : "S5A20214",
+        "categ_dsg" : "4.º Trimestre de 2021",
+        "categ_ord" : "20211001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20221" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20221",
+        "categ_cod" : "S5A20221",
+        "categ_dsg" : "1.º Trimestre de 2022",
+        "categ_ord" : "20220101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20222" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20222",
+        "categ_cod" : "S5A20222",
+        "categ_dsg" : "2.º Trimestre de 2022",
+        "categ_ord" : "20220401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20223" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20223",
+        "categ_cod" : "S5A20223",
+        "categ_dsg" : "3.º Trimestre de 2022",
+        "categ_ord" : "20220701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20224" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20224",
+        "categ_cod" : "S5A20224",
+        "categ_dsg" : "4.º Trimestre de 2022",
+        "categ_ord" : "20221001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20231" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20231",
+        "categ_cod" : "S5A20231",
+        "categ_dsg" : "1.º Trimestre de 2023",
+        "categ_ord" : "20230101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20232" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20232",
+        "categ_cod" : "S5A20232",
+        "categ_dsg" : "2.º Trimestre de 2023",
+        "categ_ord" : "20230401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20233" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20233",
+        "categ_cod" : "S5A20233",
+        "categ_dsg" : "3.º Trimestre de 2023",
+        "categ_ord" : "20230701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20234" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20234",
+        "categ_cod" : "S5A20234",
+        "categ_dsg" : "4.º Trimestre de 2023",
+        "categ_ord" : "20231001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20241" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20241",
+        "categ_cod" : "S5A20241",
+        "categ_dsg" : "1.º Trimestre de 2024",
+        "categ_ord" : "20240101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20242" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20242",
+        "categ_cod" : "S5A20242",
+        "categ_dsg" : "2.º Trimestre de 2024",
+        "categ_ord" : "20240401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20243" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20243",
+        "categ_cod" : "S5A20243",
+        "categ_dsg" : "3.º Trimestre de 2024",
+        "categ_ord" : "20240701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20244" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20244",
+        "categ_cod" : "S5A20244",
+        "categ_dsg" : "4.º Trimestre de 2024",
+        "categ_ord" : "20241001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20251" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20251",
+        "categ_cod" : "S5A20251",
+        "categ_dsg" : "1.º Trimestre de 2025",
+        "categ_ord" : "20250101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20252" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20252",
+        "categ_cod" : "S5A20252",
+        "categ_dsg" : "2.º Trimestre de 2025",
+        "categ_ord" : "20250401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20253" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20253",
+        "categ_cod" : "S5A20253",
+        "categ_dsg" : "3.º Trimestre de 2025",
+        "categ_ord" : "20250701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20254" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20254",
+        "categ_cod" : "S5A20254",
+        "categ_dsg" : "4.º Trimestre de 2025",
+        "categ_ord" : "20251001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20261" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20261",
+        "categ_cod" : "S5A20261",
+        "categ_dsg" : "1.º Trimestre de 2026",
+        "categ_ord" : "20260101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20262" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20262",
+        "categ_cod" : "S5A20262",
+        "categ_dsg" : "2.º Trimestre de 2026",
+        "categ_ord" : "20260401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_PT" : [ {
+        "dim_num" : "2",
+        "cat_id" : "PT",
+        "categ_cod" : "PT",
+        "categ_dsg" : "Portugal",
+        "categ_ord" : "1",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num3_T" : [ {
+        "dim_num" : "3",
+        "cat_id" : "T",
+        "categ_cod" : "T",
+        "categ_dsg" : "Total",
+        "categ_ord" : "1",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num3_A" : [ {
+        "dim_num" : "3",
+        "cat_id" : "A",
+        "categ_cod" : "A",
+        "categ_dsg" : "Produtos da agricultura, silvicultura e pesca",
+        "categ_ord" : "2",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_01" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01",
+        "categ_cod" : "01",
+        "categ_dsg" : "Produtos da agricultura, da produção animal, da caça e dos serviços relacionados",
+        "categ_ord" : "3",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_02" : [ {
+        "dim_num" : "3",
+        "cat_id" : "02",
+        "categ_cod" : "02",
+        "categ_dsg" : "Produtos da silvicultura, da exploração florestal e serviços relacionados",
+        "categ_ord" : "4",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_03" : [ {
+        "dim_num" : "3",
+        "cat_id" : "03",
+        "categ_cod" : "03",
+        "categ_dsg" : "Produtos da pesca e da aquicultura e serviços relacionados",
+        "categ_ord" : "5",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_B" : [ {
+        "dim_num" : "3",
+        "cat_id" : "B",
+        "categ_cod" : "B",
+        "categ_dsg" : "Indústrias extrativas",
+        "categ_ord" : "6",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_05" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05",
+        "categ_cod" : "05",
+        "categ_dsg" : "Hulha (incluindo antracite) e linhite",
+        "categ_ord" : "7",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_06" : [ {
+        "dim_num" : "3",
+        "cat_id" : "06",
+        "categ_cod" : "06",
+        "categ_dsg" : "Petróleo bruto e gás natural",
+        "categ_ord" : "8",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_07" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07",
+        "categ_cod" : "07",
+        "categ_dsg" : "Minérios metálicos",
+        "categ_ord" : "9",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_08" : [ {
+        "dim_num" : "3",
+        "cat_id" : "08",
+        "categ_cod" : "08",
+        "categ_dsg" : "Outros produtos das indústrias extrativas",
+        "categ_ord" : "10",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_C" : [ {
+        "dim_num" : "3",
+        "cat_id" : "C",
+        "categ_cod" : "C",
+        "categ_dsg" : "Produtos das indústrias transformadoras",
+        "categ_ord" : "11",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_10" : [ {
+        "dim_num" : "3",
+        "cat_id" : "10",
+        "categ_cod" : "10",
+        "categ_dsg" : "Produtos alimentares",
+        "categ_ord" : "12",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_11" : [ {
+        "dim_num" : "3",
+        "cat_id" : "11",
+        "categ_cod" : "11",
+        "categ_dsg" : "Bebidas",
+        "categ_ord" : "13",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_12" : [ {
+        "dim_num" : "3",
+        "cat_id" : "12",
+        "categ_cod" : "12",
+        "categ_dsg" : "Produtos da industria do tabaco",
+        "categ_ord" : "14",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_13" : [ {
+        "dim_num" : "3",
+        "cat_id" : "13",
+        "categ_cod" : "13",
+        "categ_dsg" : "Produtos têxteis",
+        "categ_ord" : "15",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_14" : [ {
+        "dim_num" : "3",
+        "cat_id" : "14",
+        "categ_cod" : "14",
+        "categ_dsg" : "Artigos de vestuário",
+        "categ_ord" : "16",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_15" : [ {
+        "dim_num" : "3",
+        "cat_id" : "15",
+        "categ_cod" : "15",
+        "categ_dsg" : "Couro e produtos afins",
+        "categ_ord" : "17",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_16" : [ {
+        "dim_num" : "3",
+        "cat_id" : "16",
+        "categ_cod" : "16",
+        "categ_dsg" : "Madeira e cortiça e suas obras, excepto mobiliário; obras de espartaria e de cestaria",
+        "categ_ord" : "18",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_17" : [ {
+        "dim_num" : "3",
+        "cat_id" : "17",
+        "categ_cod" : "17",
+        "categ_dsg" : "Papel e cartão e seus artigos",
+        "categ_ord" : "19",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_18" : [ {
+        "dim_num" : "3",
+        "cat_id" : "18",
+        "categ_cod" : "18",
+        "categ_dsg" : "Trabalhos de impressão e gravação",
+        "categ_ord" : "20",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_19" : [ {
+        "dim_num" : "3",
+        "cat_id" : "19",
+        "categ_cod" : "19",
+        "categ_dsg" : "Coque e produtos petrolíferos refinados",
+        "categ_ord" : "21",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_20" : [ {
+        "dim_num" : "3",
+        "cat_id" : "20",
+        "categ_cod" : "20",
+        "categ_dsg" : "Produtos químicos",
+        "categ_ord" : "22",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_21" : [ {
+        "dim_num" : "3",
+        "cat_id" : "21",
+        "categ_cod" : "21",
+        "categ_dsg" : "Produtos farmacêuticos e preparações farmacêuticas de base",
+        "categ_ord" : "23",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_22" : [ {
+        "dim_num" : "3",
+        "cat_id" : "22",
+        "categ_cod" : "22",
+        "categ_dsg" : "Artigos de borracha e de matérias plásticas",
+        "categ_ord" : "24",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_23" : [ {
+        "dim_num" : "3",
+        "cat_id" : "23",
+        "categ_cod" : "23",
+        "categ_dsg" : "Outros produtos minerais não metálicos",
+        "categ_ord" : "25",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_24" : [ {
+        "dim_num" : "3",
+        "cat_id" : "24",
+        "categ_cod" : "24",
+        "categ_dsg" : "Metais de base",
+        "categ_ord" : "26",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_25" : [ {
+        "dim_num" : "3",
+        "cat_id" : "25",
+        "categ_cod" : "25",
+        "categ_dsg" : "Produtos metálicos transformados, excepto máquinas e equipamento",
+        "categ_ord" : "27",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_26" : [ {
+        "dim_num" : "3",
+        "cat_id" : "26",
+        "categ_cod" : "26",
+        "categ_dsg" : "Produtos informáticos, eletrónicos e ópticos",
+        "categ_ord" : "28",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_27" : [ {
+        "dim_num" : "3",
+        "cat_id" : "27",
+        "categ_cod" : "27",
+        "categ_dsg" : "Equipamento elétrico",
+        "categ_ord" : "29",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_28" : [ {
+        "dim_num" : "3",
+        "cat_id" : "28",
+        "categ_cod" : "28",
+        "categ_dsg" : "Máquinas e equipamentos, n.e.",
+        "categ_ord" : "30",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_29" : [ {
+        "dim_num" : "3",
+        "cat_id" : "29",
+        "categ_cod" : "29",
+        "categ_dsg" : "Veículos automóveis, reboques e semi-reboques",
+        "categ_ord" : "31",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_30" : [ {
+        "dim_num" : "3",
+        "cat_id" : "30",
+        "categ_cod" : "30",
+        "categ_dsg" : "Outro equipamento de transporte",
+        "categ_ord" : "32",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_31" : [ {
+        "dim_num" : "3",
+        "cat_id" : "31",
+        "categ_cod" : "31",
+        "categ_dsg" : "Mobiliário",
+        "categ_ord" : "33",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_32" : [ {
+        "dim_num" : "3",
+        "cat_id" : "32",
+        "categ_cod" : "32",
+        "categ_dsg" : "Produtos diversos das industrias transformadoras",
+        "categ_ord" : "34",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_D" : [ {
+        "dim_num" : "3",
+        "cat_id" : "D",
+        "categ_cod" : "D",
+        "categ_dsg" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+        "categ_ord" : "35",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_35" : [ {
+        "dim_num" : "3",
+        "cat_id" : "35",
+        "categ_cod" : "35",
+        "categ_dsg" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+        "categ_ord" : "36",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_E_S" : [ {
+        "dim_num" : "3",
+        "cat_id" : "E_S",
+        "categ_cod" : "E_S",
+        "categ_dsg" : "Outros (E a S)",
+        "categ_ord" : "37",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_TSC" : [ {
+        "dim_num" : "3",
+        "cat_id" : "TSC",
+        "categ_cod" : "TSC",
+        "categ_dsg" : "Total excluindo produtos petrolíferos",
+        "categ_ord" : "38",
+        "categ_nivel" : "1"
+      } ]
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

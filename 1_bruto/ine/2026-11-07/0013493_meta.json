@@ -1,0 +1,279 @@
+[ {
+  "IndicadorCod" : "0013493",
+  "IndicadorNome" : "Produto interno bruto real per capita (Taxa de variação anual - Base 2021 - %); Anual - INE, Contas nacionais trimestrais",
+  "Periodic" : "Anual",
+  "PrimeiroPeriodo" : "1996",
+  "UltimoPeriodo" : "2025",
+  "UnidadeMedida" : "Percentagem (%)",
+  "Potencia10" : "0",
+  "PrecisaoDecimal" : "1",
+  "Lingua" : "PT",
+  "DataUltimaAtualizacao" : "2026-09-24",
+  "DataExtracao" : "2026-11-07T10:36:50.488Z",
+  "Dimensoes" : {
+    "Descricao_Dim" : [ {
+      "dim_num" : "1",
+      "abrv" : "Período de referência dos dados",
+      "versao" : "XXXXX"
+    }, {
+      "dim_num" : "2",
+      "abrv" : "Localização geográfica (Portugal)",
+      "versao" : "05361"
+    } ],
+    "Categoria_Dim" : [ {
+      "Dim_Num1_S7A1996" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1996",
+        "categ_cod" : "S7A1996",
+        "categ_dsg" : "1996",
+        "categ_ord" : "19960101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1997" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1997",
+        "categ_cod" : "S7A1997",
+        "categ_dsg" : "1997",
+        "categ_ord" : "19970101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1998" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1998",
+        "categ_cod" : "S7A1998",
+        "categ_dsg" : "1998",
+        "categ_ord" : "19980101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1999" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1999",
+        "categ_cod" : "S7A1999",
+        "categ_dsg" : "1999",
+        "categ_ord" : "19990101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2000" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2000",
+        "categ_cod" : "S7A2000",
+        "categ_dsg" : "2000",
+        "categ_ord" : "20000101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2001" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2001",
+        "categ_cod" : "S7A2001",
+        "categ_dsg" : "2001",
+        "categ_ord" : "20010101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2002" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2002",
+        "categ_cod" : "S7A2002",
+        "categ_dsg" : "2002",
+        "categ_ord" : "20020101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2003" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2003",
+        "categ_cod" : "S7A2003",
+        "categ_dsg" : "2003",
+        "categ_ord" : "20030101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2004" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2004",
+        "categ_cod" : "S7A2004",
+        "categ_dsg" : "2004",
+        "categ_ord" : "20040101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2005" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2005",
+        "categ_cod" : "S7A2005",
+        "categ_dsg" : "2005",
+        "categ_ord" : "20050101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2006" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2006",
+        "categ_cod" : "S7A2006",
+        "categ_dsg" : "2006",
+        "categ_ord" : "20060101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2007" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2007",
+        "categ_cod" : "S7A2007",
+        "categ_dsg" : "2007",
+        "categ_ord" : "20070101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2008" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2008",
+        "categ_cod" : "S7A2008",
+        "categ_dsg" : "2008",
+        "categ_ord" : "20080101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2009" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2009",
+        "categ_cod" : "S7A2009",
+        "categ_dsg" : "2009",
+        "categ_ord" : "20090101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2010" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2010",
+        "categ_cod" : "S7A2010",
+        "categ_dsg" : "2010",
+        "categ_ord" : "20100101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2011" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2011",
+        "categ_cod" : "S7A2011",
+        "categ_dsg" : "2011",
+        "categ_ord" : "20110101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2012" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2012",
+        "categ_cod" : "S7A2012",
+        "categ_dsg" : "2012",
+        "categ_ord" : "20120101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2013" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2013",
+        "categ_cod" : "S7A2013",
+        "categ_dsg" : "2013",
+        "categ_ord" : "20130101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2014" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2014",
+        "categ_cod" : "S7A2014",
+        "categ_dsg" : "2014",
+        "categ_ord" : "20140101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2015" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2015",
+        "categ_cod" : "S7A2015",
+        "categ_dsg" : "2015",
+        "categ_ord" : "20150101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2016" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2016",
+        "categ_cod" : "S7A2016",
+        "categ_dsg" : "2016",
+        "categ_ord" : "20160101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2017" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2017",
+        "categ_cod" : "S7A2017",
+        "categ_dsg" : "2017",
+        "categ_ord" : "20170101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2018" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2018",
+        "categ_cod" : "S7A2018",
+        "categ_dsg" : "2018",
+        "categ_ord" : "20180101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2019" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2019",
+        "categ_cod" : "S7A2019",
+        "categ_dsg" : "2019",
+        "categ_ord" : "20190101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2020" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2020",
+        "categ_cod" : "S7A2020",
+        "categ_dsg" : "2020",
+        "categ_ord" : "20200101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2021" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2021",
+        "categ_cod" : "S7A2021",
+        "categ_dsg" : "2021",
+        "categ_ord" : "20210101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2022" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2022",
+        "categ_cod" : "S7A2022",
+        "categ_dsg" : "2022",
+        "categ_ord" : "20220101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2023" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2023",
+        "categ_cod" : "S7A2023",
+        "categ_dsg" : "2023",
+        "categ_ord" : "20230101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2024" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2024",
+        "categ_cod" : "S7A2024",
+        "categ_dsg" : "2024",
+        "categ_ord" : "20240101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2025" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2025",
+        "categ_cod" : "S7A2025",
+        "categ_dsg" : "2025",
+        "categ_ord" : "20250101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_PT" : [ {
+        "dim_num" : "2",
+        "cat_id" : "PT",
+        "categ_cod" : "PT",
+        "categ_dsg" : "Portugal",
+        "categ_ord" : "1",
+        "categ_nivel" : "1"
+      } ]
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

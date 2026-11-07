@@ -1,0 +1,467 @@
+[ {
+  "IndicadorCod" : "0014480",
+  "IndicadorNome" : "Índice de preços na produção de serviços (taxa de variação trimestral - Base 2021 - %) por Atividade económica (Divisão - CAE Rev. 3); Trimestral - INE, Índice de preços na produção de serviços (Base 2021)",
+  "Periodic" : "Quinzenal",
+  "PrimeiroPeriodo" : "2.º Trimestre de 2021",
+  "UltimoPeriodo" : "2.º Trimestre de 2026",
+  "UnidadeMedida" : "Percentagem (%)",
+  "Potencia10" : "0",
+  "PrecisaoDecimal" : "1",
+  "Lingua" : "PT",
+  "DataUltimaAtualizacao" : "2026-10-06",
+  "DataExtracao" : "2026-11-07T10:35:18.088Z",
+  "Dimensoes" : {
+    "Descricao_Dim" : [ {
+      "dim_num" : "1",
+      "abrv" : "Período de referência dos dados (Trimestre)",
+      "versao" : "XXXXX"
+    }, {
+      "dim_num" : "2",
+      "abrv" : "Localização geográfica (Portugal)",
+      "versao" : "05361"
+    }, {
+      "dim_num" : "3",
+      "abrv" : "Atividade económica (Divisão - CAE Rev. 3)",
+      "versao" : "05618"
+    } ],
+    "Categoria_Dim" : [ {
+      "Dim_Num1_S5A20212" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20212",
+        "categ_cod" : "S5A20212",
+        "categ_dsg" : "2.º Trimestre de 2021",
+        "categ_ord" : "20210401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20213" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20213",
+        "categ_cod" : "S5A20213",
+        "categ_dsg" : "3.º Trimestre de 2021",
+        "categ_ord" : "20210701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20214" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20214",
+        "categ_cod" : "S5A20214",
+        "categ_dsg" : "4.º Trimestre de 2021",
+        "categ_ord" : "20211001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20221" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20221",
+        "categ_cod" : "S5A20221",
+        "categ_dsg" : "1.º Trimestre de 2022",
+        "categ_ord" : "20220101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20222" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20222",
+        "categ_cod" : "S5A20222",
+        "categ_dsg" : "2.º Trimestre de 2022",
+        "categ_ord" : "20220401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20223" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20223",
+        "categ_cod" : "S5A20223",
+        "categ_dsg" : "3.º Trimestre de 2022",
+        "categ_ord" : "20220701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20224" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20224",
+        "categ_cod" : "S5A20224",
+        "categ_dsg" : "4.º Trimestre de 2022",
+        "categ_ord" : "20221001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20231" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20231",
+        "categ_cod" : "S5A20231",
+        "categ_dsg" : "1.º Trimestre de 2023",
+        "categ_ord" : "20230101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20232" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20232",
+        "categ_cod" : "S5A20232",
+        "categ_dsg" : "2.º Trimestre de 2023",
+        "categ_ord" : "20230401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20233" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20233",
+        "categ_cod" : "S5A20233",
+        "categ_dsg" : "3.º Trimestre de 2023",
+        "categ_ord" : "20230701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20234" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20234",
+        "categ_cod" : "S5A20234",
+        "categ_dsg" : "4.º Trimestre de 2023",
+        "categ_ord" : "20231001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20241" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20241",
+        "categ_cod" : "S5A20241",
+        "categ_dsg" : "1.º Trimestre de 2024",
+        "categ_ord" : "20240101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20242" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20242",
+        "categ_cod" : "S5A20242",
+        "categ_dsg" : "2.º Trimestre de 2024",
+        "categ_ord" : "20240401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20243" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20243",
+        "categ_cod" : "S5A20243",
+        "categ_dsg" : "3.º Trimestre de 2024",
+        "categ_ord" : "20240701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20244" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20244",
+        "categ_cod" : "S5A20244",
+        "categ_dsg" : "4.º Trimestre de 2024",
+        "categ_ord" : "20241001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20251" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20251",
+        "categ_cod" : "S5A20251",
+        "categ_dsg" : "1.º Trimestre de 2025",
+        "categ_ord" : "20250101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20252" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20252",
+        "categ_cod" : "S5A20252",
+        "categ_dsg" : "2.º Trimestre de 2025",
+        "categ_ord" : "20250401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20253" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20253",
+        "categ_cod" : "S5A20253",
+        "categ_dsg" : "3.º Trimestre de 2025",
+        "categ_ord" : "20250701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20254" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20254",
+        "categ_cod" : "S5A20254",
+        "categ_dsg" : "4.º Trimestre de 2025",
+        "categ_ord" : "20251001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20261" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20261",
+        "categ_cod" : "S5A20261",
+        "categ_dsg" : "1.º Trimestre de 2026",
+        "categ_ord" : "20260101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S5A20262" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S5A20262",
+        "categ_cod" : "S5A20262",
+        "categ_dsg" : "2.º Trimestre de 2026",
+        "categ_ord" : "20260401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_PT" : [ {
+        "dim_num" : "2",
+        "cat_id" : "PT",
+        "categ_cod" : "PT",
+        "categ_dsg" : "Portugal",
+        "categ_ord" : "1",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num3_TOT" : [ {
+        "dim_num" : "3",
+        "cat_id" : "TOT",
+        "categ_cod" : "TOT",
+        "categ_dsg" : "Total",
+        "categ_ord" : "1",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num3_H" : [ {
+        "dim_num" : "3",
+        "cat_id" : "H",
+        "categ_cod" : "H",
+        "categ_dsg" : "Transportes e armazenagem",
+        "categ_ord" : "2",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_49" : [ {
+        "dim_num" : "3",
+        "cat_id" : "49",
+        "categ_cod" : "49",
+        "categ_dsg" : "Transportes terrestres e transportes por oleodutos ou gasodutos",
+        "categ_ord" : "3",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_50" : [ {
+        "dim_num" : "3",
+        "cat_id" : "50",
+        "categ_cod" : "50",
+        "categ_dsg" : "Transportes por água",
+        "categ_ord" : "4",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_51" : [ {
+        "dim_num" : "3",
+        "cat_id" : "51",
+        "categ_cod" : "51",
+        "categ_dsg" : "Transportes aéreos",
+        "categ_ord" : "5",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_52" : [ {
+        "dim_num" : "3",
+        "cat_id" : "52",
+        "categ_cod" : "52",
+        "categ_dsg" : "Armazenagem e Atividades auxiliares dos transportes (inclui manuseamento)",
+        "categ_ord" : "6",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_53" : [ {
+        "dim_num" : "3",
+        "cat_id" : "53",
+        "categ_cod" : "53",
+        "categ_dsg" : "Atividades postais e de courier",
+        "categ_ord" : "7",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_I" : [ {
+        "dim_num" : "3",
+        "cat_id" : "I",
+        "categ_cod" : "I",
+        "categ_dsg" : "Alojamento, restauração e similares",
+        "categ_ord" : "8",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_55" : [ {
+        "dim_num" : "3",
+        "cat_id" : "55",
+        "categ_cod" : "55",
+        "categ_dsg" : "Alojamento",
+        "categ_ord" : "9",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_56" : [ {
+        "dim_num" : "3",
+        "cat_id" : "56",
+        "categ_cod" : "56",
+        "categ_dsg" : "Restauração e similares",
+        "categ_ord" : "10",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_J" : [ {
+        "dim_num" : "3",
+        "cat_id" : "J",
+        "categ_cod" : "J",
+        "categ_dsg" : "Atividades de informação e de comunicação",
+        "categ_ord" : "11",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_58" : [ {
+        "dim_num" : "3",
+        "cat_id" : "58",
+        "categ_cod" : "58",
+        "categ_dsg" : "Atividades de edição",
+        "categ_ord" : "12",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_59" : [ {
+        "dim_num" : "3",
+        "cat_id" : "59",
+        "categ_cod" : "59",
+        "categ_dsg" : "Atividades cinematográficas, de vídeo, de produção de programas de televisão, de gravação de som e de edição de música",
+        "categ_ord" : "13",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_60" : [ {
+        "dim_num" : "3",
+        "cat_id" : "60",
+        "categ_cod" : "60",
+        "categ_dsg" : "Atividades de rádio e de televisão",
+        "categ_ord" : "14",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_61" : [ {
+        "dim_num" : "3",
+        "cat_id" : "61",
+        "categ_cod" : "61",
+        "categ_dsg" : "Telecomunicações",
+        "categ_ord" : "15",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_62" : [ {
+        "dim_num" : "3",
+        "cat_id" : "62",
+        "categ_cod" : "62",
+        "categ_dsg" : "Consultoria e programação informática e Atividades relacionadas",
+        "categ_ord" : "16",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_63" : [ {
+        "dim_num" : "3",
+        "cat_id" : "63",
+        "categ_cod" : "63",
+        "categ_dsg" : "Atividades dos serviços de informação",
+        "categ_ord" : "17",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_L" : [ {
+        "dim_num" : "3",
+        "cat_id" : "L",
+        "categ_cod" : "L",
+        "categ_dsg" : "Atividades imobiliárias",
+        "categ_ord" : "18",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_68" : [ {
+        "dim_num" : "3",
+        "cat_id" : "68",
+        "categ_cod" : "68",
+        "categ_dsg" : "Atividades imobiliárias",
+        "categ_ord" : "19",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_M_X" : [ {
+        "dim_num" : "3",
+        "cat_id" : "M_X",
+        "categ_cod" : "M_X",
+        "categ_dsg" : "Atividades de consultoria, científicas, técnicas e similares",
+        "categ_ord" : "20",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_69" : [ {
+        "dim_num" : "3",
+        "cat_id" : "69",
+        "categ_cod" : "69",
+        "categ_dsg" : "Atividades jurídicas e de contabilidade",
+        "categ_ord" : "21",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_70_X" : [ {
+        "dim_num" : "3",
+        "cat_id" : "70_X",
+        "categ_cod" : "70_X",
+        "categ_dsg" : "Atividades das sedes sociais e de consultoria para a gestão",
+        "categ_ord" : "22",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_71" : [ {
+        "dim_num" : "3",
+        "cat_id" : "71",
+        "categ_cod" : "71",
+        "categ_dsg" : "Atividades de arquitetura, de engenharia e técnicas afins; Atividades de ensaios e de análises técnicas",
+        "categ_ord" : "23",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_73" : [ {
+        "dim_num" : "3",
+        "cat_id" : "73",
+        "categ_cod" : "73",
+        "categ_dsg" : "Publicidade, estudos de mercado e sondagens de opinião",
+        "categ_ord" : "25",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_74" : [ {
+        "dim_num" : "3",
+        "cat_id" : "74",
+        "categ_cod" : "74",
+        "categ_dsg" : "Outras atividades de consultoria, científicas, técnicas e similares",
+        "categ_ord" : "26",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_N" : [ {
+        "dim_num" : "3",
+        "cat_id" : "N",
+        "categ_cod" : "N",
+        "categ_dsg" : "Atividades administrativas e dos serviços de apoio",
+        "categ_ord" : "28",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_77" : [ {
+        "dim_num" : "3",
+        "cat_id" : "77",
+        "categ_cod" : "77",
+        "categ_dsg" : "Atividades de aluguer",
+        "categ_ord" : "29",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_78" : [ {
+        "dim_num" : "3",
+        "cat_id" : "78",
+        "categ_cod" : "78",
+        "categ_dsg" : "Atividades de emprego",
+        "categ_ord" : "30",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_79" : [ {
+        "dim_num" : "3",
+        "cat_id" : "79",
+        "categ_cod" : "79",
+        "categ_dsg" : "Agências de viagem, operadores turísticos, outros serviços de reservas e Atividades relacionadas",
+        "categ_ord" : "31",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_80" : [ {
+        "dim_num" : "3",
+        "cat_id" : "80",
+        "categ_cod" : "80",
+        "categ_dsg" : "Atividades de investigação e segurança",
+        "categ_ord" : "32",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_81" : [ {
+        "dim_num" : "3",
+        "cat_id" : "81",
+        "categ_cod" : "81",
+        "categ_dsg" : "Atividades relacionadas com edifícios, plantação e manutenção de jardins",
+        "categ_ord" : "33",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_82" : [ {
+        "dim_num" : "3",
+        "cat_id" : "82",
+        "categ_cod" : "82",
+        "categ_dsg" : "Atividades de serviços administrativos e de apoio prestados às empresas",
+        "categ_ord" : "34",
+        "categ_nivel" : "3"
+      } ]
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
