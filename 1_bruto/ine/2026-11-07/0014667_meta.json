@@ -1,0 +1,515 @@
+[ {
+  "IndicadorCod" : "0014667",
+  "IndicadorNome" : "Índice de preços no consumidor (IPC, Base - 2025) por Localização geográfica (NUTS II - 2024) e Consumo individual por objetivo; Anual - INE, Índice de preços no consumidor",
+  "Periodic" : "Anual",
+  "PrimeiroPeriodo" : "1991",
+  "UltimoPeriodo" : "2025",
+  "UnidadeMedida" : "Não aplicável (-)",
+  "Potencia10" : "0",
+  "PrecisaoDecimal" : "3",
+  "Lingua" : "PT",
+  "DataUltimaAtualizacao" : "2026-02-11",
+  "DataExtracao" : "2026-11-07T21:15:25.408Z",
+  "Dimensoes" : {
+    "Descricao_Dim" : [ {
+      "dim_num" : "1",
+      "abrv" : "Período de referência dos dados",
+      "versao" : "XXXXX"
+    }, {
+      "dim_num" : "2",
+      "abrv" : "Localização geográfica (NUTS II - 2024)",
+      "versao" : "05555"
+    }, {
+      "dim_num" : "3",
+      "abrv" : "Consumo individual por objetivo",
+      "versao" : "05732"
+    } ],
+    "Categoria_Dim" : [ {
+      "Dim_Num1_S7A1991" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1991",
+        "categ_cod" : "S7A1991",
+        "categ_dsg" : "1991",
+        "categ_ord" : "19910101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1992" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1992",
+        "categ_cod" : "S7A1992",
+        "categ_dsg" : "1992",
+        "categ_ord" : "19920101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1993" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1993",
+        "categ_cod" : "S7A1993",
+        "categ_dsg" : "1993",
+        "categ_ord" : "19930101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1994" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1994",
+        "categ_cod" : "S7A1994",
+        "categ_dsg" : "1994",
+        "categ_ord" : "19940101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1995" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1995",
+        "categ_cod" : "S7A1995",
+        "categ_dsg" : "1995",
+        "categ_ord" : "19950101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1996" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1996",
+        "categ_cod" : "S7A1996",
+        "categ_dsg" : "1996",
+        "categ_ord" : "19960101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1997" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1997",
+        "categ_cod" : "S7A1997",
+        "categ_dsg" : "1997",
+        "categ_ord" : "19970101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1998" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1998",
+        "categ_cod" : "S7A1998",
+        "categ_dsg" : "1998",
+        "categ_ord" : "19980101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1999" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1999",
+        "categ_cod" : "S7A1999",
+        "categ_dsg" : "1999",
+        "categ_ord" : "19990101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2000" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2000",
+        "categ_cod" : "S7A2000",
+        "categ_dsg" : "2000",
+        "categ_ord" : "20000101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2001" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2001",
+        "categ_cod" : "S7A2001",
+        "categ_dsg" : "2001",
+        "categ_ord" : "20010101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2002" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2002",
+        "categ_cod" : "S7A2002",
+        "categ_dsg" : "2002",
+        "categ_ord" : "20020101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2003" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2003",
+        "categ_cod" : "S7A2003",
+        "categ_dsg" : "2003",
+        "categ_ord" : "20030101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2004" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2004",
+        "categ_cod" : "S7A2004",
+        "categ_dsg" : "2004",
+        "categ_ord" : "20040101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2005" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2005",
+        "categ_cod" : "S7A2005",
+        "categ_dsg" : "2005",
+        "categ_ord" : "20050101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2006" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2006",
+        "categ_cod" : "S7A2006",
+        "categ_dsg" : "2006",
+        "categ_ord" : "20060101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2007" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2007",
+        "categ_cod" : "S7A2007",
+        "categ_dsg" : "2007",
+        "categ_ord" : "20070101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2008" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2008",
+        "categ_cod" : "S7A2008",
+        "categ_dsg" : "2008",
+        "categ_ord" : "20080101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2009" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2009",
+        "categ_cod" : "S7A2009",
+        "categ_dsg" : "2009",
+        "categ_ord" : "20090101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2010" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2010",
+        "categ_cod" : "S7A2010",
+        "categ_dsg" : "2010",
+        "categ_ord" : "20100101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2011" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2011",
+        "categ_cod" : "S7A2011",
+        "categ_dsg" : "2011",
+        "categ_ord" : "20110101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2012" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2012",
+        "categ_cod" : "S7A2012",
+        "categ_dsg" : "2012",
+        "categ_ord" : "20120101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2013" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2013",
+        "categ_cod" : "S7A2013",
+        "categ_dsg" : "2013",
+        "categ_ord" : "20130101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2014" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2014",
+        "categ_cod" : "S7A2014",
+        "categ_dsg" : "2014",
+        "categ_ord" : "20140101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2015" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2015",
+        "categ_cod" : "S7A2015",
+        "categ_dsg" : "2015",
+        "categ_ord" : "20150101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2016" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2016",
+        "categ_cod" : "S7A2016",
+        "categ_dsg" : "2016",
+        "categ_ord" : "20160101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2017" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2017",
+        "categ_cod" : "S7A2017",
+        "categ_dsg" : "2017",
+        "categ_ord" : "20170101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2018" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2018",
+        "categ_cod" : "S7A2018",
+        "categ_dsg" : "2018",
+        "categ_ord" : "20180101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2019" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2019",
+        "categ_cod" : "S7A2019",
+        "categ_dsg" : "2019",
+        "categ_ord" : "20190101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2020" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2020",
+        "categ_cod" : "S7A2020",
+        "categ_dsg" : "2020",
+        "categ_ord" : "20200101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2021" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2021",
+        "categ_cod" : "S7A2021",
+        "categ_dsg" : "2021",
+        "categ_ord" : "20210101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2022" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2022",
+        "categ_cod" : "S7A2022",
+        "categ_dsg" : "2022",
+        "categ_ord" : "20220101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2023" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2023",
+        "categ_cod" : "S7A2023",
+        "categ_dsg" : "2023",
+        "categ_ord" : "20230101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2024" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2024",
+        "categ_cod" : "S7A2024",
+        "categ_dsg" : "2024",
+        "categ_ord" : "20240101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2025" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2025",
+        "categ_cod" : "S7A2025",
+        "categ_dsg" : "2025",
+        "categ_ord" : "20250101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_PT" : [ {
+        "dim_num" : "2",
+        "cat_id" : "PT",
+        "categ_cod" : "PT",
+        "categ_dsg" : "Portugal",
+        "categ_ord" : "1",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1",
+        "categ_cod" : "1",
+        "categ_dsg" : "Continente",
+        "categ_ord" : "2",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_11" : [ {
+        "dim_num" : "2",
+        "cat_id" : "11",
+        "categ_cod" : "11",
+        "categ_dsg" : "Norte",
+        "categ_ord" : "3",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_19" : [ {
+        "dim_num" : "2",
+        "cat_id" : "19",
+        "categ_cod" : "19",
+        "categ_dsg" : "Centro",
+        "categ_ord" : "4",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1D" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1D",
+        "categ_cod" : "1D",
+        "categ_dsg" : "Oeste e Vale do Tejo",
+        "categ_ord" : "5",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1A" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1A",
+        "categ_cod" : "1A",
+        "categ_dsg" : "Grande Lisboa",
+        "categ_ord" : "6",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1B" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1B",
+        "categ_cod" : "1B",
+        "categ_dsg" : "Península de Setúbal",
+        "categ_ord" : "7",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1C" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1C",
+        "categ_cod" : "1C",
+        "categ_dsg" : "Alentejo",
+        "categ_ord" : "8",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_15" : [ {
+        "dim_num" : "2",
+        "cat_id" : "15",
+        "categ_cod" : "15",
+        "categ_dsg" : "Algarve",
+        "categ_ord" : "9",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_2" : [ {
+        "dim_num" : "2",
+        "cat_id" : "2",
+        "categ_cod" : "2",
+        "categ_dsg" : "Região Autónoma dos Açores",
+        "categ_ord" : "10",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_3" : [ {
+        "dim_num" : "2",
+        "cat_id" : "3",
+        "categ_cod" : "3",
+        "categ_dsg" : "Região Autónoma da Madeira",
+        "categ_ord" : "11",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num3_T" : [ {
+        "dim_num" : "3",
+        "cat_id" : "T",
+        "categ_cod" : "T",
+        "categ_dsg" : "Total",
+        "categ_ord" : "2",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num3_01" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01",
+        "categ_cod" : "01",
+        "categ_dsg" : "Produtos alimentares e bebidas não alcoólicas",
+        "categ_ord" : "3",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_02" : [ {
+        "dim_num" : "3",
+        "cat_id" : "02",
+        "categ_cod" : "02",
+        "categ_dsg" : "Bebidas alcoólicas, tabaco e narcóticos",
+        "categ_ord" : "93",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_03" : [ {
+        "dim_num" : "3",
+        "cat_id" : "03",
+        "categ_cod" : "03",
+        "categ_dsg" : "Vestuário e calçado",
+        "categ_ord" : "112",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_04" : [ {
+        "dim_num" : "3",
+        "cat_id" : "04",
+        "categ_cod" : "04",
+        "categ_dsg" : "Habitação, água, eletricidade, gás e outros combustíveis",
+        "categ_ord" : "134",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_05" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05",
+        "categ_cod" : "05",
+        "categ_dsg" : "Acessórios para o lar, equipamento doméstico e manutenção corrente da habitação",
+        "categ_ord" : "174",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_06" : [ {
+        "dim_num" : "3",
+        "cat_id" : "06",
+        "categ_cod" : "06",
+        "categ_dsg" : "Saúde",
+        "categ_ord" : "225",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_07" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07",
+        "categ_cod" : "07",
+        "categ_dsg" : "Transportes",
+        "categ_ord" : "260",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_08" : [ {
+        "dim_num" : "3",
+        "cat_id" : "08",
+        "categ_cod" : "08",
+        "categ_dsg" : "Informação e comunicação",
+        "categ_ord" : "313",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_09" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09",
+        "categ_cod" : "09",
+        "categ_dsg" : "Lazer, recreação, desporto e cultura",
+        "categ_ord" : "347",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_10" : [ {
+        "dim_num" : "3",
+        "cat_id" : "10",
+        "categ_cod" : "10",
+        "categ_dsg" : "Serviços de educação",
+        "categ_ord" : "421",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_11" : [ {
+        "dim_num" : "3",
+        "cat_id" : "11",
+        "categ_cod" : "11",
+        "categ_dsg" : "Restaurantes e serviços de alojamento",
+        "categ_ord" : "439",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_12" : [ {
+        "dim_num" : "3",
+        "cat_id" : "12",
+        "categ_cod" : "12",
+        "categ_dsg" : "Serviços financeiros e de seguros",
+        "categ_ord" : "453",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_13" : [ {
+        "dim_num" : "3",
+        "cat_id" : "13",
+        "categ_cod" : "13",
+        "categ_dsg" : "Serviços de higiene e cuidados pessoais, proteção social e bens e serviços diversos",
+        "categ_ord" : "472",
+        "categ_nivel" : "2"
+      } ]
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

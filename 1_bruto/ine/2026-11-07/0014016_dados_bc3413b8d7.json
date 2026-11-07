@@ -1,0 +1,70 @@
+[ {
+  "IndicadorCod" : "0014016",
+  "IndicadorDsg" : "Valor acrescentado bruto das empresas em setores de alta e média-alta tecnologia (CAE Rev. 3 - €) por Localização geográfica (NUTS - 2024); Anual - INE, Sistema de contas integradas das empresas",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0014016&lingua=PT",
+  "DataExtracao" : "2026-11-07T21:42:55.458Z",
+  "DataUltimoAtualizacao" : "2025-12-11",
+  "UltimoPref" : "2024",
+  "Dados" : {
+    "2023" : [ {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "479 906 569",
+      "valor" : "479906569"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "3 306 779 674",
+      "valor" : "3306779674"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "17 526 714 487",
+      "valor" : "17526714487"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    } ],
+    "2024" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "356 055 467",
+      "valor" : "356055467"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "521 334 288",
+      "valor" : "521334288"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "3 799 229 017",
+      "valor" : "3799229017"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "18 878 811 172",
+      "valor" : "18878811172"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

@@ -1,0 +1,67 @@
+[ {
+  "IndicadorCod" : "0014118",
+  "IndicadorDsg" : "Valor acrescentado bruto (€) das Empresas maioritariamente estrangeiras por Localização geográfica (NUTS - 2024); Anual - INE, Estatísticas das filiais de empresas estrangeiras",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0014118&lingua=PT",
+  "DataExtracao" : "2026-11-07T21:31:09.783Z",
+  "DataUltimoAtualizacao" : "2025-12-19",
+  "UltimoPref" : "2024",
+  "Dados" : {
+    "2023" : [ {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "521 789 407",
+      "valor" : "521789407"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "875 198 235",
+      "valor" : "875198235"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "5 079 341 171",
+      "valor" : "5079341171"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "7 572 603 804",
+      "valor" : "7572603804"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "38 214 039 280",
+      "valor" : "38214039280"
+    } ],
+    "2024" : [ {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "575 178 599",
+      "valor" : "575178599"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "924 875 505",
+      "valor" : "924875505"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "5 558 662 987",
+      "valor" : "5558662987"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "8 235 870 731",
+      "valor" : "8235870731"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "41 044 930 143",
+      "valor" : "41044930143"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

@@ -1,0 +1,69 @@
+[ {
+  "IndicadorCod" : "0014011",
+  "IndicadorDsg" : "Valor acrescentado bruto das indústrias de alta e média-alta tecnologia (CAE Rev. 3 - €) por Localização geográfica (NUTS - 2024); Anual - INE, Sistema de contas integradas das empresas",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0014011&lingua=PT",
+  "DataExtracao" : "2026-11-07T21:38:08.792Z",
+  "DataUltimoAtualizacao" : "2025-12-11",
+  "UltimoPref" : "2024",
+  "Dados" : {
+    "2023" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "313 085 003",
+      "valor" : "313085003"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "319 875 239",
+      "valor" : "319875239"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "1 516 637 302",
+      "valor" : "1516637302"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "6 830 905 970",
+      "valor" : "6830905970"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    } ],
+    "2024" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "306 936 376",
+      "valor" : "306936376"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "332 479 892",
+      "valor" : "332479892"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "1 678 698 686",
+      "valor" : "1678698686"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "7 004 827 698",
+      "valor" : "7004827698"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

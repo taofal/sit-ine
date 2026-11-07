@@ -1,0 +1,68 @@
+[ {
+  "IndicadorCod" : "0014021",
+  "IndicadorDsg" : "Volume de negócios em serviços intensivos em conhecimento de alta tecnologia (CAE Rev. 3 - €) por Localização geográfica (NUTS - 2024); Anual - INE, Sistema de contas integradas das empresas",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0014021&lingua=PT",
+  "DataExtracao" : "2026-11-07T21:43:05.476Z",
+  "DataUltimoAtualizacao" : "2025-12-11",
+  "UltimoPref" : "2024",
+  "Dados" : {
+    "2023" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "75 353 555",
+      "valor" : "75353555"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "282 908 170",
+      "valor" : "282908170"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "2 966 806 446",
+      "valor" : "2966806446"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "3 430 607 353",
+      "valor" : "3430607353"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "20 960 012 387",
+      "valor" : "20960012387"
+    } ],
+    "2024" : [ {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "335 858 668",
+      "valor" : "335858668"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "3 242 451 044",
+      "valor" : "3242451044"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "3 800 048 657",
+      "valor" : "3800048657"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "22 678 769 171",
+      "valor" : "22678769171"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

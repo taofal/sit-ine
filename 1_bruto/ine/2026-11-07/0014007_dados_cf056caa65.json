@@ -1,0 +1,69 @@
+[ {
+  "IndicadorCod" : "0014007",
+  "IndicadorDsg" : "Valor acrescentado bruto em atividades de tecnologias da informação e da comunicação, TIC (CAE Rev. 3 - €) por Localização geográfica (NUTS - 2024); Anual - INE, Sistema de contas integradas das empresas",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0014007&lingua=PT",
+  "DataExtracao" : "2026-11-07T21:34:21.102Z",
+  "DataUltimoAtualizacao" : "2025-12-11",
+  "UltimoPref" : "2024",
+  "Dados" : {
+    "2023" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "64 278 858",
+      "valor" : "64278858"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "359 451 978",
+      "valor" : "359451978"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "1 953 786 875",
+      "valor" : "1953786875"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "11 507 286 603",
+      "valor" : "11507286603"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    } ],
+    "2024" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "70 622 752",
+      "valor" : "70622752"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "408 590 015",
+      "valor" : "408590015"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "2 325 892 965",
+      "valor" : "2325892965"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "12 672 205 936",
+      "valor" : "12672205936"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

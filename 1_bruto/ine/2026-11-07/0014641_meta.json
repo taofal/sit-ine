@@ -1,0 +1,4667 @@
+[ {
+  "IndicadorCod" : "0014641",
+  "IndicadorNome" : "Índice de preços no consumidor (IPC, Base - 2025) por Localização geográfica e Consumo individual por objetivo; Anual - INE, Índice de preços no consumidor",
+  "Periodic" : "Anual",
+  "PrimeiroPeriodo" : "1948",
+  "UltimoPeriodo" : "2025",
+  "UnidadeMedida" : "Não aplicável (-)",
+  "Potencia10" : "0",
+  "PrecisaoDecimal" : "3",
+  "Lingua" : "PT",
+  "DataUltimaAtualizacao" : "2026-02-11",
+  "DataExtracao" : "2026-11-07T21:12:44.155Z",
+  "Dimensoes" : {
+    "Descricao_Dim" : [ {
+      "dim_num" : "1",
+      "abrv" : "Período de referência dos dados",
+      "versao" : "XXXXX"
+    }, {
+      "dim_num" : "2",
+      "abrv" : "Localização geográfica",
+      "versao" : "03250"
+    }, {
+      "dim_num" : "3",
+      "abrv" : "Consumo individual por objetivo",
+      "versao" : "05732"
+    } ],
+    "Categoria_Dim" : [ {
+      "Dim_Num1_S7A1948" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1948",
+        "categ_cod" : "S7A1948",
+        "categ_dsg" : "1948",
+        "categ_ord" : "19480101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1949" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1949",
+        "categ_cod" : "S7A1949",
+        "categ_dsg" : "1949",
+        "categ_ord" : "19490101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1950" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1950",
+        "categ_cod" : "S7A1950",
+        "categ_dsg" : "1950",
+        "categ_ord" : "19500101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1951" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1951",
+        "categ_cod" : "S7A1951",
+        "categ_dsg" : "1951",
+        "categ_ord" : "19510101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1952" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1952",
+        "categ_cod" : "S7A1952",
+        "categ_dsg" : "1952",
+        "categ_ord" : "19520101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1953" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1953",
+        "categ_cod" : "S7A1953",
+        "categ_dsg" : "1953",
+        "categ_ord" : "19530101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1954" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1954",
+        "categ_cod" : "S7A1954",
+        "categ_dsg" : "1954",
+        "categ_ord" : "19540101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1955" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1955",
+        "categ_cod" : "S7A1955",
+        "categ_dsg" : "1955",
+        "categ_ord" : "19550101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1956" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1956",
+        "categ_cod" : "S7A1956",
+        "categ_dsg" : "1956",
+        "categ_ord" : "19560101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1957" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1957",
+        "categ_cod" : "S7A1957",
+        "categ_dsg" : "1957",
+        "categ_ord" : "19570101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1958" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1958",
+        "categ_cod" : "S7A1958",
+        "categ_dsg" : "1958",
+        "categ_ord" : "19580101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1959" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1959",
+        "categ_cod" : "S7A1959",
+        "categ_dsg" : "1959",
+        "categ_ord" : "19590101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1960" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1960",
+        "categ_cod" : "S7A1960",
+        "categ_dsg" : "1960",
+        "categ_ord" : "19600101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1961" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1961",
+        "categ_cod" : "S7A1961",
+        "categ_dsg" : "1961",
+        "categ_ord" : "19610101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1962" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1962",
+        "categ_cod" : "S7A1962",
+        "categ_dsg" : "1962",
+        "categ_ord" : "19620101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1963" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1963",
+        "categ_cod" : "S7A1963",
+        "categ_dsg" : "1963",
+        "categ_ord" : "19630101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1964" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1964",
+        "categ_cod" : "S7A1964",
+        "categ_dsg" : "1964",
+        "categ_ord" : "19640101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1965" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1965",
+        "categ_cod" : "S7A1965",
+        "categ_dsg" : "1965",
+        "categ_ord" : "19650101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1966" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1966",
+        "categ_cod" : "S7A1966",
+        "categ_dsg" : "1966",
+        "categ_ord" : "19660101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1967" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1967",
+        "categ_cod" : "S7A1967",
+        "categ_dsg" : "1967",
+        "categ_ord" : "19670101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1968" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1968",
+        "categ_cod" : "S7A1968",
+        "categ_dsg" : "1968",
+        "categ_ord" : "19680101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1969" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1969",
+        "categ_cod" : "S7A1969",
+        "categ_dsg" : "1969",
+        "categ_ord" : "19690101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1970" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1970",
+        "categ_cod" : "S7A1970",
+        "categ_dsg" : "1970",
+        "categ_ord" : "19700101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1971" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1971",
+        "categ_cod" : "S7A1971",
+        "categ_dsg" : "1971",
+        "categ_ord" : "19710101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1972" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1972",
+        "categ_cod" : "S7A1972",
+        "categ_dsg" : "1972",
+        "categ_ord" : "19720101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1973" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1973",
+        "categ_cod" : "S7A1973",
+        "categ_dsg" : "1973",
+        "categ_ord" : "19730101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1974" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1974",
+        "categ_cod" : "S7A1974",
+        "categ_dsg" : "1974",
+        "categ_ord" : "19740101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1975" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1975",
+        "categ_cod" : "S7A1975",
+        "categ_dsg" : "1975",
+        "categ_ord" : "19750101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1976" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1976",
+        "categ_cod" : "S7A1976",
+        "categ_dsg" : "1976",
+        "categ_ord" : "19760101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1977" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1977",
+        "categ_cod" : "S7A1977",
+        "categ_dsg" : "1977",
+        "categ_ord" : "19770101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1978" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1978",
+        "categ_cod" : "S7A1978",
+        "categ_dsg" : "1978",
+        "categ_ord" : "19780101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1979" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1979",
+        "categ_cod" : "S7A1979",
+        "categ_dsg" : "1979",
+        "categ_ord" : "19790101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1980" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1980",
+        "categ_cod" : "S7A1980",
+        "categ_dsg" : "1980",
+        "categ_ord" : "19800101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1981" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1981",
+        "categ_cod" : "S7A1981",
+        "categ_dsg" : "1981",
+        "categ_ord" : "19810101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1982" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1982",
+        "categ_cod" : "S7A1982",
+        "categ_dsg" : "1982",
+        "categ_ord" : "19820101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1983" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1983",
+        "categ_cod" : "S7A1983",
+        "categ_dsg" : "1983",
+        "categ_ord" : "19830101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1984" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1984",
+        "categ_cod" : "S7A1984",
+        "categ_dsg" : "1984",
+        "categ_ord" : "19840101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1985" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1985",
+        "categ_cod" : "S7A1985",
+        "categ_dsg" : "1985",
+        "categ_ord" : "19850101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1986" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1986",
+        "categ_cod" : "S7A1986",
+        "categ_dsg" : "1986",
+        "categ_ord" : "19860101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1987" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1987",
+        "categ_cod" : "S7A1987",
+        "categ_dsg" : "1987",
+        "categ_ord" : "19870101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1988" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1988",
+        "categ_cod" : "S7A1988",
+        "categ_dsg" : "1988",
+        "categ_ord" : "19880101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1989" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1989",
+        "categ_cod" : "S7A1989",
+        "categ_dsg" : "1989",
+        "categ_ord" : "19890101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1990" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1990",
+        "categ_cod" : "S7A1990",
+        "categ_dsg" : "1990",
+        "categ_ord" : "19900101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1991" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1991",
+        "categ_cod" : "S7A1991",
+        "categ_dsg" : "1991",
+        "categ_ord" : "19910101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1992" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1992",
+        "categ_cod" : "S7A1992",
+        "categ_dsg" : "1992",
+        "categ_ord" : "19920101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1993" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1993",
+        "categ_cod" : "S7A1993",
+        "categ_dsg" : "1993",
+        "categ_ord" : "19930101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1994" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1994",
+        "categ_cod" : "S7A1994",
+        "categ_dsg" : "1994",
+        "categ_ord" : "19940101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1995" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1995",
+        "categ_cod" : "S7A1995",
+        "categ_dsg" : "1995",
+        "categ_ord" : "19950101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1996" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1996",
+        "categ_cod" : "S7A1996",
+        "categ_dsg" : "1996",
+        "categ_ord" : "19960101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1997" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1997",
+        "categ_cod" : "S7A1997",
+        "categ_dsg" : "1997",
+        "categ_ord" : "19970101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1998" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1998",
+        "categ_cod" : "S7A1998",
+        "categ_dsg" : "1998",
+        "categ_ord" : "19980101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A1999" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A1999",
+        "categ_cod" : "S7A1999",
+        "categ_dsg" : "1999",
+        "categ_ord" : "19990101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2000" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2000",
+        "categ_cod" : "S7A2000",
+        "categ_dsg" : "2000",
+        "categ_ord" : "20000101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2001" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2001",
+        "categ_cod" : "S7A2001",
+        "categ_dsg" : "2001",
+        "categ_ord" : "20010101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2002" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2002",
+        "categ_cod" : "S7A2002",
+        "categ_dsg" : "2002",
+        "categ_ord" : "20020101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2003" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2003",
+        "categ_cod" : "S7A2003",
+        "categ_dsg" : "2003",
+        "categ_ord" : "20030101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2004" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2004",
+        "categ_cod" : "S7A2004",
+        "categ_dsg" : "2004",
+        "categ_ord" : "20040101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2005" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2005",
+        "categ_cod" : "S7A2005",
+        "categ_dsg" : "2005",
+        "categ_ord" : "20050101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2006" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2006",
+        "categ_cod" : "S7A2006",
+        "categ_dsg" : "2006",
+        "categ_ord" : "20060101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2007" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2007",
+        "categ_cod" : "S7A2007",
+        "categ_dsg" : "2007",
+        "categ_ord" : "20070101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2008" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2008",
+        "categ_cod" : "S7A2008",
+        "categ_dsg" : "2008",
+        "categ_ord" : "20080101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2009" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2009",
+        "categ_cod" : "S7A2009",
+        "categ_dsg" : "2009",
+        "categ_ord" : "20090101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2010" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2010",
+        "categ_cod" : "S7A2010",
+        "categ_dsg" : "2010",
+        "categ_ord" : "20100101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2011" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2011",
+        "categ_cod" : "S7A2011",
+        "categ_dsg" : "2011",
+        "categ_ord" : "20110101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2012" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2012",
+        "categ_cod" : "S7A2012",
+        "categ_dsg" : "2012",
+        "categ_ord" : "20120101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2013" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2013",
+        "categ_cod" : "S7A2013",
+        "categ_dsg" : "2013",
+        "categ_ord" : "20130101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2014" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2014",
+        "categ_cod" : "S7A2014",
+        "categ_dsg" : "2014",
+        "categ_ord" : "20140101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2015" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2015",
+        "categ_cod" : "S7A2015",
+        "categ_dsg" : "2015",
+        "categ_ord" : "20150101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2016" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2016",
+        "categ_cod" : "S7A2016",
+        "categ_dsg" : "2016",
+        "categ_ord" : "20160101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2017" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2017",
+        "categ_cod" : "S7A2017",
+        "categ_dsg" : "2017",
+        "categ_ord" : "20170101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2018" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2018",
+        "categ_cod" : "S7A2018",
+        "categ_dsg" : "2018",
+        "categ_ord" : "20180101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2019" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2019",
+        "categ_cod" : "S7A2019",
+        "categ_dsg" : "2019",
+        "categ_ord" : "20190101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2020" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2020",
+        "categ_cod" : "S7A2020",
+        "categ_dsg" : "2020",
+        "categ_ord" : "20200101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2021" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2021",
+        "categ_cod" : "S7A2021",
+        "categ_dsg" : "2021",
+        "categ_ord" : "20210101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2022" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2022",
+        "categ_cod" : "S7A2022",
+        "categ_dsg" : "2022",
+        "categ_ord" : "20220101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2023" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2023",
+        "categ_cod" : "S7A2023",
+        "categ_dsg" : "2023",
+        "categ_ord" : "20230101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2024" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2024",
+        "categ_cod" : "S7A2024",
+        "categ_dsg" : "2024",
+        "categ_ord" : "20240101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2025" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2025",
+        "categ_cod" : "S7A2025",
+        "categ_dsg" : "2025",
+        "categ_ord" : "20250101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_PT" : [ {
+        "dim_num" : "2",
+        "cat_id" : "PT",
+        "categ_cod" : "PT",
+        "categ_dsg" : "Portugal",
+        "categ_ord" : "1",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1",
+        "categ_cod" : "1",
+        "categ_dsg" : "Continente",
+        "categ_ord" : "2",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num3_T" : [ {
+        "dim_num" : "3",
+        "cat_id" : "T",
+        "categ_cod" : "T",
+        "categ_dsg" : "Total",
+        "categ_ord" : "2",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num3_01" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01",
+        "categ_cod" : "01",
+        "categ_dsg" : "Produtos alimentares e bebidas não alcoólicas",
+        "categ_ord" : "3",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_011" : [ {
+        "dim_num" : "3",
+        "cat_id" : "011",
+        "categ_cod" : "011",
+        "categ_dsg" : "Produtos alimentares",
+        "categ_ord" : "4",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0111" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0111",
+        "categ_cod" : "0111",
+        "categ_dsg" : "Cereais e produtos à base de cereais",
+        "categ_ord" : "5",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_01111" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01111",
+        "categ_cod" : "01111",
+        "categ_dsg" : "Cereais",
+        "categ_ord" : "6",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01112" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01112",
+        "categ_cod" : "01112",
+        "categ_dsg" : "Farinha de cereais",
+        "categ_ord" : "7",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01113" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01113",
+        "categ_cod" : "01113",
+        "categ_dsg" : "Pão e produtos de padaria",
+        "categ_ord" : "8",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01114" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01114",
+        "categ_cod" : "01114",
+        "categ_dsg" : "Cereais para pequeno-almoço",
+        "categ_ord" : "9",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01115" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01115",
+        "categ_cod" : "01115",
+        "categ_dsg" : "Massas alimentícias, cuscuz e semelhantes",
+        "categ_ord" : "10",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01119" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01119",
+        "categ_cod" : "01119",
+        "categ_dsg" : "Outros cereais moídos e produtos de cereais",
+        "categ_ord" : "11",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0112" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0112",
+        "categ_cod" : "0112",
+        "categ_dsg" : "Animais vivos e carne e outras partes de animais terrestres abatidos",
+        "categ_ord" : "12",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_01121" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01121",
+        "categ_cod" : "01121",
+        "categ_dsg" : "Animais terrestres vivos",
+        "categ_ord" : "13",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01122" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01122",
+        "categ_cod" : "01122",
+        "categ_dsg" : "Carne, fresca, refrigerada ou congelada",
+        "categ_ord" : "14",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01123" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01123",
+        "categ_cod" : "01123",
+        "categ_dsg" : "Carne, seca, salgada, em salmoura ou fumada",
+        "categ_ord" : "15",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01124" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01124",
+        "categ_cod" : "01124",
+        "categ_dsg" : "Miudezas, sangue e outras partes de animais abatidos, frescos, refrigerados ou congelados, secos, salgados, em salmoura ou fumados",
+        "categ_ord" : "16",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01125" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01125",
+        "categ_cod" : "01125",
+        "categ_dsg" : "Preparações à base de carne, miudezas, sangue e outras partes de animais abatidos",
+        "categ_ord" : "17",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0113" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0113",
+        "categ_cod" : "0113",
+        "categ_dsg" : "Peixe e marisco",
+        "categ_ord" : "18",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_01131" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01131",
+        "categ_cod" : "01131",
+        "categ_dsg" : "Peixe, vivo, fresco, refrigerado ou congelado",
+        "categ_ord" : "19",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01132" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01132",
+        "categ_cod" : "01132",
+        "categ_dsg" : "Peixe, seco, salgado, em salmoura ou fumado",
+        "categ_ord" : "20",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01133" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01133",
+        "categ_cod" : "01133",
+        "categ_dsg" : "Preparações à base de peixe",
+        "categ_ord" : "21",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01134" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01134",
+        "categ_cod" : "01134",
+        "categ_dsg" : "Marisco, vivo, fresco, refrigerado ou congelado",
+        "categ_ord" : "22",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01135" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01135",
+        "categ_cod" : "01135",
+        "categ_dsg" : "Marisco, seco, salgado, em salmoura ou fumado",
+        "categ_ord" : "23",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01136" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01136",
+        "categ_cod" : "01136",
+        "categ_dsg" : "Preparações à base de marisco",
+        "categ_ord" : "24",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01137" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01137",
+        "categ_cod" : "01137",
+        "categ_dsg" : "Fígados, ovas e outras miudezas de peixe e de marisco, sob todas as formas",
+        "categ_ord" : "25",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0114" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0114",
+        "categ_cod" : "0114",
+        "categ_dsg" : "Leite, outros produtos lácteos e ovos",
+        "categ_ord" : "26",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_01141" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01141",
+        "categ_cod" : "01141",
+        "categ_dsg" : "Leite cru e gordo",
+        "categ_ord" : "27",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01142" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01142",
+        "categ_cod" : "01142",
+        "categ_dsg" : "Leite magro",
+        "categ_ord" : "28",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01143" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01143",
+        "categ_cod" : "01143",
+        "categ_dsg" : "Outro leite e natas",
+        "categ_ord" : "29",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01144" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01144",
+        "categ_cod" : "01144",
+        "categ_dsg" : "Leite de origem não animal",
+        "categ_ord" : "30",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01145" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01145",
+        "categ_cod" : "01145",
+        "categ_dsg" : "Queijo",
+        "categ_ord" : "31",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01146" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01146",
+        "categ_cod" : "01146",
+        "categ_dsg" : "Iogurte e produtos semelhantes",
+        "categ_ord" : "32",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01147" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01147",
+        "categ_cod" : "01147",
+        "categ_dsg" : "Sobremesas e bebidas à base de leite",
+        "categ_ord" : "33",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01148" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01148",
+        "categ_cod" : "01148",
+        "categ_dsg" : "Ovos",
+        "categ_ord" : "34",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01149" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01149",
+        "categ_cod" : "01149",
+        "categ_dsg" : "Outros produtos lácteos",
+        "categ_ord" : "35",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0115" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0115",
+        "categ_cod" : "0115",
+        "categ_dsg" : "Matérias gordas",
+        "categ_ord" : "36",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_01151" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01151",
+        "categ_cod" : "01151",
+        "categ_dsg" : "Óleos vegetais",
+        "categ_ord" : "37",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01152" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01152",
+        "categ_cod" : "01152",
+        "categ_dsg" : "Manteiga e óleos e outras matérias gordas provenientes do leite",
+        "categ_ord" : "38",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01153" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01153",
+        "categ_cod" : "01153",
+        "categ_dsg" : "Margarina e preparações similares",
+        "categ_ord" : "39",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01159" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01159",
+        "categ_cod" : "01159",
+        "categ_dsg" : "Outros óleos e gorduras animais",
+        "categ_ord" : "40",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0116" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0116",
+        "categ_cod" : "0116",
+        "categ_dsg" : "Fruta e frutos de casca rija",
+        "categ_ord" : "41",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_01161" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01161",
+        "categ_cod" : "01161",
+        "categ_dsg" : "Tâmaras, figos e frutos tropicais, frescos",
+        "categ_ord" : "42",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01162" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01162",
+        "categ_cod" : "01162",
+        "categ_dsg" : "Citrinos, frescos",
+        "categ_ord" : "43",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01163" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01163",
+        "categ_cod" : "01163",
+        "categ_dsg" : "Frutos de prunóideas e de pomóideas, frescos",
+        "categ_ord" : "44",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01164" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01164",
+        "categ_cod" : "01164",
+        "categ_dsg" : "Bagas frescas",
+        "categ_ord" : "45",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01165" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01165",
+        "categ_cod" : "01165",
+        "categ_dsg" : "Outros frutos frescos",
+        "categ_ord" : "46",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01166" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01166",
+        "categ_cod" : "01166",
+        "categ_dsg" : "Frutos congelados",
+        "categ_ord" : "47",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01167" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01167",
+        "categ_cod" : "01167",
+        "categ_dsg" : "Frutos secos e desidratados",
+        "categ_ord" : "48",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01168" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01168",
+        "categ_cod" : "01168",
+        "categ_dsg" : "Frutos de casca rija, com ou sem casca",
+        "categ_ord" : "49",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01169" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01169",
+        "categ_cod" : "01169",
+        "categ_dsg" : "Frutos (incluindo de casca rija), moídos e noutras preparações",
+        "categ_ord" : "50",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0117" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0117",
+        "categ_cod" : "0117",
+        "categ_dsg" : "Produtos hortícolas, tubérculos, plátanos (bananas-pão), bananas de cozinhar e leguminosas secas",
+        "categ_ord" : "51",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_01171" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01171",
+        "categ_cod" : "01171",
+        "categ_dsg" : "Produtos hortícolas de folha ou talo, frescos ou refrigerados",
+        "categ_ord" : "52",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01172" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01172",
+        "categ_cod" : "01172",
+        "categ_dsg" : "Frutos hortícolas, frescos ou refrigerados",
+        "categ_ord" : "53",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01173" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01173",
+        "categ_cod" : "01173",
+        "categ_dsg" : "Leguminosas frescas, frescas ou refrigeradas",
+        "categ_ord" : "54",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01174" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01174",
+        "categ_cod" : "01174",
+        "categ_dsg" : "Outros produtos hortícolas, frescos ou refrigerados",
+        "categ_ord" : "55",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01175" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01175",
+        "categ_cod" : "01175",
+        "categ_dsg" : "Tubérculos, plátanos (bananas-pão) e bananas de cozinhar, frescos ou refrigerados",
+        "categ_ord" : "56",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01176" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01176",
+        "categ_cod" : "01176",
+        "categ_dsg" : "Leguminosas secas",
+        "categ_ord" : "57",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01177" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01177",
+        "categ_cod" : "01177",
+        "categ_dsg" : "Outros produtos hortícolas, tubérculos, plátanos (bananas-pão) e bananas de cozinhar, secos e desidratados",
+        "categ_ord" : "58",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01178" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01178",
+        "categ_cod" : "01178",
+        "categ_dsg" : "Produtos hortícolas, tubérculos, plátanos (bananas-pão) e bananas de cozinhar, congelados",
+        "categ_ord" : "59",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01179" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01179",
+        "categ_cod" : "01179",
+        "categ_dsg" : "Produtos hortícolas, tubérculos, plátanos (bananas-pão), bananas de cozinhar e leguminosas secas, moídos e noutras preparações",
+        "categ_ord" : "60",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0118" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0118",
+        "categ_cod" : "0118",
+        "categ_dsg" : "Açúcar, produtos de confeitaria e sobremesas",
+        "categ_ord" : "61",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_01181" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01181",
+        "categ_cod" : "01181",
+        "categ_dsg" : "Açúcar de cana e açúcar de beterraba",
+        "categ_ord" : "62",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01182" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01182",
+        "categ_cod" : "01182",
+        "categ_dsg" : "Outros açúcares e sucedâneos do açúcar",
+        "categ_ord" : "63",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01183" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01183",
+        "categ_cod" : "01183",
+        "categ_dsg" : "Doces de fruta, doces de citrinos, geleias, purés e pastas de frutas e mel",
+        "categ_ord" : "64",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01184" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01184",
+        "categ_cod" : "01184",
+        "categ_dsg" : "Purés, manteigas e pastas de frutas de casca rija",
+        "categ_ord" : "65",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01185" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01185",
+        "categ_cod" : "01185",
+        "categ_dsg" : "Chocolate, cacau e produtos alimentares à base de cacau",
+        "categ_ord" : "66",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01186" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01186",
+        "categ_cod" : "01186",
+        "categ_dsg" : "Gelo, gelados e sorvetes",
+        "categ_ord" : "67",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01189" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01189",
+        "categ_cod" : "01189",
+        "categ_dsg" : "Outros produtos de confeitaria e sobremesas n.e.",
+        "categ_ord" : "68",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0119" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0119",
+        "categ_cod" : "0119",
+        "categ_dsg" : "Pratos preparados e outros produtos alimentares",
+        "categ_ord" : "69",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_01191" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01191",
+        "categ_cod" : "01191",
+        "categ_dsg" : "Pratos preparados",
+        "categ_ord" : "70",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01192" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01192",
+        "categ_cod" : "01192",
+        "categ_dsg" : "Alimentos para bebés",
+        "categ_ord" : "71",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01193" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01193",
+        "categ_cod" : "01193",
+        "categ_dsg" : "Sal, condimentos e molhos",
+        "categ_ord" : "72",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01194" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01194",
+        "categ_cod" : "01194",
+        "categ_dsg" : "Especiarias, ervas aromáticas e sementes",
+        "categ_ord" : "73",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_01199" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01199",
+        "categ_cod" : "01199",
+        "categ_dsg" : "Outros produtos alimentares, n.e.",
+        "categ_ord" : "74",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_012" : [ {
+        "dim_num" : "3",
+        "cat_id" : "012",
+        "categ_cod" : "012",
+        "categ_dsg" : "Bebidas não alcoólicas",
+        "categ_ord" : "75",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0121" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0121",
+        "categ_cod" : "0121",
+        "categ_dsg" : "Sumos de fruta e de produtos hortícolas",
+        "categ_ord" : "76",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_01210" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01210",
+        "categ_cod" : "01210",
+        "categ_dsg" : "Sumos de fruta e de produtos hortícolas",
+        "categ_ord" : "77",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0122" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0122",
+        "categ_cod" : "0122",
+        "categ_dsg" : "Café e sucedâneos do café",
+        "categ_ord" : "78",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_01220" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01220",
+        "categ_cod" : "01220",
+        "categ_dsg" : "Café e sucedâneos do café",
+        "categ_ord" : "79",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0123" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0123",
+        "categ_cod" : "0123",
+        "categ_dsg" : "Chá, mate e outros produtos derivados de plantas para infusão",
+        "categ_ord" : "80",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_01230" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01230",
+        "categ_cod" : "01230",
+        "categ_dsg" : "Chá, mate e outros produtos derivados de plantas para infusão",
+        "categ_ord" : "81",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0124" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0124",
+        "categ_cod" : "0124",
+        "categ_dsg" : "Bebidas à base de cacau",
+        "categ_ord" : "82",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_01240" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01240",
+        "categ_cod" : "01240",
+        "categ_dsg" : "Bebidas à base de cacau",
+        "categ_ord" : "83",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0125" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0125",
+        "categ_cod" : "0125",
+        "categ_dsg" : "Água",
+        "categ_ord" : "84",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_01250" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01250",
+        "categ_cod" : "01250",
+        "categ_dsg" : "Água",
+        "categ_ord" : "85",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0126" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0126",
+        "categ_cod" : "0126",
+        "categ_dsg" : "Refrigerantes",
+        "categ_ord" : "86",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_01260" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01260",
+        "categ_cod" : "01260",
+        "categ_dsg" : "Refrigerantes",
+        "categ_ord" : "87",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0129" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0129",
+        "categ_cod" : "0129",
+        "categ_dsg" : "Outras bebidas não alcoólicas",
+        "categ_ord" : "88",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_01290" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01290",
+        "categ_cod" : "01290",
+        "categ_dsg" : "Outras bebidas não alcoólicas",
+        "categ_ord" : "89",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_013" : [ {
+        "dim_num" : "3",
+        "cat_id" : "013",
+        "categ_cod" : "013",
+        "categ_dsg" : "Serviços de transformação de produtos de base em produtos alimentares e bebidas não alcoólicas",
+        "categ_ord" : "90",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0130" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0130",
+        "categ_cod" : "0130",
+        "categ_dsg" : "Serviços de transformação de produtos de base em produtos alimentares e bebidas não alcoólicas",
+        "categ_ord" : "91",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_01300" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01300",
+        "categ_cod" : "01300",
+        "categ_dsg" : "Serviços de transformação de produtos de base em produtos alimentares e bebidas não alcoólicas",
+        "categ_ord" : "92",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_02" : [ {
+        "dim_num" : "3",
+        "cat_id" : "02",
+        "categ_cod" : "02",
+        "categ_dsg" : "Bebidas alcoólicas, tabaco e narcóticos",
+        "categ_ord" : "93",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_021" : [ {
+        "dim_num" : "3",
+        "cat_id" : "021",
+        "categ_cod" : "021",
+        "categ_dsg" : "Bebidas alcoólicas",
+        "categ_ord" : "94",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0211" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0211",
+        "categ_cod" : "0211",
+        "categ_dsg" : "Bebidas espirituosas e licores",
+        "categ_ord" : "95",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_02110" : [ {
+        "dim_num" : "3",
+        "cat_id" : "02110",
+        "categ_cod" : "02110",
+        "categ_dsg" : "Bebidas espirituosas e licores",
+        "categ_ord" : "96",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0212" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0212",
+        "categ_cod" : "0212",
+        "categ_dsg" : "Vinhos",
+        "categ_ord" : "97",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_02121" : [ {
+        "dim_num" : "3",
+        "cat_id" : "02121",
+        "categ_cod" : "02121",
+        "categ_dsg" : "Vinhos de uva",
+        "categ_ord" : "98",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_02122" : [ {
+        "dim_num" : "3",
+        "cat_id" : "02122",
+        "categ_cod" : "02122",
+        "categ_dsg" : "Vinhos de outras origens",
+        "categ_ord" : "99",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0213" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0213",
+        "categ_cod" : "0213",
+        "categ_dsg" : "Cerveja",
+        "categ_ord" : "100",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_02130" : [ {
+        "dim_num" : "3",
+        "cat_id" : "02130",
+        "categ_cod" : "02130",
+        "categ_dsg" : "Cerveja",
+        "categ_ord" : "101",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0219" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0219",
+        "categ_cod" : "0219",
+        "categ_dsg" : "Outras bebidas alcoólicas",
+        "categ_ord" : "102",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_02190" : [ {
+        "dim_num" : "3",
+        "cat_id" : "02190",
+        "categ_cod" : "02190",
+        "categ_dsg" : "Outras bebidas alcoólicas",
+        "categ_ord" : "103",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_022" : [ {
+        "dim_num" : "3",
+        "cat_id" : "022",
+        "categ_cod" : "022",
+        "categ_dsg" : "Serviços de produção de álcool",
+        "categ_ord" : "104",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0220" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0220",
+        "categ_cod" : "0220",
+        "categ_dsg" : "Serviços de produção de álcool",
+        "categ_ord" : "105",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_02200" : [ {
+        "dim_num" : "3",
+        "cat_id" : "02200",
+        "categ_cod" : "02200",
+        "categ_dsg" : "Serviços de produção de álcool",
+        "categ_ord" : "106",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_023" : [ {
+        "dim_num" : "3",
+        "cat_id" : "023",
+        "categ_cod" : "023",
+        "categ_dsg" : "Tabaco",
+        "categ_ord" : "107",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0230" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0230",
+        "categ_cod" : "0230",
+        "categ_dsg" : "Tabaco",
+        "categ_ord" : "108",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_02301" : [ {
+        "dim_num" : "3",
+        "cat_id" : "02301",
+        "categ_cod" : "02301",
+        "categ_dsg" : "Cigarros",
+        "categ_ord" : "109",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_02302" : [ {
+        "dim_num" : "3",
+        "cat_id" : "02302",
+        "categ_cod" : "02302",
+        "categ_dsg" : "Charutos",
+        "categ_ord" : "110",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_02309" : [ {
+        "dim_num" : "3",
+        "cat_id" : "02309",
+        "categ_cod" : "02309",
+        "categ_dsg" : "Outros produtos do tabaco",
+        "categ_ord" : "111",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_03" : [ {
+        "dim_num" : "3",
+        "cat_id" : "03",
+        "categ_cod" : "03",
+        "categ_dsg" : "Vestuário e calçado",
+        "categ_ord" : "112",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_031" : [ {
+        "dim_num" : "3",
+        "cat_id" : "031",
+        "categ_cod" : "031",
+        "categ_dsg" : "Vestuário",
+        "categ_ord" : "113",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0311" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0311",
+        "categ_cod" : "0311",
+        "categ_dsg" : "Materiais para vestuário",
+        "categ_ord" : "114",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_03110" : [ {
+        "dim_num" : "3",
+        "cat_id" : "03110",
+        "categ_cod" : "03110",
+        "categ_dsg" : "Materiais para vestuário",
+        "categ_ord" : "115",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0312" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0312",
+        "categ_cod" : "0312",
+        "categ_dsg" : "Peças de vestuário",
+        "categ_ord" : "116",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_03121" : [ {
+        "dim_num" : "3",
+        "cat_id" : "03121",
+        "categ_cod" : "03121",
+        "categ_dsg" : "Vestuário de uso masculino",
+        "categ_ord" : "117",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_03122" : [ {
+        "dim_num" : "3",
+        "cat_id" : "03122",
+        "categ_cod" : "03122",
+        "categ_dsg" : "Vestuário de uso feminino",
+        "categ_ord" : "118",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_03123" : [ {
+        "dim_num" : "3",
+        "cat_id" : "03123",
+        "categ_cod" : "03123",
+        "categ_dsg" : "Vestuário para bebé (com menos de 2 anos)",
+        "categ_ord" : "119",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_03124" : [ {
+        "dim_num" : "3",
+        "cat_id" : "03124",
+        "categ_cod" : "03124",
+        "categ_dsg" : "Uniformes escolares",
+        "categ_ord" : "120",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0313" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0313",
+        "categ_cod" : "0313",
+        "categ_dsg" : "Outros artigos e acessórios de vestuário",
+        "categ_ord" : "121",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_03131" : [ {
+        "dim_num" : "3",
+        "cat_id" : "03131",
+        "categ_cod" : "03131",
+        "categ_dsg" : "Outros artigos de vestuário",
+        "categ_ord" : "122",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_03132" : [ {
+        "dim_num" : "3",
+        "cat_id" : "03132",
+        "categ_cod" : "03132",
+        "categ_dsg" : "Acessórios de vestuário",
+        "categ_ord" : "123",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0314" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0314",
+        "categ_cod" : "0314",
+        "categ_dsg" : "Limpeza, reparação, confeção e aluguer de vestuário",
+        "categ_ord" : "124",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_03141" : [ {
+        "dim_num" : "3",
+        "cat_id" : "03141",
+        "categ_cod" : "03141",
+        "categ_dsg" : "Limpeza de vestuário",
+        "categ_ord" : "125",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_03142" : [ {
+        "dim_num" : "3",
+        "cat_id" : "03142",
+        "categ_cod" : "03142",
+        "categ_dsg" : "Reparação, confeção e aluguer de vestuário",
+        "categ_ord" : "126",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_032" : [ {
+        "dim_num" : "3",
+        "cat_id" : "032",
+        "categ_cod" : "032",
+        "categ_dsg" : "Calçado",
+        "categ_ord" : "127",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0321" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0321",
+        "categ_cod" : "0321",
+        "categ_dsg" : "Sapatos e outro tipo de calçado",
+        "categ_ord" : "128",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_03211" : [ {
+        "dim_num" : "3",
+        "cat_id" : "03211",
+        "categ_cod" : "03211",
+        "categ_dsg" : "Calçado para homem",
+        "categ_ord" : "129",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_03212" : [ {
+        "dim_num" : "3",
+        "cat_id" : "03212",
+        "categ_cod" : "03212",
+        "categ_dsg" : "Calçado para senhora",
+        "categ_ord" : "130",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_03213" : [ {
+        "dim_num" : "3",
+        "cat_id" : "03213",
+        "categ_cod" : "03213",
+        "categ_dsg" : "Calçado para bebé e criança",
+        "categ_ord" : "131",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0322" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0322",
+        "categ_cod" : "0322",
+        "categ_dsg" : "Limpeza, reparação e aluguer de calçado",
+        "categ_ord" : "132",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_03220" : [ {
+        "dim_num" : "3",
+        "cat_id" : "03220",
+        "categ_cod" : "03220",
+        "categ_dsg" : "Limpeza, reparação e aluguer de calçado",
+        "categ_ord" : "133",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_04" : [ {
+        "dim_num" : "3",
+        "cat_id" : "04",
+        "categ_cod" : "04",
+        "categ_dsg" : "Habitação, água, eletricidade, gás e outros combustíveis",
+        "categ_ord" : "134",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_041" : [ {
+        "dim_num" : "3",
+        "cat_id" : "041",
+        "categ_cod" : "041",
+        "categ_dsg" : "Rendas efetivamente pagas pela habitação",
+        "categ_ord" : "135",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0411" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0411",
+        "categ_cod" : "0411",
+        "categ_dsg" : "Rendas efetivamente pagas pelos inquilinos pela residência principal",
+        "categ_ord" : "136",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_04110" : [ {
+        "dim_num" : "3",
+        "cat_id" : "04110",
+        "categ_cod" : "04110",
+        "categ_dsg" : "Rendas efetivamente pagas pelos inquilinos pela residência principal",
+        "categ_ord" : "137",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0412" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0412",
+        "categ_cod" : "0412",
+        "categ_dsg" : "Outras rendas efetivamente pagas",
+        "categ_ord" : "138",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_04121" : [ {
+        "dim_num" : "3",
+        "cat_id" : "04121",
+        "categ_cod" : "04121",
+        "categ_dsg" : "Rendas efetivamente pagas pelos inquilinos por residências secundárias",
+        "categ_ord" : "139",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_04122" : [ {
+        "dim_num" : "3",
+        "cat_id" : "04122",
+        "categ_cod" : "04122",
+        "categ_dsg" : "Rendas de garagens pagas e outras rendas pagas pelos inquilinos",
+        "categ_ord" : "140",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_043" : [ {
+        "dim_num" : "3",
+        "cat_id" : "043",
+        "categ_cod" : "043",
+        "categ_dsg" : "Manutenção, reparação e segurança da habitação",
+        "categ_ord" : "141",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0431" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0431",
+        "categ_cod" : "0431",
+        "categ_dsg" : "Equipamento e materiais de segurança para a manutenção e reparação das habitações",
+        "categ_ord" : "142",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_04311" : [ {
+        "dim_num" : "3",
+        "cat_id" : "04311",
+        "categ_cod" : "04311",
+        "categ_dsg" : "Materiais para a manutenção e reparação das habitações",
+        "categ_ord" : "143",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_04312" : [ {
+        "dim_num" : "3",
+        "cat_id" : "04312",
+        "categ_cod" : "04312",
+        "categ_dsg" : "Equipamento de segurança",
+        "categ_ord" : "144",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0432" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0432",
+        "categ_cod" : "0432",
+        "categ_dsg" : "Serviços para a manutenção, reparação e segurança da habitação",
+        "categ_ord" : "145",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_04320" : [ {
+        "dim_num" : "3",
+        "cat_id" : "04320",
+        "categ_cod" : "04320",
+        "categ_dsg" : "Serviços para a manutenção, reparação e segurança da habitação",
+        "categ_ord" : "146",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_044" : [ {
+        "dim_num" : "3",
+        "cat_id" : "044",
+        "categ_cod" : "044",
+        "categ_dsg" : "Abastecimento de água e serviços diversos relacionados com a habitação",
+        "categ_ord" : "147",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0441" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0441",
+        "categ_cod" : "0441",
+        "categ_dsg" : "Abastecimento de água",
+        "categ_ord" : "148",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_04411" : [ {
+        "dim_num" : "3",
+        "cat_id" : "04411",
+        "categ_cod" : "04411",
+        "categ_dsg" : "Abastecimento de água através de sistemas de rede",
+        "categ_ord" : "149",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_04412" : [ {
+        "dim_num" : "3",
+        "cat_id" : "04412",
+        "categ_cod" : "04412",
+        "categ_dsg" : "Abastecimento de água através de outros sistemas",
+        "categ_ord" : "150",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0442" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0442",
+        "categ_cod" : "0442",
+        "categ_dsg" : "Recolha de resíduos sólidos",
+        "categ_ord" : "151",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_04420" : [ {
+        "dim_num" : "3",
+        "cat_id" : "04420",
+        "categ_cod" : "04420",
+        "categ_dsg" : "Recolha de resíduos sólidos",
+        "categ_ord" : "152",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0443" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0443",
+        "categ_cod" : "0443",
+        "categ_dsg" : "Recolha de esgotos",
+        "categ_ord" : "153",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_04431" : [ {
+        "dim_num" : "3",
+        "cat_id" : "04431",
+        "categ_cod" : "04431",
+        "categ_dsg" : "Recolha de esgotos através de redes de esgotos",
+        "categ_ord" : "154",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_04432" : [ {
+        "dim_num" : "3",
+        "cat_id" : "04432",
+        "categ_cod" : "04432",
+        "categ_dsg" : "Recolha de esgotos através de sistemas de saneamento no local",
+        "categ_ord" : "155",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0444" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0444",
+        "categ_cod" : "0444",
+        "categ_dsg" : "Outros serviços relacionados com a habitação",
+        "categ_ord" : "156",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_04441" : [ {
+        "dim_num" : "3",
+        "cat_id" : "04441",
+        "categ_cod" : "04441",
+        "categ_dsg" : "Taxas de manutenção de edifícios com vários ocupantes",
+        "categ_ord" : "157",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_04449" : [ {
+        "dim_num" : "3",
+        "cat_id" : "04449",
+        "categ_cod" : "04449",
+        "categ_dsg" : "Outros serviços relacionados com a habitação, n.e.",
+        "categ_ord" : "158",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_045" : [ {
+        "dim_num" : "3",
+        "cat_id" : "045",
+        "categ_cod" : "045",
+        "categ_dsg" : "Eletricidade, gás e outros combustíveis",
+        "categ_ord" : "159",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0451" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0451",
+        "categ_cod" : "0451",
+        "categ_dsg" : "Eletricidade",
+        "categ_ord" : "160",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_04510" : [ {
+        "dim_num" : "3",
+        "cat_id" : "04510",
+        "categ_cod" : "04510",
+        "categ_dsg" : "Eletricidade",
+        "categ_ord" : "161",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0452" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0452",
+        "categ_cod" : "0452",
+        "categ_dsg" : "Gás",
+        "categ_ord" : "162",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_04521" : [ {
+        "dim_num" : "3",
+        "cat_id" : "04521",
+        "categ_cod" : "04521",
+        "categ_dsg" : "Gás natural através de redes",
+        "categ_ord" : "163",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_04522" : [ {
+        "dim_num" : "3",
+        "cat_id" : "04522",
+        "categ_cod" : "04522",
+        "categ_dsg" : "Hidrocarbonetos liquefeitos",
+        "categ_ord" : "164",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0453" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0453",
+        "categ_cod" : "0453",
+        "categ_dsg" : "Combustíveis líquidos",
+        "categ_ord" : "165",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_04530" : [ {
+        "dim_num" : "3",
+        "cat_id" : "04530",
+        "categ_cod" : "04530",
+        "categ_dsg" : "Combustíveis líquidos",
+        "categ_ord" : "166",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0454" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0454",
+        "categ_cod" : "0454",
+        "categ_dsg" : "Combustíveis sólidos",
+        "categ_ord" : "167",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_04541" : [ {
+        "dim_num" : "3",
+        "cat_id" : "04541",
+        "categ_cod" : "04541",
+        "categ_dsg" : "Carvão, briquetes de carvão, turfa e briquetes de turfa",
+        "categ_ord" : "168",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_04542" : [ {
+        "dim_num" : "3",
+        "cat_id" : "04542",
+        "categ_cod" : "04542",
+        "categ_dsg" : "Lenha, incluindo péletes e briquetes",
+        "categ_ord" : "169",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_04543" : [ {
+        "dim_num" : "3",
+        "cat_id" : "04543",
+        "categ_cod" : "04543",
+        "categ_dsg" : "Carvão vegetal",
+        "categ_ord" : "170",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_04549" : [ {
+        "dim_num" : "3",
+        "cat_id" : "04549",
+        "categ_cod" : "04549",
+        "categ_dsg" : "Outros combustíveis sólidos",
+        "categ_ord" : "171",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0455" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0455",
+        "categ_cod" : "0455",
+        "categ_dsg" : "Outros tipos de energia para aquecimento e arrefecimento",
+        "categ_ord" : "172",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_04550" : [ {
+        "dim_num" : "3",
+        "cat_id" : "04550",
+        "categ_cod" : "04550",
+        "categ_dsg" : "Outros tipos de energia para aquecimento e arrefecimento",
+        "categ_ord" : "173",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_05" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05",
+        "categ_cod" : "05",
+        "categ_dsg" : "Acessórios para o lar, equipamento doméstico e manutenção corrente da habitação",
+        "categ_ord" : "174",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_051" : [ {
+        "dim_num" : "3",
+        "cat_id" : "051",
+        "categ_cod" : "051",
+        "categ_dsg" : "Mobiliário, acessórios e tapetes",
+        "categ_ord" : "175",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0511" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0511",
+        "categ_cod" : "0511",
+        "categ_dsg" : "Mobiliário, acessórios e tapetes",
+        "categ_ord" : "176",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_05111" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05111",
+        "categ_cod" : "05111",
+        "categ_dsg" : "Mobiliário de uso doméstico",
+        "categ_ord" : "177",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_05112" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05112",
+        "categ_cod" : "05112",
+        "categ_dsg" : "Mobiliário de jardim e de campismo",
+        "categ_ord" : "178",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_05113" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05113",
+        "categ_cod" : "05113",
+        "categ_dsg" : "Equipamentos de iluminação",
+        "categ_ord" : "179",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_05114" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05114",
+        "categ_cod" : "05114",
+        "categ_dsg" : "Acessórios, tapetes e outros revestimentos têxteis para pavimentos",
+        "categ_ord" : "180",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0512" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0512",
+        "categ_cod" : "0512",
+        "categ_dsg" : "Reparação, instalação e aluguer de mobiliário, acessórios e tapetes",
+        "categ_ord" : "181",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_05120" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05120",
+        "categ_cod" : "05120",
+        "categ_dsg" : "Reparação, instalação e aluguer de mobiliário, acessórios e tapetes",
+        "categ_ord" : "182",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_052" : [ {
+        "dim_num" : "3",
+        "cat_id" : "052",
+        "categ_cod" : "052",
+        "categ_dsg" : "Têxteis de uso doméstico",
+        "categ_ord" : "183",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0521" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0521",
+        "categ_cod" : "0521",
+        "categ_dsg" : "Têxteis de uso doméstico",
+        "categ_ord" : "184",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_05211" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05211",
+        "categ_cod" : "05211",
+        "categ_dsg" : "Tecidos para estofos e cortinados",
+        "categ_ord" : "185",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_05212" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05212",
+        "categ_cod" : "05212",
+        "categ_dsg" : "Roupas de cama e artigos de cama",
+        "categ_ord" : "186",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_05213" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05213",
+        "categ_cod" : "05213",
+        "categ_dsg" : "Roupa de mesa e de banho",
+        "categ_ord" : "187",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_05219" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05219",
+        "categ_cod" : "05219",
+        "categ_dsg" : "Outros têxteis de uso doméstico",
+        "categ_ord" : "188",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0522" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0522",
+        "categ_cod" : "0522",
+        "categ_dsg" : "Serviços de reparação, aluguer e confeção de têxteis para uso doméstico",
+        "categ_ord" : "189",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_05220" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05220",
+        "categ_cod" : "05220",
+        "categ_dsg" : "Serviços de reparação, aluguer e confeção de têxteis para uso doméstico",
+        "categ_ord" : "190",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_053" : [ {
+        "dim_num" : "3",
+        "cat_id" : "053",
+        "categ_cod" : "053",
+        "categ_dsg" : "Eletrodomésticos",
+        "categ_ord" : "191",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0531" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0531",
+        "categ_cod" : "0531",
+        "categ_dsg" : "Eletrodomésticos de base e outros aparelhos de uso doméstico",
+        "categ_ord" : "192",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_05311" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05311",
+        "categ_cod" : "05311",
+        "categ_dsg" : "Aparelhos de cozinha de base",
+        "categ_ord" : "193",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_05312" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05312",
+        "categ_cod" : "05312",
+        "categ_dsg" : "Aparelhos de lavandaria de base",
+        "categ_ord" : "194",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_05313" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05313",
+        "categ_cod" : "05313",
+        "categ_dsg" : "Aquecedores e aparelhos de ar condicionado",
+        "categ_ord" : "195",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_05314" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05314",
+        "categ_cod" : "05314",
+        "categ_dsg" : "Equipamento de limpeza",
+        "categ_ord" : "196",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_05319" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05319",
+        "categ_cod" : "05319",
+        "categ_dsg" : "Outro equipamento doméstico de base",
+        "categ_ord" : "197",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0532" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0532",
+        "categ_cod" : "0532",
+        "categ_dsg" : "Pequenos eletrodomésticos",
+        "categ_ord" : "198",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_05321" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05321",
+        "categ_cod" : "05321",
+        "categ_dsg" : "Pequenos aparelhos para cozinhar e transformar alimentos",
+        "categ_ord" : "199",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_05322" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05322",
+        "categ_cod" : "05322",
+        "categ_dsg" : "Pequenos aparelhos para a preparação de bebidas",
+        "categ_ord" : "200",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_05329" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05329",
+        "categ_cod" : "05329",
+        "categ_dsg" : "Outros pequenos eletrodomésticos",
+        "categ_ord" : "201",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0533" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0533",
+        "categ_cod" : "0533",
+        "categ_dsg" : "Reparação, instalação e aluguer de eletrodomésticos",
+        "categ_ord" : "202",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_05330" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05330",
+        "categ_cod" : "05330",
+        "categ_dsg" : "Reparação, instalação e aluguer de eletrodomésticos",
+        "categ_ord" : "203",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_054" : [ {
+        "dim_num" : "3",
+        "cat_id" : "054",
+        "categ_cod" : "054",
+        "categ_dsg" : "Vidros, loiças e outros utensílios de uso doméstico",
+        "categ_ord" : "204",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0540" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0540",
+        "categ_cod" : "0540",
+        "categ_dsg" : "Vidros, loiças e outros utensílios de uso doméstico",
+        "categ_ord" : "205",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_05401" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05401",
+        "categ_cod" : "05401",
+        "categ_dsg" : "Vidros, cristais, loiças de mesa em cerâmica e porcelana",
+        "categ_ord" : "206",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_05402" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05402",
+        "categ_cod" : "05402",
+        "categ_dsg" : "Talheres, cutelaria e artigos de prata",
+        "categ_ord" : "207",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_05403" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05403",
+        "categ_cod" : "05403",
+        "categ_dsg" : "Artigos e utensílios de cozinha",
+        "categ_ord" : "208",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_05404" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05404",
+        "categ_cod" : "05404",
+        "categ_dsg" : "Reparação e aluguer de vidros, loiças e outros utensílios de uso doméstico",
+        "categ_ord" : "209",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_055" : [ {
+        "dim_num" : "3",
+        "cat_id" : "055",
+        "categ_cod" : "055",
+        "categ_dsg" : "Ferramentas e equipamento para casa e jardim",
+        "categ_ord" : "210",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0551" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0551",
+        "categ_cod" : "0551",
+        "categ_dsg" : "Ferramentas e equipamento motorizados",
+        "categ_ord" : "211",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_05510" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05510",
+        "categ_cod" : "05510",
+        "categ_dsg" : "Ferramentas e equipamento motorizados",
+        "categ_ord" : "212",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0552" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0552",
+        "categ_cod" : "0552",
+        "categ_dsg" : "Ferramentas não motorizadas e acessórios diversos",
+        "categ_ord" : "213",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_05521" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05521",
+        "categ_cod" : "05521",
+        "categ_dsg" : "Ferramentas não motorizadas",
+        "categ_ord" : "214",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_05522" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05522",
+        "categ_cod" : "05522",
+        "categ_dsg" : "Acessórios diversos",
+        "categ_ord" : "215",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0553" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0553",
+        "categ_cod" : "0553",
+        "categ_dsg" : "Reparação e aluguer de ferramentas e equipamento motorizados e não motorizados",
+        "categ_ord" : "216",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_05530" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05530",
+        "categ_cod" : "05530",
+        "categ_dsg" : "Reparação e aluguer de ferramentas e equipamento motorizados e não motorizados",
+        "categ_ord" : "217",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_056" : [ {
+        "dim_num" : "3",
+        "cat_id" : "056",
+        "categ_cod" : "056",
+        "categ_dsg" : "Bens e serviços para a manutenção corrente da habitação",
+        "categ_ord" : "218",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0561" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0561",
+        "categ_cod" : "0561",
+        "categ_dsg" : "Bens de uso doméstico não duradouros",
+        "categ_ord" : "219",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_05611" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05611",
+        "categ_cod" : "05611",
+        "categ_dsg" : "Produtos de limpeza e manutenção da habitação",
+        "categ_ord" : "220",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_05619" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05619",
+        "categ_cod" : "05619",
+        "categ_dsg" : "Outros bens de uso doméstico não duradouros",
+        "categ_ord" : "221",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0562" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0562",
+        "categ_cod" : "0562",
+        "categ_dsg" : "Serviços domésticos e serviços relativos à habitação",
+        "categ_ord" : "222",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_05621" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05621",
+        "categ_cod" : "05621",
+        "categ_dsg" : "Serviços domésticos prestados por pessoal remunerado",
+        "categ_ord" : "223",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_05629" : [ {
+        "dim_num" : "3",
+        "cat_id" : "05629",
+        "categ_cod" : "05629",
+        "categ_dsg" : "Outros serviços relativos à habitação",
+        "categ_ord" : "224",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_06" : [ {
+        "dim_num" : "3",
+        "cat_id" : "06",
+        "categ_cod" : "06",
+        "categ_dsg" : "Saúde",
+        "categ_ord" : "225",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_061" : [ {
+        "dim_num" : "3",
+        "cat_id" : "061",
+        "categ_cod" : "061",
+        "categ_dsg" : "Medicamentos e produtos de saúde",
+        "categ_ord" : "226",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0611" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0611",
+        "categ_cod" : "0611",
+        "categ_dsg" : "Medicamentos",
+        "categ_ord" : "227",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_06111" : [ {
+        "dim_num" : "3",
+        "cat_id" : "06111",
+        "categ_cod" : "06111",
+        "categ_dsg" : "Medicamentos, vacinas e outras preparações farmacêuticas",
+        "categ_ord" : "228",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_06112" : [ {
+        "dim_num" : "3",
+        "cat_id" : "06112",
+        "categ_cod" : "06112",
+        "categ_dsg" : "Medicamentos à base de plantas e produtos homeopáticos",
+        "categ_ord" : "229",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0612" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0612",
+        "categ_cod" : "0612",
+        "categ_dsg" : "Produtos médicos",
+        "categ_ord" : "230",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_06121" : [ {
+        "dim_num" : "3",
+        "cat_id" : "06121",
+        "categ_cod" : "06121",
+        "categ_dsg" : "Produtos de diagnóstico médico",
+        "categ_ord" : "231",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_06122" : [ {
+        "dim_num" : "3",
+        "cat_id" : "06122",
+        "categ_cod" : "06122",
+        "categ_dsg" : "Dispositivos de prevenção e de proteção",
+        "categ_ord" : "232",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_06123" : [ {
+        "dim_num" : "3",
+        "cat_id" : "06123",
+        "categ_cod" : "06123",
+        "categ_dsg" : "Dispositivos de tratamento para uso pessoal",
+        "categ_ord" : "233",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0613" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0613",
+        "categ_cod" : "0613",
+        "categ_dsg" : "Produtos de apoio",
+        "categ_ord" : "234",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_06131" : [ {
+        "dim_num" : "3",
+        "cat_id" : "06131",
+        "categ_cod" : "06131",
+        "categ_dsg" : "Produtos de apoio à visão",
+        "categ_ord" : "235",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_06132" : [ {
+        "dim_num" : "3",
+        "cat_id" : "06132",
+        "categ_cod" : "06132",
+        "categ_dsg" : "Produtos de apoio à audição e comunicação",
+        "categ_ord" : "236",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_06133" : [ {
+        "dim_num" : "3",
+        "cat_id" : "06133",
+        "categ_cod" : "06133",
+        "categ_dsg" : "Produtos de apoio à mobilidade e à vida quotidiana",
+        "categ_ord" : "237",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0614" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0614",
+        "categ_cod" : "0614",
+        "categ_dsg" : "Reparação, aluguer e manutenção de produtos médicos e de apoio",
+        "categ_ord" : "238",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_06140" : [ {
+        "dim_num" : "3",
+        "cat_id" : "06140",
+        "categ_cod" : "06140",
+        "categ_dsg" : "Reparação, aluguer e manutenção de produtos médicos e de apoio",
+        "categ_ord" : "239",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_062" : [ {
+        "dim_num" : "3",
+        "cat_id" : "062",
+        "categ_cod" : "062",
+        "categ_dsg" : "Serviços de cuidados em regime ambulatório",
+        "categ_ord" : "240",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0621" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0621",
+        "categ_cod" : "0621",
+        "categ_dsg" : "Serviços de cuidados preventivos",
+        "categ_ord" : "241",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_06211" : [ {
+        "dim_num" : "3",
+        "cat_id" : "06211",
+        "categ_cod" : "06211",
+        "categ_dsg" : "Serviços de imunização",
+        "categ_ord" : "242",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_06219" : [ {
+        "dim_num" : "3",
+        "cat_id" : "06219",
+        "categ_cod" : "06219",
+        "categ_dsg" : "Outros serviços de cuidados preventivos",
+        "categ_ord" : "243",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0622" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0622",
+        "categ_cod" : "0622",
+        "categ_dsg" : "Serviços de medicina dentária em regime ambulatório",
+        "categ_ord" : "244",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_06221" : [ {
+        "dim_num" : "3",
+        "cat_id" : "06221",
+        "categ_cod" : "06221",
+        "categ_dsg" : "Serviços de medicina dentária preventiva",
+        "categ_ord" : "245",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_06229" : [ {
+        "dim_num" : "3",
+        "cat_id" : "06229",
+        "categ_cod" : "06229",
+        "categ_dsg" : "Outros serviços de medicina dentária em regime ambulatório",
+        "categ_ord" : "246",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0623" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0623",
+        "categ_cod" : "0623",
+        "categ_dsg" : "Outros serviços de cuidados em regime ambulatório",
+        "categ_ord" : "247",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_06231" : [ {
+        "dim_num" : "3",
+        "cat_id" : "06231",
+        "categ_cod" : "06231",
+        "categ_dsg" : "Serviços curativos e de reabilitação sem internamento",
+        "categ_ord" : "248",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_06232" : [ {
+        "dim_num" : "3",
+        "cat_id" : "06232",
+        "categ_cod" : "06232",
+        "categ_dsg" : "Serviços de cuidados continuados em regime ambulatório",
+        "categ_ord" : "249",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_063" : [ {
+        "dim_num" : "3",
+        "cat_id" : "063",
+        "categ_cod" : "063",
+        "categ_dsg" : "Serviços de cuidados com internamento",
+        "categ_ord" : "250",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0631" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0631",
+        "categ_cod" : "0631",
+        "categ_dsg" : "Serviços curativos e de reabilitação com internamento",
+        "categ_ord" : "251",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_06310" : [ {
+        "dim_num" : "3",
+        "cat_id" : "06310",
+        "categ_cod" : "06310",
+        "categ_dsg" : "Serviços curativos e de reabilitação com internamento",
+        "categ_ord" : "252",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0632" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0632",
+        "categ_cod" : "0632",
+        "categ_dsg" : "Serviços de cuidados continuados com internamento",
+        "categ_ord" : "253",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_06320" : [ {
+        "dim_num" : "3",
+        "cat_id" : "06320",
+        "categ_cod" : "06320",
+        "categ_dsg" : "Serviços de cuidados continuados com internamento",
+        "categ_ord" : "254",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_064" : [ {
+        "dim_num" : "3",
+        "cat_id" : "064",
+        "categ_cod" : "064",
+        "categ_dsg" : "Outros serviços de saúde",
+        "categ_ord" : "255",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0641" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0641",
+        "categ_cod" : "0641",
+        "categ_dsg" : "Serviços de imagiologia de diagnóstico e dos laboratórios de análises clínicas",
+        "categ_ord" : "256",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_06410" : [ {
+        "dim_num" : "3",
+        "cat_id" : "06410",
+        "categ_cod" : "06410",
+        "categ_dsg" : "Serviços de imagiologia de diagnóstico e dos laboratórios de análises clínicas",
+        "categ_ord" : "257",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0642" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0642",
+        "categ_cod" : "0642",
+        "categ_dsg" : "Transporte de emergência de doentes e serviços de emergência médica",
+        "categ_ord" : "258",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_06420" : [ {
+        "dim_num" : "3",
+        "cat_id" : "06420",
+        "categ_cod" : "06420",
+        "categ_dsg" : "Transporte de emergência de doentes e serviços de emergência médica",
+        "categ_ord" : "259",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_07" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07",
+        "categ_cod" : "07",
+        "categ_dsg" : "Transportes",
+        "categ_ord" : "260",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_071" : [ {
+        "dim_num" : "3",
+        "cat_id" : "071",
+        "categ_cod" : "071",
+        "categ_dsg" : "Aquisição de veículos",
+        "categ_ord" : "261",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0711" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0711",
+        "categ_cod" : "0711",
+        "categ_dsg" : "Veículos automóveis",
+        "categ_ord" : "262",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_07111" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07111",
+        "categ_cod" : "07111",
+        "categ_dsg" : "Veículos automóveis novos",
+        "categ_ord" : "263",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_07112" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07112",
+        "categ_cod" : "07112",
+        "categ_dsg" : "Veículos automóveis em segunda mão",
+        "categ_ord" : "264",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0712" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0712",
+        "categ_cod" : "0712",
+        "categ_dsg" : "Motociclos",
+        "categ_ord" : "265",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_07120" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07120",
+        "categ_cod" : "07120",
+        "categ_dsg" : "Motociclos",
+        "categ_ord" : "266",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0713" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0713",
+        "categ_cod" : "0713",
+        "categ_dsg" : "Bicicletas",
+        "categ_ord" : "267",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_07130" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07130",
+        "categ_cod" : "07130",
+        "categ_dsg" : "Bicicletas",
+        "categ_ord" : "268",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0714" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0714",
+        "categ_cod" : "0714",
+        "categ_dsg" : "Veículos de tração animal",
+        "categ_ord" : "269",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_07140" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07140",
+        "categ_cod" : "07140",
+        "categ_dsg" : "Veículos de tração animal",
+        "categ_ord" : "270",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_072" : [ {
+        "dim_num" : "3",
+        "cat_id" : "072",
+        "categ_cod" : "072",
+        "categ_dsg" : "Utilização de equipamento para transporte pessoal",
+        "categ_ord" : "271",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0721" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0721",
+        "categ_cod" : "0721",
+        "categ_dsg" : "Peças e acessórios para equipamento para transporte pessoal",
+        "categ_ord" : "272",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_07211" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07211",
+        "categ_cod" : "07211",
+        "categ_dsg" : "Pneus",
+        "categ_ord" : "273",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_07212" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07212",
+        "categ_cod" : "07212",
+        "categ_dsg" : "Peças para equipamento para transporte pessoal",
+        "categ_ord" : "274",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_07213" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07213",
+        "categ_cod" : "07213",
+        "categ_dsg" : "Acessórios para equipamento para transporte pessoal",
+        "categ_ord" : "275",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0722" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0722",
+        "categ_cod" : "0722",
+        "categ_dsg" : "Combustível e lubrificantes para equipamento para transporte pessoal",
+        "categ_ord" : "276",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_07221" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07221",
+        "categ_cod" : "07221",
+        "categ_dsg" : "Gasóleo",
+        "categ_ord" : "277",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_07222" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07222",
+        "categ_cod" : "07222",
+        "categ_dsg" : "Gasolina",
+        "categ_ord" : "278",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_07223" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07223",
+        "categ_cod" : "07223",
+        "categ_dsg" : "Outros combustíveis para equipamento para transporte pessoal",
+        "categ_ord" : "279",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_07224" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07224",
+        "categ_cod" : "07224",
+        "categ_dsg" : "Lubrificantes",
+        "categ_ord" : "280",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0723" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0723",
+        "categ_cod" : "0723",
+        "categ_dsg" : "Manutenção e reparação de equipamento para transporte pessoal",
+        "categ_ord" : "281",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_07230" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07230",
+        "categ_cod" : "07230",
+        "categ_dsg" : "Manutenção e reparação de equipamento para transporte pessoal",
+        "categ_ord" : "282",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0724" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0724",
+        "categ_cod" : "0724",
+        "categ_dsg" : "Outros serviços relacionados com o equipamento para transporte pessoal",
+        "categ_ord" : "283",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_07241" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07241",
+        "categ_cod" : "07241",
+        "categ_dsg" : "Serviços de estacionamento",
+        "categ_ord" : "284",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_07242" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07242",
+        "categ_cod" : "07242",
+        "categ_dsg" : "Serviços de portagens",
+        "categ_ord" : "285",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_07243" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07243",
+        "categ_cod" : "07243",
+        "categ_dsg" : "Lições de condução, testes, cartas de condução e controlos técnicos",
+        "categ_ord" : "286",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_07244" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07244",
+        "categ_cod" : "07244",
+        "categ_dsg" : "Aluguer de equipamento para transporte pessoal sem condutor",
+        "categ_ord" : "287",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_073" : [ {
+        "dim_num" : "3",
+        "cat_id" : "073",
+        "categ_cod" : "073",
+        "categ_dsg" : "Serviços de transporte de passageiros",
+        "categ_ord" : "288",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0731" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0731",
+        "categ_cod" : "0731",
+        "categ_dsg" : "Transportes ferroviários de passageiros",
+        "categ_ord" : "289",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_07311" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07311",
+        "categ_cod" : "07311",
+        "categ_dsg" : "Transporte de passageiros de comboio",
+        "categ_ord" : "290",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_07312" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07312",
+        "categ_cod" : "07312",
+        "categ_dsg" : "Transporte de passageiros por metropolitano e elétrico",
+        "categ_ord" : "291",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0732" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0732",
+        "categ_cod" : "0732",
+        "categ_dsg" : "Transportes rodoviários de passageiros",
+        "categ_ord" : "292",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_07321" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07321",
+        "categ_cod" : "07321",
+        "categ_dsg" : "Transporte de passageiros em autocarro, urbano e suburbano",
+        "categ_ord" : "293",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_07322" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07322",
+        "categ_cod" : "07322",
+        "categ_dsg" : "Transporte de passageiros por táxi e veículos automóveis de aluguer com condutor",
+        "categ_ord" : "294",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_07323" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07323",
+        "categ_cod" : "07323",
+        "categ_dsg" : "Transporte escolar",
+        "categ_ord" : "295",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_07329" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07329",
+        "categ_cod" : "07329",
+        "categ_dsg" : "Outros transportes rodoviários de passageiros",
+        "categ_ord" : "296",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0733" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0733",
+        "categ_cod" : "0733",
+        "categ_dsg" : "Transporte aéreo de passageiros",
+        "categ_ord" : "297",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_07331" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07331",
+        "categ_cod" : "07331",
+        "categ_dsg" : "Transporte aéreo de passageiros, doméstico",
+        "categ_ord" : "298",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_07332" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07332",
+        "categ_cod" : "07332",
+        "categ_dsg" : "Transporte aéreo de passageiros, internacional",
+        "categ_ord" : "299",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0734" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0734",
+        "categ_cod" : "0734",
+        "categ_dsg" : "Transporte de passageiros por mar e vias interiores navegáveis",
+        "categ_ord" : "300",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_07340" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07340",
+        "categ_cod" : "07340",
+        "categ_dsg" : "Transporte de passageiros por mar e vias interiores navegáveis",
+        "categ_ord" : "301",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0735" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0735",
+        "categ_cod" : "0735",
+        "categ_dsg" : "Transportes combinados de passageiros",
+        "categ_ord" : "302",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_07350" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07350",
+        "categ_cod" : "07350",
+        "categ_dsg" : "Transportes combinados de passageiros",
+        "categ_ord" : "303",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0736" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0736",
+        "categ_cod" : "0736",
+        "categ_dsg" : "Outros serviços de transporte de passageiros",
+        "categ_ord" : "304",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_07360" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07360",
+        "categ_cod" : "07360",
+        "categ_dsg" : "Outros serviços de transporte de passageiros",
+        "categ_ord" : "305",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_074" : [ {
+        "dim_num" : "3",
+        "cat_id" : "074",
+        "categ_cod" : "074",
+        "categ_dsg" : "Serviços de transporte de mercadorias",
+        "categ_ord" : "306",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0741" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0741",
+        "categ_cod" : "0741",
+        "categ_dsg" : "Serviços postais e de estafeta",
+        "categ_ord" : "307",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_07411" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07411",
+        "categ_cod" : "07411",
+        "categ_dsg" : "Serviços postais de correspondência",
+        "categ_ord" : "308",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_07412" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07412",
+        "categ_cod" : "07412",
+        "categ_dsg" : "Serviços de estafeta e de entrega de encomendas",
+        "categ_ord" : "309",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0749" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0749",
+        "categ_cod" : "0749",
+        "categ_dsg" : "Outro transporte de mercadorias",
+        "categ_ord" : "310",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_07491" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07491",
+        "categ_cod" : "07491",
+        "categ_dsg" : "Serviços de mudanças e armazenamento",
+        "categ_ord" : "311",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_07492" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07492",
+        "categ_cod" : "07492",
+        "categ_dsg" : "Entrega de mercadorias",
+        "categ_ord" : "312",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_08" : [ {
+        "dim_num" : "3",
+        "cat_id" : "08",
+        "categ_cod" : "08",
+        "categ_dsg" : "Informação e comunicação",
+        "categ_ord" : "313",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_081" : [ {
+        "dim_num" : "3",
+        "cat_id" : "081",
+        "categ_cod" : "081",
+        "categ_dsg" : "Equipamento de informação e comunicação",
+        "categ_ord" : "314",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0811" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0811",
+        "categ_cod" : "0811",
+        "categ_dsg" : "Equipamento telefónico da rede fixa",
+        "categ_ord" : "315",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_08110" : [ {
+        "dim_num" : "3",
+        "cat_id" : "08110",
+        "categ_cod" : "08110",
+        "categ_dsg" : "Equipamento telefónico da rede fixa",
+        "categ_ord" : "316",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0812" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0812",
+        "categ_cod" : "0812",
+        "categ_dsg" : "Equipamento telefónico da rede móvel",
+        "categ_ord" : "317",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_08120" : [ {
+        "dim_num" : "3",
+        "cat_id" : "08120",
+        "categ_cod" : "08120",
+        "categ_dsg" : "Equipamento telefónico da rede móvel",
+        "categ_ord" : "318",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0813" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0813",
+        "categ_cod" : "0813",
+        "categ_dsg" : "Equipamento informático",
+        "categ_ord" : "319",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_08131" : [ {
+        "dim_num" : "3",
+        "cat_id" : "08131",
+        "categ_cod" : "08131",
+        "categ_dsg" : "Computadores, computadores portáteis e tabletes",
+        "categ_ord" : "320",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_08132" : [ {
+        "dim_num" : "3",
+        "cat_id" : "08132",
+        "categ_cod" : "08132",
+        "categ_dsg" : "Equipamento periférico e seus componentes consumíveis",
+        "categ_ord" : "321",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0814" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0814",
+        "categ_cod" : "0814",
+        "categ_dsg" : "Equipamento para receção, registo e reprodução de som e vídeo",
+        "categ_ord" : "322",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_08140" : [ {
+        "dim_num" : "3",
+        "cat_id" : "08140",
+        "categ_cod" : "08140",
+        "categ_dsg" : "Equipamento para receção, registo e reprodução de som e vídeo",
+        "categ_ord" : "323",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0815" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0815",
+        "categ_cod" : "0815",
+        "categ_dsg" : "Suportes de gravação não gravados",
+        "categ_ord" : "324",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_08150" : [ {
+        "dim_num" : "3",
+        "cat_id" : "08150",
+        "categ_cod" : "08150",
+        "categ_dsg" : "Suportes de gravação não gravados",
+        "categ_ord" : "325",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0819" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0819",
+        "categ_cod" : "0819",
+        "categ_dsg" : "Outros equipamentos e acessórios de informação e comunicação",
+        "categ_ord" : "326",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_08191" : [ {
+        "dim_num" : "3",
+        "cat_id" : "08191",
+        "categ_cod" : "08191",
+        "categ_dsg" : "Outro equipamento de informação e comunicação",
+        "categ_ord" : "327",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_08192" : [ {
+        "dim_num" : "3",
+        "cat_id" : "08192",
+        "categ_cod" : "08192",
+        "categ_dsg" : "Outros acessórios de informação e comunicação",
+        "categ_ord" : "328",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_082" : [ {
+        "dim_num" : "3",
+        "cat_id" : "082",
+        "categ_cod" : "082",
+        "categ_dsg" : "Software, excluindo jogos",
+        "categ_ord" : "329",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0820" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0820",
+        "categ_cod" : "0820",
+        "categ_dsg" : "Software, excluindo jogos",
+        "categ_ord" : "330",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_08200" : [ {
+        "dim_num" : "3",
+        "cat_id" : "08200",
+        "categ_cod" : "08200",
+        "categ_dsg" : "Software, excluindo jogos",
+        "categ_ord" : "331",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_083" : [ {
+        "dim_num" : "3",
+        "cat_id" : "083",
+        "categ_cod" : "083",
+        "categ_dsg" : "Serviços de informação e comunicação",
+        "categ_ord" : "332",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0831" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0831",
+        "categ_cod" : "0831",
+        "categ_dsg" : "Serviços de comunicações fixas",
+        "categ_ord" : "333",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_08310" : [ {
+        "dim_num" : "3",
+        "cat_id" : "08310",
+        "categ_cod" : "08310",
+        "categ_dsg" : "Serviços de comunicações fixas",
+        "categ_ord" : "334",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0832" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0832",
+        "categ_cod" : "0832",
+        "categ_dsg" : "Serviços de comunicações móveis",
+        "categ_ord" : "335",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_08320" : [ {
+        "dim_num" : "3",
+        "cat_id" : "08320",
+        "categ_cod" : "08320",
+        "categ_dsg" : "Serviços de comunicações móveis",
+        "categ_ord" : "336",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0833" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0833",
+        "categ_cod" : "0833",
+        "categ_dsg" : "Serviços de fornecimento de acesso à Internet e serviços de armazenamento em linha",
+        "categ_ord" : "337",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_08330" : [ {
+        "dim_num" : "3",
+        "cat_id" : "08330",
+        "categ_cod" : "08330",
+        "categ_dsg" : "Serviços de fornecimento de acesso à Internet e serviços de armazenamento em linha",
+        "categ_ord" : "338",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0834" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0834",
+        "categ_cod" : "0834",
+        "categ_dsg" : "Serviços de telecomunicações contratados em pacote (bundle)",
+        "categ_ord" : "339",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_08340" : [ {
+        "dim_num" : "3",
+        "cat_id" : "08340",
+        "categ_cod" : "08340",
+        "categ_dsg" : "Serviços de telecomunicações contratados em pacote (bundle)",
+        "categ_ord" : "340",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0835" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0835",
+        "categ_cod" : "0835",
+        "categ_dsg" : "Reparação e aluguer de equipamento de informação e comunicação",
+        "categ_ord" : "341",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_08350" : [ {
+        "dim_num" : "3",
+        "cat_id" : "08350",
+        "categ_cod" : "08350",
+        "categ_dsg" : "Reparação e aluguer de equipamento de informação e comunicação",
+        "categ_ord" : "342",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0839" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0839",
+        "categ_cod" : "0839",
+        "categ_dsg" : "Outros serviços de informação e comunicação",
+        "categ_ord" : "343",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_08391" : [ {
+        "dim_num" : "3",
+        "cat_id" : "08391",
+        "categ_cod" : "08391",
+        "categ_dsg" : "Licenças e taxas de televisão e de rádio",
+        "categ_ord" : "344",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_08392" : [ {
+        "dim_num" : "3",
+        "cat_id" : "08392",
+        "categ_cod" : "08392",
+        "categ_dsg" : "Assinatura de serviços de transmissão audiovisual em contínuo (streaming) e aluguer de conteúdos audiovisuais",
+        "categ_ord" : "345",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_08399" : [ {
+        "dim_num" : "3",
+        "cat_id" : "08399",
+        "categ_cod" : "08399",
+        "categ_dsg" : "Outros serviços de informação e comunicação n.e.",
+        "categ_ord" : "346",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_09" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09",
+        "categ_cod" : "09",
+        "categ_dsg" : "Lazer, recreação, desporto e cultura",
+        "categ_ord" : "347",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_091" : [ {
+        "dim_num" : "3",
+        "cat_id" : "091",
+        "categ_cod" : "091",
+        "categ_dsg" : "Bens duradouros para lazer e recreação",
+        "categ_ord" : "348",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0911" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0911",
+        "categ_cod" : "0911",
+        "categ_dsg" : "Equipamento fotográfico e cinematográfico e instrumentos de ótica",
+        "categ_ord" : "349",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_09111" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09111",
+        "categ_cod" : "09111",
+        "categ_dsg" : "Máquinas fotográficas",
+        "categ_ord" : "350",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_09112" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09112",
+        "categ_cod" : "09112",
+        "categ_dsg" : "Acessórios para máquinas fotográficas e câmaras cinematográficas",
+        "categ_ord" : "351",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_09113" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09113",
+        "categ_cod" : "09113",
+        "categ_dsg" : "Instrumentos óticos",
+        "categ_ord" : "352",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0912" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0912",
+        "categ_cod" : "0912",
+        "categ_dsg" : "Bens duradouros de base para lazer e recreação",
+        "categ_ord" : "353",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_09121" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09121",
+        "categ_cod" : "09121",
+        "categ_dsg" : "Autocaravanas, caravanas e reboques",
+        "categ_ord" : "354",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_09122" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09122",
+        "categ_cod" : "09122",
+        "categ_dsg" : "Aeronaves, ultraleves, planadores, asas-delta e aeróstatos de ar quente",
+        "categ_ord" : "355",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_09123" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09123",
+        "categ_cod" : "09123",
+        "categ_dsg" : "Embarcações, iates, motores fora de borda e equipamento para a prática de desportos aquáticos",
+        "categ_ord" : "356",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_09124" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09124",
+        "categ_cod" : "09124",
+        "categ_dsg" : "Cavalos, póneis, camelos, dromedários e respetivos acessórios",
+        "categ_ord" : "357",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_09129" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09129",
+        "categ_cod" : "09129",
+        "categ_dsg" : "Outros bens duradouros de base para lazer e recreação",
+        "categ_ord" : "358",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_092" : [ {
+        "dim_num" : "3",
+        "cat_id" : "092",
+        "categ_cod" : "092",
+        "categ_dsg" : "Outros bens para lazer e recreação",
+        "categ_ord" : "359",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0921" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0921",
+        "categ_cod" : "0921",
+        "categ_dsg" : "Jogos, brinquedos e artigos de lazer",
+        "categ_ord" : "360",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_09211" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09211",
+        "categ_cod" : "09211",
+        "categ_dsg" : "Computadores para jogos de vídeo, consolas, aplicações e software de jogos",
+        "categ_ord" : "361",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_09212" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09212",
+        "categ_cod" : "09212",
+        "categ_dsg" : "Outros jogos, brinquedos e artigos de lazer",
+        "categ_ord" : "362",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_09213" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09213",
+        "categ_cod" : "09213",
+        "categ_dsg" : "Artigos comemorativos",
+        "categ_ord" : "363",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0922" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0922",
+        "categ_cod" : "0922",
+        "categ_dsg" : "Equipamento para desporto, campismo e recreação ao ar livre",
+        "categ_ord" : "364",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_09221" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09221",
+        "categ_cod" : "09221",
+        "categ_dsg" : "Equipamento para desporto",
+        "categ_ord" : "365",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_09222" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09222",
+        "categ_cod" : "09222",
+        "categ_dsg" : "Equipamento para campismo e recreação ao ar livre",
+        "categ_ord" : "366",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_093" : [ {
+        "dim_num" : "3",
+        "cat_id" : "093",
+        "categ_cod" : "093",
+        "categ_dsg" : "Produtos para jardinagem e animais de estimação",
+        "categ_ord" : "367",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0931" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0931",
+        "categ_cod" : "0931",
+        "categ_dsg" : "Produtos para jardinagem, plantas e flores",
+        "categ_ord" : "368",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_09311" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09311",
+        "categ_cod" : "09311",
+        "categ_dsg" : "Produtos para jardinagem",
+        "categ_ord" : "369",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_09312" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09312",
+        "categ_cod" : "09312",
+        "categ_dsg" : "Plantas, sementes e flores",
+        "categ_ord" : "370",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0932" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0932",
+        "categ_cod" : "0932",
+        "categ_dsg" : "Animais de estimação e produtos correlacionados",
+        "categ_ord" : "371",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_09321" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09321",
+        "categ_cod" : "09321",
+        "categ_dsg" : "Animais de estimação",
+        "categ_ord" : "372",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_09322" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09322",
+        "categ_cod" : "09322",
+        "categ_dsg" : "Produtos para animais de estimação e outros animais domésticos",
+        "categ_ord" : "373",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_094" : [ {
+        "dim_num" : "3",
+        "cat_id" : "094",
+        "categ_cod" : "094",
+        "categ_dsg" : "Serviços recreativos",
+        "categ_ord" : "374",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0941" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0941",
+        "categ_cod" : "0941",
+        "categ_dsg" : "Aluguer e reparação de equipamento fotográfico e cinematográfico e instrumentos de ótica",
+        "categ_ord" : "375",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_09410" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09410",
+        "categ_cod" : "09410",
+        "categ_dsg" : "Aluguer e reparação de equipamento fotográfico e cinematográfico e instrumentos de ótica",
+        "categ_ord" : "376",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0942" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0942",
+        "categ_cod" : "0942",
+        "categ_dsg" : "Aluguer, manutenção e reparação de bens duradouros de base para lazer e recreação",
+        "categ_ord" : "377",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_09421" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09421",
+        "categ_cod" : "09421",
+        "categ_dsg" : "Aluguer, manutenção e reparação de autocaravanas e caravanas",
+        "categ_ord" : "378",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_09422" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09422",
+        "categ_cod" : "09422",
+        "categ_dsg" : "Aluguer, manutenção e reparação de outros bens duradouros de base para lazer e recreação",
+        "categ_ord" : "379",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0943" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0943",
+        "categ_cod" : "0943",
+        "categ_dsg" : "Aluguer e reparação de jogos, brinquedos e artigos de lazer",
+        "categ_ord" : "380",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_09431" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09431",
+        "categ_cod" : "09431",
+        "categ_dsg" : "Aluguer de software para jogos e assinatura de jogos em linha",
+        "categ_ord" : "381",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_09432" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09432",
+        "categ_cod" : "09432",
+        "categ_dsg" : "Aluguer e reparação de outros jogos, brinquedos e artigos de lazer",
+        "categ_ord" : "382",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0944" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0944",
+        "categ_cod" : "0944",
+        "categ_dsg" : "Aluguer e reparação de equipamento para desporto, campismo e recreação ao ar livre",
+        "categ_ord" : "383",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_09440" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09440",
+        "categ_cod" : "09440",
+        "categ_dsg" : "Aluguer e reparação de equipamento para desporto, campismo e recreação ao ar livre",
+        "categ_ord" : "384",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0945" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0945",
+        "categ_cod" : "0945",
+        "categ_dsg" : "Serviços de veterinária e outros serviços para animais de companhia",
+        "categ_ord" : "385",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_09450" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09450",
+        "categ_cod" : "09450",
+        "categ_dsg" : "Serviços de veterinária e outros serviços para animais de companhia",
+        "categ_ord" : "386",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0946" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0946",
+        "categ_cod" : "0946",
+        "categ_dsg" : "Serviços recreativos e desportivos",
+        "categ_ord" : "387",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_09461" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09461",
+        "categ_cod" : "09461",
+        "categ_dsg" : "Serviços recreativos e de lazer",
+        "categ_ord" : "388",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_09462" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09462",
+        "categ_cod" : "09462",
+        "categ_dsg" : "Serviços associados à prática desportiva",
+        "categ_ord" : "389",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_09463" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09463",
+        "categ_cod" : "09463",
+        "categ_dsg" : "Serviços relacionados com a assistência a eventos desportivos",
+        "categ_ord" : "390",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0947" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0947",
+        "categ_cod" : "0947",
+        "categ_dsg" : "Jogos de azar",
+        "categ_ord" : "391",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_09470" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09470",
+        "categ_cod" : "09470",
+        "categ_dsg" : "Jogos de azar",
+        "categ_ord" : "392",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_095" : [ {
+        "dim_num" : "3",
+        "cat_id" : "095",
+        "categ_cod" : "095",
+        "categ_dsg" : "Bens culturais",
+        "categ_ord" : "393",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0951" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0951",
+        "categ_cod" : "0951",
+        "categ_dsg" : "Instrumentos musicais",
+        "categ_ord" : "394",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_09510" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09510",
+        "categ_cod" : "09510",
+        "categ_dsg" : "Instrumentos musicais",
+        "categ_ord" : "395",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0952" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0952",
+        "categ_cod" : "0952",
+        "categ_dsg" : "Meios audiovisuais",
+        "categ_ord" : "396",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_09520" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09520",
+        "categ_cod" : "09520",
+        "categ_dsg" : "Meios audiovisuais",
+        "categ_ord" : "397",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_096" : [ {
+        "dim_num" : "3",
+        "cat_id" : "096",
+        "categ_cod" : "096",
+        "categ_dsg" : "Serviços culturais",
+        "categ_ord" : "398",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0961" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0961",
+        "categ_cod" : "0961",
+        "categ_dsg" : "Serviços prestados por cinemas, teatros e salas de concertos",
+        "categ_ord" : "399",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_09610" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09610",
+        "categ_cod" : "09610",
+        "categ_dsg" : "Serviços prestados por cinemas, teatros e salas de concertos",
+        "categ_ord" : "400",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0962" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0962",
+        "categ_cod" : "0962",
+        "categ_dsg" : "Serviços prestados por museus, bibliotecas e locais de interesse cultural",
+        "categ_ord" : "401",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_09620" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09620",
+        "categ_cod" : "09620",
+        "categ_dsg" : "Serviços prestados por museus, bibliotecas e locais de interesse cultural",
+        "categ_ord" : "402",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0963" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0963",
+        "categ_cod" : "0963",
+        "categ_dsg" : "Serviços fotográficos",
+        "categ_ord" : "403",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_09630" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09630",
+        "categ_cod" : "09630",
+        "categ_dsg" : "Serviços fotográficos",
+        "categ_ord" : "404",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0969" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0969",
+        "categ_cod" : "0969",
+        "categ_dsg" : "Outros serviços culturais",
+        "categ_ord" : "405",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_09690" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09690",
+        "categ_cod" : "09690",
+        "categ_dsg" : "Outros serviços culturais",
+        "categ_ord" : "406",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_097" : [ {
+        "dim_num" : "3",
+        "cat_id" : "097",
+        "categ_cod" : "097",
+        "categ_dsg" : "Jornais, livros e artigos de papelaria",
+        "categ_ord" : "407",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0971" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0971",
+        "categ_cod" : "0971",
+        "categ_dsg" : "Livros",
+        "categ_ord" : "408",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_09711" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09711",
+        "categ_cod" : "09711",
+        "categ_dsg" : "Livros didáticos e manuais escolares",
+        "categ_ord" : "409",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_09719" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09719",
+        "categ_cod" : "09719",
+        "categ_dsg" : "Outros livros",
+        "categ_ord" : "410",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0972" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0972",
+        "categ_cod" : "0972",
+        "categ_dsg" : "Jornais e outras publicações periódicas",
+        "categ_ord" : "411",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_09721" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09721",
+        "categ_cod" : "09721",
+        "categ_dsg" : "Jornais",
+        "categ_ord" : "412",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_09722" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09722",
+        "categ_cod" : "09722",
+        "categ_dsg" : "Revistas e outras publicações periódicas",
+        "categ_ord" : "413",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0973" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0973",
+        "categ_cod" : "0973",
+        "categ_dsg" : "Material impresso diverso",
+        "categ_ord" : "414",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_09730" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09730",
+        "categ_cod" : "09730",
+        "categ_dsg" : "Material impresso diverso",
+        "categ_ord" : "415",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_0974" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0974",
+        "categ_cod" : "0974",
+        "categ_dsg" : "Artigos de papelaria e de desenho",
+        "categ_ord" : "416",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_09740" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09740",
+        "categ_cod" : "09740",
+        "categ_dsg" : "Artigos de papelaria e de desenho",
+        "categ_ord" : "417",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_098" : [ {
+        "dim_num" : "3",
+        "cat_id" : "098",
+        "categ_cod" : "098",
+        "categ_dsg" : "Férias organizadas",
+        "categ_ord" : "418",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_0980" : [ {
+        "dim_num" : "3",
+        "cat_id" : "0980",
+        "categ_cod" : "0980",
+        "categ_dsg" : "Férias organizadas",
+        "categ_ord" : "419",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_09800" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09800",
+        "categ_cod" : "09800",
+        "categ_dsg" : "Férias organizadas",
+        "categ_ord" : "420",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_10" : [ {
+        "dim_num" : "3",
+        "cat_id" : "10",
+        "categ_cod" : "10",
+        "categ_dsg" : "Serviços de educação",
+        "categ_ord" : "421",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_101" : [ {
+        "dim_num" : "3",
+        "cat_id" : "101",
+        "categ_cod" : "101",
+        "categ_dsg" : "Educação pré-escolar e ensino básico (1.° e 2.° ciclos)",
+        "categ_ord" : "422",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_1010" : [ {
+        "dim_num" : "3",
+        "cat_id" : "1010",
+        "categ_cod" : "1010",
+        "categ_dsg" : "Educação pré-escolar e ensino básico (1.° e 2.° ciclos)",
+        "categ_ord" : "423",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_10101" : [ {
+        "dim_num" : "3",
+        "cat_id" : "10101",
+        "categ_cod" : "10101",
+        "categ_dsg" : "Educação pré-escolar",
+        "categ_ord" : "424",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_10102" : [ {
+        "dim_num" : "3",
+        "cat_id" : "10102",
+        "categ_cod" : "10102",
+        "categ_dsg" : "Ensino básico (1.° e 2.° ciclos)",
+        "categ_ord" : "425",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_102" : [ {
+        "dim_num" : "3",
+        "cat_id" : "102",
+        "categ_cod" : "102",
+        "categ_dsg" : "Ensino básico (3.° ciclo) e secundário",
+        "categ_ord" : "426",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_1020" : [ {
+        "dim_num" : "3",
+        "cat_id" : "1020",
+        "categ_cod" : "1020",
+        "categ_dsg" : "Ensino básico (3.° ciclo) e secundário",
+        "categ_ord" : "427",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_10200" : [ {
+        "dim_num" : "3",
+        "cat_id" : "10200",
+        "categ_cod" : "10200",
+        "categ_dsg" : "Ensino básico (3.° ciclo) e secundário",
+        "categ_ord" : "428",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_103" : [ {
+        "dim_num" : "3",
+        "cat_id" : "103",
+        "categ_cod" : "103",
+        "categ_dsg" : "Ensino pós-secundário não superior",
+        "categ_ord" : "429",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_1030" : [ {
+        "dim_num" : "3",
+        "cat_id" : "1030",
+        "categ_cod" : "1030",
+        "categ_dsg" : "Ensino pós-secundário não superior",
+        "categ_ord" : "430",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_10300" : [ {
+        "dim_num" : "3",
+        "cat_id" : "10300",
+        "categ_cod" : "10300",
+        "categ_dsg" : "Ensino pós-secundário não superior",
+        "categ_ord" : "431",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_104" : [ {
+        "dim_num" : "3",
+        "cat_id" : "104",
+        "categ_cod" : "104",
+        "categ_dsg" : "Ensino superior",
+        "categ_ord" : "432",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_1040" : [ {
+        "dim_num" : "3",
+        "cat_id" : "1040",
+        "categ_cod" : "1040",
+        "categ_dsg" : "Ensino superior",
+        "categ_ord" : "433",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_10400" : [ {
+        "dim_num" : "3",
+        "cat_id" : "10400",
+        "categ_cod" : "10400",
+        "categ_dsg" : "Ensino superior",
+        "categ_ord" : "434",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_105" : [ {
+        "dim_num" : "3",
+        "cat_id" : "105",
+        "categ_cod" : "105",
+        "categ_dsg" : "Ensino não definível por níveis",
+        "categ_ord" : "435",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_1050" : [ {
+        "dim_num" : "3",
+        "cat_id" : "1050",
+        "categ_cod" : "1050",
+        "categ_dsg" : "Ensino não definível por níveis",
+        "categ_ord" : "436",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_10501" : [ {
+        "dim_num" : "3",
+        "cat_id" : "10501",
+        "categ_cod" : "10501",
+        "categ_dsg" : "Orientação pedagógica",
+        "categ_ord" : "437",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_10509" : [ {
+        "dim_num" : "3",
+        "cat_id" : "10509",
+        "categ_cod" : "10509",
+        "categ_dsg" : "Outro ensino não definível por níveis",
+        "categ_ord" : "438",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_11" : [ {
+        "dim_num" : "3",
+        "cat_id" : "11",
+        "categ_cod" : "11",
+        "categ_dsg" : "Restaurantes e serviços de alojamento",
+        "categ_ord" : "439",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_111" : [ {
+        "dim_num" : "3",
+        "cat_id" : "111",
+        "categ_cod" : "111",
+        "categ_dsg" : "Serviços de restauração",
+        "categ_ord" : "440",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_1111" : [ {
+        "dim_num" : "3",
+        "cat_id" : "1111",
+        "categ_cod" : "1111",
+        "categ_dsg" : "Restaurantes, cafés e estabelecimentos similares",
+        "categ_ord" : "441",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_11111" : [ {
+        "dim_num" : "3",
+        "cat_id" : "11111",
+        "categ_cod" : "11111",
+        "categ_dsg" : "Restaurantes, cafés e estabelecimentos similares — com serviço completo",
+        "categ_ord" : "442",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_11112" : [ {
+        "dim_num" : "3",
+        "cat_id" : "11112",
+        "categ_cod" : "11112",
+        "categ_dsg" : "Restaurantes, cafés e estabelecimentos similares — com serviço limitado",
+        "categ_ord" : "443",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_1112" : [ {
+        "dim_num" : "3",
+        "cat_id" : "1112",
+        "categ_cod" : "1112",
+        "categ_dsg" : "Cantinas, cafetarias e refeitórios",
+        "categ_ord" : "444",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_11121" : [ {
+        "dim_num" : "3",
+        "cat_id" : "11121",
+        "categ_cod" : "11121",
+        "categ_dsg" : "Cantinas e cafetarias de universidades, escolas e jardins de infância",
+        "categ_ord" : "445",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_11129" : [ {
+        "dim_num" : "3",
+        "cat_id" : "11129",
+        "categ_cod" : "11129",
+        "categ_dsg" : "Outras cantinas, cafetarias e refeitórios",
+        "categ_ord" : "446",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_112" : [ {
+        "dim_num" : "3",
+        "cat_id" : "112",
+        "categ_cod" : "112",
+        "categ_dsg" : "Serviços de alojamento",
+        "categ_ord" : "447",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_1120" : [ {
+        "dim_num" : "3",
+        "cat_id" : "1120",
+        "categ_cod" : "1120",
+        "categ_dsg" : "Serviços de alojamento",
+        "categ_ord" : "448",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_11201" : [ {
+        "dim_num" : "3",
+        "cat_id" : "11201",
+        "categ_cod" : "11201",
+        "categ_dsg" : "Hotéis, motéis, estalagens e outros serviços de alojamento",
+        "categ_ord" : "449",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_11202" : [ {
+        "dim_num" : "3",
+        "cat_id" : "11202",
+        "categ_cod" : "11202",
+        "categ_dsg" : "Centros de férias, parques de campismo, pousadas de juventude e outros serviços de alojamento",
+        "categ_ord" : "450",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_11203" : [ {
+        "dim_num" : "3",
+        "cat_id" : "11203",
+        "categ_cod" : "11203",
+        "categ_dsg" : "Serviços de alojamento em escolas com internato, universidades e outros estabelecimentos de ensino",
+        "categ_ord" : "451",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_11209" : [ {
+        "dim_num" : "3",
+        "cat_id" : "11209",
+        "categ_cod" : "11209",
+        "categ_dsg" : "Outros serviços de alojamento",
+        "categ_ord" : "452",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_12" : [ {
+        "dim_num" : "3",
+        "cat_id" : "12",
+        "categ_cod" : "12",
+        "categ_dsg" : "Serviços financeiros e de seguros",
+        "categ_ord" : "453",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_121" : [ {
+        "dim_num" : "3",
+        "cat_id" : "121",
+        "categ_cod" : "121",
+        "categ_dsg" : "Seguros",
+        "categ_ord" : "454",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_1211" : [ {
+        "dim_num" : "3",
+        "cat_id" : "1211",
+        "categ_cod" : "1211",
+        "categ_dsg" : "Seguros do ramo vida e de acidentes",
+        "categ_ord" : "455",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_12110" : [ {
+        "dim_num" : "3",
+        "cat_id" : "12110",
+        "categ_cod" : "12110",
+        "categ_dsg" : "Seguros do ramo vida e de acidentes",
+        "categ_ord" : "456",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_1212" : [ {
+        "dim_num" : "3",
+        "cat_id" : "1212",
+        "categ_cod" : "1212",
+        "categ_dsg" : "Seguros relacionados com a saúde",
+        "categ_ord" : "457",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_12120" : [ {
+        "dim_num" : "3",
+        "cat_id" : "12120",
+        "categ_cod" : "12120",
+        "categ_dsg" : "Seguros relacionados com a saúde",
+        "categ_ord" : "458",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_1213" : [ {
+        "dim_num" : "3",
+        "cat_id" : "1213",
+        "categ_cod" : "1213",
+        "categ_dsg" : "Seguros relacionados com habitações",
+        "categ_ord" : "459",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_12130" : [ {
+        "dim_num" : "3",
+        "cat_id" : "12130",
+        "categ_cod" : "12130",
+        "categ_dsg" : "Seguros relacionados com habitações",
+        "categ_ord" : "460",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_1214" : [ {
+        "dim_num" : "3",
+        "cat_id" : "1214",
+        "categ_cod" : "1214",
+        "categ_dsg" : "Seguros relacionados com os transportes",
+        "categ_ord" : "461",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_12141" : [ {
+        "dim_num" : "3",
+        "cat_id" : "12141",
+        "categ_cod" : "12141",
+        "categ_dsg" : "Seguros de transporte pessoal",
+        "categ_ord" : "462",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_12142" : [ {
+        "dim_num" : "3",
+        "cat_id" : "12142",
+        "categ_cod" : "12142",
+        "categ_dsg" : "Seguros de viagem",
+        "categ_ord" : "463",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_1219" : [ {
+        "dim_num" : "3",
+        "cat_id" : "1219",
+        "categ_cod" : "1219",
+        "categ_dsg" : "Outros seguros",
+        "categ_ord" : "464",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_12190" : [ {
+        "dim_num" : "3",
+        "cat_id" : "12190",
+        "categ_cod" : "12190",
+        "categ_dsg" : "Outros seguros",
+        "categ_ord" : "465",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_122" : [ {
+        "dim_num" : "3",
+        "cat_id" : "122",
+        "categ_cod" : "122",
+        "categ_dsg" : "Serviços financeiros",
+        "categ_ord" : "466",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_1222" : [ {
+        "dim_num" : "3",
+        "cat_id" : "1222",
+        "categ_cod" : "1222",
+        "categ_dsg" : "Encargos explícitos das entidades depositárias",
+        "categ_ord" : "467",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_12220" : [ {
+        "dim_num" : "3",
+        "cat_id" : "12220",
+        "categ_cod" : "12220",
+        "categ_dsg" : "Encargos explícitos das entidades depositárias",
+        "categ_ord" : "468",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_1229" : [ {
+        "dim_num" : "3",
+        "cat_id" : "1229",
+        "categ_cod" : "1229",
+        "categ_dsg" : "Outros serviços financeiros",
+        "categ_ord" : "469",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_12291" : [ {
+        "dim_num" : "3",
+        "cat_id" : "12291",
+        "categ_cod" : "12291",
+        "categ_dsg" : "Taxas de remessa",
+        "categ_ord" : "470",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_12299" : [ {
+        "dim_num" : "3",
+        "cat_id" : "12299",
+        "categ_cod" : "12299",
+        "categ_dsg" : "Outros serviços financeiros n.e.",
+        "categ_ord" : "471",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_13" : [ {
+        "dim_num" : "3",
+        "cat_id" : "13",
+        "categ_cod" : "13",
+        "categ_dsg" : "Serviços de higiene e cuidados pessoais, proteção social e bens e serviços diversos",
+        "categ_ord" : "472",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_131" : [ {
+        "dim_num" : "3",
+        "cat_id" : "131",
+        "categ_cod" : "131",
+        "categ_dsg" : "Cuidados pessoais",
+        "categ_ord" : "473",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_1311" : [ {
+        "dim_num" : "3",
+        "cat_id" : "1311",
+        "categ_cod" : "1311",
+        "categ_dsg" : "Aparelhos elétricos para cuidados pessoais",
+        "categ_ord" : "474",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_13111" : [ {
+        "dim_num" : "3",
+        "cat_id" : "13111",
+        "categ_cod" : "13111",
+        "categ_dsg" : "Compra de aparelhos elétricos para cuidados pessoais",
+        "categ_ord" : "475",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_13112" : [ {
+        "dim_num" : "3",
+        "cat_id" : "13112",
+        "categ_cod" : "13112",
+        "categ_dsg" : "Reparação de aparelhos elétricos para cuidados pessoais",
+        "categ_ord" : "476",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_1312" : [ {
+        "dim_num" : "3",
+        "cat_id" : "1312",
+        "categ_cod" : "1312",
+        "categ_dsg" : "Outros aparelhos, artigos e produtos para cuidados pessoais",
+        "categ_ord" : "477",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_13120" : [ {
+        "dim_num" : "3",
+        "cat_id" : "13120",
+        "categ_cod" : "13120",
+        "categ_dsg" : "Outros aparelhos, artigos e produtos para cuidados pessoais",
+        "categ_ord" : "478",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_1313" : [ {
+        "dim_num" : "3",
+        "cat_id" : "1313",
+        "categ_cod" : "1313",
+        "categ_dsg" : "Salões de cabeleireiro e estabelecimentos de cuidados pessoais",
+        "categ_ord" : "479",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_13131" : [ {
+        "dim_num" : "3",
+        "cat_id" : "13131",
+        "categ_cod" : "13131",
+        "categ_dsg" : "Serviços de cabeleireiro",
+        "categ_ord" : "480",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_13132" : [ {
+        "dim_num" : "3",
+        "cat_id" : "13132",
+        "categ_cod" : "13132",
+        "categ_dsg" : "Tratamentos de cuidados pessoais",
+        "categ_ord" : "481",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_132" : [ {
+        "dim_num" : "3",
+        "cat_id" : "132",
+        "categ_cod" : "132",
+        "categ_dsg" : "Outros artigos pessoais",
+        "categ_ord" : "482",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_1321" : [ {
+        "dim_num" : "3",
+        "cat_id" : "1321",
+        "categ_cod" : "1321",
+        "categ_dsg" : "Artigos de joalharia, bijutaria, ourivesaria e relojoaria",
+        "categ_ord" : "483",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_13211" : [ {
+        "dim_num" : "3",
+        "cat_id" : "13211",
+        "categ_cod" : "13211",
+        "categ_dsg" : "Compra de artigos de joalharia, bijutaria, ourivesaria e relojoaria",
+        "categ_ord" : "484",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_13212" : [ {
+        "dim_num" : "3",
+        "cat_id" : "13212",
+        "categ_cod" : "13212",
+        "categ_dsg" : "Reparação e aluguer de artigos de joalharia, bijutaria, ourivesaria e relojoaria",
+        "categ_ord" : "485",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_1322" : [ {
+        "dim_num" : "3",
+        "cat_id" : "1322",
+        "categ_cod" : "1322",
+        "categ_dsg" : "Artigos devocionais e artigos para comemorações religiosas e rituais",
+        "categ_ord" : "486",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_13220" : [ {
+        "dim_num" : "3",
+        "cat_id" : "13220",
+        "categ_cod" : "13220",
+        "categ_dsg" : "Artigos devocionais e artigos para comemorações religiosas e rituais",
+        "categ_ord" : "487",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_1329" : [ {
+        "dim_num" : "3",
+        "cat_id" : "1329",
+        "categ_cod" : "1329",
+        "categ_dsg" : "Outros artigos pessoais, n.e.",
+        "categ_ord" : "488",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_13291" : [ {
+        "dim_num" : "3",
+        "cat_id" : "13291",
+        "categ_cod" : "13291",
+        "categ_dsg" : "Artigos de viagem, artigos para bebés e outros artigos pessoais, n.e.",
+        "categ_ord" : "489",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_13292" : [ {
+        "dim_num" : "3",
+        "cat_id" : "13292",
+        "categ_cod" : "13292",
+        "categ_dsg" : "Reparação e aluguer de outros artigos pessoais",
+        "categ_ord" : "490",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_133" : [ {
+        "dim_num" : "3",
+        "cat_id" : "133",
+        "categ_cod" : "133",
+        "categ_dsg" : "Proteção social",
+        "categ_ord" : "491",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_1330" : [ {
+        "dim_num" : "3",
+        "cat_id" : "1330",
+        "categ_cod" : "1330",
+        "categ_dsg" : "Proteção social",
+        "categ_ord" : "492",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_13301" : [ {
+        "dim_num" : "3",
+        "cat_id" : "13301",
+        "categ_cod" : "13301",
+        "categ_dsg" : "Serviços de acolhimento de crianças",
+        "categ_ord" : "493",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_13302" : [ {
+        "dim_num" : "3",
+        "cat_id" : "13302",
+        "categ_cod" : "13302",
+        "categ_dsg" : "Lares para a terceira idade e lares para deficientes que não prestam cuidados médicos",
+        "categ_ord" : "494",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_13303" : [ {
+        "dim_num" : "3",
+        "cat_id" : "13303",
+        "categ_cod" : "13303",
+        "categ_dsg" : "Serviços de cuidados domiciliários para idosos e deficientes",
+        "categ_ord" : "495",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_13309" : [ {
+        "dim_num" : "3",
+        "cat_id" : "13309",
+        "categ_cod" : "13309",
+        "categ_dsg" : "Outros serviços de proteção social",
+        "categ_ord" : "496",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_139" : [ {
+        "dim_num" : "3",
+        "cat_id" : "139",
+        "categ_cod" : "139",
+        "categ_dsg" : "Outros serviços",
+        "categ_ord" : "497",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_1390" : [ {
+        "dim_num" : "3",
+        "cat_id" : "1390",
+        "categ_cod" : "1390",
+        "categ_dsg" : "Outros serviços",
+        "categ_ord" : "498",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num3_13902" : [ {
+        "dim_num" : "3",
+        "cat_id" : "13902",
+        "categ_cod" : "13902",
+        "categ_dsg" : "Serviços prestados por organizações religiosas",
+        "categ_ord" : "499",
+        "categ_nivel" : "5"
+      } ],
+      "Dim_Num3_13909" : [ {
+        "dim_num" : "3",
+        "cat_id" : "13909",
+        "categ_cod" : "13909",
+        "categ_dsg" : "Outros serviços n.e.",
+        "categ_ord" : "500",
+        "categ_nivel" : "5"
+      } ]
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

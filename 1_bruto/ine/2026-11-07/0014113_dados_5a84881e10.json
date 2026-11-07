@@ -1,0 +1,4285 @@
+[ {
+  "IndicadorCod" : "0014113",
+  "IndicadorDsg" : "Valor acrescentado bruto (B.1g) a preços correntes (Base 2021 - €) por Localização geográfica (NUTS - 2024) e Ramo de atividade (A3); Anual - INE, Contas económicas regionais",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0014113&lingua=PT",
+  "DataExtracao" : "2026-11-07T21:27:40.599Z",
+  "DataUltimoAtualizacao" : "2025-12-24",
+  "UltimoPref" : "2024",
+  "Dados" : {
+    "1995" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "59,929",
+      "valor" : "59.929"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "79,117",
+      "valor" : "79.117"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "228,694",
+      "valor" : "228.694"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "867,726",
+      "valor" : "867.726"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "948,265",
+      "valor" : "948.265"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "1 012,935",
+      "valor" : "1012.935"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "1 199,624",
+      "valor" : "1199.624"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 477,403",
+      "valor" : "1477.403"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "2 146,467",
+      "valor" : "2146.467"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "2 550,266",
+      "valor" : "2550.266"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "4 273,764",
+      "valor" : "4273.764"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "4 616,212",
+      "valor" : "4616.212"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "8 700,987",
+      "valor" : "8700.987"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "8 805,501",
+      "valor" : "8805.501"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "13 545,893",
+      "valor" : "13545.893"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "13 647,387",
+      "valor" : "13647.387"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "22 092,039",
+      "valor" : "22092.039"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "23 401,153",
+      "valor" : "23401.153"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "52 086,841",
+      "valor" : "52086.841"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "78 452,644",
+      "valor" : "78452.644"
+    } ],
+    "1996" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "58,710",
+      "valor" : "58.71"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "68,904",
+      "valor" : "68.904"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "221,627",
+      "valor" : "221.627"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "952,025",
+      "valor" : "952.025"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "952,995",
+      "valor" : "952.995"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "1 053,886",
+      "valor" : "1053.886"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "1 264,241",
+      "valor" : "1264.241"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 581,577",
+      "valor" : "1581.577"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "2 286,140",
+      "valor" : "2286.14"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "2 694,173",
+      "valor" : "2694.173"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "4 331,442",
+      "valor" : "4331.442"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "5 035,485",
+      "valor" : "5035.485"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "9 044,206",
+      "valor" : "9044.206"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "9 543,326",
+      "valor" : "9543.326"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "14 253,537",
+      "valor" : "14253.537"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "14 301,317",
+      "valor" : "14301.317"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "24 002,489",
+      "valor" : "24002.489"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "24 748,888",
+      "valor" : "24748.888"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "54 542,876",
+      "valor" : "54542.876"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "82 876,807",
+      "valor" : "82876.807"
+    } ],
+    "1997" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "46,933",
+      "valor" : "46.933"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "52,974",
+      "valor" : "52.974"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "179,345",
+      "valor" : "179.345"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "728,036",
+      "valor" : "728.036"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "984,989",
+      "valor" : "984.989"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "1 170,459",
+      "valor" : "1170.459"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "1 394,332",
+      "valor" : "1394.332"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 677,471",
+      "valor" : "1677.471"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "2 432,295",
+      "valor" : "2432.295"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "2 894,864",
+      "valor" : "2894.864"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "3 920,364",
+      "valor" : "3920.364"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "5 397,348",
+      "valor" : "5397.348"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "9 880,714",
+      "valor" : "9880.714"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "10 185,905",
+      "valor" : "10185.905"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "15 457,407",
+      "valor" : "15457.407"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "15 622,668",
+      "valor" : "15622.668"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "26 315,033",
+      "valor" : "26315.033"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "26 536,609",
+      "valor" : "26536.609"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "59 810,938",
+      "valor" : "59810.938"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "90 046,335",
+      "valor" : "90046.335"
+    } ],
+    "1998" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "48,132",
+      "valor" : "48.132"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "60,949",
+      "valor" : "60.949"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "186,939",
+      "valor" : "186.939"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "752,841",
+      "valor" : "752.841"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 016,733",
+      "valor" : "1016.733"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "1 260,637",
+      "valor" : "1260.637"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "1 511,987",
+      "valor" : "1511.987"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 784,223",
+      "valor" : "1784.223"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "2 589,670",
+      "valor" : "2589.67"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 092,991",
+      "valor" : "3092.991"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "3 943,821",
+      "valor" : "3943.821"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "5 872,619",
+      "valor" : "5872.619"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "10 495,004",
+      "valor" : "10495.004"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "10 951,280",
+      "valor" : "10951.28"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "16 554,562",
+      "valor" : "16554.562"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "16 688,319",
+      "valor" : "16688.319"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "28 213,040",
+      "valor" : "28213.04"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "28 392,440",
+      "valor" : "28392.44"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "65 197,593",
+      "valor" : "65197.593"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "97 354,454",
+      "valor" : "97354.454"
+    } ],
+    "1999" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "50,029",
+      "valor" : "50.029"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "63,949",
+      "valor" : "63.949"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "221,868",
+      "valor" : "221.868"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "792,961",
+      "valor" : "792.961"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 098,245",
+      "valor" : "1098.245"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "1 371,407",
+      "valor" : "1371.407"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "1 629,676",
+      "valor" : "1629.676"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 895,444",
+      "valor" : "1895.444"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "2 791,870",
+      "valor" : "2791.87"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 316,880",
+      "valor" : "3316.88"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "3 933,959",
+      "valor" : "3933.959"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "6 185,305",
+      "valor" : "6185.305"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "11 124,626",
+      "valor" : "11124.626"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "11 604,372",
+      "valor" : "11604.372"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "17 531,799",
+      "valor" : "17531.799"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "17 824,162",
+      "valor" : "17824.162"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "29 743,097",
+      "valor" : "29743.097"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "30 221,495",
+      "valor" : "30221.495"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "70 509,683",
+      "valor" : "70509.683"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "104 186,739",
+      "valor" : "104186.739"
+    } ],
+    "2000" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "50,109",
+      "valor" : "50.109"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "64,530",
+      "valor" : "64.53"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "209,346",
+      "valor" : "209.346"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "742,888",
+      "valor" : "742.888"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 246,389",
+      "valor" : "1246.389"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "1 536,579",
+      "valor" : "1536.579"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "1 793,807",
+      "valor" : "1793.807"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 959,579",
+      "valor" : "1959.579"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 104,726",
+      "valor" : "3104.726"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 546,267",
+      "valor" : "3546.267"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "3 993,366",
+      "valor" : "3993.366"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "6 261,307",
+      "valor" : "6261.307"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "11 888,461",
+      "valor" : "11888.461"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "12 051,173",
+      "valor" : "12051.173"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "18 359,114",
+      "valor" : "18359.114"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "19 375,092",
+      "valor" : "19375.092"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "31 412,195",
+      "valor" : "31412.195"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "32 169,152",
+      "valor" : "32169.152"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "77 077,200",
+      "valor" : "77077.2"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "112 482,761",
+      "valor" : "112482.761"
+    } ],
+    "2001" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "53,206",
+      "valor" : "53.206"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "69,336",
+      "valor" : "69.336"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "226,001",
+      "valor" : "226.001"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "806,408",
+      "valor" : "806.408"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 357,396",
+      "valor" : "1357.396"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "1 674,509",
+      "valor" : "1674.509"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "1 979,061",
+      "valor" : "1979.061"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "2 022,908",
+      "valor" : "2022.908"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 405,793",
+      "valor" : "3405.793"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 750,623",
+      "valor" : "3750.623"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "4 019,958",
+      "valor" : "4019.958"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "6 459,987",
+      "valor" : "6459.987"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "12 572,164",
+      "valor" : "12572.164"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "12 867,631",
+      "valor" : "12867.631"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "19 553,619",
+      "valor" : "19553.619"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "20 999,914",
+      "valor" : "20999.914"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "32 781,361",
+      "valor" : "32781.361"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "34 378,487",
+      "valor" : "34378.487"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "82 257,656",
+      "valor" : "82257.656"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "119 058,975",
+      "valor" : "119058.975"
+    } ],
+    "2002" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "46,913",
+      "valor" : "46.913"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "77,302",
+      "valor" : "77.302"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "225,860",
+      "valor" : "225.86"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "743,515",
+      "valor" : "743.515"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 406,232",
+      "valor" : "1406.232"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "1 739,650",
+      "valor" : "1739.65"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "2 113,921",
+      "valor" : "2113.921"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "2 129,735",
+      "valor" : "2129.735"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 613,269",
+      "valor" : "3613.269"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "3 881,597",
+      "valor" : "3881.597"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 900,484",
+      "valor" : "3900.484"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "6 495,761",
+      "valor" : "6495.761"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "12 856,654",
+      "valor" : "12856.654"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "13 358,519",
+      "valor" : "13358.519"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "20 080,140",
+      "valor" : "20080.14"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "21 968,396",
+      "valor" : "21968.396"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "33 495,959",
+      "valor" : "33495.959"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "35 568,565",
+      "valor" : "35568.565"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "87 297,464",
+      "valor" : "87297.464"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "124 675,020",
+      "valor" : "124675.02"
+    } ],
+    "2003" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "48,864",
+      "valor" : "48.864"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "73,649",
+      "valor" : "73.649"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "225,156",
+      "valor" : "225.156"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "748,445",
+      "valor" : "748.445"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 352,174",
+      "valor" : "1352.174"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "1 814,421",
+      "valor" : "1814.421"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "2 013,469",
+      "valor" : "2013.469"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "2 198,384",
+      "valor" : "2198.384"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 624,207",
+      "valor" : "3624.207"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "3 872,523",
+      "valor" : "3872.523"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 876,754",
+      "valor" : "3876.754"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "6 286,855",
+      "valor" : "6286.855"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "12 471,501",
+      "valor" : "12471.501"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "13 657,478",
+      "valor" : "13657.478"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "20 169,488",
+      "valor" : "20169.488"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "22 547,304",
+      "valor" : "22547.304"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "33 054,740",
+      "valor" : "33054.74"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "35 767,250",
+      "valor" : "35767.25"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "90 755,287",
+      "valor" : "90755.287"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "127 682,550",
+      "valor" : "127682.55"
+    } ],
+    "2004" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "52,122",
+      "valor" : "52.122"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "82,443",
+      "valor" : "82.443"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "227,118",
+      "valor" : "227.118"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "776,125",
+      "valor" : "776.125"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 405,630",
+      "valor" : "1405.63"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "1 880,594",
+      "valor" : "1880.594"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 990,573",
+      "valor" : "1990.573"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "2 317,026",
+      "valor" : "2317.026"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 805,099",
+      "valor" : "3805.099"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 923,288",
+      "valor" : "3923.288"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "3 961,718",
+      "valor" : "3961.718"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "6 409,207",
+      "valor" : "6409.207"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "12 656,536",
+      "valor" : "12656.536"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "14 129,201",
+      "valor" : "14129.201"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "20 765,525",
+      "valor" : "20765.525"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "23 435,025",
+      "valor" : "23435.025"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "33 855,408",
+      "valor" : "33855.408"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "36 867,685",
+      "valor" : "36867.685"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "95 254,600",
+      "valor" : "95254.6"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "133 071,726",
+      "valor" : "133071.726"
+    } ],
+    "2005" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "49,628",
+      "valor" : "49.628"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "80,964",
+      "valor" : "80.964"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "211,230",
+      "valor" : "211.23"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "742,860",
+      "valor" : "742.86"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 376,267",
+      "valor" : "1376.267"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 926,507",
+      "valor" : "1926.507"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "2 016,497",
+      "valor" : "2016.497"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "2 459,422",
+      "valor" : "2459.422"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "3 652,251",
+      "valor" : "3652.251"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 916,654",
+      "valor" : "3916.654"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 992,632",
+      "valor" : "3992.632"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "6 417,349",
+      "valor" : "6417.349"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "12 639,631",
+      "valor" : "12639.631"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "14 926,170",
+      "valor" : "14926.17"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "21 554,750",
+      "valor" : "21554.75"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "24 884,710",
+      "valor" : "24884.71"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "33 903,814",
+      "valor" : "33903.814"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "38 267,201",
+      "valor" : "38267.201"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "99 844,972",
+      "valor" : "99844.972"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "137 401,037",
+      "valor" : "137401.037"
+    } ],
+    "2006" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "47,944",
+      "valor" : "47.944"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "75,464",
+      "valor" : "75.464"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "205,432",
+      "valor" : "205.432"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "756,793",
+      "valor" : "756.793"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 393,842",
+      "valor" : "1393.842"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 964,265",
+      "valor" : "1964.265"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "2 104,583",
+      "valor" : "2104.583"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "2 617,114",
+      "valor" : "2617.114"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "3 746,077",
+      "valor" : "3746.077"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 086,419",
+      "valor" : "4086.419"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 116,793",
+      "valor" : "4116.793"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "6 617,305",
+      "valor" : "6617.305"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "12 986,765",
+      "valor" : "12986.765"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "15 560,326",
+      "valor" : "15560.326"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "22 383,063",
+      "valor" : "22383.063"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "26 183,194",
+      "valor" : "26183.194"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "35 160,187",
+      "valor" : "35160.187"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "39 926,752",
+      "valor" : "39926.752"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "104 568,778",
+      "valor" : "104568.778"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "143 475,042",
+      "valor" : "143475.042"
+    } ],
+    "2007" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "51,779",
+      "valor" : "51.779"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "74,388",
+      "valor" : "74.388"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "215,107",
+      "valor" : "215.107"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "716,769",
+      "valor" : "716.769"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 515,642",
+      "valor" : "1515.642"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "2 099,772",
+      "valor" : "2099.772"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "2 249,377",
+      "valor" : "2249.377"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "2 790,169",
+      "valor" : "2790.169"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "3 506,432",
+      "valor" : "3506.432"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 380,198",
+      "valor" : "4380.198"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 400,928",
+      "valor" : "4400.928"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "6 861,123",
+      "valor" : "6861.123"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "13 787,147",
+      "valor" : "13787.147"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "16 940,318",
+      "valor" : "16940.318"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "24 016,548",
+      "valor" : "24016.548"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "28 158,173",
+      "valor" : "28158.173"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "37 120,623",
+      "valor" : "37120.623"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "42 662,089",
+      "valor" : "42662.089"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "111 434,742",
+      "valor" : "111434.742"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "152 061,797",
+      "valor" : "152061.797"
+    } ],
+    "2008" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "53,108",
+      "valor" : "53.108"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "76,277",
+      "valor" : "76.277"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "219,786",
+      "valor" : "219.786"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "720,284",
+      "valor" : "720.284"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 573,887",
+      "valor" : "1573.887"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "2 102,917",
+      "valor" : "2102.917"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "2 358,869",
+      "valor" : "2358.869"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "2 957,352",
+      "valor" : "2957.352"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "3 517,170",
+      "valor" : "3517.17"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 514,894",
+      "valor" : "4514.894"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 607,515",
+      "valor" : "4607.515"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "6 918,250",
+      "valor" : "6918.25"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "14 047,938",
+      "valor" : "14047.938"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "17 488,649",
+      "valor" : "17488.649"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "24 626,685",
+      "valor" : "24626.685"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "29 263,251",
+      "valor" : "29263.251"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "36 512,394",
+      "valor" : "36512.394"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "44 031,473",
+      "valor" : "44031.473"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "116 007,246",
+      "valor" : "116007.246"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "156 036,810",
+      "valor" : "156036.81"
+    } ],
+    "2009" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "51,284",
+      "valor" : "51.284"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "74,529",
+      "valor" : "74.529"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "205,956",
+      "valor" : "205.956"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "695,993",
+      "valor" : "695.993"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 584,185",
+      "valor" : "1584.185"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "2 018,068",
+      "valor" : "2018.068"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "2 376,120",
+      "valor" : "2376.12"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "2 977,664",
+      "valor" : "2977.664"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "3 421,719",
+      "valor" : "3421.719"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 445,472",
+      "valor" : "4445.472"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 636,378",
+      "valor" : "4636.378"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "6 238,768",
+      "valor" : "6238.768"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "13 283,773",
+      "valor" : "13283.773"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "17 544,748",
+      "valor" : "17544.748"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "23 989,473",
+      "valor" : "23989.473"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "29 607,713",
+      "valor" : "29607.713"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "34 832,776",
+      "valor" : "34832.776"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "43 587,480",
+      "valor" : "43587.48"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "117 155,828",
+      "valor" : "117155.828"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "155 410,323",
+      "valor" : "155410.323"
+    } ],
+    "2010" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "51,427",
+      "valor" : "51.427"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "73,322",
+      "valor" : "73.322"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "214,153",
+      "valor" : "214.153"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "716,628",
+      "valor" : "716.628"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 582,544",
+      "valor" : "1582.544"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "2 127,440",
+      "valor" : "2127.44"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "2 435,620",
+      "valor" : "2435.62"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "3 013,149",
+      "valor" : "3013.149"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "3 489,918",
+      "valor" : "3489.918"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 614,487",
+      "valor" : "4614.487"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 669,015",
+      "valor" : "4669.015"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "6 485,825",
+      "valor" : "6485.825"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "13 826,844",
+      "valor" : "13826.844"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "17 721,318",
+      "valor" : "17721.318"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "24 421,295",
+      "valor" : "24421.295"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "29 987,596",
+      "valor" : "29987.596"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "35 852,519",
+      "valor" : "35852.519"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "44 531,068",
+      "valor" : "44531.068"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "118 689,865",
+      "valor" : "118689.865"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "158 032,302",
+      "valor" : "158032.302"
+    } ],
+    "2011" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "48,125",
+      "valor" : "48.125"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "70,653",
+      "valor" : "70.653"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "207,069",
+      "valor" : "207.069"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "671,274",
+      "valor" : "671.274"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 534,653",
+      "valor" : "1534.653"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "2 070,545",
+      "valor" : "2070.545"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "2 444,656",
+      "valor" : "2444.656"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "2 977,370",
+      "valor" : "2977.37"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "3 241,499",
+      "valor" : "3241.499"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 563,326",
+      "valor" : "4563.326"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 582,676",
+      "valor" : "4582.676"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "6 185,289",
+      "valor" : "6185.289"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "13 354,425",
+      "valor" : "13354.425"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "17 453,611",
+      "valor" : "17453.611"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "23 845,969",
+      "valor" : "23845.969"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "29 543,273",
+      "valor" : "29543.273"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "34 085,748",
+      "valor" : "34085.748"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "43 568,972",
+      "valor" : "43568.972"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "116 850,719",
+      "valor" : "116850.719"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "154 177,966",
+      "valor" : "154177.966"
+    } ],
+    "2012" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "47,572",
+      "valor" : "47.572"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "74,283",
+      "valor" : "74.283"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "184,110",
+      "valor" : "184.11"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "636,449",
+      "valor" : "636.449"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 494,907",
+      "valor" : "1494.907"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "2 110,339",
+      "valor" : "2110.339"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "2 449,401",
+      "valor" : "2449.401"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "2 962,711",
+      "valor" : "2962.711"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "3 236,023",
+      "valor" : "3236.023"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 531,901",
+      "valor" : "4531.901"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 607,312",
+      "valor" : "4607.312"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "5 847,491",
+      "valor" : "5847.491"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "12 892,801",
+      "valor" : "12892.801"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "16 949,133",
+      "valor" : "16949.133"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "22 980,734",
+      "valor" : "22980.734"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "28 773,852",
+      "valor" : "28773.852"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "32 168,584",
+      "valor" : "32168.584"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "42 303,101",
+      "valor" : "42303.101"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "111 895,935",
+      "valor" : "111895.935"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "147 300,542",
+      "valor" : "147300.542"
+    } ],
+    "2013" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "50,836",
+      "valor" : "50.836"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "77,847",
+      "valor" : "77.847"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "191,263",
+      "valor" : "191.263"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "690,422",
+      "valor" : "690.422"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 532,847",
+      "valor" : "1532.847"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "2 215,244",
+      "valor" : "2215.244"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "2 521,726",
+      "valor" : "2521.726"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "3 077,270",
+      "valor" : "3077.27"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "3 485,004",
+      "valor" : "3485.004"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 687,963",
+      "valor" : "4687.963"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 787,806",
+      "valor" : "4787.806"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "5 877,925",
+      "valor" : "5877.925"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "13 260,368",
+      "valor" : "13260.368"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "17 319,834",
+      "valor" : "17319.834"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "23 389,022",
+      "valor" : "23389.022"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "29 501,894",
+      "valor" : "29501.894"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "32 228,849",
+      "valor" : "32228.849"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "43 452,684",
+      "valor" : "43452.684"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "114 137,663",
+      "valor" : "114137.663"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "149 851,516",
+      "valor" : "149851.516"
+    } ],
+    "2014" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "49,857",
+      "valor" : "49.857"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "79,902",
+      "valor" : "79.902"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "193,336",
+      "valor" : "193.336"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "674,336",
+      "valor" : "674.336"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 590,001",
+      "valor" : "1590.001"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "2 322,919",
+      "valor" : "2322.919"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "2 588,036",
+      "valor" : "2588.036"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "3 156,056",
+      "valor" : "3156.056"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "3 423,192",
+      "valor" : "3423.192"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 825,959",
+      "valor" : "4825.959"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 960,812",
+      "valor" : "4960.812"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "6 179,245",
+      "valor" : "6179.245"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "13 840,906",
+      "valor" : "13840.906"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "17 549,192",
+      "valor" : "17549.192"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "23 921,773",
+      "valor" : "23921.773"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "29 873,610",
+      "valor" : "29873.61"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "32 879,564",
+      "valor" : "32879.564"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "44 388,853",
+      "valor" : "44388.853"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "114 836,135",
+      "valor" : "114836.135"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "151 138,891",
+      "valor" : "151138.891"
+    } ],
+    "2015" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "52,250",
+      "valor" : "52.25"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "78,588",
+      "valor" : "78.588"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "188,249",
+      "valor" : "188.249"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "704,482",
+      "valor" : "704.482"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 667,037",
+      "valor" : "1667.037"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "2 553,528",
+      "valor" : "2553.528"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "2 668,794",
+      "valor" : "2668.794"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "3 251,155",
+      "valor" : "3251.155"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "3 543,746",
+      "valor" : "3543.746"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 996,780",
+      "valor" : "4996.78"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "5 274,573",
+      "valor" : "5274.573"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "6 563,221",
+      "valor" : "6563.221"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "14 604,836",
+      "valor" : "14604.836"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "18 017,424",
+      "valor" : "18017.424"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "24 768,895",
+      "valor" : "24768.895"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "30 602,511",
+      "valor" : "30602.511"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "35 149,938",
+      "valor" : "35149.938"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "45 911,829",
+      "valor" : "45911.829"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "117 386,972",
+      "valor" : "117386.972"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "156 080,656",
+      "valor" : "156080.656"
+    } ],
+    "2016" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "49,565",
+      "valor" : "49.565"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "75,048",
+      "valor" : "75.048"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "188,224",
+      "valor" : "188.224"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "703,015",
+      "valor" : "703.015"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 835,777",
+      "valor" : "1835.777"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "2 661,393",
+      "valor" : "2661.393"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "2 770,856",
+      "valor" : "2770.856"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "3 415,617",
+      "valor" : "3415.617"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "3 582,906",
+      "valor" : "3582.906"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "5 326,442",
+      "valor" : "5326.442"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "5 481,814",
+      "valor" : "5481.814"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "6 789,927",
+      "valor" : "6789.927"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "15 256,300",
+      "valor" : "15256.3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "18 825,242",
+      "valor" : "18825.242"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "25 803,393",
+      "valor" : "25803.393"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "31 937,484",
+      "valor" : "31937.484"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "36 247,660",
+      "valor" : "36247.66"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "47 896,798",
+      "valor" : "47896.798"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "121 914,464",
+      "valor" : "121914.464"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "161 745,030",
+      "valor" : "161745.03"
+    } ],
+    "2017" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "52,599",
+      "valor" : "52.599"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "80,658",
+      "valor" : "80.658"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "191,503",
+      "valor" : "191.503"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "749,408",
+      "valor" : "749.408"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "1 946,814",
+      "valor" : "1946.814"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "2 760,429",
+      "valor" : "2760.429"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "2 856,836",
+      "valor" : "2856.836"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "3 580,874",
+      "valor" : "3580.874"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "3 839,161",
+      "valor" : "3839.161"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "5 608,347",
+      "valor" : "5608.347"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "5 669,865",
+      "valor" : "5669.865"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "7 215,970",
+      "valor" : "7215.97"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "15 840,960",
+      "valor" : "15840.96"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "19 738,387",
+      "valor" : "19738.387"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "27 145,861",
+      "valor" : "27145.861"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "33 315,679",
+      "valor" : "33315.679"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "37 634,303",
+      "valor" : "37634.303"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "49 906,047",
+      "valor" : "49906.047"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "127 597,906",
+      "valor" : "127597.906"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "169 071,370",
+      "valor" : "169071.37"
+    } ],
+    "2018" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "54,979",
+      "valor" : "54.979"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "87,234",
+      "valor" : "87.234"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "206,226",
+      "valor" : "206.226"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "786,422",
+      "valor" : "786.422"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "2 069,133",
+      "valor" : "2069.133"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "2 908,790",
+      "valor" : "2908.79"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "3 061,268",
+      "valor" : "3061.268"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "3 754,364",
+      "valor" : "3754.364"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "3 932,213",
+      "valor" : "3932.213"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "5 910,731",
+      "valor" : "5910.731"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "6 025,037",
+      "valor" : "6025.037"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "7 489,978",
+      "valor" : "7489.978"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "16 755,469",
+      "valor" : "16755.469"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "20 900,301",
+      "valor" : "20900.301"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "28 596,505",
+      "valor" : "28596.505"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "35 178,793",
+      "valor" : "35178.793"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "39 732,733",
+      "valor" : "39732.733"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "52 720,684",
+      "valor" : "52720.684"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "133 492,388",
+      "valor" : "133492.388"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "177 157,334",
+      "valor" : "177157.334"
+    } ],
+    "2019" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "64,687",
+      "valor" : "64.687"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "101,732",
+      "valor" : "101.732"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "229,806",
+      "valor" : "229.806"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "923,890",
+      "valor" : "923.89"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "2 195,875",
+      "valor" : "2195.875"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "2 888,629",
+      "valor" : "2888.629"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "3 211,414",
+      "valor" : "3211.414"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "4 072,330",
+      "valor" : "4072.33"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "4 289,623",
+      "valor" : "4289.623"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "6 164,731",
+      "valor" : "6164.731"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "6 369,937",
+      "valor" : "6369.937"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "7 541,735",
+      "valor" : "7541.735"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "16 979,038",
+      "valor" : "16979.038"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "22 123,967",
+      "valor" : "22123.967"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "29 895,509",
+      "valor" : "29895.509"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "37 219,152",
+      "valor" : "37219.152"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "40 508,740",
+      "valor" : "40508.74"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "55 122,081",
+      "valor" : "55122.081"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "140 675,511",
+      "valor" : "140675.511"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "185 473,874",
+      "valor" : "185473.874"
+    } ],
+    "2020" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "66,372",
+      "valor" : "66.372"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "100,402",
+      "valor" : "100.402"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "218,108",
+      "valor" : "218.108"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "918,502",
+      "valor" : "918.502"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "2 140,209",
+      "valor" : "2140.209"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "2 796,368",
+      "valor" : "2796.368"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "3 172,564",
+      "valor" : "3172.564"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "3 944,813",
+      "valor" : "3944.813"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "4 303,903",
+      "valor" : "4303.903"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "6 035,304",
+      "valor" : "6035.304"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "6 185,423",
+      "valor" : "6185.423"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "7 297,139",
+      "valor" : "7297.139"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "16 517,499",
+      "valor" : "16517.499"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "20 962,011",
+      "valor" : "20962.011"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "28 477,258",
+      "valor" : "28477.258"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "35 645,953",
+      "valor" : "35645.953"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "38 989,355",
+      "valor" : "38989.355"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "53 081,953",
+      "valor" : "53081.953"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "131 811,029",
+      "valor" : "131811.029"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "175 104,287",
+      "valor" : "175104.287"
+    } ],
+    "2021" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "67,664",
+      "valor" : "67.664"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "102,977",
+      "valor" : "102.977"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "240,961",
+      "valor" : "240.961"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "983,957",
+      "valor" : "983.957"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "2 345,611",
+      "valor" : "2345.611"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "3 115,299",
+      "valor" : "3115.299"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "3 280,392",
+      "valor" : "3280.392"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "4 213,241",
+      "valor" : "4213.241"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "4 680,695",
+      "valor" : "4680.695"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "6 463,356",
+      "valor" : "6463.356"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "6 661,828",
+      "valor" : "6661.828"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "7 618,314",
+      "valor" : "7618.314"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "17 630,143",
+      "valor" : "17630.143"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "22 664,301",
+      "valor" : "22664.301"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "30 523,576",
+      "valor" : "30523.576"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "38 161,438",
+      "valor" : "38161.438"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "41 811,084",
+      "valor" : "41811.084"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "56 775,538",
+      "valor" : "56775.538"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "140 869,679",
+      "valor" : "140869.679"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "187 361,458",
+      "valor" : "187361.458"
+    } ],
+    "2022" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "70,759",
+      "valor" : "70.759"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "104,616",
+      "valor" : "104.616"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "268,848",
+      "valor" : "268.848"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "946,685",
+      "valor" : "946.685"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "2 490,804",
+      "valor" : "2490.804"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "3 263,381",
+      "valor" : "3263.381"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "3 622,696",
+      "valor" : "3622.696"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "4 648,448",
+      "valor" : "4648.448"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "4 687,011",
+      "valor" : "4687.011"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "6 956,836",
+      "valor" : "6956.836"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "7 282,431",
+      "valor" : "7282.431"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "8 146,669",
+      "valor" : "8146.669"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "18 685,284",
+      "valor" : "18685.284"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "25 922,578",
+      "valor" : "25922.578"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "34 338,095",
+      "valor" : "34338.095"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "43 026,997",
+      "valor" : "43026.997"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "44 896,015",
+      "valor" : "44896.015"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "62 658,966",
+      "valor" : "62658.966"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "161 483,421",
+      "valor" : "161483.421"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "211 027,884",
+      "valor" : "211027.884"
+    } ],
+    "2023" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "80,945",
+      "valor" : "80.945"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "125,989",
+      "valor" : "125.989"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "294,038",
+      "valor" : "294.038"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "1 084,708",
+      "valor" : "1084.708"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "2 765,578",
+      "valor" : "2765.578"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "3 528,769",
+      "valor" : "3528.769"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "3 964,134",
+      "valor" : "3964.134"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "5 167,633",
+      "valor" : "5167.633"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "5 778,005",
+      "valor" : "5778.005"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "7 573,849",
+      "valor" : "7573.849"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "8 059,200",
+      "valor" : "8059.2"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "9 216,358",
+      "valor" : "9216.358"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "21 031,166",
+      "valor" : "21031.166"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "28 781,948",
+      "valor" : "28781.948"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "38 292,344",
+      "valor" : "38292.344"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "47 534,785",
+      "valor" : "47534.785"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "50 588,094",
+      "valor" : "50588.094"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "69 650,659",
+      "valor" : "69650.659"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "179 223,171",
+      "valor" : "179223.171"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "235 589,270",
+      "valor" : "235589.27"
+    } ],
+    "2024" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "sinal_conv" : "//",
+      "sinal_conv_desc" : "Dado preliminar",
+      "ind_string" : "78,540 //",
+      "valor" : "78.54"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "sinal_conv" : "//",
+      "sinal_conv_desc" : "Dado preliminar",
+      "ind_string" : "122,132 //",
+      "valor" : "122.132"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "sinal_conv" : "//",
+      "sinal_conv_desc" : "Dado preliminar",
+      "ind_string" : "282,996 //",
+      "valor" : "282.996"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "sinal_conv" : "//",
+      "sinal_conv_desc" : "Dado preliminar",
+      "ind_string" : "1 108,659 //",
+      "valor" : "1108.659"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "sinal_conv" : "//",
+      "sinal_conv_desc" : "Dado preliminar",
+      "ind_string" : "2 982,013 //",
+      "valor" : "2982.013"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "sinal_conv" : "//",
+      "sinal_conv_desc" : "Dado preliminar",
+      "ind_string" : "3 801,800 //",
+      "valor" : "3801.8"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "sinal_conv" : "//",
+      "sinal_conv_desc" : "Dado preliminar",
+      "ind_string" : "4 255,823 //",
+      "valor" : "4255.823"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "sinal_conv" : "//",
+      "sinal_conv_desc" : "Dado preliminar",
+      "ind_string" : "5 536,293 //",
+      "valor" : "5536.293"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "sinal_conv" : "//",
+      "sinal_conv_desc" : "Dado preliminar",
+      "ind_string" : "5 851,282 //",
+      "valor" : "5851.282"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "//",
+      "sinal_conv_desc" : "Dado preliminar",
+      "ind_string" : "8 136,163 //",
+      "valor" : "8136.163"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "//",
+      "sinal_conv_desc" : "Dado preliminar",
+      "ind_string" : "8 640,438 //",
+      "valor" : "8640.438"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "sinal_conv" : "//",
+      "sinal_conv_desc" : "Dado preliminar",
+      "ind_string" : "9 594,562 //",
+      "valor" : "9594.562"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "sinal_conv" : "//",
+      "sinal_conv_desc" : "Dado preliminar",
+      "ind_string" : "22 419,706 //",
+      "valor" : "22419.706"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "sinal_conv" : "//",
+      "sinal_conv_desc" : "Dado preliminar",
+      "ind_string" : "30 965,205 //",
+      "valor" : "30965.205"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "//",
+      "sinal_conv_desc" : "Dado preliminar",
+      "ind_string" : "40 842,763 //",
+      "valor" : "40842.763"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "sinal_conv" : "//",
+      "sinal_conv_desc" : "Dado preliminar",
+      "ind_string" : "51 040,345 //",
+      "valor" : "51040.345"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "sinal_conv" : "//",
+      "sinal_conv_desc" : "Dado preliminar",
+      "ind_string" : "54 093,194 //",
+      "valor" : "54093.194"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "//",
+      "sinal_conv_desc" : "Dado preliminar",
+      "ind_string" : "74 568,710 //",
+      "valor" : "74568.71"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "sinal_conv" : "//",
+      "sinal_conv_desc" : "Dado preliminar",
+      "ind_string" : "191 823,991 //",
+      "valor" : "191823.991"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "//",
+      "sinal_conv_desc" : "Dado preliminar",
+      "ind_string" : "251 768,467 //",
+      "valor" : "251768.467"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

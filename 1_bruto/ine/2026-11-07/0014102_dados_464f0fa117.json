@@ -1,0 +1,805 @@
+[ {
+  "IndicadorCod" : "0014102",
+  "IndicadorDsg" : "Proporção do produto interno bruto face ao total de Portugal (Base 2021 - %) por Localização geográfica (NUTS - 2024); Anual - INE, Contas económicas regionais",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0014102&lingua=PT",
+  "DataExtracao" : "2026-11-07T21:28:10.239Z",
+  "DataUltimoAtualizacao" : "2025-12-19",
+  "UltimoPref" : "2024",
+  "Dados" : {
+    "1995" : [ {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "2,7",
+      "valor" : "2.7"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "3,3",
+      "valor" : "3.3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "17,3",
+      "valor" : "17.3"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "29,8",
+      "valor" : "29.8"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "1996" : [ {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "2,8",
+      "valor" : "2.8"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "3,3",
+      "valor" : "3.3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "17,3",
+      "valor" : "17.3"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "29,9",
+      "valor" : "29.9"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "1997" : [ {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "2,7",
+      "valor" : "2.7"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "3,2",
+      "valor" : "3.2"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "17,2",
+      "valor" : "17.2"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "29,5",
+      "valor" : "29.5"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "1998" : [ {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "2,7",
+      "valor" : "2.7"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "3,2",
+      "valor" : "3.2"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "17,0",
+      "valor" : "17"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "29,2",
+      "valor" : "29.2"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "1999" : [ {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "2,7",
+      "valor" : "2.7"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "3,2",
+      "valor" : "3.2"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "16,8",
+      "valor" : "16.8"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "29,0",
+      "valor" : "29"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "2000" : [ {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "2,8",
+      "valor" : "2.8"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "3,2",
+      "valor" : "3.2"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "16,3",
+      "valor" : "16.3"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "28,6",
+      "valor" : "28.6"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "2001" : [ {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "2,9",
+      "valor" : "2.9"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "3,2",
+      "valor" : "3.2"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "16,4",
+      "valor" : "16.4"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "28,9",
+      "valor" : "28.9"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "2002" : [ {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "2,9",
+      "valor" : "2.9"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "3,1",
+      "valor" : "3.1"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "16,1",
+      "valor" : "16.1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "28,5",
+      "valor" : "28.5"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "2003" : [ {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "2,8",
+      "valor" : "2.8"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "3,0",
+      "valor" : "3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "15,8",
+      "valor" : "15.8"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "28,0",
+      "valor" : "28"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "2004" : [ {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "2,9",
+      "valor" : "2.9"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "2,9",
+      "valor" : "2.9"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "15,6",
+      "valor" : "15.6"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "27,7",
+      "valor" : "27.7"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "2005" : [ {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "2,9",
+      "valor" : "2.9"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "2,9",
+      "valor" : "2.9"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "15,7",
+      "valor" : "15.7"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "27,9",
+      "valor" : "27.9"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "2006" : [ {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "2,8",
+      "valor" : "2.8"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "2,9",
+      "valor" : "2.9"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "15,6",
+      "valor" : "15.6"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "27,8",
+      "valor" : "27.8"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "2007" : [ {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "2,9",
+      "valor" : "2.9"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "2,9",
+      "valor" : "2.9"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "15,8",
+      "valor" : "15.8"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "28,1",
+      "valor" : "28.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "2008" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "2,9",
+      "valor" : "2.9"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "3,0",
+      "valor" : "3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "15,8",
+      "valor" : "15.8"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "28,2",
+      "valor" : "28.2"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "2009" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "2,9",
+      "valor" : "2.9"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "3,0",
+      "valor" : "3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "15,4",
+      "valor" : "15.4"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "28,1",
+      "valor" : "28.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "2010" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "2,9",
+      "valor" : "2.9"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "3,0",
+      "valor" : "3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "15,5",
+      "valor" : "15.5"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "28,2",
+      "valor" : "28.2"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "2011" : [ {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "3,0",
+      "valor" : "3"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "3,0",
+      "valor" : "3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "15,5",
+      "valor" : "15.5"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "28,3",
+      "valor" : "28.3"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "2012" : [ {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "3,1",
+      "valor" : "3.1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "3,1",
+      "valor" : "3.1"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "15,6",
+      "valor" : "15.6"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "28,7",
+      "valor" : "28.7"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "2013" : [ {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "3,1",
+      "valor" : "3.1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "3,2",
+      "valor" : "3.2"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "15,6",
+      "valor" : "15.6"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "29,0",
+      "valor" : "29"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "2014" : [ {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "3,2",
+      "valor" : "3.2"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "3,3",
+      "valor" : "3.3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "15,8",
+      "valor" : "15.8"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "29,4",
+      "valor" : "29.4"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "2015" : [ {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "3,2",
+      "valor" : "3.2"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "15,9",
+      "valor" : "15.9"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "29,4",
+      "valor" : "29.4"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "2016" : [ {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "3,3",
+      "valor" : "3.3"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "16,0",
+      "valor" : "16"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "29,6",
+      "valor" : "29.6"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "2017" : [ {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "3,3",
+      "valor" : "3.3"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "16,1",
+      "valor" : "16.1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "29,5",
+      "valor" : "29.5"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "2018" : [ {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "3,3",
+      "valor" : "3.3"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "16,1",
+      "valor" : "16.1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "29,8",
+      "valor" : "29.8"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "2019" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "3,3",
+      "valor" : "3.3"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "16,1",
+      "valor" : "16.1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "29,7",
+      "valor" : "29.7"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "2020" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "3,5",
+      "valor" : "3.5"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "16,3",
+      "valor" : "16.3"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "30,3",
+      "valor" : "30.3"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "2021" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "3,5",
+      "valor" : "3.5"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "3,6",
+      "valor" : "3.6"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "16,3",
+      "valor" : "16.3"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "30,3",
+      "valor" : "30.3"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "2022" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "3,3",
+      "valor" : "3.3"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "3,5",
+      "valor" : "3.5"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "16,3",
+      "valor" : "16.3"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "29,7",
+      "valor" : "29.7"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "2023" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "3,2",
+      "valor" : "3.2"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "3,4",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "16,3",
+      "valor" : "16.3"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "29,6",
+      "valor" : "29.6"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    } ],
+    "2024" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "3,2 &",
+      "valor" : "3.2"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "3,4 &",
+      "valor" : "3.4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "16,2 &",
+      "valor" : "16.2"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "29,6 &",
+      "valor" : "29.6"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "100,0 &",
+      "valor" : "100"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

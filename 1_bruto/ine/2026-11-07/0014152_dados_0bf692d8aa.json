@@ -1,0 +1,859 @@
+[ {
+  "IndicadorCod" : "0014152",
+  "IndicadorDsg" : "Valor acrescentado bruto (B.1g) a preços correntes (Base 2021 - €) por Localização geográfica (NUTS - 2024) e Ramo de atividade (A10); Anual - INE, Contas económicas regionais",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0014152&lingua=PT",
+  "DataExtracao" : "2026-11-07T21:20:24.856Z",
+  "DataUltimoAtualizacao" : "2026-01-10",
+  "UltimoPref" : "2024",
+  "Dados" : {
+    "2021" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "983,957",
+      "valor" : "983.957"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "101",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "983,957",
+      "valor" : "983.957"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "310",
+      "dim_3_t" : "Atividades artisticas e de espetáculos; reparação de bens de uso doméstico e outro serviços",
+      "ind_string" : "1 334,466",
+      "valor" : "1334.466"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "305",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "1 848,117",
+      "valor" : "1848.117"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "306",
+      "dim_3_t" : "Atividades financeiras e de seguros",
+      "ind_string" : "2 080,622",
+      "valor" : "2080.622"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "203",
+      "dim_3_t" : "Construção",
+      "ind_string" : "3 206,106",
+      "valor" : "3206.106"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "308",
+      "dim_3_t" : "Atividades de consultoria, cientificas, técnicas e similares; Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "4 376,721",
+      "valor" : "4376.721"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "4 680,695",
+      "valor" : "4680.695"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "101",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "4 680,695",
+      "valor" : "4680.695"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "310",
+      "dim_3_t" : "Atividades artisticas e de espetáculos; reparação de bens de uso doméstico e outro serviços",
+      "ind_string" : "4 689,186",
+      "valor" : "4689.186"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "307",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "6 947,970",
+      "valor" : "6947.97"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "305",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "8 499,814",
+      "valor" : "8499.814"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "203",
+      "dim_3_t" : "Construção",
+      "ind_string" : "8 695,662",
+      "valor" : "8695.662"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "306",
+      "dim_3_t" : "Atividades financeiras e de seguros",
+      "ind_string" : "9 604,217",
+      "valor" : "9604.217"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "309",
+      "dim_3_t" : "Administração pública e defesa; segurança social obrigatória; educação; saúde humana e ação social",
+      "ind_string" : "10 550,059",
+      "valor" : "10550.059"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "304",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos; transportes e armazenagem; Atividades de alojamento e restauração",
+      "ind_string" : "11 023,483",
+      "valor" : "11023.483"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "202",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição",
+      "ind_string" : "14 424,036",
+      "valor" : "14424.036"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "308",
+      "dim_3_t" : "Atividades de consultoria, cientificas, técnicas e similares; Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "16 535,788",
+      "valor" : "16535.788"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "17 630,142",
+      "valor" : "17630.142"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "307",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "24 399,795",
+      "valor" : "24399.795"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "202",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição",
+      "ind_string" : "33 115,422",
+      "valor" : "33115.422"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "309",
+      "dim_3_t" : "Administração pública e defesa; segurança social obrigatória; educação; saúde humana e ação social",
+      "ind_string" : "37 509,340",
+      "valor" : "37509.34"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "38 161,438",
+      "valor" : "38161.438"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "304",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos; transportes e armazenagem; Atividades de alojamento e restauração",
+      "ind_string" : "39 631,539",
+      "valor" : "39631.539"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "41 811,084",
+      "valor" : "41811.084"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "56 775,538",
+      "valor" : "56775.538"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "140 869,679",
+      "valor" : "140869.679"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "187 361,458",
+      "valor" : "187361.458"
+    } ],
+    "2022" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "946,685",
+      "valor" : "946.685"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "101",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "946,685",
+      "valor" : "946.685"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "310",
+      "dim_3_t" : "Atividades artisticas e de espetáculos; reparação de bens de uso doméstico e outro serviços",
+      "ind_string" : "1 658,242",
+      "valor" : "1658.242"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "305",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "2 270,883",
+      "valor" : "2270.883"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "306",
+      "dim_3_t" : "Atividades financeiras e de seguros",
+      "ind_string" : "2 549,035",
+      "valor" : "2549.035"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "203",
+      "dim_3_t" : "Construção",
+      "ind_string" : "3 702,150",
+      "valor" : "3702.15"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "4 648,448",
+      "valor" : "4648.448"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "101",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "4 648,448",
+      "valor" : "4648.448"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "308",
+      "dim_3_t" : "Atividades de consultoria, cientificas, técnicas e similares; Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "5 269,563",
+      "valor" : "5269.563"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "310",
+      "dim_3_t" : "Atividades artisticas e de espetáculos; reparação de bens de uso doméstico e outro serviços",
+      "ind_string" : "5 878,695",
+      "valor" : "5878.695"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "307",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "7 187,230",
+      "valor" : "7187.23"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "305",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "10 019,781",
+      "valor" : "10019.781"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "203",
+      "dim_3_t" : "Construção",
+      "ind_string" : "10 048,197",
+      "valor" : "10048.197"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "309",
+      "dim_3_t" : "Administração pública e defesa; segurança social obrigatória; educação; saúde humana e ação social",
+      "ind_string" : "11 029,106",
+      "valor" : "11029.106"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "306",
+      "dim_3_t" : "Atividades financeiras e de seguros",
+      "ind_string" : "11 430,868",
+      "valor" : "11430.868"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "304",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos; transportes e armazenagem; Atividades de alojamento e restauração",
+      "ind_string" : "13 062,936",
+      "valor" : "13062.936"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "202",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição",
+      "ind_string" : "14 983,135",
+      "valor" : "14983.135"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "18 685,285",
+      "valor" : "18685.285"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "308",
+      "dim_3_t" : "Atividades de consultoria, cientificas, técnicas e similares; Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "20 097,665",
+      "valor" : "20097.665"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "307",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "25 585,453",
+      "valor" : "25585.453"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "202",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição",
+      "ind_string" : "34 847,818",
+      "valor" : "34847.818"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "309",
+      "dim_3_t" : "Administração pública e defesa; segurança social obrigatória; educação; saúde humana e ação social",
+      "ind_string" : "39 696,267",
+      "valor" : "39696.267"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "43 026,995",
+      "valor" : "43026.995"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "44 896,015",
+      "valor" : "44896.015"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "304",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos; transportes e armazenagem; Atividades de alojamento e restauração",
+      "ind_string" : "48 774,692",
+      "valor" : "48774.692"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "62 658,966",
+      "valor" : "62658.966"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "161 483,421",
+      "valor" : "161483.421"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "211 027,884",
+      "valor" : "211027.884"
+    } ],
+    "2023" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "1 084,708",
+      "valor" : "1084.708"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "101",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "1 084,708",
+      "valor" : "1084.708"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "310",
+      "dim_3_t" : "Atividades artisticas e de espetáculos; reparação de bens de uso doméstico e outro serviços",
+      "ind_string" : "1 907,379",
+      "valor" : "1907.379"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "305",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "2 640,598",
+      "valor" : "2640.598"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "306",
+      "dim_3_t" : "Atividades financeiras e de seguros",
+      "ind_string" : "3 892,418",
+      "valor" : "3892.418"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "203",
+      "dim_3_t" : "Construção",
+      "ind_string" : "4 242,155",
+      "valor" : "4242.155"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "5 778,005",
+      "valor" : "5778.005"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "101",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "5 778,005",
+      "valor" : "5778.005"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "308",
+      "dim_3_t" : "Atividades de consultoria, cientificas, técnicas e similares; Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "6 002,190",
+      "valor" : "6002.19"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "310",
+      "dim_3_t" : "Atividades artisticas e de espetáculos; reparação de bens de uso doméstico e outro serviços",
+      "ind_string" : "6 714,368",
+      "valor" : "6714.368"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "307",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "6 874,563",
+      "valor" : "6874.563"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "305",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "11 230,944",
+      "valor" : "11230.944"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "203",
+      "dim_3_t" : "Construção",
+      "ind_string" : "11 547,583",
+      "valor" : "11547.583"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "309",
+      "dim_3_t" : "Administração pública e defesa; segurança social obrigatória; educação; saúde humana e ação social",
+      "ind_string" : "11 826,445",
+      "valor" : "11826.445"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "304",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos; transportes e armazenagem; Atividades de alojamento e restauração",
+      "ind_string" : "14 391,192",
+      "valor" : "14391.192"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "306",
+      "dim_3_t" : "Atividades financeiras e de seguros",
+      "ind_string" : "16 582,649",
+      "valor" : "16582.649"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "202",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição",
+      "ind_string" : "16 789,011",
+      "valor" : "16789.011"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "21 031,166",
+      "valor" : "21031.166"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "308",
+      "dim_3_t" : "Atividades de consultoria, cientificas, técnicas e similares; Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "22 518,339",
+      "valor" : "22518.339"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "307",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "24 767,144",
+      "valor" : "24767.144"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "202",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição",
+      "ind_string" : "39 040,511",
+      "valor" : "39040.511"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "309",
+      "dim_3_t" : "Administração pública e defesa; segurança social obrigatória; educação; saúde humana e ação social",
+      "ind_string" : "42 603,805",
+      "valor" : "42603.805"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "47 534,785",
+      "valor" : "47534.785"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "ind_string" : "50 588,094",
+      "valor" : "50588.094"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "304",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos; transportes e armazenagem; Atividades de alojamento e restauração",
+      "ind_string" : "54 805,922",
+      "valor" : "54805.922"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "69 650,659",
+      "valor" : "69650.659"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "ind_string" : "179 223,171",
+      "valor" : "179223.171"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "235 589,270",
+      "valor" : "235589.27"
+    } ],
+    "2024" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "1 108,659 &",
+      "valor" : "1108.659"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "101",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "1 108,659 &",
+      "valor" : "1108.659"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "310",
+      "dim_3_t" : "Atividades artisticas e de espetáculos; reparação de bens de uso doméstico e outro serviços",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "2 091,552 &",
+      "valor" : "2091.552"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "305",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "2 944,359 &",
+      "valor" : "2944.359"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "306",
+      "dim_3_t" : "Atividades financeiras e de seguros",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "3 729,438 &",
+      "valor" : "3729.438"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "203",
+      "dim_3_t" : "Construção",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "4 673,114 &",
+      "valor" : "4673.114"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "5 851,282 &",
+      "valor" : "5851.282"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "101",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "5 851,282 &",
+      "valor" : "5851.282"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "308",
+      "dim_3_t" : "Atividades de consultoria, cientificas, técnicas e similares; Atividades administrativas e dos serviços de apoio",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "6 510,161 &",
+      "valor" : "6510.161"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "310",
+      "dim_3_t" : "Atividades artisticas e de espetáculos; reparação de bens de uso doméstico e outro serviços",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "7 419,437 &",
+      "valor" : "7419.437"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "307",
+      "dim_3_t" : "Atividades imobiliárias",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "7 667,420 &",
+      "valor" : "7667.42"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "305",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "12 357,229 &",
+      "valor" : "12357.229"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "203",
+      "dim_3_t" : "Construção",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "12 711,026 &",
+      "valor" : "12711.026"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "309",
+      "dim_3_t" : "Administração pública e defesa; segurança social obrigatória; educação; saúde humana e ação social",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "12 725,127 &",
+      "valor" : "12725.127"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "304",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos; transportes e armazenagem; Atividades de alojamento e restauração",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "15 372,287 &",
+      "valor" : "15372.287"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "306",
+      "dim_3_t" : "Atividades financeiras e de seguros",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "15 900,754 &",
+      "valor" : "15900.754"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "202",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "17 746,591 &",
+      "valor" : "17746.591"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "22 419,705 &",
+      "valor" : "22419.705"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "308",
+      "dim_3_t" : "Atividades de consultoria, cientificas, técnicas e similares; Atividades administrativas e dos serviços de apoio",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "24 253,966 &",
+      "valor" : "24253.966"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "307",
+      "dim_3_t" : "Atividades imobiliárias",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "27 347,940 &",
+      "valor" : "27347.94"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "202",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "41 382,168 &",
+      "valor" : "41382.168"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "309",
+      "dim_3_t" : "Administração pública e defesa; segurança social obrigatória; educação; saúde humana e ação social",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "45 806,145 &",
+      "valor" : "45806.145"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "51 040,344 &",
+      "valor" : "51040.344"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "54 093,194 &",
+      "valor" : "54093.194"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "304",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos; transportes e armazenagem; Atividades de alojamento e restauração",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "58 738,520 &",
+      "valor" : "58738.52"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "74 568,710 &",
+      "valor" : "74568.71"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Serviços",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "191 823,991 &",
+      "valor" : "191823.991"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "&",
+      "sinal_conv_desc" : "Dado provisório",
+      "ind_string" : "251 768,467 &",
+      "valor" : "251768.467"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

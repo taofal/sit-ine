@@ -1,0 +1,299 @@
+[ {
+  "IndicadorCod" : "0014152",
+  "IndicadorNome" : "Valor acrescentado bruto (B.1g) a preços correntes (Base 2021 - €) por Localização geográfica (NUTS - 2024) e Ramo de atividade (A10); Anual - INE, Contas económicas regionais",
+  "Periodic" : "Anual",
+  "PrimeiroPeriodo" : "2021",
+  "UltimoPeriodo" : "2024",
+  "UnidadeMedida" : "Euro (€)",
+  "Potencia10" : "6",
+  "PrecisaoDecimal" : "3",
+  "Lingua" : "PT",
+  "DataUltimaAtualizacao" : "2026-01-10",
+  "DataExtracao" : "2026-11-07T21:19:11.751Z",
+  "Dimensoes" : {
+    "Descricao_Dim" : [ {
+      "dim_num" : "1",
+      "abrv" : "Período de referência dos dados",
+      "versao" : "XXXXX"
+    }, {
+      "dim_num" : "2",
+      "abrv" : "Localização geográfica (NUTS - 2024)",
+      "versao" : "05215"
+    }, {
+      "dim_num" : "3",
+      "abrv" : "Ramo de atividade (A10)",
+      "versao" : "02976"
+    } ],
+    "Categoria_Dim" : [ {
+      "Dim_Num1_S7A2021" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2021",
+        "categ_cod" : "S7A2021",
+        "categ_dsg" : "2021",
+        "categ_ord" : "20210101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2022" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2022",
+        "categ_cod" : "S7A2022",
+        "categ_dsg" : "2022",
+        "categ_ord" : "20220101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2023" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2023",
+        "categ_cod" : "S7A2023",
+        "categ_dsg" : "2023",
+        "categ_ord" : "20230101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2024" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2024",
+        "categ_cod" : "S7A2024",
+        "categ_dsg" : "2024",
+        "categ_ord" : "20240101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_PT" : [ {
+        "dim_num" : "2",
+        "cat_id" : "PT",
+        "categ_cod" : "PT",
+        "categ_dsg" : "Portugal",
+        "categ_ord" : "1",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1",
+        "categ_cod" : "1",
+        "categ_dsg" : "Continente",
+        "categ_ord" : "2",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num2_11" : [ {
+        "dim_num" : "2",
+        "cat_id" : "11",
+        "categ_cod" : "11",
+        "categ_dsg" : "Norte",
+        "categ_ord" : "3",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_19" : [ {
+        "dim_num" : "2",
+        "cat_id" : "19",
+        "categ_cod" : "19",
+        "categ_dsg" : "Centro",
+        "categ_ord" : "12",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_1D" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1D",
+        "categ_cod" : "1D",
+        "categ_dsg" : "Oeste e Vale do Tejo",
+        "categ_ord" : "19",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_1A" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1A",
+        "categ_cod" : "1A",
+        "categ_dsg" : "Grande Lisboa",
+        "categ_ord" : "23",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_1B" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1B",
+        "categ_cod" : "1B",
+        "categ_dsg" : "Península de Setúbal",
+        "categ_ord" : "25",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_1C" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1C",
+        "categ_cod" : "1C",
+        "categ_dsg" : "Alentejo",
+        "categ_ord" : "27",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_15" : [ {
+        "dim_num" : "2",
+        "cat_id" : "15",
+        "categ_cod" : "15",
+        "categ_dsg" : "Algarve",
+        "categ_ord" : "32",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_2" : [ {
+        "dim_num" : "2",
+        "cat_id" : "2",
+        "categ_cod" : "2",
+        "categ_dsg" : "Região Autónoma dos Açores",
+        "categ_ord" : "34",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num2_20" : [ {
+        "dim_num" : "2",
+        "cat_id" : "20",
+        "categ_cod" : "20",
+        "categ_dsg" : "Região Autónoma dos Açores",
+        "categ_ord" : "35",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_3" : [ {
+        "dim_num" : "2",
+        "cat_id" : "3",
+        "categ_cod" : "3",
+        "categ_dsg" : "Região Autónoma da Madeira",
+        "categ_ord" : "37",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num2_30" : [ {
+        "dim_num" : "2",
+        "cat_id" : "30",
+        "categ_cod" : "30",
+        "categ_dsg" : "Região Autónoma da Madeira",
+        "categ_ord" : "38",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_Z" : [ {
+        "dim_num" : "2",
+        "cat_id" : "Z",
+        "categ_cod" : "Z",
+        "categ_dsg" : "Extra-Regio NUTS I",
+        "categ_ord" : "40",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num2_ZZ" : [ {
+        "dim_num" : "2",
+        "cat_id" : "ZZ",
+        "categ_cod" : "ZZ",
+        "categ_dsg" : "Extra-Regio NUTS II",
+        "categ_ord" : "41",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_TOT" : [ {
+        "dim_num" : "3",
+        "cat_id" : "TOT",
+        "categ_cod" : "TOT",
+        "categ_dsg" : "Total",
+        "categ_ord" : "1",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num3_1" : [ {
+        "dim_num" : "3",
+        "cat_id" : "1",
+        "categ_cod" : "1",
+        "categ_dsg" : "Agricultura, produção animal, caça, floresta e pesca",
+        "categ_ord" : "2",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_101" : [ {
+        "dim_num" : "3",
+        "cat_id" : "101",
+        "categ_cod" : "101",
+        "categ_dsg" : "Agricultura, produção animal, caça, floresta e pesca",
+        "categ_ord" : "3",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_2" : [ {
+        "dim_num" : "3",
+        "cat_id" : "2",
+        "categ_cod" : "2",
+        "categ_dsg" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição; construção",
+        "categ_ord" : "5",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_202" : [ {
+        "dim_num" : "3",
+        "cat_id" : "202",
+        "categ_cod" : "202",
+        "categ_dsg" : "Indústrias extrativas; indústrias transformadoras; produção e distribuição de electricidade, gás, vapor e ar frio; captação, tratamento e distribuição de água; saneamento, gestão de residuos e despoluição",
+        "categ_ord" : "6",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_203" : [ {
+        "dim_num" : "3",
+        "cat_id" : "203",
+        "categ_cod" : "203",
+        "categ_dsg" : "Construção",
+        "categ_ord" : "11",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_3" : [ {
+        "dim_num" : "3",
+        "cat_id" : "3",
+        "categ_cod" : "3",
+        "categ_dsg" : "Serviços",
+        "categ_ord" : "13",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_304" : [ {
+        "dim_num" : "3",
+        "cat_id" : "304",
+        "categ_cod" : "304",
+        "categ_dsg" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos; transportes e armazenagem; Atividades de alojamento e restauração",
+        "categ_ord" : "14",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_305" : [ {
+        "dim_num" : "3",
+        "cat_id" : "305",
+        "categ_cod" : "305",
+        "categ_dsg" : "Atividades de informação e de comunicação",
+        "categ_ord" : "18",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_306" : [ {
+        "dim_num" : "3",
+        "cat_id" : "306",
+        "categ_cod" : "306",
+        "categ_dsg" : "Atividades financeiras e de seguros",
+        "categ_ord" : "20",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_307" : [ {
+        "dim_num" : "3",
+        "cat_id" : "307",
+        "categ_cod" : "307",
+        "categ_dsg" : "Atividades imobiliárias",
+        "categ_ord" : "22",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_308" : [ {
+        "dim_num" : "3",
+        "cat_id" : "308",
+        "categ_cod" : "308",
+        "categ_dsg" : "Atividades de consultoria, cientificas, técnicas e similares; Atividades administrativas e dos serviços de apoio",
+        "categ_ord" : "24",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_309" : [ {
+        "dim_num" : "3",
+        "cat_id" : "309",
+        "categ_cod" : "309",
+        "categ_dsg" : "Administração pública e defesa; segurança social obrigatória; educação; saúde humana e ação social",
+        "categ_ord" : "27",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_310" : [ {
+        "dim_num" : "3",
+        "cat_id" : "310",
+        "categ_cod" : "310",
+        "categ_dsg" : "Atividades artisticas e de espetáculos; reparação de bens de uso doméstico e outro serviços",
+        "categ_ord" : "31",
+        "categ_nivel" : "3"
+      } ]
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

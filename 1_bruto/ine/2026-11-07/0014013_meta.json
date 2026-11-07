@@ -1,0 +1,359 @@
+[ {
+  "IndicadorCod" : "0014013",
+  "IndicadorNome" : "Volume de negócios das indústrias de alta e média-alta tecnologia (CAE Rev. 3 - €) por Localização geográfica (NUTS - 2024); Anual - INE, Sistema de contas integradas das empresas",
+  "Periodic" : "Anual",
+  "PrimeiroPeriodo" : "2023",
+  "UltimoPeriodo" : "2024",
+  "UnidadeMedida" : "Euro (€)",
+  "Potencia10" : "0",
+  "PrecisaoDecimal" : "0",
+  "Lingua" : "PT",
+  "DataUltimaAtualizacao" : "2025-12-11",
+  "DataExtracao" : "2026-11-07T21:38:10.494Z",
+  "Dimensoes" : {
+    "Descricao_Dim" : [ {
+      "dim_num" : "1",
+      "abrv" : "Período de referência dos dados",
+      "versao" : "XXXXX"
+    }, {
+      "dim_num" : "2",
+      "abrv" : "Localização geográfica (NUTS - 2024)",
+      "versao" : "05257"
+    } ],
+    "Categoria_Dim" : [ {
+      "Dim_Num1_S7A2023" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2023",
+        "categ_cod" : "S7A2023",
+        "categ_dsg" : "2023",
+        "categ_ord" : "20230101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2024" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2024",
+        "categ_cod" : "S7A2024",
+        "categ_dsg" : "2024",
+        "categ_ord" : "20240101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_PT" : [ {
+        "dim_num" : "2",
+        "cat_id" : "PT",
+        "categ_cod" : "PT",
+        "categ_dsg" : "Portugal",
+        "categ_ord" : "1",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1",
+        "categ_cod" : "1",
+        "categ_dsg" : "Continente",
+        "categ_ord" : "2",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num2_11" : [ {
+        "dim_num" : "2",
+        "cat_id" : "11",
+        "categ_cod" : "11",
+        "categ_dsg" : "Norte",
+        "categ_ord" : "3",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_111" : [ {
+        "dim_num" : "2",
+        "cat_id" : "111",
+        "categ_cod" : "111",
+        "categ_dsg" : "Alto Minho",
+        "categ_ord" : "4",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_112" : [ {
+        "dim_num" : "2",
+        "cat_id" : "112",
+        "categ_cod" : "112",
+        "categ_dsg" : "Cávado",
+        "categ_ord" : "223",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_119" : [ {
+        "dim_num" : "2",
+        "cat_id" : "119",
+        "categ_cod" : "119",
+        "categ_dsg" : "Ave",
+        "categ_ord" : "400",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_11A" : [ {
+        "dim_num" : "2",
+        "cat_id" : "11A",
+        "categ_cod" : "11A",
+        "categ_dsg" : "Área Metropolitana do Porto",
+        "categ_ord" : "577",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_11B" : [ {
+        "dim_num" : "2",
+        "cat_id" : "11B",
+        "categ_cod" : "11B",
+        "categ_dsg" : "Alto Tâmega e Barroso",
+        "categ_ord" : "768",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_11C" : [ {
+        "dim_num" : "2",
+        "cat_id" : "11C",
+        "categ_cod" : "11C",
+        "categ_dsg" : "Tâmega e Sousa",
+        "categ_ord" : "893",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_11D" : [ {
+        "dim_num" : "2",
+        "cat_id" : "11D",
+        "categ_cod" : "11D",
+        "categ_dsg" : "Douro",
+        "categ_ord" : "1082",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_11E" : [ {
+        "dim_num" : "2",
+        "cat_id" : "11E",
+        "categ_cod" : "11E",
+        "categ_dsg" : "Terras de Trás-os-Montes",
+        "categ_ord" : "1319",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_19" : [ {
+        "dim_num" : "2",
+        "cat_id" : "19",
+        "categ_cod" : "19",
+        "categ_dsg" : "Centro",
+        "categ_ord" : "1524",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_191" : [ {
+        "dim_num" : "2",
+        "cat_id" : "191",
+        "categ_cod" : "191",
+        "categ_dsg" : "Região de Aveiro",
+        "categ_ord" : "1525",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_192" : [ {
+        "dim_num" : "2",
+        "cat_id" : "192",
+        "categ_cod" : "192",
+        "categ_dsg" : "Região de Coimbra",
+        "categ_ord" : "1611",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_193" : [ {
+        "dim_num" : "2",
+        "cat_id" : "193",
+        "categ_cod" : "193",
+        "categ_dsg" : "Região de Leiria",
+        "categ_ord" : "1799",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_194" : [ {
+        "dim_num" : "2",
+        "cat_id" : "194",
+        "categ_cod" : "194",
+        "categ_dsg" : "Viseu Dão Lafões",
+        "categ_ord" : "1877",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_195" : [ {
+        "dim_num" : "2",
+        "cat_id" : "195",
+        "categ_cod" : "195",
+        "categ_dsg" : "Beira Baixa",
+        "categ_ord" : "2048",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_196" : [ {
+        "dim_num" : "2",
+        "cat_id" : "196",
+        "categ_cod" : "196",
+        "categ_dsg" : "Beiras e Serra da Estrela",
+        "categ_ord" : "2129",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_1D" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1D",
+        "categ_cod" : "1D",
+        "categ_dsg" : "Oeste e Vale do Tejo",
+        "categ_ord" : "2411",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_1D1" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1D1",
+        "categ_cod" : "1D1",
+        "categ_dsg" : "Oeste",
+        "categ_ord" : "2412",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_1D2" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1D2",
+        "categ_cod" : "1D2",
+        "categ_dsg" : "Médio Tejo",
+        "categ_ord" : "2514",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_1D3" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1D3",
+        "categ_cod" : "1D3",
+        "categ_dsg" : "Lezíria do Tejo",
+        "categ_ord" : "2606",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_1A" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1A",
+        "categ_cod" : "1A",
+        "categ_dsg" : "Grande Lisboa",
+        "categ_ord" : "2686",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_1A0" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1A0",
+        "categ_cod" : "1A0",
+        "categ_dsg" : "Grande Lisboa",
+        "categ_ord" : "2687",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_1B" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1B",
+        "categ_cod" : "1B",
+        "categ_dsg" : "Península de Setúbal",
+        "categ_ord" : "2778",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_1B0" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1B0",
+        "categ_cod" : "1B0",
+        "categ_dsg" : "Península de Setúbal",
+        "categ_ord" : "2779",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_1C" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1C",
+        "categ_cod" : "1C",
+        "categ_dsg" : "Alentejo",
+        "categ_ord" : "2826",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_1C1" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1C1",
+        "categ_cod" : "1C1",
+        "categ_dsg" : "Alentejo Litoral",
+        "categ_ord" : "2827",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_1C2" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1C2",
+        "categ_cod" : "1C2",
+        "categ_dsg" : "Baixo Alentejo",
+        "categ_ord" : "2864",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_1C3" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1C3",
+        "categ_cod" : "1C3",
+        "categ_dsg" : "Alto Alentejo",
+        "categ_ord" : "2940",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_1C4" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1C4",
+        "categ_cod" : "1C4",
+        "categ_dsg" : "Alentejo Central",
+        "categ_ord" : "3025",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_15" : [ {
+        "dim_num" : "2",
+        "cat_id" : "15",
+        "categ_cod" : "15",
+        "categ_dsg" : "Algarve",
+        "categ_ord" : "3109",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_150" : [ {
+        "dim_num" : "2",
+        "cat_id" : "150",
+        "categ_cod" : "150",
+        "categ_dsg" : "Algarve",
+        "categ_ord" : "3110",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_2" : [ {
+        "dim_num" : "2",
+        "cat_id" : "2",
+        "categ_cod" : "2",
+        "categ_dsg" : "Região Autónoma dos Açores",
+        "categ_ord" : "3194",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num2_20" : [ {
+        "dim_num" : "2",
+        "cat_id" : "20",
+        "categ_cod" : "20",
+        "categ_dsg" : "Região Autónoma dos Açores",
+        "categ_ord" : "3195",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_200" : [ {
+        "dim_num" : "2",
+        "cat_id" : "200",
+        "categ_cod" : "200",
+        "categ_dsg" : "Região Autónoma dos Açores",
+        "categ_ord" : "3196",
+        "categ_nivel" : "4"
+      } ],
+      "Dim_Num2_3" : [ {
+        "dim_num" : "2",
+        "cat_id" : "3",
+        "categ_cod" : "3",
+        "categ_dsg" : "Região Autónoma da Madeira",
+        "categ_ord" : "3372",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num2_30" : [ {
+        "dim_num" : "2",
+        "cat_id" : "30",
+        "categ_cod" : "30",
+        "categ_dsg" : "Região Autónoma da Madeira",
+        "categ_ord" : "3373",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_300" : [ {
+        "dim_num" : "2",
+        "cat_id" : "300",
+        "categ_cod" : "300",
+        "categ_dsg" : "Região Autónoma da Madeira",
+        "categ_ord" : "3374",
+        "categ_nivel" : "4"
+      } ]
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
