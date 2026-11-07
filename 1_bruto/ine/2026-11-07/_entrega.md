@@ -151,3 +151,8 @@ Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos,
 - **0009641** Índices trimestrais de valor unitário das exportações (Taxa de variação homóloga, volume - %) — 2204 valores, 1 ficheiros novos; geografias inexistentes neste indicador: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos, Porto, Área Metropolitana do Porto, Norte
     - `0009641_dados_a37096d679.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009641&lang=PT&Dim1=S5A20121,S5A20122,S5A20123,S5A20124,S5A20131,S5A20132,S5A20133,S5A20134,S5A20141,S5A20142,S5A20143,S5A20144,S5A20151,S5A20152,S5A20153,S5A20154,S5A20161,S5A20162,S5A20163,S5A20164,S5A20171,S5A20172,S5A20173,S5A20174,S5A20181,S5A20182,S5A20183,S5A20184,S5A20191,S5A20192,S5A20193,S5A20194,S5A20201,S5A20202,S5A20203,S5A20204,S5A20211,S5A20212,S5A20213,S5A20214,S5A20221,S5A20222,S5A20223,S5A20224,S5A20231,S5A20232,S5A20233,S5A20234,S5A20241,S5A20242,S5A20243,S5A20244,S5A20251,S5A20252,S5A20253,S5A20254,S5A20261,S5A20262&Dim2=PT
 - **0012346** Importações (€) de bens — 0 valores, 0 ficheiros novos; FALHAS: S7A2022…S7A2025: orçamento da volta esgotado
+
+## Extração — 2026-11-07 16:56 — séries completas
+Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal. Todas as categorias das restantes dimensões.
+
+- **0012346** Importações (€) de bens — 0 valores, 0 ficheiros novos; FALHAS: S7A2022…S7A2025: INE recusou: <urlopen error timed out>
