@@ -1,0 +1,121 @@
+[ {
+  "IndicadorCod" : "0014606",
+  "IndicadorDsg" : "Valor acrescentado bruto (€) das empresas por Localização geográfica (NUTS - 2024) e Escalão de pessoal ao serviço; Anual - INE, Sistema de contas integradas das empresas",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0014606&lingua=PT",
+  "DataExtracao" : "2026-11-08T07:59:42.522Z",
+  "DataUltimoAtualizacao" : "2025-12-11",
+  "UltimoPref" : "2024",
+  "Dados" : {
+    "2024" : [ {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : ">= 50 pessoas",
+      "ind_string" : "2 262 762 040",
+      "valor" : "2262762040"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "< 50 pessoas",
+      "ind_string" : "2 519 087 866",
+      "valor" : "2519087866"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : ">= 50 pessoas",
+      "ind_string" : "2 545 781 558",
+      "valor" : "2545781558"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "< 50 pessoas",
+      "ind_string" : "3 078 258 495",
+      "valor" : "3078258495"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "5 064 869 424",
+      "valor" : "5064869424"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "5 341 020 535",
+      "valor" : "5341020535"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "< 50 pessoas",
+      "ind_string" : "13 359 902 164",
+      "valor" : "13359902164"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : ">= 50 pessoas",
+      "ind_string" : "13 461 465 156",
+      "valor" : "13461465156"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : ">= 50 pessoas",
+      "ind_string" : "21 386 387 936",
+      "valor" : "21386387936"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "< 50 pessoas",
+      "ind_string" : "24 341 238 471",
+      "valor" : "24341238471"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "26 821 367 320",
+      "valor" : "26821367320"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "45 727 626 407",
+      "valor" : "45727626407"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "< 50 pessoas",
+      "ind_string" : "76 166 848 081",
+      "valor" : "76166848081"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : ">= 50 pessoas",
+      "ind_string" : "81 564 254 096",
+      "valor" : "81564254096"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "157 731 102 177",
+      "valor" : "157731102177"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

@@ -1,0 +1,331 @@
+[ {
+  "IndicadorCod" : "0013922",
+  "IndicadorNome" : "Volume de vendas (€) das unidades comerciais de dimensão relevante dedicadas ao comércio a retalho com predominância alimentar por Localização geográfica (NUTS - 2024) e Tipo de produto; Anual - INE, Inquérito aos estabelecimentos comerciais - unidades comerciais de dimensão relevante",
+  "Periodic" : "Anual",
+  "PrimeiroPeriodo" : "2023",
+  "UltimoPeriodo" : "2024",
+  "UnidadeMedida" : "Euro (€)",
+  "Potencia10" : "3",
+  "PrecisaoDecimal" : "0",
+  "Lingua" : "PT",
+  "DataUltimaAtualizacao" : "2025-11-28",
+  "DataExtracao" : "2026-11-08T08:00:27.470Z",
+  "Dimensoes" : {
+    "Descricao_Dim" : [ {
+      "dim_num" : "1",
+      "abrv" : "Período de referência dos dados",
+      "versao" : "XXXXX"
+    }, {
+      "dim_num" : "2",
+      "abrv" : "Localização geográfica (NUTS - 2024)",
+      "versao" : "05257"
+    }, {
+      "dim_num" : "3",
+      "abrv" : "Tipo de produto",
+      "versao" : "02923"
+    } ],
+    "Categoria_Dim" : [ {
+      "Dim_Num1_S7A2023" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2023",
+        "categ_cod" : "S7A2023",
+        "categ_dsg" : "2023",
+        "categ_ord" : "20230101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2024" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2024",
+        "categ_cod" : "S7A2024",
+        "categ_dsg" : "2024",
+        "categ_ord" : "20240101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_PT" : [ {
+        "dim_num" : "2",
+        "cat_id" : "PT",
+        "categ_cod" : "PT",
+        "categ_dsg" : "Portugal",
+        "categ_ord" : "1",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1",
+        "categ_cod" : "1",
+        "categ_dsg" : "Continente",
+        "categ_ord" : "2",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num2_11" : [ {
+        "dim_num" : "2",
+        "cat_id" : "11",
+        "categ_cod" : "11",
+        "categ_dsg" : "Norte",
+        "categ_ord" : "3",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_19" : [ {
+        "dim_num" : "2",
+        "cat_id" : "19",
+        "categ_cod" : "19",
+        "categ_dsg" : "Centro",
+        "categ_ord" : "1524",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_1D" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1D",
+        "categ_cod" : "1D",
+        "categ_dsg" : "Oeste e Vale do Tejo",
+        "categ_ord" : "2411",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_1A" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1A",
+        "categ_cod" : "1A",
+        "categ_dsg" : "Grande Lisboa",
+        "categ_ord" : "2686",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_1B" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1B",
+        "categ_cod" : "1B",
+        "categ_dsg" : "Península de Setúbal",
+        "categ_ord" : "2778",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_1C" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1C",
+        "categ_cod" : "1C",
+        "categ_dsg" : "Alentejo",
+        "categ_ord" : "2826",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_15" : [ {
+        "dim_num" : "2",
+        "cat_id" : "15",
+        "categ_cod" : "15",
+        "categ_dsg" : "Algarve",
+        "categ_ord" : "3109",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_2" : [ {
+        "dim_num" : "2",
+        "cat_id" : "2",
+        "categ_cod" : "2",
+        "categ_dsg" : "Região Autónoma dos Açores",
+        "categ_ord" : "3194",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num2_20" : [ {
+        "dim_num" : "2",
+        "cat_id" : "20",
+        "categ_cod" : "20",
+        "categ_dsg" : "Região Autónoma dos Açores",
+        "categ_ord" : "3195",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_3" : [ {
+        "dim_num" : "2",
+        "cat_id" : "3",
+        "categ_cod" : "3",
+        "categ_dsg" : "Região Autónoma da Madeira",
+        "categ_ord" : "3372",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num2_30" : [ {
+        "dim_num" : "2",
+        "cat_id" : "30",
+        "categ_cod" : "30",
+        "categ_dsg" : "Região Autónoma da Madeira",
+        "categ_ord" : "3373",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_T" : [ {
+        "dim_num" : "3",
+        "cat_id" : "T",
+        "categ_cod" : "T",
+        "categ_dsg" : "Total",
+        "categ_ord" : "1",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num3_01" : [ {
+        "dim_num" : "3",
+        "cat_id" : "01",
+        "categ_cod" : "01",
+        "categ_dsg" : "Produtos alimentares, bebidas e tabaco",
+        "categ_ord" : "2",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_011" : [ {
+        "dim_num" : "3",
+        "cat_id" : "011",
+        "categ_cod" : "011",
+        "categ_dsg" : "Frutos e produtos hortícolas",
+        "categ_ord" : "3",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_012" : [ {
+        "dim_num" : "3",
+        "cat_id" : "012",
+        "categ_cod" : "012",
+        "categ_dsg" : "Carne e produtos à base carne",
+        "categ_ord" : "4",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_013" : [ {
+        "dim_num" : "3",
+        "cat_id" : "013",
+        "categ_cod" : "013",
+        "categ_dsg" : "Peixe, crustáceos e moluscos",
+        "categ_ord" : "5",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_014" : [ {
+        "dim_num" : "3",
+        "cat_id" : "014",
+        "categ_cod" : "014",
+        "categ_dsg" : "Pão, produtos de pastelaria e de confeitaria",
+        "categ_ord" : "6",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_015" : [ {
+        "dim_num" : "3",
+        "cat_id" : "015",
+        "categ_cod" : "015",
+        "categ_dsg" : "Leite, seus derivados e ovos",
+        "categ_ord" : "7",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_016" : [ {
+        "dim_num" : "3",
+        "cat_id" : "016",
+        "categ_cod" : "016",
+        "categ_dsg" : "Outros produtos alimentares n.e.",
+        "categ_ord" : "8",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_017" : [ {
+        "dim_num" : "3",
+        "cat_id" : "017",
+        "categ_cod" : "017",
+        "categ_dsg" : "Bebidas",
+        "categ_ord" : "9",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_018" : [ {
+        "dim_num" : "3",
+        "cat_id" : "018",
+        "categ_cod" : "018",
+        "categ_dsg" : "Tabaco",
+        "categ_ord" : "10",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_02" : [ {
+        "dim_num" : "3",
+        "cat_id" : "02",
+        "categ_cod" : "02",
+        "categ_dsg" : "Produtos não alimentares",
+        "categ_ord" : "11",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_021" : [ {
+        "dim_num" : "3",
+        "cat_id" : "021",
+        "categ_cod" : "021",
+        "categ_dsg" : "Produtos de cosmética e de higiene pessoal",
+        "categ_ord" : "12",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_022" : [ {
+        "dim_num" : "3",
+        "cat_id" : "022",
+        "categ_cod" : "022",
+        "categ_dsg" : "Produtos de limpeza e similares para uso doméstico",
+        "categ_ord" : "13",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_023" : [ {
+        "dim_num" : "3",
+        "cat_id" : "023",
+        "categ_cod" : "023",
+        "categ_dsg" : "Vestuário",
+        "categ_ord" : "14",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_024" : [ {
+        "dim_num" : "3",
+        "cat_id" : "024",
+        "categ_cod" : "024",
+        "categ_dsg" : "Calçado e artigos de couro",
+        "categ_ord" : "15",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_025" : [ {
+        "dim_num" : "3",
+        "cat_id" : "025",
+        "categ_cod" : "025",
+        "categ_dsg" : "Mobiliário e outros artigos para uso doméstico (a)",
+        "categ_ord" : "16",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_026" : [ {
+        "dim_num" : "3",
+        "cat_id" : "026",
+        "categ_cod" : "026",
+        "categ_dsg" : "Electrodomésticos, aparelhos de TV, áudio e vídeo, instrumentos musicais, cassetes, discos, CD e DVD",
+        "categ_ord" : "17",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_027" : [ {
+        "dim_num" : "3",
+        "cat_id" : "027",
+        "categ_cod" : "027",
+        "categ_dsg" : "Materiais de bricolage",
+        "categ_ord" : "18",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_028" : [ {
+        "dim_num" : "3",
+        "cat_id" : "028",
+        "categ_cod" : "028",
+        "categ_dsg" : "Livros, jornais e artigos papelaria",
+        "categ_ord" : "19",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_029" : [ {
+        "dim_num" : "3",
+        "cat_id" : "029",
+        "categ_cod" : "029",
+        "categ_dsg" : "Artigos de desporto campismo, caça e lazer",
+        "categ_ord" : "20",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_210" : [ {
+        "dim_num" : "3",
+        "cat_id" : "210",
+        "categ_cod" : "210",
+        "categ_dsg" : "Brinquedos e jogos",
+        "categ_ord" : "21",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_211" : [ {
+        "dim_num" : "3",
+        "cat_id" : "211",
+        "categ_cod" : "211",
+        "categ_dsg" : "Outras vendas de produtos",
+        "categ_ord" : "22",
+        "categ_nivel" : "3"
+      } ]
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

@@ -1,0 +1,137 @@
+[ {
+  "IndicadorCod" : "0013925",
+  "IndicadorDsg" : "Distribuição do volume de vendas de produtos de marca própria (%) nas unidades comerciais de dimensão relevante que comercializam marca própria por Localização geográfica (NUTS - 2024) e Setor de atividade económica; Anual - INE, Inquérito aos estabelecimentos comerciais - unidades comerciais de dimensão relevante",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0013925&lingua=PT",
+  "DataExtracao" : "2026-11-08T08:02:06.330Z",
+  "DataUltimoAtualizacao" : "2025-11-28",
+  "UltimoPref" : "2024",
+  "Dados" : {
+    "2023" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "A",
+      "dim_3_t" : "Comércio a retalho alimentar ou com predominância alimentar",
+      "ind_string" : "45,2",
+      "valor" : "45.2"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "A",
+      "dim_3_t" : "Comércio a retalho alimentar ou com predominância alimentar",
+      "ind_string" : "47,9",
+      "valor" : "47.9"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Comércio a retalho não alimentar ou sem predominância alimentar",
+      "ind_string" : "49,6",
+      "valor" : "49.6"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "B",
+      "dim_3_t" : "Comércio a retalho não alimentar ou sem predominância alimentar",
+      "ind_string" : "50,3",
+      "valor" : "50.3"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Comércio por grosso",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "C",
+      "dim_3_t" : "Comércio por grosso",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "2024" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "A",
+      "dim_3_t" : "Comércio a retalho alimentar ou com predominância alimentar",
+      "ind_string" : "47,0",
+      "valor" : "47"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Comércio a retalho não alimentar ou sem predominância alimentar",
+      "ind_string" : "49,9",
+      "valor" : "49.9"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "A",
+      "dim_3_t" : "Comércio a retalho alimentar ou com predominância alimentar",
+      "ind_string" : "50,6",
+      "valor" : "50.6"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "B",
+      "dim_3_t" : "Comércio a retalho não alimentar ou sem predominância alimentar",
+      "ind_string" : "50,8",
+      "valor" : "50.8"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "C",
+      "dim_3_t" : "Comércio por grosso",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Comércio por grosso",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

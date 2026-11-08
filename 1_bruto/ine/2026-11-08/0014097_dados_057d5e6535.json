@@ -1,0 +1,2537 @@
+[ {
+  "IndicadorCod" : "0014097",
+  "IndicadorDsg" : "Sobrevivências (N.º) de empresas nascidas 2 anos antes por Localização geográfica (NUTS - 2024) e Atividade económica (Secção - CAE Rev. 3); Anual - INE, Demografia das empresas",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0014097&lingua=PT",
+  "DataExtracao" : "2026-11-08T07:52:16.778Z",
+  "DataUltimoAtualizacao" : "2025-12-11",
+  "UltimoPref" : "2024",
+  "Dados" : {
+    "2023" : [ {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "2",
+      "valor" : "2"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "D",
+      "dim_3_t" : "Eletricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "2",
+      "valor" : "2"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "3",
+      "valor" : "3"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "D",
+      "dim_3_t" : "Eletricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "3",
+      "valor" : "3"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "D",
+      "dim_3_t" : "Eletricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "4",
+      "valor" : "4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "H",
+      "dim_3_t" : "Transportes e armazenagem",
+      "ind_string" : "6",
+      "valor" : "6"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "D",
+      "dim_3_t" : "Eletricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "7",
+      "valor" : "7"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "J",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "9",
+      "valor" : "9"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "D",
+      "dim_3_t" : "Eletricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "10",
+      "valor" : "10"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "11",
+      "valor" : "11"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "D",
+      "dim_3_t" : "Eletricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "11",
+      "valor" : "11"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "11",
+      "valor" : "11"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "D",
+      "dim_3_t" : "Eletricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "11",
+      "valor" : "11"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "R",
+      "dim_3_t" : "Atividades artísticas, de espetáculos, desportivas e recreativas",
+      "ind_string" : "12",
+      "valor" : "12"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "A",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "13",
+      "valor" : "13"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "S",
+      "dim_3_t" : "Outras atividades de serviços",
+      "ind_string" : "14",
+      "valor" : "14"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "H",
+      "dim_3_t" : "Transportes e armazenagem",
+      "ind_string" : "15",
+      "valor" : "15"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "J",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "16",
+      "valor" : "16"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "18",
+      "valor" : "18"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "F",
+      "dim_3_t" : "Construção",
+      "ind_string" : "18",
+      "valor" : "18"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "A",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "19",
+      "valor" : "19"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "R",
+      "dim_3_t" : "Atividades artísticas, de espetáculos, desportivas e recreativas",
+      "ind_string" : "20",
+      "valor" : "20"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "H",
+      "dim_3_t" : "Transportes e armazenagem",
+      "ind_string" : "22",
+      "valor" : "22"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "A",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "24",
+      "valor" : "24"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "J",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "28",
+      "valor" : "28"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "I",
+      "dim_3_t" : "Alojamento, restauração e similares",
+      "ind_string" : "29",
+      "valor" : "29"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "L",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "29",
+      "valor" : "29"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "A",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "34",
+      "valor" : "34"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "35",
+      "valor" : "35"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "P",
+      "dim_3_t" : "Educação",
+      "ind_string" : "36",
+      "valor" : "36"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "I",
+      "dim_3_t" : "Alojamento, restauração e similares",
+      "ind_string" : "38",
+      "valor" : "38"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "P",
+      "dim_3_t" : "Educação",
+      "ind_string" : "40",
+      "valor" : "40"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "40",
+      "valor" : "40"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "M",
+      "dim_3_t" : "Atividades de consultoria, científicas, técnicas e similares",
+      "ind_string" : "40",
+      "valor" : "40"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "L",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "44",
+      "valor" : "44"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "44",
+      "valor" : "44"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "A",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "46",
+      "valor" : "46"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "S",
+      "dim_3_t" : "Outras atividades de serviços",
+      "ind_string" : "46",
+      "valor" : "46"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "D",
+      "dim_3_t" : "Eletricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "47",
+      "valor" : "47"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "R",
+      "dim_3_t" : "Atividades artísticas, de espetáculos, desportivas e recreativas",
+      "ind_string" : "48",
+      "valor" : "48"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "R",
+      "dim_3_t" : "Atividades artísticas, de espetáculos, desportivas e recreativas",
+      "ind_string" : "49",
+      "valor" : "49"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "J",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "54",
+      "valor" : "54"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "H",
+      "dim_3_t" : "Transportes e armazenagem",
+      "ind_string" : "59",
+      "valor" : "59"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "Q",
+      "dim_3_t" : "Atividades de saúde humana e apoio social",
+      "ind_string" : "59",
+      "valor" : "59"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "59",
+      "valor" : "59"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "F",
+      "dim_3_t" : "Construção",
+      "ind_string" : "64",
+      "valor" : "64"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "G",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos",
+      "ind_string" : "66",
+      "valor" : "66"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "P",
+      "dim_3_t" : "Educação",
+      "ind_string" : "70",
+      "valor" : "70"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "D",
+      "dim_3_t" : "Eletricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "73",
+      "valor" : "73"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "N",
+      "dim_3_t" : "Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "73",
+      "valor" : "73"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "J",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "74",
+      "valor" : "74"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "S",
+      "dim_3_t" : "Outras atividades de serviços",
+      "ind_string" : "75",
+      "valor" : "75"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "H",
+      "dim_3_t" : "Transportes e armazenagem",
+      "ind_string" : "75",
+      "valor" : "75"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "L",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "76",
+      "valor" : "76"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "I",
+      "dim_3_t" : "Alojamento, restauração e similares",
+      "ind_string" : "77",
+      "valor" : "77"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "M",
+      "dim_3_t" : "Atividades de consultoria, científicas, técnicas e similares",
+      "ind_string" : "78",
+      "valor" : "78"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "F",
+      "dim_3_t" : "Construção",
+      "ind_string" : "83",
+      "valor" : "83"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "S",
+      "dim_3_t" : "Outras atividades de serviços",
+      "ind_string" : "83",
+      "valor" : "83"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "Q",
+      "dim_3_t" : "Atividades de saúde humana e apoio social",
+      "ind_string" : "85",
+      "valor" : "85"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "85",
+      "valor" : "85"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "H",
+      "dim_3_t" : "Transportes e armazenagem",
+      "ind_string" : "92",
+      "valor" : "92"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "L",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "92",
+      "valor" : "92"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "I",
+      "dim_3_t" : "Alojamento, restauração e similares",
+      "ind_string" : "93",
+      "valor" : "93"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "A",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "94",
+      "valor" : "94"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "F",
+      "dim_3_t" : "Construção",
+      "ind_string" : "94",
+      "valor" : "94"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "P",
+      "dim_3_t" : "Educação",
+      "ind_string" : "99",
+      "valor" : "99"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "R",
+      "dim_3_t" : "Atividades artísticas, de espetáculos, desportivas e recreativas",
+      "ind_string" : "101",
+      "valor" : "101"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "F",
+      "dim_3_t" : "Construção",
+      "ind_string" : "112",
+      "valor" : "112"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "J",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "119",
+      "valor" : "119"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "122",
+      "valor" : "122"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "127",
+      "valor" : "127"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "A",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "134",
+      "valor" : "134"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "S",
+      "dim_3_t" : "Outras atividades de serviços",
+      "ind_string" : "134",
+      "valor" : "134"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "R",
+      "dim_3_t" : "Atividades artísticas, de espetáculos, desportivas e recreativas",
+      "ind_string" : "140",
+      "valor" : "140"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "M",
+      "dim_3_t" : "Atividades de consultoria, científicas, técnicas e similares",
+      "ind_string" : "142",
+      "valor" : "142"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "Q",
+      "dim_3_t" : "Atividades de saúde humana e apoio social",
+      "ind_string" : "143",
+      "valor" : "143"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "H",
+      "dim_3_t" : "Transportes e armazenagem",
+      "ind_string" : "146",
+      "valor" : "146"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "N",
+      "dim_3_t" : "Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "153",
+      "valor" : "153"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "N",
+      "dim_3_t" : "Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "166",
+      "valor" : "166"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "R",
+      "dim_3_t" : "Atividades artísticas, de espetáculos, desportivas e recreativas",
+      "ind_string" : "166",
+      "valor" : "166"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "G",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos",
+      "ind_string" : "168",
+      "valor" : "168"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "J",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "182",
+      "valor" : "182"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "G",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos",
+      "ind_string" : "185",
+      "valor" : "185"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "L",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "187",
+      "valor" : "187"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "P",
+      "dim_3_t" : "Educação",
+      "ind_string" : "188",
+      "valor" : "188"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "S",
+      "dim_3_t" : "Outras atividades de serviços",
+      "ind_string" : "189",
+      "valor" : "189"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "P",
+      "dim_3_t" : "Educação",
+      "ind_string" : "191",
+      "valor" : "191"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "Q",
+      "dim_3_t" : "Atividades de saúde humana e apoio social",
+      "ind_string" : "193",
+      "valor" : "193"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "L",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "208",
+      "valor" : "208"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "P",
+      "dim_3_t" : "Educação",
+      "ind_string" : "208",
+      "valor" : "208"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "S",
+      "dim_3_t" : "Outras atividades de serviços",
+      "ind_string" : "209",
+      "valor" : "209"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "G",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos",
+      "ind_string" : "215",
+      "valor" : "215"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "I",
+      "dim_3_t" : "Alojamento, restauração e similares",
+      "ind_string" : "230",
+      "valor" : "230"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "I",
+      "dim_3_t" : "Alojamento, restauração e similares",
+      "ind_string" : "237",
+      "valor" : "237"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "256",
+      "valor" : "256"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "M",
+      "dim_3_t" : "Atividades de consultoria, científicas, técnicas e similares",
+      "ind_string" : "257",
+      "valor" : "257"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "D",
+      "dim_3_t" : "Eletricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "257",
+      "valor" : "257"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "I",
+      "dim_3_t" : "Alojamento, restauração e similares",
+      "ind_string" : "259",
+      "valor" : "259"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "F",
+      "dim_3_t" : "Construção",
+      "ind_string" : "261",
+      "valor" : "261"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "A",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "272",
+      "valor" : "272"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "L",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "277",
+      "valor" : "277"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "304",
+      "valor" : "304"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "M",
+      "dim_3_t" : "Atividades de consultoria, científicas, técnicas e similares",
+      "ind_string" : "330",
+      "valor" : "330"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "N",
+      "dim_3_t" : "Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "337",
+      "valor" : "337"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "G",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos",
+      "ind_string" : "366",
+      "valor" : "366"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "Q",
+      "dim_3_t" : "Atividades de saúde humana e apoio social",
+      "ind_string" : "396",
+      "valor" : "396"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "Q",
+      "dim_3_t" : "Atividades de saúde humana e apoio social",
+      "ind_string" : "402",
+      "valor" : "402"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "M",
+      "dim_3_t" : "Atividades de consultoria, científicas, técnicas e similares",
+      "ind_string" : "416",
+      "valor" : "416"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "Q",
+      "dim_3_t" : "Atividades de saúde humana e apoio social",
+      "ind_string" : "432",
+      "valor" : "432"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "F",
+      "dim_3_t" : "Construção",
+      "ind_string" : "444",
+      "valor" : "444"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "452",
+      "valor" : "452"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "N",
+      "dim_3_t" : "Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "509",
+      "valor" : "509"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "J",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "533",
+      "valor" : "533"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "G",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos",
+      "ind_string" : "571",
+      "valor" : "571"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "G",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos",
+      "ind_string" : "575",
+      "valor" : "575"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "H",
+      "dim_3_t" : "Transportes e armazenagem",
+      "ind_string" : "597",
+      "valor" : "597"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "R",
+      "dim_3_t" : "Atividades artísticas, de espetáculos, desportivas e recreativas",
+      "ind_string" : "615",
+      "valor" : "615"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "M",
+      "dim_3_t" : "Atividades de consultoria, científicas, técnicas e similares",
+      "ind_string" : "640",
+      "valor" : "640"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "N",
+      "dim_3_t" : "Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "670",
+      "valor" : "670"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "680",
+      "valor" : "680"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "N",
+      "dim_3_t" : "Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "780",
+      "valor" : "780"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "J",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "844",
+      "valor" : "844"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "S",
+      "dim_3_t" : "Outras atividades de serviços",
+      "ind_string" : "862",
+      "valor" : "862"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "H",
+      "dim_3_t" : "Transportes e armazenagem",
+      "ind_string" : "888",
+      "valor" : "888"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "F",
+      "dim_3_t" : "Construção",
+      "ind_string" : "970",
+      "valor" : "970"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "L",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "992",
+      "valor" : "992"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "998",
+      "valor" : "998"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "P",
+      "dim_3_t" : "Educação",
+      "ind_string" : "1 008",
+      "valor" : "1008"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "R",
+      "dim_3_t" : "Atividades artísticas, de espetáculos, desportivas e recreativas",
+      "ind_string" : "1 042",
+      "valor" : "1042"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 304",
+      "valor" : "1304"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "I",
+      "dim_3_t" : "Alojamento, restauração e similares",
+      "ind_string" : "1 368",
+      "valor" : "1368"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 623",
+      "valor" : "1623"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "S",
+      "dim_3_t" : "Outras atividades de serviços",
+      "ind_string" : "1 643",
+      "valor" : "1643"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "L",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "1 662",
+      "valor" : "1662"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "1 768",
+      "valor" : "1768"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "Q",
+      "dim_3_t" : "Atividades de saúde humana e apoio social",
+      "ind_string" : "1 834",
+      "valor" : "1834"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "P",
+      "dim_3_t" : "Educação",
+      "ind_string" : "1 904",
+      "valor" : "1904"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "A",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "1 932",
+      "valor" : "1932"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "M",
+      "dim_3_t" : "Atividades de consultoria, científicas, técnicas e similares",
+      "ind_string" : "2 062",
+      "valor" : "2062"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "G",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos",
+      "ind_string" : "2 337",
+      "valor" : "2337"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "I",
+      "dim_3_t" : "Alojamento, restauração e similares",
+      "ind_string" : "2 481",
+      "valor" : "2481"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "F",
+      "dim_3_t" : "Construção",
+      "ind_string" : "2 690",
+      "valor" : "2690"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "J",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "3 178",
+      "valor" : "3178"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "M",
+      "dim_3_t" : "Atividades de consultoria, científicas, técnicas e similares",
+      "ind_string" : "3 448",
+      "valor" : "3448"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "Q",
+      "dim_3_t" : "Atividades de saúde humana e apoio social",
+      "ind_string" : "3 533",
+      "valor" : "3533"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 559",
+      "valor" : "3559"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "R",
+      "dim_3_t" : "Atividades artísticas, de espetáculos, desportivas e recreativas",
+      "ind_string" : "3 560",
+      "valor" : "3560"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "H",
+      "dim_3_t" : "Transportes e armazenagem",
+      "ind_string" : "3 611",
+      "valor" : "3611"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "3 652",
+      "valor" : "3652"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "N",
+      "dim_3_t" : "Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "3 718",
+      "valor" : "3718"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 765",
+      "valor" : "3765"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 104",
+      "valor" : "4104"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "G",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos",
+      "ind_string" : "4 679",
+      "valor" : "4679"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "S",
+      "dim_3_t" : "Outras atividades de serviços",
+      "ind_string" : "4 778",
+      "valor" : "4778"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "A",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "5 363",
+      "valor" : "5363"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "P",
+      "dim_3_t" : "Educação",
+      "ind_string" : "5 365",
+      "valor" : "5365"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "L",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "5 910",
+      "valor" : "5910"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "N",
+      "dim_3_t" : "Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "5 940",
+      "valor" : "5940"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "I",
+      "dim_3_t" : "Alojamento, restauração e similares",
+      "ind_string" : "7 519",
+      "valor" : "7519"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "F",
+      "dim_3_t" : "Construção",
+      "ind_string" : "7 925",
+      "valor" : "7925"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "Q",
+      "dim_3_t" : "Atividades de saúde humana e apoio social",
+      "ind_string" : "9 693",
+      "valor" : "9693"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "M",
+      "dim_3_t" : "Atividades de consultoria, científicas, técnicas e similares",
+      "ind_string" : "11 160",
+      "valor" : "11160"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "G",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos",
+      "ind_string" : "12 213",
+      "valor" : "12213"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "17 907",
+      "valor" : "17907"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "N",
+      "dim_3_t" : "Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "21 302",
+      "valor" : "21302"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "34 556",
+      "valor" : "34556"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "105 589",
+      "valor" : "105589"
+    } ],
+    "2024" : [ {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "2",
+      "valor" : "2"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "2",
+      "valor" : "2"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "2",
+      "valor" : "2"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "2",
+      "valor" : "2"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "2",
+      "valor" : "2"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "3",
+      "valor" : "3"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "3",
+      "valor" : "3"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "D",
+      "dim_3_t" : "Eletricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "4",
+      "valor" : "4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "J",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "5",
+      "valor" : "5"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "6",
+      "valor" : "6"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "D",
+      "dim_3_t" : "Eletricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "7",
+      "valor" : "7"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "D",
+      "dim_3_t" : "Eletricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "8",
+      "valor" : "8"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "8",
+      "valor" : "8"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "A",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "8",
+      "valor" : "8"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "H",
+      "dim_3_t" : "Transportes e armazenagem",
+      "ind_string" : "9",
+      "valor" : "9"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "D",
+      "dim_3_t" : "Eletricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "10",
+      "valor" : "10"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "H",
+      "dim_3_t" : "Transportes e armazenagem",
+      "ind_string" : "11",
+      "valor" : "11"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "J",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "13",
+      "valor" : "13"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "14",
+      "valor" : "14"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "18",
+      "valor" : "18"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "S",
+      "dim_3_t" : "Outras atividades de serviços",
+      "ind_string" : "22",
+      "valor" : "22"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "D",
+      "dim_3_t" : "Eletricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "23",
+      "valor" : "23"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "H",
+      "dim_3_t" : "Transportes e armazenagem",
+      "ind_string" : "24",
+      "valor" : "24"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "A",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "25",
+      "valor" : "25"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "L",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "27",
+      "valor" : "27"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "A",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "28",
+      "valor" : "28"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "J",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "29",
+      "valor" : "29"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "P",
+      "dim_3_t" : "Educação",
+      "ind_string" : "29",
+      "valor" : "29"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "R",
+      "dim_3_t" : "Atividades artísticas, de espetáculos, desportivas e recreativas",
+      "ind_string" : "29",
+      "valor" : "29"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "F",
+      "dim_3_t" : "Construção",
+      "ind_string" : "30",
+      "valor" : "30"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "D",
+      "dim_3_t" : "Eletricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "33",
+      "valor" : "33"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "D",
+      "dim_3_t" : "Eletricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "33",
+      "valor" : "33"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "A",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "33",
+      "valor" : "33"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "A",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "35",
+      "valor" : "35"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "I",
+      "dim_3_t" : "Alojamento, restauração e similares",
+      "ind_string" : "36",
+      "valor" : "36"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "R",
+      "dim_3_t" : "Atividades artísticas, de espetáculos, desportivas e recreativas",
+      "ind_string" : "37",
+      "valor" : "37"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "39",
+      "valor" : "39"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "L",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "41",
+      "valor" : "41"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "41",
+      "valor" : "41"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "M",
+      "dim_3_t" : "Atividades de consultoria, científicas, técnicas e similares",
+      "ind_string" : "42",
+      "valor" : "42"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "44",
+      "valor" : "44"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "P",
+      "dim_3_t" : "Educação",
+      "ind_string" : "46",
+      "valor" : "46"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "L",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "48",
+      "valor" : "48"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "I",
+      "dim_3_t" : "Alojamento, restauração e similares",
+      "ind_string" : "56",
+      "valor" : "56"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "Q",
+      "dim_3_t" : "Atividades de saúde humana e apoio social",
+      "ind_string" : "57",
+      "valor" : "57"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "H",
+      "dim_3_t" : "Transportes e armazenagem",
+      "ind_string" : "58",
+      "valor" : "58"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "58",
+      "valor" : "58"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "R",
+      "dim_3_t" : "Atividades artísticas, de espetáculos, desportivas e recreativas",
+      "ind_string" : "68",
+      "valor" : "68"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "S",
+      "dim_3_t" : "Outras atividades de serviços",
+      "ind_string" : "70",
+      "valor" : "70"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "P",
+      "dim_3_t" : "Educação",
+      "ind_string" : "72",
+      "valor" : "72"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "F",
+      "dim_3_t" : "Construção",
+      "ind_string" : "73",
+      "valor" : "73"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "J",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "78",
+      "valor" : "78"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "R",
+      "dim_3_t" : "Atividades artísticas, de espetáculos, desportivas e recreativas",
+      "ind_string" : "78",
+      "valor" : "78"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "78",
+      "valor" : "78"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "G",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos",
+      "ind_string" : "81",
+      "valor" : "81"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "M",
+      "dim_3_t" : "Atividades de consultoria, científicas, técnicas e similares",
+      "ind_string" : "83",
+      "valor" : "83"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "J",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "83",
+      "valor" : "83"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "I",
+      "dim_3_t" : "Alojamento, restauração e similares",
+      "ind_string" : "85",
+      "valor" : "85"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "S",
+      "dim_3_t" : "Outras atividades de serviços",
+      "ind_string" : "87",
+      "valor" : "87"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "88",
+      "valor" : "88"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "D",
+      "dim_3_t" : "Eletricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "89",
+      "valor" : "89"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "Q",
+      "dim_3_t" : "Atividades de saúde humana e apoio social",
+      "ind_string" : "93",
+      "valor" : "93"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "N",
+      "dim_3_t" : "Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "95",
+      "valor" : "95"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "F",
+      "dim_3_t" : "Construção",
+      "ind_string" : "99",
+      "valor" : "99"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "F",
+      "dim_3_t" : "Construção",
+      "ind_string" : "102",
+      "valor" : "102"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "H",
+      "dim_3_t" : "Transportes e armazenagem",
+      "ind_string" : "109",
+      "valor" : "109"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "A",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "111",
+      "valor" : "111"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "P",
+      "dim_3_t" : "Educação",
+      "ind_string" : "114",
+      "valor" : "114"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "F",
+      "dim_3_t" : "Construção",
+      "ind_string" : "117",
+      "valor" : "117"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "L",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "117",
+      "valor" : "117"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "I",
+      "dim_3_t" : "Alojamento, restauração e similares",
+      "ind_string" : "121",
+      "valor" : "121"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "A",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "127",
+      "valor" : "127"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "S",
+      "dim_3_t" : "Outras atividades de serviços",
+      "ind_string" : "128",
+      "valor" : "128"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "H",
+      "dim_3_t" : "Transportes e armazenagem",
+      "ind_string" : "129",
+      "valor" : "129"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "130",
+      "valor" : "130"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "L",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "141",
+      "valor" : "141"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "Q",
+      "dim_3_t" : "Atividades de saúde humana e apoio social",
+      "ind_string" : "143",
+      "valor" : "143"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "M",
+      "dim_3_t" : "Atividades de consultoria, científicas, técnicas e similares",
+      "ind_string" : "144",
+      "valor" : "144"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "J",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "159",
+      "valor" : "159"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "N",
+      "dim_3_t" : "Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "162",
+      "valor" : "162"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "G",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos",
+      "ind_string" : "165",
+      "valor" : "165"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "R",
+      "dim_3_t" : "Atividades artísticas, de espetáculos, desportivas e recreativas",
+      "ind_string" : "176",
+      "valor" : "176"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "G",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos",
+      "ind_string" : "181",
+      "valor" : "181"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "R",
+      "dim_3_t" : "Atividades artísticas, de espetáculos, desportivas e recreativas",
+      "ind_string" : "186",
+      "valor" : "186"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "S",
+      "dim_3_t" : "Outras atividades de serviços",
+      "ind_string" : "193",
+      "valor" : "193"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "P",
+      "dim_3_t" : "Educação",
+      "ind_string" : "194",
+      "valor" : "194"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "G",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos",
+      "ind_string" : "197",
+      "valor" : "197"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "P",
+      "dim_3_t" : "Educação",
+      "ind_string" : "199",
+      "valor" : "199"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "Q",
+      "dim_3_t" : "Atividades de saúde humana e apoio social",
+      "ind_string" : "201",
+      "valor" : "201"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "D",
+      "dim_3_t" : "Eletricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "214",
+      "valor" : "214"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "R",
+      "dim_3_t" : "Atividades artísticas, de espetáculos, desportivas e recreativas",
+      "ind_string" : "227",
+      "valor" : "227"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "L",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "232",
+      "valor" : "232"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "235",
+      "valor" : "235"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "N",
+      "dim_3_t" : "Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "235",
+      "valor" : "235"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "I",
+      "dim_3_t" : "Alojamento, restauração e similares",
+      "ind_string" : "236",
+      "valor" : "236"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "S",
+      "dim_3_t" : "Outras atividades de serviços",
+      "ind_string" : "239",
+      "valor" : "239"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "M",
+      "dim_3_t" : "Atividades de consultoria, científicas, técnicas e similares",
+      "ind_string" : "259",
+      "valor" : "259"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "264",
+      "valor" : "264"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "A",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "267",
+      "valor" : "267"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "P",
+      "dim_3_t" : "Educação",
+      "ind_string" : "270",
+      "valor" : "270"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "H",
+      "dim_3_t" : "Transportes e armazenagem",
+      "ind_string" : "278",
+      "valor" : "278"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "L",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "281",
+      "valor" : "281"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "S",
+      "dim_3_t" : "Outras atividades de serviços",
+      "ind_string" : "283",
+      "valor" : "283"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "J",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "287",
+      "valor" : "287"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "I",
+      "dim_3_t" : "Alojamento, restauração e similares",
+      "ind_string" : "299",
+      "valor" : "299"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "F",
+      "dim_3_t" : "Construção",
+      "ind_string" : "310",
+      "valor" : "310"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "M",
+      "dim_3_t" : "Atividades de consultoria, científicas, técnicas e similares",
+      "ind_string" : "326",
+      "valor" : "326"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "G",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos",
+      "ind_string" : "342",
+      "valor" : "342"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "Q",
+      "dim_3_t" : "Atividades de saúde humana e apoio social",
+      "ind_string" : "407",
+      "valor" : "407"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "N",
+      "dim_3_t" : "Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "443",
+      "valor" : "443"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "M",
+      "dim_3_t" : "Atividades de consultoria, científicas, técnicas e similares",
+      "ind_string" : "452",
+      "valor" : "452"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "F",
+      "dim_3_t" : "Construção",
+      "ind_string" : "455",
+      "valor" : "455"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "Q",
+      "dim_3_t" : "Atividades de saúde humana e apoio social",
+      "ind_string" : "459",
+      "valor" : "459"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "Q",
+      "dim_3_t" : "Atividades de saúde humana e apoio social",
+      "ind_string" : "497",
+      "valor" : "497"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "G",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos",
+      "ind_string" : "507",
+      "valor" : "507"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "518",
+      "valor" : "518"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "I",
+      "dim_3_t" : "Alojamento, restauração e similares",
+      "ind_string" : "531",
+      "valor" : "531"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "G",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos",
+      "ind_string" : "590",
+      "valor" : "590"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "N",
+      "dim_3_t" : "Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "662",
+      "valor" : "662"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "694",
+      "valor" : "694"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "D",
+      "dim_3_t" : "Eletricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "722",
+      "valor" : "722"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "M",
+      "dim_3_t" : "Atividades de consultoria, científicas, técnicas e similares",
+      "ind_string" : "726",
+      "valor" : "726"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "J",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "788",
+      "valor" : "788"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "N",
+      "dim_3_t" : "Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "829",
+      "valor" : "829"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "R",
+      "dim_3_t" : "Atividades artísticas, de espetáculos, desportivas e recreativas",
+      "ind_string" : "921",
+      "valor" : "921"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "H",
+      "dim_3_t" : "Transportes e armazenagem",
+      "ind_string" : "1 016",
+      "valor" : "1016"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "N",
+      "dim_3_t" : "Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "1 052",
+      "valor" : "1052"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "F",
+      "dim_3_t" : "Construção",
+      "ind_string" : "1 066",
+      "valor" : "1066"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 067",
+      "valor" : "1067"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "L",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "1 077",
+      "valor" : "1077"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "P",
+      "dim_3_t" : "Educação",
+      "ind_string" : "1 151",
+      "valor" : "1151"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "J",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "1 163",
+      "valor" : "1163"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "S",
+      "dim_3_t" : "Outras atividades de serviços",
+      "ind_string" : "1 255",
+      "valor" : "1255"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "H",
+      "dim_3_t" : "Transportes e armazenagem",
+      "ind_string" : "1 347",
+      "valor" : "1347"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 363",
+      "valor" : "1363"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "R",
+      "dim_3_t" : "Atividades artísticas, de espetáculos, desportivas e recreativas",
+      "ind_string" : "1 586",
+      "valor" : "1586"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "1 668",
+      "valor" : "1668"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "L",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "1 707",
+      "valor" : "1707"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "I",
+      "dim_3_t" : "Alojamento, restauração e similares",
+      "ind_string" : "1 734",
+      "valor" : "1734"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "A",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "1 896",
+      "valor" : "1896"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 980",
+      "valor" : "1980"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "Q",
+      "dim_3_t" : "Atividades de saúde humana e apoio social",
+      "ind_string" : "2 025",
+      "valor" : "2025"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "P",
+      "dim_3_t" : "Educação",
+      "ind_string" : "2 192",
+      "valor" : "2192"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "G",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos",
+      "ind_string" : "2 231",
+      "valor" : "2231"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "S",
+      "dim_3_t" : "Outras atividades de serviços",
+      "ind_string" : "2 233",
+      "valor" : "2233"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "M",
+      "dim_3_t" : "Atividades de consultoria, científicas, técnicas e similares",
+      "ind_string" : "2 325",
+      "valor" : "2325"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "F",
+      "dim_3_t" : "Construção",
+      "ind_string" : "2 747",
+      "valor" : "2747"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "I",
+      "dim_3_t" : "Alojamento, restauração e similares",
+      "ind_string" : "3 078",
+      "valor" : "3078"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "3 661",
+      "valor" : "3661"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 733",
+      "valor" : "3733"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "M",
+      "dim_3_t" : "Atividades de consultoria, científicas, técnicas e similares",
+      "ind_string" : "3 754",
+      "valor" : "3754"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "Q",
+      "dim_3_t" : "Atividades de saúde humana e apoio social",
+      "ind_string" : "3 806",
+      "valor" : "3806"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "J",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "4 369",
+      "valor" : "4369"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "G",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos",
+      "ind_string" : "4 455",
+      "valor" : "4455"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 798",
+      "valor" : "4798"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 808",
+      "valor" : "4808"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "R",
+      "dim_3_t" : "Atividades artísticas, de espetáculos, desportivas e recreativas",
+      "ind_string" : "5 208",
+      "valor" : "5208"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "A",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "5 288",
+      "valor" : "5288"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "H",
+      "dim_3_t" : "Transportes e armazenagem",
+      "ind_string" : "6 162",
+      "valor" : "6162"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "L",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "6 173",
+      "valor" : "6173"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "P",
+      "dim_3_t" : "Educação",
+      "ind_string" : "6 175",
+      "valor" : "6175"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "N",
+      "dim_3_t" : "Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "6 354",
+      "valor" : "6354"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "S",
+      "dim_3_t" : "Outras atividades de serviços",
+      "ind_string" : "6 408",
+      "valor" : "6408"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "F",
+      "dim_3_t" : "Construção",
+      "ind_string" : "8 422",
+      "valor" : "8422"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "N",
+      "dim_3_t" : "Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "9 189",
+      "valor" : "9189"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "Q",
+      "dim_3_t" : "Atividades de saúde humana e apoio social",
+      "ind_string" : "10 250",
+      "valor" : "10250"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "I",
+      "dim_3_t" : "Alojamento, restauração e similares",
+      "ind_string" : "11 363",
+      "valor" : "11363"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "G",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos",
+      "ind_string" : "12 069",
+      "valor" : "12069"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "M",
+      "dim_3_t" : "Atividades de consultoria, científicas, técnicas e similares",
+      "ind_string" : "12 193",
+      "valor" : "12193"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "23 007",
+      "valor" : "23007"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "N",
+      "dim_3_t" : "Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "30 567",
+      "valor" : "30567"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "41 067",
+      "valor" : "41067"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "129 129",
+      "valor" : "129129"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

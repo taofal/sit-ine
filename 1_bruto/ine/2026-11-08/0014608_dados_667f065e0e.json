@@ -1,0 +1,121 @@
+[ {
+  "IndicadorCod" : "0014608",
+  "IndicadorDsg" : "Proporção da despesa em desenvolvimento das empresas no Valor Acrescentado Bruto a preços de mercado (%) por Localização geográfica (NUTS - 2024) e Escalão de pessoal ao serviço; Anual - INE, Sistema de contas integradas das empresas",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0014608&lingua=PT",
+  "DataExtracao" : "2026-11-08T07:59:52.048Z",
+  "DataUltimoAtualizacao" : "2025-12-11",
+  "UltimoPref" : "2024",
+  "Dados" : {
+    "2024" : [ {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "< 50 pessoas",
+      "ind_string" : "0,14",
+      "valor" : "0.14"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "0,32",
+      "valor" : "0.32"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "< 50 pessoas",
+      "ind_string" : "0,36",
+      "valor" : "0.36"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "< 50 pessoas",
+      "ind_string" : "0,36",
+      "valor" : "0.36"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "< 50 pessoas",
+      "ind_string" : "0,41",
+      "valor" : "0.41"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "< 50 pessoas",
+      "ind_string" : "0,43",
+      "valor" : "0.43"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : ">= 50 pessoas",
+      "ind_string" : "0,49",
+      "valor" : "0.49"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "0,62",
+      "valor" : "0.62"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "0,78",
+      "valor" : "0.78"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "0,81",
+      "valor" : "0.81"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : ">= 50 pessoas",
+      "ind_string" : "0,87",
+      "valor" : "0.87"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1,03",
+      "valor" : "1.03"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : ">= 50 pessoas",
+      "ind_string" : "1,26",
+      "valor" : "1.26"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : ">= 50 pessoas",
+      "ind_string" : "1,33",
+      "valor" : "1.33"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : ">= 50 pessoas",
+      "ind_string" : "1,65",
+      "valor" : "1.65"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

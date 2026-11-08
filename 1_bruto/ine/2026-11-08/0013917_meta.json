@@ -1,0 +1,187 @@
+[ {
+  "IndicadorCod" : "0013917",
+  "IndicadorNome" : "Volume de vendas (€) das unidades comerciais de dimensão relevante por Localização geográfica (NUTS - 2024) e Setor de atividade económica; Anual - INE, Inquérito aos estabelecimentos comerciais - unidades comerciais de dimensão relevante",
+  "Periodic" : "Anual",
+  "PrimeiroPeriodo" : "2023",
+  "UltimoPeriodo" : "2024",
+  "UnidadeMedida" : "Euro (€)",
+  "Potencia10" : "3",
+  "PrecisaoDecimal" : "0",
+  "Lingua" : "PT",
+  "DataUltimaAtualizacao" : "2025-11-28",
+  "DataExtracao" : "2026-11-08T07:59:57.470Z",
+  "Dimensoes" : {
+    "Descricao_Dim" : [ {
+      "dim_num" : "1",
+      "abrv" : "Período de referência dos dados",
+      "versao" : "XXXXX"
+    }, {
+      "dim_num" : "2",
+      "abrv" : "Localização geográfica (NUTS - 2024)",
+      "versao" : "05257"
+    }, {
+      "dim_num" : "3",
+      "abrv" : "Tipo de atividade de comércio",
+      "versao" : "00851"
+    } ],
+    "Categoria_Dim" : [ {
+      "Dim_Num1_S7A2023" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2023",
+        "categ_cod" : "S7A2023",
+        "categ_dsg" : "2023",
+        "categ_ord" : "20230101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2024" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2024",
+        "categ_cod" : "S7A2024",
+        "categ_dsg" : "2024",
+        "categ_ord" : "20240101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_PT" : [ {
+        "dim_num" : "2",
+        "cat_id" : "PT",
+        "categ_cod" : "PT",
+        "categ_dsg" : "Portugal",
+        "categ_ord" : "1",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1",
+        "categ_cod" : "1",
+        "categ_dsg" : "Continente",
+        "categ_ord" : "2",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num2_11" : [ {
+        "dim_num" : "2",
+        "cat_id" : "11",
+        "categ_cod" : "11",
+        "categ_dsg" : "Norte",
+        "categ_ord" : "3",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_19" : [ {
+        "dim_num" : "2",
+        "cat_id" : "19",
+        "categ_cod" : "19",
+        "categ_dsg" : "Centro",
+        "categ_ord" : "1661",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_1D" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1D",
+        "categ_cod" : "1D",
+        "categ_dsg" : "Oeste e Vale do Tejo",
+        "categ_ord" : "2623",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_1A" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1A",
+        "categ_cod" : "1A",
+        "categ_dsg" : "Grande Lisboa",
+        "categ_ord" : "2921",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_1B" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1B",
+        "categ_cod" : "1B",
+        "categ_dsg" : "Península de Setúbal",
+        "categ_ord" : "3020",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_1C" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1C",
+        "categ_cod" : "1C",
+        "categ_dsg" : "Alentejo",
+        "categ_ord" : "3071",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_15" : [ {
+        "dim_num" : "2",
+        "cat_id" : "15",
+        "categ_cod" : "15",
+        "categ_dsg" : "Algarve",
+        "categ_ord" : "3394",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_2" : [ {
+        "dim_num" : "2",
+        "cat_id" : "2",
+        "categ_cod" : "2",
+        "categ_dsg" : "Região Autónoma dos Açores",
+        "categ_ord" : "3496",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num2_20" : [ {
+        "dim_num" : "2",
+        "cat_id" : "20",
+        "categ_cod" : "20",
+        "categ_dsg" : "Região Autónoma dos Açores",
+        "categ_ord" : "3497",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num2_3" : [ {
+        "dim_num" : "2",
+        "cat_id" : "3",
+        "categ_cod" : "3",
+        "categ_dsg" : "Região Autónoma da Madeira",
+        "categ_ord" : "3674",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num2_30" : [ {
+        "dim_num" : "2",
+        "cat_id" : "30",
+        "categ_cod" : "30",
+        "categ_dsg" : "Região Autónoma da Madeira",
+        "categ_ord" : "3675",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_T" : [ {
+        "dim_num" : "3",
+        "cat_id" : "T",
+        "categ_cod" : "T",
+        "categ_dsg" : "Total",
+        "categ_ord" : "10",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num3_A" : [ {
+        "dim_num" : "3",
+        "cat_id" : "A",
+        "categ_cod" : "A",
+        "categ_dsg" : "Comércio a retalho alimentar ou com predominância alimentar",
+        "categ_ord" : "20",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_B" : [ {
+        "dim_num" : "3",
+        "cat_id" : "B",
+        "categ_cod" : "B",
+        "categ_dsg" : "Comércio a retalho não alimentar ou sem predominância alimentar",
+        "categ_ord" : "30",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_C" : [ {
+        "dim_num" : "3",
+        "cat_id" : "C",
+        "categ_cod" : "C",
+        "categ_dsg" : "Comércio por grosso",
+        "categ_ord" : "40",
+        "categ_nivel" : "2"
+      } ]
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

@@ -1,0 +1,133 @@
+[ {
+  "IndicadorCod" : "0013919",
+  "IndicadorDsg" : "Volume de vendas médio por unidade comercial de dimensão relevante (€) por Localização geográfica (NUTS - 2024) e Setor de atividade económica; Anual - INE, Inquérito aos estabelecimentos comerciais - unidades comerciais de dimensão relevante",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0013919&lingua=PT",
+  "DataExtracao" : "2026-11-08T08:00:12.192Z",
+  "DataUltimoAtualizacao" : "2025-11-28",
+  "UltimoPref" : "2024",
+  "Dados" : {
+    "2023" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "B",
+      "dim_3_t" : "Comércio a retalho não alimentar ou sem predominância alimentar",
+      "ind_string" : "3 468",
+      "valor" : "3468"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Comércio a retalho não alimentar ou sem predominância alimentar",
+      "ind_string" : "3 698",
+      "valor" : "3698"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "6 640",
+      "valor" : "6640"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "6 669",
+      "valor" : "6669"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "A",
+      "dim_3_t" : "Comércio a retalho alimentar ou com predominância alimentar",
+      "ind_string" : "9 794",
+      "valor" : "9794"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "A",
+      "dim_3_t" : "Comércio a retalho alimentar ou com predominância alimentar",
+      "ind_string" : "10 149",
+      "valor" : "10149"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Comércio por grosso",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "C",
+      "dim_3_t" : "Comércio por grosso",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "2024" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "B",
+      "dim_3_t" : "Comércio a retalho não alimentar ou sem predominância alimentar",
+      "ind_string" : "3 516",
+      "valor" : "3516"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Comércio a retalho não alimentar ou sem predominância alimentar",
+      "ind_string" : "3 829",
+      "valor" : "3829"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "6 690",
+      "valor" : "6690"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "6 789",
+      "valor" : "6789"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "A",
+      "dim_3_t" : "Comércio a retalho alimentar ou com predominância alimentar",
+      "ind_string" : "9 936",
+      "valor" : "9936"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "A",
+      "dim_3_t" : "Comércio a retalho alimentar ou com predominância alimentar",
+      "ind_string" : "10 135",
+      "valor" : "10135"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "C",
+      "dim_3_t" : "Comércio por grosso",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Comércio por grosso",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

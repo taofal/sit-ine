@@ -1,0 +1,133 @@
+[ {
+  "IndicadorCod" : "0013924",
+  "IndicadorDsg" : "Volume de vendas de produtos de marca própria (€) das unidades comerciais de dimensão relevante por Localização geográfica (NUTS - 2024) e Setor de atividade económica; Anual - INE, Inquérito aos estabelecimentos comerciais - unidades comerciais de dimensão relevante",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0013924&lingua=PT",
+  "DataExtracao" : "2026-11-08T08:01:56.799Z",
+  "DataUltimoAtualizacao" : "2025-11-28",
+  "UltimoPref" : "2024",
+  "Dados" : {
+    "2023" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "B",
+      "dim_3_t" : "Comércio a retalho não alimentar ou sem predominância alimentar",
+      "ind_string" : "910 957",
+      "valor" : "910957"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "A",
+      "dim_3_t" : "Comércio a retalho alimentar ou com predominância alimentar",
+      "ind_string" : "2 565 264",
+      "valor" : "2565264"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Comércio a retalho não alimentar ou sem predominância alimentar",
+      "ind_string" : "3 111 176",
+      "valor" : "3111176"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 476 221",
+      "valor" : "3476221"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "A",
+      "dim_3_t" : "Comércio a retalho alimentar ou com predominância alimentar",
+      "ind_string" : "7 890 939",
+      "valor" : "7890939"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "11 002 115",
+      "valor" : "11002115"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Comércio por grosso",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "C",
+      "dim_3_t" : "Comércio por grosso",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "2024" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "B",
+      "dim_3_t" : "Comércio a retalho não alimentar ou sem predominância alimentar",
+      "ind_string" : "960 419",
+      "valor" : "960419"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "A",
+      "dim_3_t" : "Comércio a retalho alimentar ou com predominância alimentar",
+      "ind_string" : "2 817 868",
+      "valor" : "2817868"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Comércio a retalho não alimentar ou sem predominância alimentar",
+      "ind_string" : "3 336 199",
+      "valor" : "3336199"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 778 287",
+      "valor" : "3778287"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "A",
+      "dim_3_t" : "Comércio a retalho alimentar ou com predominância alimentar",
+      "ind_string" : "8 596 801",
+      "valor" : "8596801"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "11 933 000",
+      "valor" : "11933000"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "C",
+      "dim_3_t" : "Comércio por grosso",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Comércio por grosso",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

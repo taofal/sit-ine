@@ -1,0 +1,133 @@
+[ {
+  "IndicadorCod" : "0013917",
+  "IndicadorDsg" : "Volume de vendas (€) das unidades comerciais de dimensão relevante por Localização geográfica (NUTS - 2024) e Setor de atividade económica; Anual - INE, Inquérito aos estabelecimentos comerciais - unidades comerciais de dimensão relevante",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0013917&lingua=PT",
+  "DataExtracao" : "2026-11-08T08:00:02.504Z",
+  "DataUltimoAtualizacao" : "2025-11-28",
+  "UltimoPref" : "2024",
+  "Dados" : {
+    "2023" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "B",
+      "dim_3_t" : "Comércio a retalho não alimentar ou sem predominância alimentar",
+      "ind_string" : "1 990 762",
+      "valor" : "1990762"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "A",
+      "dim_3_t" : "Comércio a retalho alimentar ou com predominância alimentar",
+      "ind_string" : "5 358 787",
+      "valor" : "5358787"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Comércio a retalho não alimentar ou sem predominância alimentar",
+      "ind_string" : "7 063 091",
+      "valor" : "7063091"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "7 349 550",
+      "valor" : "7349550"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "A",
+      "dim_3_t" : "Comércio a retalho alimentar ou com predominância alimentar",
+      "ind_string" : "17 453 425",
+      "valor" : "17453425"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "24 516 516",
+      "valor" : "24516516"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Comércio por grosso",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "C",
+      "dim_3_t" : "Comércio por grosso",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ],
+    "2024" : [ {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "B",
+      "dim_3_t" : "Comércio a retalho não alimentar ou sem predominância alimentar",
+      "ind_string" : "2 095 468",
+      "valor" : "2095468"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "A",
+      "dim_3_t" : "Comércio a retalho alimentar ou com predominância alimentar",
+      "ind_string" : "5 564 255",
+      "valor" : "5564255"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "B",
+      "dim_3_t" : "Comércio a retalho não alimentar ou sem predominância alimentar",
+      "ind_string" : "7 497 372",
+      "valor" : "7497372"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "7 659 723",
+      "valor" : "7659723"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "A",
+      "dim_3_t" : "Comércio a retalho alimentar ou com predominância alimentar",
+      "ind_string" : "18 301 761",
+      "valor" : "18301761"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "25 799 132",
+      "valor" : "25799132"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "C",
+      "dim_3_t" : "Comércio por grosso",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "C",
+      "dim_3_t" : "Comércio por grosso",
+      "sinal_conv" : "x",
+      "sinal_conv_desc" : "Dado não disponível",
+      "ind_string" : "x"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
