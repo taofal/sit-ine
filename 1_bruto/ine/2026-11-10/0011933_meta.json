@@ -1,0 +1,2315 @@
+[ {
+  "IndicadorCod" : "0011933",
+  "IndicadorNome" : "Índice de horas trabalhadas na indústria - bruto (Taxa de variação homóloga - Base 2021 - %) por Atividade económica (Divisão - CAE Rev. 3); Mensal - INE, Índices de volume de negócios e emprego (Base 2021)",
+  "Periodic" : "Mensal",
+  "PrimeiroPeriodo" : "Janeiro de 2006",
+  "UltimoPeriodo" : "Setembro de 2026",
+  "UnidadeMedida" : "Percentagem (%)",
+  "Potencia10" : "0",
+  "PrecisaoDecimal" : "1",
+  "Lingua" : "PT",
+  "DataUltimaAtualizacao" : "2026-11-09",
+  "DataExtracao" : "2026-11-10T10:04:34.161Z",
+  "Dimensoes" : {
+    "Descricao_Dim" : [ {
+      "dim_num" : "1",
+      "abrv" : "Período de referência dos dados (Mês)",
+      "versao" : "XXXXX"
+    }, {
+      "dim_num" : "2",
+      "abrv" : "Localização geográfica (Portugal)",
+      "versao" : "05361"
+    }, {
+      "dim_num" : "3",
+      "abrv" : "Atividade económica (Divisão - CAE Rev. 3)",
+      "versao" : "01752"
+    } ],
+    "Categoria_Dim" : [ {
+      "Dim_Num1_S3A200601" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200601",
+        "categ_cod" : "S3A200601",
+        "categ_dsg" : "Janeiro de 2006",
+        "categ_ord" : "20060101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200602" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200602",
+        "categ_cod" : "S3A200602",
+        "categ_dsg" : "Fevereiro de 2006",
+        "categ_ord" : "20060201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200603" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200603",
+        "categ_cod" : "S3A200603",
+        "categ_dsg" : "Março de 2006",
+        "categ_ord" : "20060301",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200604" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200604",
+        "categ_cod" : "S3A200604",
+        "categ_dsg" : "Abril de 2006",
+        "categ_ord" : "20060401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200605" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200605",
+        "categ_cod" : "S3A200605",
+        "categ_dsg" : "Maio de 2006",
+        "categ_ord" : "20060501",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200606" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200606",
+        "categ_cod" : "S3A200606",
+        "categ_dsg" : "Junho de 2006",
+        "categ_ord" : "20060601",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200607" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200607",
+        "categ_cod" : "S3A200607",
+        "categ_dsg" : "Julho de 2006",
+        "categ_ord" : "20060701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200608" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200608",
+        "categ_cod" : "S3A200608",
+        "categ_dsg" : "Agosto de 2006",
+        "categ_ord" : "20060801",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200609" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200609",
+        "categ_cod" : "S3A200609",
+        "categ_dsg" : "Setembro de 2006",
+        "categ_ord" : "20060901",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200610" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200610",
+        "categ_cod" : "S3A200610",
+        "categ_dsg" : "Outubro de 2006",
+        "categ_ord" : "20061001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200611" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200611",
+        "categ_cod" : "S3A200611",
+        "categ_dsg" : "Novembro de 2006",
+        "categ_ord" : "20061101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200612" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200612",
+        "categ_cod" : "S3A200612",
+        "categ_dsg" : "Dezembro de 2006",
+        "categ_ord" : "20061201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200701" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200701",
+        "categ_cod" : "S3A200701",
+        "categ_dsg" : "Janeiro de 2007",
+        "categ_ord" : "20070101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200702" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200702",
+        "categ_cod" : "S3A200702",
+        "categ_dsg" : "Fevereiro de 2007",
+        "categ_ord" : "20070201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200703" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200703",
+        "categ_cod" : "S3A200703",
+        "categ_dsg" : "Março de 2007",
+        "categ_ord" : "20070301",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200704" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200704",
+        "categ_cod" : "S3A200704",
+        "categ_dsg" : "Abril de 2007",
+        "categ_ord" : "20070401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200705" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200705",
+        "categ_cod" : "S3A200705",
+        "categ_dsg" : "Maio de 2007",
+        "categ_ord" : "20070501",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200706" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200706",
+        "categ_cod" : "S3A200706",
+        "categ_dsg" : "Junho de 2007",
+        "categ_ord" : "20070601",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200707" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200707",
+        "categ_cod" : "S3A200707",
+        "categ_dsg" : "Julho de 2007",
+        "categ_ord" : "20070701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200708" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200708",
+        "categ_cod" : "S3A200708",
+        "categ_dsg" : "Agosto de 2007",
+        "categ_ord" : "20070801",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200709" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200709",
+        "categ_cod" : "S3A200709",
+        "categ_dsg" : "Setembro de 2007",
+        "categ_ord" : "20070901",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200710" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200710",
+        "categ_cod" : "S3A200710",
+        "categ_dsg" : "Outubro de 2007",
+        "categ_ord" : "20071001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200711" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200711",
+        "categ_cod" : "S3A200711",
+        "categ_dsg" : "Novembro de 2007",
+        "categ_ord" : "20071101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200712" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200712",
+        "categ_cod" : "S3A200712",
+        "categ_dsg" : "Dezembro de 2007",
+        "categ_ord" : "20071201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200801" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200801",
+        "categ_cod" : "S3A200801",
+        "categ_dsg" : "Janeiro de 2008",
+        "categ_ord" : "20080101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200802" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200802",
+        "categ_cod" : "S3A200802",
+        "categ_dsg" : "Fevereiro de 2008",
+        "categ_ord" : "20080201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200803" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200803",
+        "categ_cod" : "S3A200803",
+        "categ_dsg" : "Março de 2008",
+        "categ_ord" : "20080301",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200804" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200804",
+        "categ_cod" : "S3A200804",
+        "categ_dsg" : "Abril de 2008",
+        "categ_ord" : "20080401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200805" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200805",
+        "categ_cod" : "S3A200805",
+        "categ_dsg" : "Maio de 2008",
+        "categ_ord" : "20080501",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200806" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200806",
+        "categ_cod" : "S3A200806",
+        "categ_dsg" : "Junho de 2008",
+        "categ_ord" : "20080601",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200807" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200807",
+        "categ_cod" : "S3A200807",
+        "categ_dsg" : "Julho de 2008",
+        "categ_ord" : "20080701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200808" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200808",
+        "categ_cod" : "S3A200808",
+        "categ_dsg" : "Agosto de 2008",
+        "categ_ord" : "20080801",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200809" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200809",
+        "categ_cod" : "S3A200809",
+        "categ_dsg" : "Setembro de 2008",
+        "categ_ord" : "20080901",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200810" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200810",
+        "categ_cod" : "S3A200810",
+        "categ_dsg" : "Outubro de 2008",
+        "categ_ord" : "20081001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200811" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200811",
+        "categ_cod" : "S3A200811",
+        "categ_dsg" : "Novembro de 2008",
+        "categ_ord" : "20081101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200812" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200812",
+        "categ_cod" : "S3A200812",
+        "categ_dsg" : "Dezembro de 2008",
+        "categ_ord" : "20081201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200901" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200901",
+        "categ_cod" : "S3A200901",
+        "categ_dsg" : "Janeiro de 2009",
+        "categ_ord" : "20090101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200902" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200902",
+        "categ_cod" : "S3A200902",
+        "categ_dsg" : "Fevereiro de 2009",
+        "categ_ord" : "20090201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200903" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200903",
+        "categ_cod" : "S3A200903",
+        "categ_dsg" : "Março de 2009",
+        "categ_ord" : "20090301",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200904" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200904",
+        "categ_cod" : "S3A200904",
+        "categ_dsg" : "Abril de 2009",
+        "categ_ord" : "20090401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200905" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200905",
+        "categ_cod" : "S3A200905",
+        "categ_dsg" : "Maio de 2009",
+        "categ_ord" : "20090501",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200906" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200906",
+        "categ_cod" : "S3A200906",
+        "categ_dsg" : "Junho de 2009",
+        "categ_ord" : "20090601",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200907" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200907",
+        "categ_cod" : "S3A200907",
+        "categ_dsg" : "Julho de 2009",
+        "categ_ord" : "20090701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200908" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200908",
+        "categ_cod" : "S3A200908",
+        "categ_dsg" : "Agosto de 2009",
+        "categ_ord" : "20090801",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200909" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200909",
+        "categ_cod" : "S3A200909",
+        "categ_dsg" : "Setembro de 2009",
+        "categ_ord" : "20090901",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200910" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200910",
+        "categ_cod" : "S3A200910",
+        "categ_dsg" : "Outubro de 2009",
+        "categ_ord" : "20091001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200911" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200911",
+        "categ_cod" : "S3A200911",
+        "categ_dsg" : "Novembro de 2009",
+        "categ_ord" : "20091101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A200912" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A200912",
+        "categ_cod" : "S3A200912",
+        "categ_dsg" : "Dezembro de 2009",
+        "categ_ord" : "20091201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201001" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201001",
+        "categ_cod" : "S3A201001",
+        "categ_dsg" : "Janeiro de 2010",
+        "categ_ord" : "20100101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201002" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201002",
+        "categ_cod" : "S3A201002",
+        "categ_dsg" : "Fevereiro de 2010",
+        "categ_ord" : "20100201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201003" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201003",
+        "categ_cod" : "S3A201003",
+        "categ_dsg" : "Março de 2010",
+        "categ_ord" : "20100301",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201004" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201004",
+        "categ_cod" : "S3A201004",
+        "categ_dsg" : "Abril de 2010",
+        "categ_ord" : "20100401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201005" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201005",
+        "categ_cod" : "S3A201005",
+        "categ_dsg" : "Maio de 2010",
+        "categ_ord" : "20100501",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201006" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201006",
+        "categ_cod" : "S3A201006",
+        "categ_dsg" : "Junho de 2010",
+        "categ_ord" : "20100601",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201007" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201007",
+        "categ_cod" : "S3A201007",
+        "categ_dsg" : "Julho de 2010",
+        "categ_ord" : "20100701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201008" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201008",
+        "categ_cod" : "S3A201008",
+        "categ_dsg" : "Agosto de 2010",
+        "categ_ord" : "20100801",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201009" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201009",
+        "categ_cod" : "S3A201009",
+        "categ_dsg" : "Setembro de 2010",
+        "categ_ord" : "20100901",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201010" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201010",
+        "categ_cod" : "S3A201010",
+        "categ_dsg" : "Outubro de 2010",
+        "categ_ord" : "20101001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201011" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201011",
+        "categ_cod" : "S3A201011",
+        "categ_dsg" : "Novembro de 2010",
+        "categ_ord" : "20101101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201012" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201012",
+        "categ_cod" : "S3A201012",
+        "categ_dsg" : "Dezembro de 2010",
+        "categ_ord" : "20101201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201101" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201101",
+        "categ_cod" : "S3A201101",
+        "categ_dsg" : "Janeiro de 2011",
+        "categ_ord" : "20110101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201102" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201102",
+        "categ_cod" : "S3A201102",
+        "categ_dsg" : "Fevereiro de 2011",
+        "categ_ord" : "20110201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201103" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201103",
+        "categ_cod" : "S3A201103",
+        "categ_dsg" : "Março de 2011",
+        "categ_ord" : "20110301",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201104" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201104",
+        "categ_cod" : "S3A201104",
+        "categ_dsg" : "Abril de 2011",
+        "categ_ord" : "20110401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201105" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201105",
+        "categ_cod" : "S3A201105",
+        "categ_dsg" : "Maio de 2011",
+        "categ_ord" : "20110501",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201106" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201106",
+        "categ_cod" : "S3A201106",
+        "categ_dsg" : "Junho de 2011",
+        "categ_ord" : "20110601",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201107" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201107",
+        "categ_cod" : "S3A201107",
+        "categ_dsg" : "Julho de 2011",
+        "categ_ord" : "20110701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201108" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201108",
+        "categ_cod" : "S3A201108",
+        "categ_dsg" : "Agosto de 2011",
+        "categ_ord" : "20110801",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201109" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201109",
+        "categ_cod" : "S3A201109",
+        "categ_dsg" : "Setembro de 2011",
+        "categ_ord" : "20110901",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201110" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201110",
+        "categ_cod" : "S3A201110",
+        "categ_dsg" : "Outubro de 2011",
+        "categ_ord" : "20111001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201111" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201111",
+        "categ_cod" : "S3A201111",
+        "categ_dsg" : "Novembro de 2011",
+        "categ_ord" : "20111101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201112" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201112",
+        "categ_cod" : "S3A201112",
+        "categ_dsg" : "Dezembro de 2011",
+        "categ_ord" : "20111201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201201" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201201",
+        "categ_cod" : "S3A201201",
+        "categ_dsg" : "Janeiro de 2012",
+        "categ_ord" : "20120101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201202" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201202",
+        "categ_cod" : "S3A201202",
+        "categ_dsg" : "Fevereiro de 2012",
+        "categ_ord" : "20120201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201203" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201203",
+        "categ_cod" : "S3A201203",
+        "categ_dsg" : "Março de 2012",
+        "categ_ord" : "20120301",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201204" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201204",
+        "categ_cod" : "S3A201204",
+        "categ_dsg" : "Abril de 2012",
+        "categ_ord" : "20120401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201205" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201205",
+        "categ_cod" : "S3A201205",
+        "categ_dsg" : "Maio de 2012",
+        "categ_ord" : "20120501",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201206" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201206",
+        "categ_cod" : "S3A201206",
+        "categ_dsg" : "Junho de 2012",
+        "categ_ord" : "20120601",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201207" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201207",
+        "categ_cod" : "S3A201207",
+        "categ_dsg" : "Julho de 2012",
+        "categ_ord" : "20120701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201208" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201208",
+        "categ_cod" : "S3A201208",
+        "categ_dsg" : "Agosto de 2012",
+        "categ_ord" : "20120801",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201209" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201209",
+        "categ_cod" : "S3A201209",
+        "categ_dsg" : "Setembro de 2012",
+        "categ_ord" : "20120901",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201210" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201210",
+        "categ_cod" : "S3A201210",
+        "categ_dsg" : "Outubro de 2012",
+        "categ_ord" : "20121001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201211" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201211",
+        "categ_cod" : "S3A201211",
+        "categ_dsg" : "Novembro de 2012",
+        "categ_ord" : "20121101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201212" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201212",
+        "categ_cod" : "S3A201212",
+        "categ_dsg" : "Dezembro de 2012",
+        "categ_ord" : "20121201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201301" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201301",
+        "categ_cod" : "S3A201301",
+        "categ_dsg" : "Janeiro de 2013",
+        "categ_ord" : "20130101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201302" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201302",
+        "categ_cod" : "S3A201302",
+        "categ_dsg" : "Fevereiro de 2013",
+        "categ_ord" : "20130201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201303" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201303",
+        "categ_cod" : "S3A201303",
+        "categ_dsg" : "Março de 2013",
+        "categ_ord" : "20130301",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201304" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201304",
+        "categ_cod" : "S3A201304",
+        "categ_dsg" : "Abril de 2013",
+        "categ_ord" : "20130401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201305" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201305",
+        "categ_cod" : "S3A201305",
+        "categ_dsg" : "Maio de 2013",
+        "categ_ord" : "20130501",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201306" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201306",
+        "categ_cod" : "S3A201306",
+        "categ_dsg" : "Junho de 2013",
+        "categ_ord" : "20130601",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201307" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201307",
+        "categ_cod" : "S3A201307",
+        "categ_dsg" : "Julho de 2013",
+        "categ_ord" : "20130701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201308" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201308",
+        "categ_cod" : "S3A201308",
+        "categ_dsg" : "Agosto de 2013",
+        "categ_ord" : "20130801",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201309" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201309",
+        "categ_cod" : "S3A201309",
+        "categ_dsg" : "Setembro de 2013",
+        "categ_ord" : "20130901",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201310" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201310",
+        "categ_cod" : "S3A201310",
+        "categ_dsg" : "Outubro de 2013",
+        "categ_ord" : "20131001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201311" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201311",
+        "categ_cod" : "S3A201311",
+        "categ_dsg" : "Novembro de 2013",
+        "categ_ord" : "20131101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201312" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201312",
+        "categ_cod" : "S3A201312",
+        "categ_dsg" : "Dezembro de 2013",
+        "categ_ord" : "20131201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201401" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201401",
+        "categ_cod" : "S3A201401",
+        "categ_dsg" : "Janeiro de 2014",
+        "categ_ord" : "20140101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201402" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201402",
+        "categ_cod" : "S3A201402",
+        "categ_dsg" : "Fevereiro de 2014",
+        "categ_ord" : "20140201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201403" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201403",
+        "categ_cod" : "S3A201403",
+        "categ_dsg" : "Março de 2014",
+        "categ_ord" : "20140301",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201404" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201404",
+        "categ_cod" : "S3A201404",
+        "categ_dsg" : "Abril de 2014",
+        "categ_ord" : "20140401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201405" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201405",
+        "categ_cod" : "S3A201405",
+        "categ_dsg" : "Maio de 2014",
+        "categ_ord" : "20140501",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201406" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201406",
+        "categ_cod" : "S3A201406",
+        "categ_dsg" : "Junho de 2014",
+        "categ_ord" : "20140601",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201407" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201407",
+        "categ_cod" : "S3A201407",
+        "categ_dsg" : "Julho de 2014",
+        "categ_ord" : "20140701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201408" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201408",
+        "categ_cod" : "S3A201408",
+        "categ_dsg" : "Agosto de 2014",
+        "categ_ord" : "20140801",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201409" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201409",
+        "categ_cod" : "S3A201409",
+        "categ_dsg" : "Setembro de 2014",
+        "categ_ord" : "20140901",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201410" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201410",
+        "categ_cod" : "S3A201410",
+        "categ_dsg" : "Outubro de 2014",
+        "categ_ord" : "20141001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201411" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201411",
+        "categ_cod" : "S3A201411",
+        "categ_dsg" : "Novembro de 2014",
+        "categ_ord" : "20141101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201412" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201412",
+        "categ_cod" : "S3A201412",
+        "categ_dsg" : "Dezembro de 2014",
+        "categ_ord" : "20141201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201501" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201501",
+        "categ_cod" : "S3A201501",
+        "categ_dsg" : "Janeiro de 2015",
+        "categ_ord" : "20150101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201502" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201502",
+        "categ_cod" : "S3A201502",
+        "categ_dsg" : "Fevereiro de 2015",
+        "categ_ord" : "20150201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201503" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201503",
+        "categ_cod" : "S3A201503",
+        "categ_dsg" : "Março de 2015",
+        "categ_ord" : "20150301",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201504" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201504",
+        "categ_cod" : "S3A201504",
+        "categ_dsg" : "Abril de 2015",
+        "categ_ord" : "20150401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201505" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201505",
+        "categ_cod" : "S3A201505",
+        "categ_dsg" : "Maio de 2015",
+        "categ_ord" : "20150501",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201506" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201506",
+        "categ_cod" : "S3A201506",
+        "categ_dsg" : "Junho de 2015",
+        "categ_ord" : "20150601",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201507" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201507",
+        "categ_cod" : "S3A201507",
+        "categ_dsg" : "Julho de 2015",
+        "categ_ord" : "20150701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201508" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201508",
+        "categ_cod" : "S3A201508",
+        "categ_dsg" : "Agosto de 2015",
+        "categ_ord" : "20150801",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201509" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201509",
+        "categ_cod" : "S3A201509",
+        "categ_dsg" : "Setembro de 2015",
+        "categ_ord" : "20150901",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201510" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201510",
+        "categ_cod" : "S3A201510",
+        "categ_dsg" : "Outubro de 2015",
+        "categ_ord" : "20151001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201511" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201511",
+        "categ_cod" : "S3A201511",
+        "categ_dsg" : "Novembro de 2015",
+        "categ_ord" : "20151101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201512" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201512",
+        "categ_cod" : "S3A201512",
+        "categ_dsg" : "Dezembro de 2015",
+        "categ_ord" : "20151201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201601" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201601",
+        "categ_cod" : "S3A201601",
+        "categ_dsg" : "Janeiro de 2016",
+        "categ_ord" : "20160101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201602" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201602",
+        "categ_cod" : "S3A201602",
+        "categ_dsg" : "Fevereiro de 2016",
+        "categ_ord" : "20160201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201603" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201603",
+        "categ_cod" : "S3A201603",
+        "categ_dsg" : "Março de 2016",
+        "categ_ord" : "20160301",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201604" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201604",
+        "categ_cod" : "S3A201604",
+        "categ_dsg" : "Abril de 2016",
+        "categ_ord" : "20160401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201605" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201605",
+        "categ_cod" : "S3A201605",
+        "categ_dsg" : "Maio de 2016",
+        "categ_ord" : "20160501",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201606" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201606",
+        "categ_cod" : "S3A201606",
+        "categ_dsg" : "Junho de 2016",
+        "categ_ord" : "20160601",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201607" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201607",
+        "categ_cod" : "S3A201607",
+        "categ_dsg" : "Julho de 2016",
+        "categ_ord" : "20160701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201608" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201608",
+        "categ_cod" : "S3A201608",
+        "categ_dsg" : "Agosto de 2016",
+        "categ_ord" : "20160801",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201609" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201609",
+        "categ_cod" : "S3A201609",
+        "categ_dsg" : "Setembro de 2016",
+        "categ_ord" : "20160901",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201610" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201610",
+        "categ_cod" : "S3A201610",
+        "categ_dsg" : "Outubro de 2016",
+        "categ_ord" : "20161001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201611" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201611",
+        "categ_cod" : "S3A201611",
+        "categ_dsg" : "Novembro de 2016",
+        "categ_ord" : "20161101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201612" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201612",
+        "categ_cod" : "S3A201612",
+        "categ_dsg" : "Dezembro de 2016",
+        "categ_ord" : "20161201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201701" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201701",
+        "categ_cod" : "S3A201701",
+        "categ_dsg" : "Janeiro de 2017",
+        "categ_ord" : "20170101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201702" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201702",
+        "categ_cod" : "S3A201702",
+        "categ_dsg" : "Fevereiro de 2017",
+        "categ_ord" : "20170201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201703" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201703",
+        "categ_cod" : "S3A201703",
+        "categ_dsg" : "Março de 2017",
+        "categ_ord" : "20170301",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201704" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201704",
+        "categ_cod" : "S3A201704",
+        "categ_dsg" : "Abril de 2017",
+        "categ_ord" : "20170401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201705" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201705",
+        "categ_cod" : "S3A201705",
+        "categ_dsg" : "Maio de 2017",
+        "categ_ord" : "20170501",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201706" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201706",
+        "categ_cod" : "S3A201706",
+        "categ_dsg" : "Junho de 2017",
+        "categ_ord" : "20170601",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201707" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201707",
+        "categ_cod" : "S3A201707",
+        "categ_dsg" : "Julho de 2017",
+        "categ_ord" : "20170701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201708" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201708",
+        "categ_cod" : "S3A201708",
+        "categ_dsg" : "Agosto de 2017",
+        "categ_ord" : "20170801",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201709" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201709",
+        "categ_cod" : "S3A201709",
+        "categ_dsg" : "Setembro de 2017",
+        "categ_ord" : "20170901",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201710" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201710",
+        "categ_cod" : "S3A201710",
+        "categ_dsg" : "Outubro de 2017",
+        "categ_ord" : "20171001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201711" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201711",
+        "categ_cod" : "S3A201711",
+        "categ_dsg" : "Novembro de 2017",
+        "categ_ord" : "20171101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201712" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201712",
+        "categ_cod" : "S3A201712",
+        "categ_dsg" : "Dezembro de 2017",
+        "categ_ord" : "20171201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201801" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201801",
+        "categ_cod" : "S3A201801",
+        "categ_dsg" : "Janeiro de 2018",
+        "categ_ord" : "20180101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201802" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201802",
+        "categ_cod" : "S3A201802",
+        "categ_dsg" : "Fevereiro de 2018",
+        "categ_ord" : "20180201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201803" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201803",
+        "categ_cod" : "S3A201803",
+        "categ_dsg" : "Março de 2018",
+        "categ_ord" : "20180301",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201804" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201804",
+        "categ_cod" : "S3A201804",
+        "categ_dsg" : "Abril de 2018",
+        "categ_ord" : "20180401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201805" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201805",
+        "categ_cod" : "S3A201805",
+        "categ_dsg" : "Maio de 2018",
+        "categ_ord" : "20180501",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201806" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201806",
+        "categ_cod" : "S3A201806",
+        "categ_dsg" : "Junho de 2018",
+        "categ_ord" : "20180601",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201807" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201807",
+        "categ_cod" : "S3A201807",
+        "categ_dsg" : "Julho de 2018",
+        "categ_ord" : "20180701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201808" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201808",
+        "categ_cod" : "S3A201808",
+        "categ_dsg" : "Agosto de 2018",
+        "categ_ord" : "20180801",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201809" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201809",
+        "categ_cod" : "S3A201809",
+        "categ_dsg" : "Setembro de 2018",
+        "categ_ord" : "20180901",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201810" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201810",
+        "categ_cod" : "S3A201810",
+        "categ_dsg" : "Outubro de 2018",
+        "categ_ord" : "20181001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201811" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201811",
+        "categ_cod" : "S3A201811",
+        "categ_dsg" : "Novembro de 2018",
+        "categ_ord" : "20181101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201812" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201812",
+        "categ_cod" : "S3A201812",
+        "categ_dsg" : "Dezembro de 2018",
+        "categ_ord" : "20181201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201901" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201901",
+        "categ_cod" : "S3A201901",
+        "categ_dsg" : "Janeiro de 2019",
+        "categ_ord" : "20190101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201902" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201902",
+        "categ_cod" : "S3A201902",
+        "categ_dsg" : "Fevereiro de 2019",
+        "categ_ord" : "20190201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201903" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201903",
+        "categ_cod" : "S3A201903",
+        "categ_dsg" : "Março de 2019",
+        "categ_ord" : "20190301",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201904" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201904",
+        "categ_cod" : "S3A201904",
+        "categ_dsg" : "Abril de 2019",
+        "categ_ord" : "20190401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201905" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201905",
+        "categ_cod" : "S3A201905",
+        "categ_dsg" : "Maio de 2019",
+        "categ_ord" : "20190501",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201906" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201906",
+        "categ_cod" : "S3A201906",
+        "categ_dsg" : "Junho de 2019",
+        "categ_ord" : "20190601",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201907" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201907",
+        "categ_cod" : "S3A201907",
+        "categ_dsg" : "Julho de 2019",
+        "categ_ord" : "20190701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201908" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201908",
+        "categ_cod" : "S3A201908",
+        "categ_dsg" : "Agosto de 2019",
+        "categ_ord" : "20190801",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201909" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201909",
+        "categ_cod" : "S3A201909",
+        "categ_dsg" : "Setembro de 2019",
+        "categ_ord" : "20190901",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201910" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201910",
+        "categ_cod" : "S3A201910",
+        "categ_dsg" : "Outubro de 2019",
+        "categ_ord" : "20191001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201911" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201911",
+        "categ_cod" : "S3A201911",
+        "categ_dsg" : "Novembro de 2019",
+        "categ_ord" : "20191101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A201912" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A201912",
+        "categ_cod" : "S3A201912",
+        "categ_dsg" : "Dezembro de 2019",
+        "categ_ord" : "20191201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202001" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202001",
+        "categ_cod" : "S3A202001",
+        "categ_dsg" : "Janeiro de 2020",
+        "categ_ord" : "20200101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202002" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202002",
+        "categ_cod" : "S3A202002",
+        "categ_dsg" : "Fevereiro de 2020",
+        "categ_ord" : "20200201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202003" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202003",
+        "categ_cod" : "S3A202003",
+        "categ_dsg" : "Março de 2020",
+        "categ_ord" : "20200301",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202004" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202004",
+        "categ_cod" : "S3A202004",
+        "categ_dsg" : "Abril de 2020",
+        "categ_ord" : "20200401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202005" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202005",
+        "categ_cod" : "S3A202005",
+        "categ_dsg" : "Maio de 2020",
+        "categ_ord" : "20200501",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202006" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202006",
+        "categ_cod" : "S3A202006",
+        "categ_dsg" : "Junho de 2020",
+        "categ_ord" : "20200601",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202007" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202007",
+        "categ_cod" : "S3A202007",
+        "categ_dsg" : "Julho de 2020",
+        "categ_ord" : "20200701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202008" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202008",
+        "categ_cod" : "S3A202008",
+        "categ_dsg" : "Agosto de 2020",
+        "categ_ord" : "20200801",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202009" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202009",
+        "categ_cod" : "S3A202009",
+        "categ_dsg" : "Setembro de 2020",
+        "categ_ord" : "20200901",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202010" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202010",
+        "categ_cod" : "S3A202010",
+        "categ_dsg" : "Outubro de 2020",
+        "categ_ord" : "20201001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202011" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202011",
+        "categ_cod" : "S3A202011",
+        "categ_dsg" : "Novembro de 2020",
+        "categ_ord" : "20201101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202012" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202012",
+        "categ_cod" : "S3A202012",
+        "categ_dsg" : "Dezembro de 2020",
+        "categ_ord" : "20201201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202101" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202101",
+        "categ_cod" : "S3A202101",
+        "categ_dsg" : "Janeiro de 2021",
+        "categ_ord" : "20210101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202102" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202102",
+        "categ_cod" : "S3A202102",
+        "categ_dsg" : "Fevereiro de 2021",
+        "categ_ord" : "20210201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202103" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202103",
+        "categ_cod" : "S3A202103",
+        "categ_dsg" : "Março de 2021",
+        "categ_ord" : "20210301",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202104" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202104",
+        "categ_cod" : "S3A202104",
+        "categ_dsg" : "Abril de 2021",
+        "categ_ord" : "20210401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202105" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202105",
+        "categ_cod" : "S3A202105",
+        "categ_dsg" : "Maio de 2021",
+        "categ_ord" : "20210501",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202106" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202106",
+        "categ_cod" : "S3A202106",
+        "categ_dsg" : "Junho de 2021",
+        "categ_ord" : "20210601",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202107" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202107",
+        "categ_cod" : "S3A202107",
+        "categ_dsg" : "Julho de 2021",
+        "categ_ord" : "20210701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202108" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202108",
+        "categ_cod" : "S3A202108",
+        "categ_dsg" : "Agosto de 2021",
+        "categ_ord" : "20210801",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202109" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202109",
+        "categ_cod" : "S3A202109",
+        "categ_dsg" : "Setembro de 2021",
+        "categ_ord" : "20210901",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202110" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202110",
+        "categ_cod" : "S3A202110",
+        "categ_dsg" : "Outubro de 2021",
+        "categ_ord" : "20211001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202111" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202111",
+        "categ_cod" : "S3A202111",
+        "categ_dsg" : "Novembro de 2021",
+        "categ_ord" : "20211101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202112" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202112",
+        "categ_cod" : "S3A202112",
+        "categ_dsg" : "Dezembro de 2021",
+        "categ_ord" : "20211201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202201" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202201",
+        "categ_cod" : "S3A202201",
+        "categ_dsg" : "Janeiro de 2022",
+        "categ_ord" : "20220101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202202" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202202",
+        "categ_cod" : "S3A202202",
+        "categ_dsg" : "Fevereiro de 2022",
+        "categ_ord" : "20220201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202203" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202203",
+        "categ_cod" : "S3A202203",
+        "categ_dsg" : "Março de 2022",
+        "categ_ord" : "20220301",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202204" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202204",
+        "categ_cod" : "S3A202204",
+        "categ_dsg" : "Abril de 2022",
+        "categ_ord" : "20220401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202205" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202205",
+        "categ_cod" : "S3A202205",
+        "categ_dsg" : "Maio de 2022",
+        "categ_ord" : "20220501",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202206" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202206",
+        "categ_cod" : "S3A202206",
+        "categ_dsg" : "Junho de 2022",
+        "categ_ord" : "20220601",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202207" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202207",
+        "categ_cod" : "S3A202207",
+        "categ_dsg" : "Julho de 2022",
+        "categ_ord" : "20220701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202208" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202208",
+        "categ_cod" : "S3A202208",
+        "categ_dsg" : "Agosto de 2022",
+        "categ_ord" : "20220801",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202209" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202209",
+        "categ_cod" : "S3A202209",
+        "categ_dsg" : "Setembro de 2022",
+        "categ_ord" : "20220901",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202210" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202210",
+        "categ_cod" : "S3A202210",
+        "categ_dsg" : "Outubro de 2022",
+        "categ_ord" : "20221001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202211" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202211",
+        "categ_cod" : "S3A202211",
+        "categ_dsg" : "Novembro de 2022",
+        "categ_ord" : "20221101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202212" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202212",
+        "categ_cod" : "S3A202212",
+        "categ_dsg" : "Dezembro de 2022",
+        "categ_ord" : "20221201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202301" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202301",
+        "categ_cod" : "S3A202301",
+        "categ_dsg" : "Janeiro de 2023",
+        "categ_ord" : "20230101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202302" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202302",
+        "categ_cod" : "S3A202302",
+        "categ_dsg" : "Fevereiro de 2023",
+        "categ_ord" : "20230201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202303" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202303",
+        "categ_cod" : "S3A202303",
+        "categ_dsg" : "Março de 2023",
+        "categ_ord" : "20230301",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202304" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202304",
+        "categ_cod" : "S3A202304",
+        "categ_dsg" : "Abril de 2023",
+        "categ_ord" : "20230401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202305" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202305",
+        "categ_cod" : "S3A202305",
+        "categ_dsg" : "Maio de 2023",
+        "categ_ord" : "20230501",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202306" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202306",
+        "categ_cod" : "S3A202306",
+        "categ_dsg" : "Junho de 2023",
+        "categ_ord" : "20230601",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202307" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202307",
+        "categ_cod" : "S3A202307",
+        "categ_dsg" : "Julho de 2023",
+        "categ_ord" : "20230701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202308" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202308",
+        "categ_cod" : "S3A202308",
+        "categ_dsg" : "Agosto de 2023",
+        "categ_ord" : "20230801",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202309" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202309",
+        "categ_cod" : "S3A202309",
+        "categ_dsg" : "Setembro de 2023",
+        "categ_ord" : "20230901",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202310" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202310",
+        "categ_cod" : "S3A202310",
+        "categ_dsg" : "Outubro de 2023",
+        "categ_ord" : "20231001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202311" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202311",
+        "categ_cod" : "S3A202311",
+        "categ_dsg" : "Novembro de 2023",
+        "categ_ord" : "20231101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202312" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202312",
+        "categ_cod" : "S3A202312",
+        "categ_dsg" : "Dezembro de 2023",
+        "categ_ord" : "20231201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202401" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202401",
+        "categ_cod" : "S3A202401",
+        "categ_dsg" : "Janeiro de 2024",
+        "categ_ord" : "20240101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202402" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202402",
+        "categ_cod" : "S3A202402",
+        "categ_dsg" : "Fevereiro de 2024",
+        "categ_ord" : "20240201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202403" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202403",
+        "categ_cod" : "S3A202403",
+        "categ_dsg" : "Março de 2024",
+        "categ_ord" : "20240301",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202404" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202404",
+        "categ_cod" : "S3A202404",
+        "categ_dsg" : "Abril de 2024",
+        "categ_ord" : "20240401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202405" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202405",
+        "categ_cod" : "S3A202405",
+        "categ_dsg" : "Maio de 2024",
+        "categ_ord" : "20240501",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202406" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202406",
+        "categ_cod" : "S3A202406",
+        "categ_dsg" : "Junho de 2024",
+        "categ_ord" : "20240601",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202407" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202407",
+        "categ_cod" : "S3A202407",
+        "categ_dsg" : "Julho de 2024",
+        "categ_ord" : "20240701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202408" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202408",
+        "categ_cod" : "S3A202408",
+        "categ_dsg" : "Agosto de 2024",
+        "categ_ord" : "20240801",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202409" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202409",
+        "categ_cod" : "S3A202409",
+        "categ_dsg" : "Setembro de 2024",
+        "categ_ord" : "20240901",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202410" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202410",
+        "categ_cod" : "S3A202410",
+        "categ_dsg" : "Outubro de 2024",
+        "categ_ord" : "20241001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202411" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202411",
+        "categ_cod" : "S3A202411",
+        "categ_dsg" : "Novembro de 2024",
+        "categ_ord" : "20241101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202412" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202412",
+        "categ_cod" : "S3A202412",
+        "categ_dsg" : "Dezembro de 2024",
+        "categ_ord" : "20241201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202501" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202501",
+        "categ_cod" : "S3A202501",
+        "categ_dsg" : "Janeiro de 2025",
+        "categ_ord" : "20250101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202502" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202502",
+        "categ_cod" : "S3A202502",
+        "categ_dsg" : "Fevereiro de 2025",
+        "categ_ord" : "20250201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202503" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202503",
+        "categ_cod" : "S3A202503",
+        "categ_dsg" : "Março de 2025",
+        "categ_ord" : "20250301",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202504" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202504",
+        "categ_cod" : "S3A202504",
+        "categ_dsg" : "Abril de 2025",
+        "categ_ord" : "20250401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202505" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202505",
+        "categ_cod" : "S3A202505",
+        "categ_dsg" : "Maio de 2025",
+        "categ_ord" : "20250501",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202506" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202506",
+        "categ_cod" : "S3A202506",
+        "categ_dsg" : "Junho de 2025",
+        "categ_ord" : "20250601",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202507" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202507",
+        "categ_cod" : "S3A202507",
+        "categ_dsg" : "Julho de 2025",
+        "categ_ord" : "20250701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202508" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202508",
+        "categ_cod" : "S3A202508",
+        "categ_dsg" : "Agosto de 2025",
+        "categ_ord" : "20250801",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202509" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202509",
+        "categ_cod" : "S3A202509",
+        "categ_dsg" : "Setembro de 2025",
+        "categ_ord" : "20250901",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202510" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202510",
+        "categ_cod" : "S3A202510",
+        "categ_dsg" : "Outubro de 2025",
+        "categ_ord" : "20251001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202511" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202511",
+        "categ_cod" : "S3A202511",
+        "categ_dsg" : "Novembro de 2025",
+        "categ_ord" : "20251101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202512" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202512",
+        "categ_cod" : "S3A202512",
+        "categ_dsg" : "Dezembro de 2025",
+        "categ_ord" : "20251201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202601" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202601",
+        "categ_cod" : "S3A202601",
+        "categ_dsg" : "Janeiro de 2026",
+        "categ_ord" : "20260101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202602" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202602",
+        "categ_cod" : "S3A202602",
+        "categ_dsg" : "Fevereiro de 2026",
+        "categ_ord" : "20260201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202603" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202603",
+        "categ_cod" : "S3A202603",
+        "categ_dsg" : "Março de 2026",
+        "categ_ord" : "20260301",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202604" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202604",
+        "categ_cod" : "S3A202604",
+        "categ_dsg" : "Abril de 2026",
+        "categ_ord" : "20260401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202605" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202605",
+        "categ_cod" : "S3A202605",
+        "categ_dsg" : "Maio de 2026",
+        "categ_ord" : "20260501",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202606" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202606",
+        "categ_cod" : "S3A202606",
+        "categ_dsg" : "Junho de 2026",
+        "categ_ord" : "20260601",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202607" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202607",
+        "categ_cod" : "S3A202607",
+        "categ_dsg" : "Julho de 2026",
+        "categ_ord" : "20260701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202608" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202608",
+        "categ_cod" : "S3A202608",
+        "categ_dsg" : "Agosto de 2026",
+        "categ_ord" : "20260801",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202609" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202609",
+        "categ_cod" : "S3A202609",
+        "categ_dsg" : "Setembro de 2026",
+        "categ_ord" : "20260901",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_PT" : [ {
+        "dim_num" : "2",
+        "cat_id" : "PT",
+        "categ_cod" : "PT",
+        "categ_dsg" : "Portugal",
+        "categ_ord" : "1",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num3_TOT" : [ {
+        "dim_num" : "3",
+        "cat_id" : "TOT",
+        "categ_cod" : "TOT",
+        "categ_dsg" : "Total",
+        "categ_ord" : "10",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num3_B" : [ {
+        "dim_num" : "3",
+        "cat_id" : "B",
+        "categ_cod" : "B",
+        "categ_dsg" : "Indústrias extrativas",
+        "categ_ord" : "20",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_07" : [ {
+        "dim_num" : "3",
+        "cat_id" : "07",
+        "categ_cod" : "07",
+        "categ_dsg" : "Extração e preparação de minérios metálicos",
+        "categ_ord" : "30",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_08" : [ {
+        "dim_num" : "3",
+        "cat_id" : "08",
+        "categ_cod" : "08",
+        "categ_dsg" : "Outras indústrias extrativas",
+        "categ_ord" : "40",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_09" : [ {
+        "dim_num" : "3",
+        "cat_id" : "09",
+        "categ_cod" : "09",
+        "categ_dsg" : "Atividades dos serviços relacionados com as indústrias extrativas",
+        "categ_ord" : "50",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_C" : [ {
+        "dim_num" : "3",
+        "cat_id" : "C",
+        "categ_cod" : "C",
+        "categ_dsg" : "Indústrias transformadoras",
+        "categ_ord" : "60",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_10" : [ {
+        "dim_num" : "3",
+        "cat_id" : "10",
+        "categ_cod" : "10",
+        "categ_dsg" : "Indústrias alimentares",
+        "categ_ord" : "70",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_11" : [ {
+        "dim_num" : "3",
+        "cat_id" : "11",
+        "categ_cod" : "11",
+        "categ_dsg" : "Indústria das bebidas",
+        "categ_ord" : "80",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_12" : [ {
+        "dim_num" : "3",
+        "cat_id" : "12",
+        "categ_cod" : "12",
+        "categ_dsg" : "Indústria do tabaco",
+        "categ_ord" : "90",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_13" : [ {
+        "dim_num" : "3",
+        "cat_id" : "13",
+        "categ_cod" : "13",
+        "categ_dsg" : "Fabricação de têxteis",
+        "categ_ord" : "100",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_14" : [ {
+        "dim_num" : "3",
+        "cat_id" : "14",
+        "categ_cod" : "14",
+        "categ_dsg" : "Indústria do vestuário",
+        "categ_ord" : "110",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_15" : [ {
+        "dim_num" : "3",
+        "cat_id" : "15",
+        "categ_cod" : "15",
+        "categ_dsg" : "Indústria do couro e dos produtos do couro",
+        "categ_ord" : "120",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_16" : [ {
+        "dim_num" : "3",
+        "cat_id" : "16",
+        "categ_cod" : "16",
+        "categ_dsg" : "Indústrias da madeira e da cortiça e suas obras, excepto mobiliário; Fabricação de obras de cestaria e de espartaria",
+        "categ_ord" : "130",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_17" : [ {
+        "dim_num" : "3",
+        "cat_id" : "17",
+        "categ_cod" : "17",
+        "categ_dsg" : "Fabricação de pasta, de papel, de cartão e seus artigos",
+        "categ_ord" : "140",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_18" : [ {
+        "dim_num" : "3",
+        "cat_id" : "18",
+        "categ_cod" : "18",
+        "categ_dsg" : "Impressão e reprodução de suportes gravados",
+        "categ_ord" : "150",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_19" : [ {
+        "dim_num" : "3",
+        "cat_id" : "19",
+        "categ_cod" : "19",
+        "categ_dsg" : "Fabricação de coque, produtos petrolíferos refinados e de aglomerados de combustíveis",
+        "categ_ord" : "160",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_20" : [ {
+        "dim_num" : "3",
+        "cat_id" : "20",
+        "categ_cod" : "20",
+        "categ_dsg" : "Fabricação de produtos químicos e de fibras sintéticas ou artificiais, excepto produtos farmacêuticos",
+        "categ_ord" : "170",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_21" : [ {
+        "dim_num" : "3",
+        "cat_id" : "21",
+        "categ_cod" : "21",
+        "categ_dsg" : "Fabricação de produtos farmacêuticos de base e de preparações farmacêuticas",
+        "categ_ord" : "180",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_22" : [ {
+        "dim_num" : "3",
+        "cat_id" : "22",
+        "categ_cod" : "22",
+        "categ_dsg" : "Fabricação de artigos de borracha e de matérias plásticas",
+        "categ_ord" : "190",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_23" : [ {
+        "dim_num" : "3",
+        "cat_id" : "23",
+        "categ_cod" : "23",
+        "categ_dsg" : "Fabrico de outros produtos minerais não metálicos",
+        "categ_ord" : "200",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_24" : [ {
+        "dim_num" : "3",
+        "cat_id" : "24",
+        "categ_cod" : "24",
+        "categ_dsg" : "Indústrias metalúrgicas de base",
+        "categ_ord" : "210",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_25" : [ {
+        "dim_num" : "3",
+        "cat_id" : "25",
+        "categ_cod" : "25",
+        "categ_dsg" : "Fabricação de produtos metálicos, excepto máquinas e equipamentos",
+        "categ_ord" : "220",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_26" : [ {
+        "dim_num" : "3",
+        "cat_id" : "26",
+        "categ_cod" : "26",
+        "categ_dsg" : "Fabricação de equipamentos informáticos, equipamento para comunicações e produtos eletrónicos e ópticos",
+        "categ_ord" : "230",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_27" : [ {
+        "dim_num" : "3",
+        "cat_id" : "27",
+        "categ_cod" : "27",
+        "categ_dsg" : "Fabricação de equipamento elétrico",
+        "categ_ord" : "240",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_28" : [ {
+        "dim_num" : "3",
+        "cat_id" : "28",
+        "categ_cod" : "28",
+        "categ_dsg" : "Fabricação de máquinas e de equipamentos, n.e.",
+        "categ_ord" : "250",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_29" : [ {
+        "dim_num" : "3",
+        "cat_id" : "29",
+        "categ_cod" : "29",
+        "categ_dsg" : "Fabricação de veículos automóveis, reboques, semi-reboques e componentes para veículos automóveis",
+        "categ_ord" : "260",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_30" : [ {
+        "dim_num" : "3",
+        "cat_id" : "30",
+        "categ_cod" : "30",
+        "categ_dsg" : "Fabricação de outro equipamento de transporte",
+        "categ_ord" : "270",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_31" : [ {
+        "dim_num" : "3",
+        "cat_id" : "31",
+        "categ_cod" : "31",
+        "categ_dsg" : "Fabrico de mobiliário e de colchões",
+        "categ_ord" : "280",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_32" : [ {
+        "dim_num" : "3",
+        "cat_id" : "32",
+        "categ_cod" : "32",
+        "categ_dsg" : "Outras indústrias transformadoras",
+        "categ_ord" : "290",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_33" : [ {
+        "dim_num" : "3",
+        "cat_id" : "33",
+        "categ_cod" : "33",
+        "categ_dsg" : "Reparação, manutenção e instalação de máquinas e equipamentos",
+        "categ_ord" : "300",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_D" : [ {
+        "dim_num" : "3",
+        "cat_id" : "D",
+        "categ_cod" : "D",
+        "categ_dsg" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+        "categ_ord" : "310",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_35" : [ {
+        "dim_num" : "3",
+        "cat_id" : "35",
+        "categ_cod" : "35",
+        "categ_dsg" : "Electricidade, gás, vapor, água quente e fria e ar frio",
+        "categ_ord" : "320",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_E" : [ {
+        "dim_num" : "3",
+        "cat_id" : "E",
+        "categ_cod" : "E",
+        "categ_dsg" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+        "categ_ord" : "330",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_36" : [ {
+        "dim_num" : "3",
+        "cat_id" : "36",
+        "categ_cod" : "36",
+        "categ_dsg" : "Captação, tratamento e distribuição de água",
+        "categ_ord" : "340",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_38" : [ {
+        "dim_num" : "3",
+        "cat_id" : "38",
+        "categ_cod" : "38",
+        "categ_dsg" : "Recolha, tratamento e eliminação de resíduos; valorização de materiais",
+        "categ_ord" : "350",
+        "categ_nivel" : "3"
+      } ]
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
