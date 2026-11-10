@@ -1,0 +1,843 @@
+[ {
+  "IndicadorCod" : "0014392",
+  "IndicadorNome" : "Índice de volume de negócios nos serviços - bruto deflacionado (Taxa de variação mensal - Base 2021 - %) por Atividade económica (CAE Rev. 3); Mensal - INE, Índices de volume de negócios e emprego (Base 2021)",
+  "Periodic" : "Mensal",
+  "PrimeiroPeriodo" : "Fevereiro de 2021",
+  "UltimoPeriodo" : "Setembro de 2026",
+  "UnidadeMedida" : "Percentagem (%)",
+  "Potencia10" : "1",
+  "PrecisaoDecimal" : "1",
+  "Lingua" : "PT",
+  "DataUltimaAtualizacao" : "2026-11-10",
+  "DataExtracao" : "2026-11-10T18:27:00.524Z",
+  "Dimensoes" : {
+    "Descricao_Dim" : [ {
+      "dim_num" : "1",
+      "abrv" : "Período de referência dos dados (Mês)",
+      "versao" : "XXXXX"
+    }, {
+      "dim_num" : "2",
+      "abrv" : "Localização geográfica (Portugal)",
+      "versao" : "05361"
+    }, {
+      "dim_num" : "3",
+      "abrv" : "Atividade económica (CAE Rev. 3)",
+      "versao" : "05219"
+    } ],
+    "Categoria_Dim" : [ {
+      "Dim_Num1_S3A202102" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202102",
+        "categ_cod" : "S3A202102",
+        "categ_dsg" : "Fevereiro de 2021",
+        "categ_ord" : "20210201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202103" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202103",
+        "categ_cod" : "S3A202103",
+        "categ_dsg" : "Março de 2021",
+        "categ_ord" : "20210301",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202104" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202104",
+        "categ_cod" : "S3A202104",
+        "categ_dsg" : "Abril de 2021",
+        "categ_ord" : "20210401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202105" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202105",
+        "categ_cod" : "S3A202105",
+        "categ_dsg" : "Maio de 2021",
+        "categ_ord" : "20210501",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202106" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202106",
+        "categ_cod" : "S3A202106",
+        "categ_dsg" : "Junho de 2021",
+        "categ_ord" : "20210601",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202107" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202107",
+        "categ_cod" : "S3A202107",
+        "categ_dsg" : "Julho de 2021",
+        "categ_ord" : "20210701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202108" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202108",
+        "categ_cod" : "S3A202108",
+        "categ_dsg" : "Agosto de 2021",
+        "categ_ord" : "20210801",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202109" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202109",
+        "categ_cod" : "S3A202109",
+        "categ_dsg" : "Setembro de 2021",
+        "categ_ord" : "20210901",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202110" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202110",
+        "categ_cod" : "S3A202110",
+        "categ_dsg" : "Outubro de 2021",
+        "categ_ord" : "20211001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202111" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202111",
+        "categ_cod" : "S3A202111",
+        "categ_dsg" : "Novembro de 2021",
+        "categ_ord" : "20211101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202112" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202112",
+        "categ_cod" : "S3A202112",
+        "categ_dsg" : "Dezembro de 2021",
+        "categ_ord" : "20211201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202201" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202201",
+        "categ_cod" : "S3A202201",
+        "categ_dsg" : "Janeiro de 2022",
+        "categ_ord" : "20220101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202202" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202202",
+        "categ_cod" : "S3A202202",
+        "categ_dsg" : "Fevereiro de 2022",
+        "categ_ord" : "20220201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202203" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202203",
+        "categ_cod" : "S3A202203",
+        "categ_dsg" : "Março de 2022",
+        "categ_ord" : "20220301",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202204" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202204",
+        "categ_cod" : "S3A202204",
+        "categ_dsg" : "Abril de 2022",
+        "categ_ord" : "20220401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202205" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202205",
+        "categ_cod" : "S3A202205",
+        "categ_dsg" : "Maio de 2022",
+        "categ_ord" : "20220501",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202206" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202206",
+        "categ_cod" : "S3A202206",
+        "categ_dsg" : "Junho de 2022",
+        "categ_ord" : "20220601",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202207" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202207",
+        "categ_cod" : "S3A202207",
+        "categ_dsg" : "Julho de 2022",
+        "categ_ord" : "20220701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202208" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202208",
+        "categ_cod" : "S3A202208",
+        "categ_dsg" : "Agosto de 2022",
+        "categ_ord" : "20220801",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202209" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202209",
+        "categ_cod" : "S3A202209",
+        "categ_dsg" : "Setembro de 2022",
+        "categ_ord" : "20220901",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202210" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202210",
+        "categ_cod" : "S3A202210",
+        "categ_dsg" : "Outubro de 2022",
+        "categ_ord" : "20221001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202211" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202211",
+        "categ_cod" : "S3A202211",
+        "categ_dsg" : "Novembro de 2022",
+        "categ_ord" : "20221101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202212" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202212",
+        "categ_cod" : "S3A202212",
+        "categ_dsg" : "Dezembro de 2022",
+        "categ_ord" : "20221201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202301" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202301",
+        "categ_cod" : "S3A202301",
+        "categ_dsg" : "Janeiro de 2023",
+        "categ_ord" : "20230101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202302" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202302",
+        "categ_cod" : "S3A202302",
+        "categ_dsg" : "Fevereiro de 2023",
+        "categ_ord" : "20230201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202303" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202303",
+        "categ_cod" : "S3A202303",
+        "categ_dsg" : "Março de 2023",
+        "categ_ord" : "20230301",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202304" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202304",
+        "categ_cod" : "S3A202304",
+        "categ_dsg" : "Abril de 2023",
+        "categ_ord" : "20230401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202305" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202305",
+        "categ_cod" : "S3A202305",
+        "categ_dsg" : "Maio de 2023",
+        "categ_ord" : "20230501",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202306" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202306",
+        "categ_cod" : "S3A202306",
+        "categ_dsg" : "Junho de 2023",
+        "categ_ord" : "20230601",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202307" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202307",
+        "categ_cod" : "S3A202307",
+        "categ_dsg" : "Julho de 2023",
+        "categ_ord" : "20230701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202308" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202308",
+        "categ_cod" : "S3A202308",
+        "categ_dsg" : "Agosto de 2023",
+        "categ_ord" : "20230801",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202309" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202309",
+        "categ_cod" : "S3A202309",
+        "categ_dsg" : "Setembro de 2023",
+        "categ_ord" : "20230901",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202310" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202310",
+        "categ_cod" : "S3A202310",
+        "categ_dsg" : "Outubro de 2023",
+        "categ_ord" : "20231001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202311" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202311",
+        "categ_cod" : "S3A202311",
+        "categ_dsg" : "Novembro de 2023",
+        "categ_ord" : "20231101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202312" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202312",
+        "categ_cod" : "S3A202312",
+        "categ_dsg" : "Dezembro de 2023",
+        "categ_ord" : "20231201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202401" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202401",
+        "categ_cod" : "S3A202401",
+        "categ_dsg" : "Janeiro de 2024",
+        "categ_ord" : "20240101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202402" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202402",
+        "categ_cod" : "S3A202402",
+        "categ_dsg" : "Fevereiro de 2024",
+        "categ_ord" : "20240201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202403" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202403",
+        "categ_cod" : "S3A202403",
+        "categ_dsg" : "Março de 2024",
+        "categ_ord" : "20240301",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202404" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202404",
+        "categ_cod" : "S3A202404",
+        "categ_dsg" : "Abril de 2024",
+        "categ_ord" : "20240401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202405" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202405",
+        "categ_cod" : "S3A202405",
+        "categ_dsg" : "Maio de 2024",
+        "categ_ord" : "20240501",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202406" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202406",
+        "categ_cod" : "S3A202406",
+        "categ_dsg" : "Junho de 2024",
+        "categ_ord" : "20240601",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202407" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202407",
+        "categ_cod" : "S3A202407",
+        "categ_dsg" : "Julho de 2024",
+        "categ_ord" : "20240701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202408" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202408",
+        "categ_cod" : "S3A202408",
+        "categ_dsg" : "Agosto de 2024",
+        "categ_ord" : "20240801",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202409" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202409",
+        "categ_cod" : "S3A202409",
+        "categ_dsg" : "Setembro de 2024",
+        "categ_ord" : "20240901",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202410" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202410",
+        "categ_cod" : "S3A202410",
+        "categ_dsg" : "Outubro de 2024",
+        "categ_ord" : "20241001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202411" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202411",
+        "categ_cod" : "S3A202411",
+        "categ_dsg" : "Novembro de 2024",
+        "categ_ord" : "20241101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202412" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202412",
+        "categ_cod" : "S3A202412",
+        "categ_dsg" : "Dezembro de 2024",
+        "categ_ord" : "20241201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202501" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202501",
+        "categ_cod" : "S3A202501",
+        "categ_dsg" : "Janeiro de 2025",
+        "categ_ord" : "20250101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202502" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202502",
+        "categ_cod" : "S3A202502",
+        "categ_dsg" : "Fevereiro de 2025",
+        "categ_ord" : "20250201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202503" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202503",
+        "categ_cod" : "S3A202503",
+        "categ_dsg" : "Março de 2025",
+        "categ_ord" : "20250301",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202504" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202504",
+        "categ_cod" : "S3A202504",
+        "categ_dsg" : "Abril de 2025",
+        "categ_ord" : "20250401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202505" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202505",
+        "categ_cod" : "S3A202505",
+        "categ_dsg" : "Maio de 2025",
+        "categ_ord" : "20250501",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202506" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202506",
+        "categ_cod" : "S3A202506",
+        "categ_dsg" : "Junho de 2025",
+        "categ_ord" : "20250601",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202507" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202507",
+        "categ_cod" : "S3A202507",
+        "categ_dsg" : "Julho de 2025",
+        "categ_ord" : "20250701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202508" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202508",
+        "categ_cod" : "S3A202508",
+        "categ_dsg" : "Agosto de 2025",
+        "categ_ord" : "20250801",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202509" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202509",
+        "categ_cod" : "S3A202509",
+        "categ_dsg" : "Setembro de 2025",
+        "categ_ord" : "20250901",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202510" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202510",
+        "categ_cod" : "S3A202510",
+        "categ_dsg" : "Outubro de 2025",
+        "categ_ord" : "20251001",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202511" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202511",
+        "categ_cod" : "S3A202511",
+        "categ_dsg" : "Novembro de 2025",
+        "categ_ord" : "20251101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202512" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202512",
+        "categ_cod" : "S3A202512",
+        "categ_dsg" : "Dezembro de 2025",
+        "categ_ord" : "20251201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202601" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202601",
+        "categ_cod" : "S3A202601",
+        "categ_dsg" : "Janeiro de 2026",
+        "categ_ord" : "20260101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202602" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202602",
+        "categ_cod" : "S3A202602",
+        "categ_dsg" : "Fevereiro de 2026",
+        "categ_ord" : "20260201",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202603" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202603",
+        "categ_cod" : "S3A202603",
+        "categ_dsg" : "Março de 2026",
+        "categ_ord" : "20260301",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202604" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202604",
+        "categ_cod" : "S3A202604",
+        "categ_dsg" : "Abril de 2026",
+        "categ_ord" : "20260401",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202605" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202605",
+        "categ_cod" : "S3A202605",
+        "categ_dsg" : "Maio de 2026",
+        "categ_ord" : "20260501",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202606" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202606",
+        "categ_cod" : "S3A202606",
+        "categ_dsg" : "Junho de 2026",
+        "categ_ord" : "20260601",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202607" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202607",
+        "categ_cod" : "S3A202607",
+        "categ_dsg" : "Julho de 2026",
+        "categ_ord" : "20260701",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202608" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202608",
+        "categ_cod" : "S3A202608",
+        "categ_dsg" : "Agosto de 2026",
+        "categ_ord" : "20260801",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S3A202609" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S3A202609",
+        "categ_cod" : "S3A202609",
+        "categ_dsg" : "Setembro de 2026",
+        "categ_ord" : "20260901",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_PT" : [ {
+        "dim_num" : "2",
+        "cat_id" : "PT",
+        "categ_cod" : "PT",
+        "categ_dsg" : "Portugal",
+        "categ_ord" : "1",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num3_TOT" : [ {
+        "dim_num" : "3",
+        "cat_id" : "TOT",
+        "categ_cod" : "TOT",
+        "categ_dsg" : "Total",
+        "categ_ord" : "1",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num3_H" : [ {
+        "dim_num" : "3",
+        "cat_id" : "H",
+        "categ_cod" : "H",
+        "categ_dsg" : "Transportes e armazenagem",
+        "categ_ord" : "2",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_49" : [ {
+        "dim_num" : "3",
+        "cat_id" : "49",
+        "categ_cod" : "49",
+        "categ_dsg" : "Transportes terrestres; transportes por oleodutos ou gasodutos",
+        "categ_ord" : "3",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_50" : [ {
+        "dim_num" : "3",
+        "cat_id" : "50",
+        "categ_cod" : "50",
+        "categ_dsg" : "Transportes por água",
+        "categ_ord" : "4",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_51" : [ {
+        "dim_num" : "3",
+        "cat_id" : "51",
+        "categ_cod" : "51",
+        "categ_dsg" : "Transportes aéreos",
+        "categ_ord" : "5",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_52" : [ {
+        "dim_num" : "3",
+        "cat_id" : "52",
+        "categ_cod" : "52",
+        "categ_dsg" : "Armazenagem e atividades auxiliares dos transportes (inclui manuseamento)",
+        "categ_ord" : "6",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_53" : [ {
+        "dim_num" : "3",
+        "cat_id" : "53",
+        "categ_cod" : "53",
+        "categ_dsg" : "Atividades postais e de courier",
+        "categ_ord" : "7",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_I" : [ {
+        "dim_num" : "3",
+        "cat_id" : "I",
+        "categ_cod" : "I",
+        "categ_dsg" : "Alojamento, restauração e similares",
+        "categ_ord" : "8",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_55" : [ {
+        "dim_num" : "3",
+        "cat_id" : "55",
+        "categ_cod" : "55",
+        "categ_dsg" : "Alojamento",
+        "categ_ord" : "9",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_56" : [ {
+        "dim_num" : "3",
+        "cat_id" : "56",
+        "categ_cod" : "56",
+        "categ_dsg" : "Restauração e similares",
+        "categ_ord" : "10",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_J" : [ {
+        "dim_num" : "3",
+        "cat_id" : "J",
+        "categ_cod" : "J",
+        "categ_dsg" : "Atividades de informação e comunicação",
+        "categ_ord" : "11",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_58" : [ {
+        "dim_num" : "3",
+        "cat_id" : "58",
+        "categ_cod" : "58",
+        "categ_dsg" : "Atividades de edição",
+        "categ_ord" : "12",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_59" : [ {
+        "dim_num" : "3",
+        "cat_id" : "59",
+        "categ_cod" : "59",
+        "categ_dsg" : "Atividades cinematográficas, de vídeo, de produção de programas de televisão, de gravação de som e de edição de música",
+        "categ_ord" : "13",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_60" : [ {
+        "dim_num" : "3",
+        "cat_id" : "60",
+        "categ_cod" : "60",
+        "categ_dsg" : "Atividades de rádio e televisão",
+        "categ_ord" : "14",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_61" : [ {
+        "dim_num" : "3",
+        "cat_id" : "61",
+        "categ_cod" : "61",
+        "categ_dsg" : "Telecomunicações",
+        "categ_ord" : "15",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_62" : [ {
+        "dim_num" : "3",
+        "cat_id" : "62",
+        "categ_cod" : "62",
+        "categ_dsg" : "Consultoria e programação informática e atividades relacionadas",
+        "categ_ord" : "16",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_63" : [ {
+        "dim_num" : "3",
+        "cat_id" : "63",
+        "categ_cod" : "63",
+        "categ_dsg" : "Atividades dos serviços de informação",
+        "categ_ord" : "17",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_L" : [ {
+        "dim_num" : "3",
+        "cat_id" : "L",
+        "categ_cod" : "L",
+        "categ_dsg" : "Atividades imobiliárias",
+        "categ_ord" : "18",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_68" : [ {
+        "dim_num" : "3",
+        "cat_id" : "68",
+        "categ_cod" : "68",
+        "categ_dsg" : "Atividades imobiliárias",
+        "categ_ord" : "19",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_M" : [ {
+        "dim_num" : "3",
+        "cat_id" : "M",
+        "categ_cod" : "M",
+        "categ_dsg" : "Atividades de consultoria, científicas, técnicas e similares",
+        "categ_ord" : "20",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_69e702" : [ {
+        "dim_num" : "3",
+        "cat_id" : "69e702",
+        "categ_cod" : "69+702",
+        "categ_dsg" : "Atividades jurídicas e de contabilidade e atividades de consultoria para os negócios e a gestão",
+        "categ_ord" : "21",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_71" : [ {
+        "dim_num" : "3",
+        "cat_id" : "71",
+        "categ_cod" : "71",
+        "categ_dsg" : "Atividades de arquitetura, de engenharia e técnicas afins; Atividades de ensaios e de análises técnicas",
+        "categ_ord" : "22",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_72" : [ {
+        "dim_num" : "3",
+        "cat_id" : "72",
+        "categ_cod" : "72",
+        "categ_dsg" : "Atividades de investigação científica e de desenvolvimento",
+        "categ_ord" : "23",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_73" : [ {
+        "dim_num" : "3",
+        "cat_id" : "73",
+        "categ_cod" : "73",
+        "categ_dsg" : "Publicidade, estudos de mercado e sondagens de opinião",
+        "categ_ord" : "24",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_74" : [ {
+        "dim_num" : "3",
+        "cat_id" : "74",
+        "categ_cod" : "74",
+        "categ_dsg" : "Outras atividades de consultoria, científicas, técnicas e similares",
+        "categ_ord" : "25",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_N" : [ {
+        "dim_num" : "3",
+        "cat_id" : "N",
+        "categ_cod" : "N",
+        "categ_dsg" : "Atividades administrativas e dos serviços de apoio",
+        "categ_ord" : "26",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_77" : [ {
+        "dim_num" : "3",
+        "cat_id" : "77",
+        "categ_cod" : "77",
+        "categ_dsg" : "Atividades de aluguer",
+        "categ_ord" : "27",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_78" : [ {
+        "dim_num" : "3",
+        "cat_id" : "78",
+        "categ_cod" : "78",
+        "categ_dsg" : "Atividades de emprego",
+        "categ_ord" : "28",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_79" : [ {
+        "dim_num" : "3",
+        "cat_id" : "79",
+        "categ_cod" : "79",
+        "categ_dsg" : "Agências de viagem, operadores turísticos, outros serviços de reservas e atividades relacionadas",
+        "categ_ord" : "29",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_80" : [ {
+        "dim_num" : "3",
+        "cat_id" : "80",
+        "categ_cod" : "80",
+        "categ_dsg" : "Atividades de investigação e segurança",
+        "categ_ord" : "30",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_81" : [ {
+        "dim_num" : "3",
+        "cat_id" : "81",
+        "categ_cod" : "81",
+        "categ_dsg" : "Atividades relacionadas com edifícios, plantação e manutenção de jardins",
+        "categ_ord" : "31",
+        "categ_nivel" : "3"
+      } ],
+      "Dim_Num3_82" : [ {
+        "dim_num" : "3",
+        "cat_id" : "82",
+        "categ_cod" : "82",
+        "categ_dsg" : "Atividades de serviços administrativos e de apoio prestados às empresas",
+        "categ_ord" : "32",
+        "categ_nivel" : "3"
+      } ]
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
