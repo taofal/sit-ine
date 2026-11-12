@@ -1,0 +1,2755 @@
+[ {
+  "IndicadorCod" : "0014652",
+  "IndicadorDsg" : "Índice harmonizado de preços no consumidor (IHPC, Base - 2025) por Agregados especiais; Mensal - INE, Índice de preços no consumidor",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0014652&lingua=PT",
+  "DataExtracao" : "2026-11-12T13:11:26.134Z",
+  "DataUltimoAtualizacao" : "2026-11-11",
+  "UltimoPref" : "Outubro de 2026",
+  "Dados" : {
+    "Janeiro de 2026" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC_HOA",
+      "dim_3_t" : "Serviços relacionados com as férias organizadas e o alojamento",
+      "ind_string" : "81,68",
+      "valor" : "81.68"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_SD",
+      "dim_3_t" : "Bens industriais não energéticos, semiduradouros",
+      "ind_string" : "92,32",
+      "valor" : "92.32"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC",
+      "dim_3_t" : "Serviços relacionados com a recreação, incluindo reparações e cuidados pessoais",
+      "ind_string" : "96,37",
+      "valor" : "96.37"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FROOPP",
+      "dim_3_t" : "Índice total, excluindo compras diretas frequentes",
+      "ind_string" : "97,44",
+      "valor" : "97.44"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG",
+      "dim_3_t" : "Bens industriais não energéticos",
+      "ind_string" : "97,55",
+      "valor" : "97.55"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_TRA",
+      "dim_3_t" : "Serviços relacionados com o transporte",
+      "ind_string" : "97,61",
+      "valor" : "97.61"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD",
+      "dim_3_t" : "Bens industriais",
+      "ind_string" : "97,78",
+      "valor" : "97.78"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FUEL",
+      "dim_3_t" : "Combustíveis líquidos e combustível e lubrificantes para equipamento para transporte pessoal",
+      "ind_string" : "97,93",
+      "valor" : "97.93"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD",
+      "dim_3_t" : "Índice total, excluindo energia, produtos alimentares, álcool e tabaco",
+      "ind_string" : "98,45",
+      "valor" : "98.45"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_COM",
+      "dim_3_t" : "Serviços relacionados com a comunicação",
+      "ind_string" : "98,66",
+      "valor" : "98.66"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG",
+      "dim_3_t" : "Energia",
+      "ind_string" : "98,72",
+      "valor" : "98.72"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV",
+      "dim_3_t" : "Serviços (índice total, excluindo bens)",
+      "ind_string" : "98,83",
+      "valor" : "98.83"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_EDUC_HLTH_SPR",
+      "dim_3_t" : "Índice total, excluindo educação, saúde e proteção social",
+      "ind_string" : "98,93",
+      "valor" : "98.93"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD_NP",
+      "dim_3_t" : "Índice total, excluindo energia e produtos alimentares não transformados",
+      "ind_string" : "98,93",
+      "valor" : "98.93"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_HOUS",
+      "dim_3_t" : "Índice total, excluindo habitação, água, eletricidade, gás e outros combustíveis",
+      "ind_string" : "99,04",
+      "valor" : "99.04"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FOOD_S",
+      "dim_3_t" : "Índice total, excluindo produtos alimentares sazonais",
+      "ind_string" : "99,10",
+      "valor" : "99.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD_S",
+      "dim_3_t" : "Índice total, excluindo energia e produtos alimentares sazonais",
+      "ind_string" : "99,13",
+      "valor" : "99.13"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_ALC_TBC",
+      "dim_3_t" : "Índice total, excluindo álcool e tabaco",
+      "ind_string" : "99,17",
+      "valor" : "99.17"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_TBC",
+      "dim_3_t" : "Índice total, excluindo tabaco",
+      "ind_string" : "99,21",
+      "valor" : "99.21"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "99,24",
+      "valor" : "99.24"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FUEL",
+      "dim_3_t" : "Índice total, excluindo combustíveis líquidos e combustível e lubrificantes para equipamento para transporte pessoal",
+      "ind_string" : "99,28",
+      "valor" : "99.28"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG",
+      "dim_3_t" : "Índice total, excluindo energia",
+      "ind_string" : "99,28",
+      "valor" : "99.28"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "ELC_GAS",
+      "dim_3_t" : "Eletricidade, gás, combustíveis sólidos e energia térmica",
+      "ind_string" : "99,54",
+      "valor" : "99.54"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "GD",
+      "dim_3_t" : "Bens (índice total, excluindo serviços)",
+      "ind_string" : "99,57",
+      "valor" : "99.57"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG_FOOD_S",
+      "dim_3_t" : "Energia e produtos alimentares sazonais",
+      "ind_string" : "100,13",
+      "valor" : "100.13"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_D",
+      "dim_3_t" : "Bens industriais não energéticos, duradouros",
+      "ind_string" : "100,51",
+      "valor" : "100.51"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_ND",
+      "dim_3_t" : "Bens industriais não energéticos, não duradouros",
+      "ind_string" : "100,76",
+      "valor" : "100.76"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG_FOOD_NP",
+      "dim_3_t" : "Energia e produtos alimentares não transformados",
+      "ind_string" : "101,01",
+      "valor" : "101.01"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P_X_ALC_TBC",
+      "dim_3_t" : "Produtos alimentares transformados, excluindo álcool e tabaco",
+      "ind_string" : "101,08",
+      "valor" : "101.08"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P",
+      "dim_3_t" : "Produtos alimentares transformados, incluindo álcool e tabaco",
+      "ind_string" : "101,10",
+      "valor" : "101.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P_X_TBC",
+      "dim_3_t" : "Produtos alimentares transformados, excluindo o tabaco",
+      "ind_string" : "101,15",
+      "valor" : "101.15"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FROOPP",
+      "dim_3_t" : "Compras diretas frequentes",
+      "ind_string" : "101,28",
+      "valor" : "101.28"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD",
+      "dim_3_t" : "Produtos alimentares, incluindo álcool e tabaco",
+      "ind_string" : "101,70",
+      "valor" : "101.7"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_MSC",
+      "dim_3_t" : "Serviços diversos",
+      "ind_string" : "102,02",
+      "valor" : "102.02"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "EDUC_HLTH_SPR",
+      "dim_3_t" : "Educação, saúde e proteção social",
+      "ind_string" : "102,11",
+      "valor" : "102.11"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_S",
+      "dim_3_t" : "Produtos alimentares sazonais",
+      "ind_string" : "102,11",
+      "valor" : "102.11"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_NP",
+      "dim_3_t" : "Produtos alimentares não transformados",
+      "ind_string" : "102,81",
+      "valor" : "102.81"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_HOUS",
+      "dim_3_t" : "Serviços relacionados com a habitação",
+      "ind_string" : "102,88",
+      "valor" : "102.88"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC_X_HOA",
+      "dim_3_t" : "Serviços relacionados com a recreação e os cuidados pessoais, excluindo férias organizadas e alojamento",
+      "ind_string" : "102,91",
+      "valor" : "102.91"
+    } ],
+    "Fevereiro de 2026" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC_HOA",
+      "dim_3_t" : "Serviços relacionados com as férias organizadas e o alojamento",
+      "ind_string" : "83,40",
+      "valor" : "83.4"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_SD",
+      "dim_3_t" : "Bens industriais não energéticos, semiduradouros",
+      "ind_string" : "89,07",
+      "valor" : "89.07"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG",
+      "dim_3_t" : "Bens industriais não energéticos",
+      "ind_string" : "96,67",
+      "valor" : "96.67"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC",
+      "dim_3_t" : "Serviços relacionados com a recreação, incluindo reparações e cuidados pessoais",
+      "ind_string" : "97,23",
+      "valor" : "97.23"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD",
+      "dim_3_t" : "Bens industriais",
+      "ind_string" : "97,31",
+      "valor" : "97.31"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FROOPP",
+      "dim_3_t" : "Índice total, excluindo compras diretas frequentes",
+      "ind_string" : "97,43",
+      "valor" : "97.43"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_TRA",
+      "dim_3_t" : "Serviços relacionados com o transporte",
+      "ind_string" : "97,65",
+      "valor" : "97.65"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD",
+      "dim_3_t" : "Índice total, excluindo energia, produtos alimentares, álcool e tabaco",
+      "ind_string" : "98,54",
+      "valor" : "98.54"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD_NP",
+      "dim_3_t" : "Índice total, excluindo energia e produtos alimentares não transformados",
+      "ind_string" : "98,94",
+      "valor" : "98.94"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_EDUC_HLTH_SPR",
+      "dim_3_t" : "Índice total, excluindo educação, saúde e proteção social",
+      "ind_string" : "99,03",
+      "valor" : "99.03"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_COM",
+      "dim_3_t" : "Serviços relacionados com a comunicação",
+      "ind_string" : "99,05",
+      "valor" : "99.05"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_HOUS",
+      "dim_3_t" : "Índice total, excluindo habitação, água, eletricidade, gás e outros combustíveis",
+      "ind_string" : "99,13",
+      "valor" : "99.13"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD_S",
+      "dim_3_t" : "Índice total, excluindo energia e produtos alimentares sazonais",
+      "ind_string" : "99,15",
+      "valor" : "99.15"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FOOD_S",
+      "dim_3_t" : "Índice total, excluindo produtos alimentares sazonais",
+      "ind_string" : "99,18",
+      "valor" : "99.18"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "GD",
+      "dim_3_t" : "Bens (índice total, excluindo serviços)",
+      "ind_string" : "99,29",
+      "valor" : "99.29"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_TBC",
+      "dim_3_t" : "Índice total, excluindo tabaco",
+      "ind_string" : "99,31",
+      "valor" : "99.31"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_ALC_TBC",
+      "dim_3_t" : "Índice total, excluindo álcool e tabaco",
+      "ind_string" : "99,33",
+      "valor" : "99.33"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FUEL",
+      "dim_3_t" : "Índice total, excluindo combustíveis líquidos e combustível e lubrificantes para equipamento para transporte pessoal",
+      "ind_string" : "99,34",
+      "valor" : "99.34"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG",
+      "dim_3_t" : "Índice total, excluindo energia",
+      "ind_string" : "99,34",
+      "valor" : "99.34"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "99,35",
+      "valor" : "99.35"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV",
+      "dim_3_t" : "Serviços (índice total, excluindo bens)",
+      "ind_string" : "99,38",
+      "valor" : "99.38"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "ELC_GAS",
+      "dim_3_t" : "Eletricidade, gás, combustíveis sólidos e energia térmica",
+      "ind_string" : "99,66",
+      "valor" : "99.66"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FUEL",
+      "dim_3_t" : "Combustíveis líquidos e combustível e lubrificantes para equipamento para transporte pessoal",
+      "ind_string" : "99,75",
+      "valor" : "99.75"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG",
+      "dim_3_t" : "Energia",
+      "ind_string" : "99,75",
+      "valor" : "99.75"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P_X_TBC",
+      "dim_3_t" : "Produtos alimentares transformados, excluindo o tabaco",
+      "ind_string" : "100,61",
+      "valor" : "100.61"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_D",
+      "dim_3_t" : "Bens industriais não energéticos, duradouros",
+      "ind_string" : "100,67",
+      "valor" : "100.67"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P",
+      "dim_3_t" : "Produtos alimentares transformados, incluindo álcool e tabaco",
+      "ind_string" : "100,74",
+      "valor" : "100.74"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P_X_ALC_TBC",
+      "dim_3_t" : "Produtos alimentares transformados, excluindo álcool e tabaco",
+      "ind_string" : "100,92",
+      "valor" : "100.92"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG_FOOD_S",
+      "dim_3_t" : "Energia e produtos alimentares sazonais",
+      "ind_string" : "101,09",
+      "valor" : "101.09"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FROOPP",
+      "dim_3_t" : "Compras diretas frequentes",
+      "ind_string" : "101,53",
+      "valor" : "101.53"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD",
+      "dim_3_t" : "Produtos alimentares, incluindo álcool e tabaco",
+      "ind_string" : "101,64",
+      "valor" : "101.64"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG_FOOD_NP",
+      "dim_3_t" : "Energia e produtos alimentares não transformados",
+      "ind_string" : "101,75",
+      "valor" : "101.75"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_ND",
+      "dim_3_t" : "Bens industriais não energéticos, não duradouros",
+      "ind_string" : "101,83",
+      "valor" : "101.83"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_MSC",
+      "dim_3_t" : "Serviços diversos",
+      "ind_string" : "102,28",
+      "valor" : "102.28"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "EDUC_HLTH_SPR",
+      "dim_3_t" : "Educação, saúde e proteção social",
+      "ind_string" : "102,43",
+      "valor" : "102.43"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_S",
+      "dim_3_t" : "Produtos alimentares sazonais",
+      "ind_string" : "102,97",
+      "valor" : "102.97"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_NP",
+      "dim_3_t" : "Produtos alimentares não transformados",
+      "ind_string" : "103,33",
+      "valor" : "103.33"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC_X_HOA",
+      "dim_3_t" : "Serviços relacionados com a recreação e os cuidados pessoais, excluindo férias organizadas e alojamento",
+      "ind_string" : "103,38",
+      "valor" : "103.38"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_HOUS",
+      "dim_3_t" : "Serviços relacionados com a habitação",
+      "ind_string" : "103,43",
+      "valor" : "103.43"
+    } ],
+    "Março de 2026" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC_HOA",
+      "dim_3_t" : "Serviços relacionados com as férias organizadas e o alojamento",
+      "ind_string" : "89,88",
+      "valor" : "89.88"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_TRA",
+      "dim_3_t" : "Serviços relacionados com o transporte",
+      "ind_string" : "98,05",
+      "valor" : "98.05"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_COM",
+      "dim_3_t" : "Serviços relacionados com a comunicação",
+      "ind_string" : "99,09",
+      "valor" : "99.09"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC",
+      "dim_3_t" : "Serviços relacionados com a recreação, incluindo reparações e cuidados pessoais",
+      "ind_string" : "99,49",
+      "valor" : "99.49"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "ELC_GAS",
+      "dim_3_t" : "Eletricidade, gás, combustíveis sólidos e energia térmica",
+      "ind_string" : "99,68",
+      "valor" : "99.68"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FROOPP",
+      "dim_3_t" : "Índice total, excluindo compras diretas frequentes",
+      "ind_string" : "100,47",
+      "valor" : "100.47"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV",
+      "dim_3_t" : "Serviços (índice total, excluindo bens)",
+      "ind_string" : "100,61",
+      "valor" : "100.61"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD",
+      "dim_3_t" : "Índice total, excluindo energia, produtos alimentares, álcool e tabaco",
+      "ind_string" : "100,87",
+      "valor" : "100.87"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_D",
+      "dim_3_t" : "Bens industriais não energéticos, duradouros",
+      "ind_string" : "100,93",
+      "valor" : "100.93"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD_NP",
+      "dim_3_t" : "Índice total, excluindo energia e produtos alimentares não transformados",
+      "ind_string" : "101,00",
+      "valor" : "101"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_ND",
+      "dim_3_t" : "Bens industriais não energéticos, não duradouros",
+      "ind_string" : "101,03",
+      "valor" : "101.03"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD_S",
+      "dim_3_t" : "Índice total, excluindo energia e produtos alimentares sazonais",
+      "ind_string" : "101,14",
+      "valor" : "101.14"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FUEL",
+      "dim_3_t" : "Índice total, excluindo combustíveis líquidos e combustível e lubrificantes para equipamento para transporte pessoal",
+      "ind_string" : "101,20",
+      "valor" : "101.2"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG",
+      "dim_3_t" : "Índice total, excluindo energia",
+      "ind_string" : "101,25",
+      "valor" : "101.25"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P_X_ALC_TBC",
+      "dim_3_t" : "Produtos alimentares transformados, excluindo álcool e tabaco",
+      "ind_string" : "101,26",
+      "valor" : "101.26"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P_X_TBC",
+      "dim_3_t" : "Produtos alimentares transformados, excluindo o tabaco",
+      "ind_string" : "101,34",
+      "valor" : "101.34"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG",
+      "dim_3_t" : "Bens industriais não energéticos",
+      "ind_string" : "101,38",
+      "valor" : "101.38"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_EDUC_HLTH_SPR",
+      "dim_3_t" : "Índice total, excluindo educação, saúde e proteção social",
+      "ind_string" : "101,49",
+      "valor" : "101.49"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FOOD_S",
+      "dim_3_t" : "Índice total, excluindo produtos alimentares sazonais",
+      "ind_string" : "101,52",
+      "valor" : "101.52"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_HOUS",
+      "dim_3_t" : "Índice total, excluindo habitação, água, eletricidade, gás e outros combustíveis",
+      "ind_string" : "101,55",
+      "valor" : "101.55"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_ALC_TBC",
+      "dim_3_t" : "Índice total, excluindo álcool e tabaco",
+      "ind_string" : "101,57",
+      "valor" : "101.57"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_TBC",
+      "dim_3_t" : "Índice total, excluindo tabaco",
+      "ind_string" : "101,57",
+      "valor" : "101.57"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P",
+      "dim_3_t" : "Produtos alimentares transformados, incluindo álcool e tabaco",
+      "ind_string" : "101,60",
+      "valor" : "101.6"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "101,61",
+      "valor" : "101.61"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_SD",
+      "dim_3_t" : "Bens industriais não energéticos, semiduradouros",
+      "ind_string" : "102,15",
+      "valor" : "102.15"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD",
+      "dim_3_t" : "Produtos alimentares, incluindo álcool e tabaco",
+      "ind_string" : "102,35",
+      "valor" : "102.35"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "GD",
+      "dim_3_t" : "Bens (índice total, excluindo serviços)",
+      "ind_string" : "102,49",
+      "valor" : "102.49"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_MSC",
+      "dim_3_t" : "Serviços diversos",
+      "ind_string" : "102,56",
+      "valor" : "102.56"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD",
+      "dim_3_t" : "Bens industriais",
+      "ind_string" : "102,62",
+      "valor" : "102.62"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "EDUC_HLTH_SPR",
+      "dim_3_t" : "Educação, saúde e proteção social",
+      "ind_string" : "102,70",
+      "valor" : "102.7"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FROOPP",
+      "dim_3_t" : "Compras diretas frequentes",
+      "ind_string" : "102,91",
+      "valor" : "102.91"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_S",
+      "dim_3_t" : "Produtos alimentares sazonais",
+      "ind_string" : "103,42",
+      "valor" : "103.42"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_NP",
+      "dim_3_t" : "Produtos alimentares não transformados",
+      "ind_string" : "103,74",
+      "valor" : "103.74"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC_X_HOA",
+      "dim_3_t" : "Serviços relacionados com a recreação e os cuidados pessoais, excluindo férias organizadas e alojamento",
+      "ind_string" : "103,78",
+      "valor" : "103.78"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_HOUS",
+      "dim_3_t" : "Serviços relacionados com a habitação",
+      "ind_string" : "103,98",
+      "valor" : "103.98"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG_FOOD_NP",
+      "dim_3_t" : "Energia e produtos alimentares não transformados",
+      "ind_string" : "105,16",
+      "valor" : "105.16"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG_FOOD_S",
+      "dim_3_t" : "Energia e produtos alimentares sazonais",
+      "ind_string" : "105,56",
+      "valor" : "105.56"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG",
+      "dim_3_t" : "Energia",
+      "ind_string" : "107,19",
+      "valor" : "107.19"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FUEL",
+      "dim_3_t" : "Combustíveis líquidos e combustível e lubrificantes para equipamento para transporte pessoal",
+      "ind_string" : "113,57",
+      "valor" : "113.57"
+    } ],
+    "Abril de 2026" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_COM",
+      "dim_3_t" : "Serviços relacionados com a comunicação",
+      "ind_string" : "98,26",
+      "valor" : "98.26"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_D",
+      "dim_3_t" : "Bens industriais não energéticos, duradouros",
+      "ind_string" : "101,03",
+      "valor" : "101.03"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_ND",
+      "dim_3_t" : "Bens industriais não energéticos, não duradouros",
+      "ind_string" : "101,23",
+      "valor" : "101.23"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "ELC_GAS",
+      "dim_3_t" : "Eletricidade, gás, combustíveis sólidos e energia térmica",
+      "ind_string" : "101,36",
+      "valor" : "101.36"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P_X_ALC_TBC",
+      "dim_3_t" : "Produtos alimentares transformados, excluindo álcool e tabaco",
+      "ind_string" : "101,67",
+      "valor" : "101.67"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG",
+      "dim_3_t" : "Bens industriais não energéticos",
+      "ind_string" : "101,88",
+      "valor" : "101.88"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P_X_TBC",
+      "dim_3_t" : "Produtos alimentares transformados, excluindo o tabaco",
+      "ind_string" : "101,91",
+      "valor" : "101.91"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_TRA",
+      "dim_3_t" : "Serviços relacionados com o transporte",
+      "ind_string" : "101,93",
+      "valor" : "101.93"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P",
+      "dim_3_t" : "Produtos alimentares transformados, incluindo álcool e tabaco",
+      "ind_string" : "102,13",
+      "valor" : "102.13"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_MSC",
+      "dim_3_t" : "Serviços diversos",
+      "ind_string" : "102,71",
+      "valor" : "102.71"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD_NP",
+      "dim_3_t" : "Índice total, excluindo energia e produtos alimentares não transformados",
+      "ind_string" : "102,72",
+      "valor" : "102.72"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FROOPP",
+      "dim_3_t" : "Índice total, excluindo compras diretas frequentes",
+      "ind_string" : "102,76",
+      "valor" : "102.76"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD_S",
+      "dim_3_t" : "Índice total, excluindo energia e produtos alimentares sazonais",
+      "ind_string" : "102,80",
+      "valor" : "102.8"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD",
+      "dim_3_t" : "Índice total, excluindo energia, produtos alimentares, álcool e tabaco",
+      "ind_string" : "102,85",
+      "valor" : "102.85"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FUEL",
+      "dim_3_t" : "Índice total, excluindo combustíveis líquidos e combustível e lubrificantes para equipamento para transporte pessoal",
+      "ind_string" : "102,91",
+      "valor" : "102.91"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "EDUC_HLTH_SPR",
+      "dim_3_t" : "Educação, saúde e proteção social",
+      "ind_string" : "102,94",
+      "valor" : "102.94"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG",
+      "dim_3_t" : "Índice total, excluindo energia",
+      "ind_string" : "102,97",
+      "valor" : "102.97"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV",
+      "dim_3_t" : "Serviços (índice total, excluindo bens)",
+      "ind_string" : "103,26",
+      "valor" : "103.26"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD",
+      "dim_3_t" : "Produtos alimentares, incluindo álcool e tabaco",
+      "ind_string" : "103,29",
+      "valor" : "103.29"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_SD",
+      "dim_3_t" : "Bens industriais não energéticos, semiduradouros",
+      "ind_string" : "103,29",
+      "valor" : "103.29"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FOOD_S",
+      "dim_3_t" : "Índice total, excluindo produtos alimentares sazonais",
+      "ind_string" : "103,46",
+      "valor" : "103.46"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC_HOA",
+      "dim_3_t" : "Serviços relacionados com as férias organizadas e o alojamento",
+      "ind_string" : "103,51",
+      "valor" : "103.51"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_ALC_TBC",
+      "dim_3_t" : "Índice total, excluindo álcool e tabaco",
+      "ind_string" : "103,57",
+      "valor" : "103.57"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "103,58",
+      "valor" : "103.58"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_TBC",
+      "dim_3_t" : "Índice total, excluindo tabaco",
+      "ind_string" : "103,58",
+      "valor" : "103.58"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_HOUS",
+      "dim_3_t" : "Índice total, excluindo habitação, água, eletricidade, gás e outros combustíveis",
+      "ind_string" : "103,63",
+      "valor" : "103.63"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_EDUC_HLTH_SPR",
+      "dim_3_t" : "Índice total, excluindo educação, saúde e proteção social",
+      "ind_string" : "103,65",
+      "valor" : "103.65"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "GD",
+      "dim_3_t" : "Bens (índice total, excluindo serviços)",
+      "ind_string" : "103,84",
+      "valor" : "103.84"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC",
+      "dim_3_t" : "Serviços relacionados com a recreação, incluindo reparações e cuidados pessoais",
+      "ind_string" : "103,98",
+      "valor" : "103.98"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC_X_HOA",
+      "dim_3_t" : "Serviços relacionados com a recreação e os cuidados pessoais, excluindo férias organizadas e alojamento",
+      "ind_string" : "104,23",
+      "valor" : "104.23"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_HOUS",
+      "dim_3_t" : "Serviços relacionados com a habitação",
+      "ind_string" : "104,27",
+      "valor" : "104.27"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD",
+      "dim_3_t" : "Bens industriais",
+      "ind_string" : "104,30",
+      "valor" : "104.3"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FROOPP",
+      "dim_3_t" : "Compras diretas frequentes",
+      "ind_string" : "104,53",
+      "valor" : "104.53"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_NP",
+      "dim_3_t" : "Produtos alimentares não transformados",
+      "ind_string" : "105,46",
+      "valor" : "105.46"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_S",
+      "dim_3_t" : "Produtos alimentares sazonais",
+      "ind_string" : "106,23",
+      "valor" : "106.23"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG_FOOD_NP",
+      "dim_3_t" : "Energia e produtos alimentares não transformados",
+      "ind_string" : "108,66",
+      "valor" : "108.66"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG_FOOD_S",
+      "dim_3_t" : "Energia e produtos alimentares sazonais",
+      "ind_string" : "110,15",
+      "valor" : "110.15"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG",
+      "dim_3_t" : "Energia",
+      "ind_string" : "113,10",
+      "valor" : "113.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FUEL",
+      "dim_3_t" : "Combustíveis líquidos e combustível e lubrificantes para equipamento para transporte pessoal",
+      "ind_string" : "123,12",
+      "valor" : "123.12"
+    } ],
+    "Maio de 2026" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_COM",
+      "dim_3_t" : "Serviços relacionados com a comunicação",
+      "ind_string" : "98,24",
+      "valor" : "98.24"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_ND",
+      "dim_3_t" : "Bens industriais não energéticos, não duradouros",
+      "ind_string" : "100,74",
+      "valor" : "100.74"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_D",
+      "dim_3_t" : "Bens industriais não energéticos, duradouros",
+      "ind_string" : "101,19",
+      "valor" : "101.19"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "ELC_GAS",
+      "dim_3_t" : "Eletricidade, gás, combustíveis sólidos e energia térmica",
+      "ind_string" : "101,59",
+      "valor" : "101.59"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P_X_ALC_TBC",
+      "dim_3_t" : "Produtos alimentares transformados, excluindo álcool e tabaco",
+      "ind_string" : "101,72",
+      "valor" : "101.72"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_TRA",
+      "dim_3_t" : "Serviços relacionados com o transporte",
+      "ind_string" : "101,76",
+      "valor" : "101.76"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P_X_TBC",
+      "dim_3_t" : "Produtos alimentares transformados, excluindo o tabaco",
+      "ind_string" : "101,90",
+      "valor" : "101.9"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG",
+      "dim_3_t" : "Bens industriais não energéticos",
+      "ind_string" : "102,08",
+      "valor" : "102.08"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P",
+      "dim_3_t" : "Produtos alimentares transformados, incluindo álcool e tabaco",
+      "ind_string" : "102,14",
+      "valor" : "102.14"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_MSC",
+      "dim_3_t" : "Serviços diversos",
+      "ind_string" : "102,79",
+      "valor" : "102.79"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD",
+      "dim_3_t" : "Produtos alimentares, incluindo álcool e tabaco",
+      "ind_string" : "103,00",
+      "valor" : "103"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "EDUC_HLTH_SPR",
+      "dim_3_t" : "Educação, saúde e proteção social",
+      "ind_string" : "103,08",
+      "valor" : "103.08"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD_NP",
+      "dim_3_t" : "Índice total, excluindo energia e produtos alimentares não transformados",
+      "ind_string" : "103,34",
+      "valor" : "103.34"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FUEL",
+      "dim_3_t" : "Índice total, excluindo combustíveis líquidos e combustível e lubrificantes para equipamento para transporte pessoal",
+      "ind_string" : "103,40",
+      "valor" : "103.4"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD_S",
+      "dim_3_t" : "Índice total, excluindo energia e produtos alimentares sazonais",
+      "ind_string" : "103,40",
+      "valor" : "103.4"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG",
+      "dim_3_t" : "Índice total, excluindo energia",
+      "ind_string" : "103,46",
+      "valor" : "103.46"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD",
+      "dim_3_t" : "Índice total, excluindo energia, produtos alimentares, álcool e tabaco",
+      "ind_string" : "103,61",
+      "valor" : "103.61"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "GD",
+      "dim_3_t" : "Bens (índice total, excluindo serviços)",
+      "ind_string" : "103,74",
+      "valor" : "103.74"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FROOPP",
+      "dim_3_t" : "Índice total, excluindo compras diretas frequentes",
+      "ind_string" : "103,79",
+      "valor" : "103.79"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_SD",
+      "dim_3_t" : "Bens industriais não energéticos, semiduradouros",
+      "ind_string" : "103,97",
+      "valor" : "103.97"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FOOD_S",
+      "dim_3_t" : "Índice total, excluindo produtos alimentares sazonais",
+      "ind_string" : "103,99",
+      "valor" : "103.99"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "104,02",
+      "valor" : "104.02"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_TBC",
+      "dim_3_t" : "Índice total, excluindo tabaco",
+      "ind_string" : "104,02",
+      "valor" : "104.02"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_ALC_TBC",
+      "dim_3_t" : "Índice total, excluindo álcool e tabaco",
+      "ind_string" : "104,03",
+      "valor" : "104.03"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_HOUS",
+      "dim_3_t" : "Índice total, excluindo habitação, água, eletricidade, gás e outros combustíveis",
+      "ind_string" : "104,08",
+      "valor" : "104.08"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_EDUC_HLTH_SPR",
+      "dim_3_t" : "Índice total, excluindo educação, saúde e proteção social",
+      "ind_string" : "104,11",
+      "valor" : "104.11"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV",
+      "dim_3_t" : "Serviços (índice total, excluindo bens)",
+      "ind_string" : "104,28",
+      "valor" : "104.28"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FROOPP",
+      "dim_3_t" : "Compras diretas frequentes",
+      "ind_string" : "104,31",
+      "valor" : "104.31"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD",
+      "dim_3_t" : "Bens industriais",
+      "ind_string" : "104,36",
+      "valor" : "104.36"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC_X_HOA",
+      "dim_3_t" : "Serviços relacionados com a recreação e os cuidados pessoais, excluindo férias organizadas e alojamento",
+      "ind_string" : "104,54",
+      "valor" : "104.54"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_NP",
+      "dim_3_t" : "Produtos alimentares não transformados",
+      "ind_string" : "104,60",
+      "valor" : "104.6"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_HOUS",
+      "dim_3_t" : "Serviços relacionados com a habitação",
+      "ind_string" : "104,60",
+      "valor" : "104.6"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_S",
+      "dim_3_t" : "Produtos alimentares sazonais",
+      "ind_string" : "104,61",
+      "valor" : "104.61"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC",
+      "dim_3_t" : "Serviços relacionados com a recreação, incluindo reparações e cuidados pessoais",
+      "ind_string" : "106,11",
+      "valor" : "106.11"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG_FOOD_NP",
+      "dim_3_t" : "Energia e produtos alimentares não transformados",
+      "ind_string" : "107,97",
+      "valor" : "107.97"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG_FOOD_S",
+      "dim_3_t" : "Energia e produtos alimentares sazonais",
+      "ind_string" : "109,20",
+      "valor" : "109.2"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC_HOA",
+      "dim_3_t" : "Serviços relacionados com as férias organizadas e o alojamento",
+      "ind_string" : "109,79",
+      "valor" : "109.79"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG",
+      "dim_3_t" : "Energia",
+      "ind_string" : "112,63",
+      "valor" : "112.63"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FUEL",
+      "dim_3_t" : "Combustíveis líquidos e combustível e lubrificantes para equipamento para transporte pessoal",
+      "ind_string" : "122,05",
+      "valor" : "122.05"
+    } ],
+    "Junho de 2026" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_COM",
+      "dim_3_t" : "Serviços relacionados com a comunicação",
+      "ind_string" : "97,96",
+      "valor" : "97.96"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_ND",
+      "dim_3_t" : "Bens industriais não energéticos, não duradouros",
+      "ind_string" : "100,67",
+      "valor" : "100.67"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_D",
+      "dim_3_t" : "Bens industriais não energéticos, duradouros",
+      "ind_string" : "101,11",
+      "valor" : "101.11"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG",
+      "dim_3_t" : "Bens industriais não energéticos",
+      "ind_string" : "101,45",
+      "valor" : "101.45"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "ELC_GAS",
+      "dim_3_t" : "Eletricidade, gás, combustíveis sólidos e energia térmica",
+      "ind_string" : "101,52",
+      "valor" : "101.52"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P_X_ALC_TBC",
+      "dim_3_t" : "Produtos alimentares transformados, excluindo álcool e tabaco",
+      "ind_string" : "101,81",
+      "valor" : "101.81"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P_X_TBC",
+      "dim_3_t" : "Produtos alimentares transformados, excluindo o tabaco",
+      "ind_string" : "101,87",
+      "valor" : "101.87"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P",
+      "dim_3_t" : "Produtos alimentares transformados, incluindo álcool e tabaco",
+      "ind_string" : "102,12",
+      "valor" : "102.12"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_SD",
+      "dim_3_t" : "Bens industriais não energéticos, semiduradouros",
+      "ind_string" : "102,35",
+      "valor" : "102.35"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_MSC",
+      "dim_3_t" : "Serviços diversos",
+      "ind_string" : "102,92",
+      "valor" : "102.92"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "GD",
+      "dim_3_t" : "Bens (índice total, excluindo serviços)",
+      "ind_string" : "103,02",
+      "valor" : "103.02"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD",
+      "dim_3_t" : "Bens industriais",
+      "ind_string" : "103,02",
+      "valor" : "103.02"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD",
+      "dim_3_t" : "Produtos alimentares, incluindo álcool e tabaco",
+      "ind_string" : "103,03",
+      "valor" : "103.03"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "EDUC_HLTH_SPR",
+      "dim_3_t" : "Educação, saúde e proteção social",
+      "ind_string" : "103,20",
+      "valor" : "103.2"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD_NP",
+      "dim_3_t" : "Índice total, excluindo energia e produtos alimentares não transformados",
+      "ind_string" : "103,73",
+      "valor" : "103.73"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FUEL",
+      "dim_3_t" : "Índice total, excluindo combustíveis líquidos e combustível e lubrificantes para equipamento para transporte pessoal",
+      "ind_string" : "103,75",
+      "valor" : "103.75"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD_S",
+      "dim_3_t" : "Índice total, excluindo energia e produtos alimentares sazonais",
+      "ind_string" : "103,76",
+      "valor" : "103.76"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG",
+      "dim_3_t" : "Índice total, excluindo energia",
+      "ind_string" : "103,83",
+      "valor" : "103.83"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FROOPP",
+      "dim_3_t" : "Compras diretas frequentes",
+      "ind_string" : "103,99",
+      "valor" : "103.99"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FOOD_S",
+      "dim_3_t" : "Índice total, excluindo produtos alimentares sazonais",
+      "ind_string" : "104,07",
+      "valor" : "104.07"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD",
+      "dim_3_t" : "Índice total, excluindo energia, produtos alimentares, álcool e tabaco",
+      "ind_string" : "104,09",
+      "valor" : "104.09"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "104,12",
+      "valor" : "104.12"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_TBC",
+      "dim_3_t" : "Índice total, excluindo tabaco",
+      "ind_string" : "104,13",
+      "valor" : "104.13"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_ALC_TBC",
+      "dim_3_t" : "Índice total, excluindo álcool e tabaco",
+      "ind_string" : "104,15",
+      "valor" : "104.15"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_HOUS",
+      "dim_3_t" : "Índice total, excluindo habitação, água, eletricidade, gás e outros combustíveis",
+      "ind_string" : "104,19",
+      "valor" : "104.19"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_EDUC_HLTH_SPR",
+      "dim_3_t" : "Índice total, excluindo educação, saúde e proteção social",
+      "ind_string" : "104,22",
+      "valor" : "104.22"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FROOPP",
+      "dim_3_t" : "Índice total, excluindo compras diretas frequentes",
+      "ind_string" : "104,27",
+      "valor" : "104.27"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_TRA",
+      "dim_3_t" : "Serviços relacionados com o transporte",
+      "ind_string" : "104,53",
+      "valor" : "104.53"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_NP",
+      "dim_3_t" : "Produtos alimentares não transformados",
+      "ind_string" : "104,74",
+      "valor" : "104.74"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC_X_HOA",
+      "dim_3_t" : "Serviços relacionados com a recreação e os cuidados pessoais, excluindo férias organizadas e alojamento",
+      "ind_string" : "105,02",
+      "valor" : "105.02"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_HOUS",
+      "dim_3_t" : "Serviços relacionados com a habitação",
+      "ind_string" : "105,05",
+      "valor" : "105.05"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_S",
+      "dim_3_t" : "Produtos alimentares sazonais",
+      "ind_string" : "105,12",
+      "valor" : "105.12"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV",
+      "dim_3_t" : "Serviços (índice total, excluindo bens)",
+      "ind_string" : "105,27",
+      "valor" : "105.27"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG_FOOD_NP",
+      "dim_3_t" : "Energia e produtos alimentares não transformados",
+      "ind_string" : "106,40",
+      "valor" : "106.4"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG_FOOD_S",
+      "dim_3_t" : "Energia e produtos alimentares sazonais",
+      "ind_string" : "107,18",
+      "valor" : "107.18"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC",
+      "dim_3_t" : "Serviços relacionados com a recreação, incluindo reparações e cuidados pessoais",
+      "ind_string" : "107,25",
+      "valor" : "107.25"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG",
+      "dim_3_t" : "Energia",
+      "ind_string" : "108,76",
+      "valor" : "108.76"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC_HOA",
+      "dim_3_t" : "Serviços relacionados com as férias organizadas e o alojamento",
+      "ind_string" : "112,41",
+      "valor" : "112.41"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FUEL",
+      "dim_3_t" : "Combustíveis líquidos e combustível e lubrificantes para equipamento para transporte pessoal",
+      "ind_string" : "114,90",
+      "valor" : "114.9"
+    } ],
+    "Julho de 2026" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_SD",
+      "dim_3_t" : "Bens industriais não energéticos, semiduradouros",
+      "ind_string" : "92,85",
+      "valor" : "92.85"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_COM",
+      "dim_3_t" : "Serviços relacionados com a comunicação",
+      "ind_string" : "97,21",
+      "valor" : "97.21"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG",
+      "dim_3_t" : "Bens industriais não energéticos",
+      "ind_string" : "97,95",
+      "valor" : "97.95"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD",
+      "dim_3_t" : "Bens industriais",
+      "ind_string" : "100,48",
+      "valor" : "100.48"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_ND",
+      "dim_3_t" : "Bens industriais não energéticos, não duradouros",
+      "ind_string" : "100,83",
+      "valor" : "100.83"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_D",
+      "dim_3_t" : "Bens industriais não energéticos, duradouros",
+      "ind_string" : "100,97",
+      "valor" : "100.97"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "ELC_GAS",
+      "dim_3_t" : "Eletricidade, gás, combustíveis sólidos e energia térmica",
+      "ind_string" : "101,09",
+      "valor" : "101.09"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "GD",
+      "dim_3_t" : "Bens (índice total, excluindo serviços)",
+      "ind_string" : "101,75",
+      "valor" : "101.75"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P_X_ALC_TBC",
+      "dim_3_t" : "Produtos alimentares transformados, excluindo álcool e tabaco",
+      "ind_string" : "101,93",
+      "valor" : "101.93"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P_X_TBC",
+      "dim_3_t" : "Produtos alimentares transformados, excluindo o tabaco",
+      "ind_string" : "102,01",
+      "valor" : "102.01"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P",
+      "dim_3_t" : "Produtos alimentares transformados, incluindo álcool e tabaco",
+      "ind_string" : "102,25",
+      "valor" : "102.25"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FROOPP",
+      "dim_3_t" : "Índice total, excluindo compras diretas frequentes",
+      "ind_string" : "102,78",
+      "valor" : "102.78"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_MSC",
+      "dim_3_t" : "Serviços diversos",
+      "ind_string" : "103,04",
+      "valor" : "103.04"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD_NP",
+      "dim_3_t" : "Índice total, excluindo energia e produtos alimentares não transformados",
+      "ind_string" : "103,20",
+      "valor" : "103.2"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD",
+      "dim_3_t" : "Produtos alimentares, incluindo álcool e tabaco",
+      "ind_string" : "103,25",
+      "valor" : "103.25"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD_S",
+      "dim_3_t" : "Índice total, excluindo energia e produtos alimentares sazonais",
+      "ind_string" : "103,25",
+      "valor" : "103.25"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "EDUC_HLTH_SPR",
+      "dim_3_t" : "Educação, saúde e proteção social",
+      "ind_string" : "103,28",
+      "valor" : "103.28"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FUEL",
+      "dim_3_t" : "Índice total, excluindo combustíveis líquidos e combustível e lubrificantes para equipamento para transporte pessoal",
+      "ind_string" : "103,31",
+      "valor" : "103.31"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG",
+      "dim_3_t" : "Índice total, excluindo energia",
+      "ind_string" : "103,38",
+      "valor" : "103.38"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD",
+      "dim_3_t" : "Índice total, excluindo energia, produtos alimentares, álcool e tabaco",
+      "ind_string" : "103,42",
+      "valor" : "103.42"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FOOD_S",
+      "dim_3_t" : "Índice total, excluindo produtos alimentares sazonais",
+      "ind_string" : "103,66",
+      "valor" : "103.66"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_TBC",
+      "dim_3_t" : "Índice total, excluindo tabaco",
+      "ind_string" : "103,75",
+      "valor" : "103.75"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "103,76",
+      "valor" : "103.76"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_ALC_TBC",
+      "dim_3_t" : "Índice total, excluindo álcool e tabaco",
+      "ind_string" : "103,77",
+      "valor" : "103.77"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_HOUS",
+      "dim_3_t" : "Índice total, excluindo habitação, água, eletricidade, gás e outros combustíveis",
+      "ind_string" : "103,79",
+      "valor" : "103.79"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_EDUC_HLTH_SPR",
+      "dim_3_t" : "Índice total, excluindo educação, saúde e proteção social",
+      "ind_string" : "103,80",
+      "valor" : "103.8"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FROOPP",
+      "dim_3_t" : "Compras diretas frequentes",
+      "ind_string" : "104,89",
+      "valor" : "104.89"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_NP",
+      "dim_3_t" : "Produtos alimentares não transformados",
+      "ind_string" : "105,13",
+      "valor" : "105.13"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_HOUS",
+      "dim_3_t" : "Serviços relacionados com a habitação",
+      "ind_string" : "105,43",
+      "valor" : "105.43"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC_X_HOA",
+      "dim_3_t" : "Serviços relacionados com a recreação e os cuidados pessoais, excluindo férias organizadas e alojamento",
+      "ind_string" : "105,57",
+      "valor" : "105.57"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_S",
+      "dim_3_t" : "Produtos alimentares sazonais",
+      "ind_string" : "105,86",
+      "valor" : "105.86"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV",
+      "dim_3_t" : "Serviços (índice total, excluindo bens)",
+      "ind_string" : "105,89",
+      "valor" : "105.89"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG_FOOD_NP",
+      "dim_3_t" : "Energia e produtos alimentares não transformados",
+      "ind_string" : "106,99",
+      "valor" : "106.99"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC",
+      "dim_3_t" : "Serviços relacionados com a recreação, incluindo reparações e cuidados pessoais",
+      "ind_string" : "107,56",
+      "valor" : "107.56"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_TRA",
+      "dim_3_t" : "Serviços relacionados com o transporte",
+      "ind_string" : "107,60",
+      "valor" : "107.6"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG_FOOD_S",
+      "dim_3_t" : "Energia e produtos alimentares sazonais",
+      "ind_string" : "107,99",
+      "valor" : "107.99"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG",
+      "dim_3_t" : "Energia",
+      "ind_string" : "109,62",
+      "valor" : "109.62"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC_HOA",
+      "dim_3_t" : "Serviços relacionados com as férias organizadas e o alojamento",
+      "ind_string" : "112,18",
+      "valor" : "112.18"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FUEL",
+      "dim_3_t" : "Combustíveis líquidos e combustível e lubrificantes para equipamento para transporte pessoal",
+      "ind_string" : "116,89",
+      "valor" : "116.89"
+    } ],
+    "Agosto de 2026" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_SD",
+      "dim_3_t" : "Bens industriais não energéticos, semiduradouros",
+      "ind_string" : "88,59",
+      "valor" : "88.59"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG",
+      "dim_3_t" : "Bens industriais não energéticos",
+      "ind_string" : "96,55",
+      "valor" : "96.55"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_COM",
+      "dim_3_t" : "Serviços relacionados com a comunicação",
+      "ind_string" : "96,90",
+      "valor" : "96.9"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD",
+      "dim_3_t" : "Bens industriais",
+      "ind_string" : "100,15",
+      "valor" : "100.15"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_D",
+      "dim_3_t" : "Bens industriais não energéticos, duradouros",
+      "ind_string" : "101,12",
+      "valor" : "101.12"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "ELC_GAS",
+      "dim_3_t" : "Eletricidade, gás, combustíveis sólidos e energia térmica",
+      "ind_string" : "101,18",
+      "valor" : "101.18"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_ND",
+      "dim_3_t" : "Bens industriais não energéticos, não duradouros",
+      "ind_string" : "101,28",
+      "valor" : "101.28"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "GD",
+      "dim_3_t" : "Bens (índice total, excluindo serviços)",
+      "ind_string" : "101,38",
+      "valor" : "101.38"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P_X_ALC_TBC",
+      "dim_3_t" : "Produtos alimentares transformados, excluindo álcool e tabaco",
+      "ind_string" : "101,62",
+      "valor" : "101.62"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P_X_TBC",
+      "dim_3_t" : "Produtos alimentares transformados, excluindo o tabaco",
+      "ind_string" : "101,62",
+      "valor" : "101.62"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P",
+      "dim_3_t" : "Produtos alimentares transformados, incluindo álcool e tabaco",
+      "ind_string" : "101,90",
+      "valor" : "101.9"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FROOPP",
+      "dim_3_t" : "Índice total, excluindo compras diretas frequentes",
+      "ind_string" : "102,81",
+      "valor" : "102.81"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD",
+      "dim_3_t" : "Produtos alimentares, incluindo álcool e tabaco",
+      "ind_string" : "102,84",
+      "valor" : "102.84"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_MSC",
+      "dim_3_t" : "Serviços diversos",
+      "ind_string" : "103,27",
+      "valor" : "103.27"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD_NP",
+      "dim_3_t" : "Índice total, excluindo energia e produtos alimentares não transformados",
+      "ind_string" : "103,37",
+      "valor" : "103.37"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD_S",
+      "dim_3_t" : "Índice total, excluindo energia e produtos alimentares sazonais",
+      "ind_string" : "103,40",
+      "valor" : "103.4"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FUEL",
+      "dim_3_t" : "Índice total, excluindo combustíveis líquidos e combustível e lubrificantes para equipamento para transporte pessoal",
+      "ind_string" : "103,41",
+      "valor" : "103.41"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG",
+      "dim_3_t" : "Índice total, excluindo energia",
+      "ind_string" : "103,48",
+      "valor" : "103.48"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "EDUC_HLTH_SPR",
+      "dim_3_t" : "Educação, saúde e proteção social",
+      "ind_string" : "103,62",
+      "valor" : "103.62"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD",
+      "dim_3_t" : "Índice total, excluindo energia, produtos alimentares, álcool e tabaco",
+      "ind_string" : "103,69",
+      "valor" : "103.69"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FOOD_S",
+      "dim_3_t" : "Índice total, excluindo produtos alimentares sazonais",
+      "ind_string" : "104,02",
+      "valor" : "104.02"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "104,07",
+      "valor" : "104.07"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_TBC",
+      "dim_3_t" : "Índice total, excluindo tabaco",
+      "ind_string" : "104,07",
+      "valor" : "104.07"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_HOUS",
+      "dim_3_t" : "Índice total, excluindo habitação, água, eletricidade, gás e outros combustíveis",
+      "ind_string" : "104,10",
+      "valor" : "104.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_ALC_TBC",
+      "dim_3_t" : "Índice total, excluindo álcool e tabaco",
+      "ind_string" : "104,11",
+      "valor" : "104.11"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_EDUC_HLTH_SPR",
+      "dim_3_t" : "Índice total, excluindo educação, saúde e proteção social",
+      "ind_string" : "104,11",
+      "valor" : "104.11"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_NP",
+      "dim_3_t" : "Produtos alimentares não transformados",
+      "ind_string" : "104,61",
+      "valor" : "104.61"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_S",
+      "dim_3_t" : "Produtos alimentares sazonais",
+      "ind_string" : "105,16",
+      "valor" : "105.16"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FROOPP",
+      "dim_3_t" : "Compras diretas frequentes",
+      "ind_string" : "105,50",
+      "valor" : "105.5"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_HOUS",
+      "dim_3_t" : "Serviços relacionados com a habitação",
+      "ind_string" : "105,79",
+      "valor" : "105.79"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC_X_HOA",
+      "dim_3_t" : "Serviços relacionados com a recreação e os cuidados pessoais, excluindo férias organizadas e alojamento",
+      "ind_string" : "105,85",
+      "valor" : "105.85"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV",
+      "dim_3_t" : "Serviços (índice total, excluindo bens)",
+      "ind_string" : "106,93",
+      "valor" : "106.93"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG_FOOD_NP",
+      "dim_3_t" : "Energia e produtos alimentares não transformados",
+      "ind_string" : "108,19",
+      "valor" : "108.19"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC",
+      "dim_3_t" : "Serviços relacionados com a recreação, incluindo reparações e cuidados pessoais",
+      "ind_string" : "108,97",
+      "valor" : "108.97"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG_FOOD_S",
+      "dim_3_t" : "Energia e produtos alimentares sazonais",
+      "ind_string" : "109,72",
+      "valor" : "109.72"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_TRA",
+      "dim_3_t" : "Serviços relacionados com o transporte",
+      "ind_string" : "109,78",
+      "valor" : "109.78"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG",
+      "dim_3_t" : "Energia",
+      "ind_string" : "113,14",
+      "valor" : "113.14"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC_HOA",
+      "dim_3_t" : "Serviços relacionados com as férias organizadas e o alojamento",
+      "ind_string" : "116,12",
+      "valor" : "116.12"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FUEL",
+      "dim_3_t" : "Combustíveis líquidos e combustível e lubrificantes para equipamento para transporte pessoal",
+      "ind_string" : "123,35",
+      "valor" : "123.35"
+    } ],
+    "Setembro de 2026" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_COM",
+      "dim_3_t" : "Serviços relacionados com a comunicação",
+      "ind_string" : "97,51",
+      "valor" : "97.51"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_ND",
+      "dim_3_t" : "Bens industriais não energéticos, não duradouros",
+      "ind_string" : "101,14",
+      "valor" : "101.14"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "ELC_GAS",
+      "dim_3_t" : "Eletricidade, gás, combustíveis sólidos e energia térmica",
+      "ind_string" : "101,24",
+      "valor" : "101.24"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_D",
+      "dim_3_t" : "Bens industriais não energéticos, duradouros",
+      "ind_string" : "101,42",
+      "valor" : "101.42"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG",
+      "dim_3_t" : "Bens industriais não energéticos",
+      "ind_string" : "101,43",
+      "valor" : "101.43"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_SD",
+      "dim_3_t" : "Bens industriais não energéticos, semiduradouros",
+      "ind_string" : "101,67",
+      "valor" : "101.67"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P_X_TBC",
+      "dim_3_t" : "Produtos alimentares transformados, excluindo o tabaco",
+      "ind_string" : "101,74",
+      "valor" : "101.74"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P",
+      "dim_3_t" : "Produtos alimentares transformados, incluindo álcool e tabaco",
+      "ind_string" : "102,00",
+      "valor" : "102"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P_X_ALC_TBC",
+      "dim_3_t" : "Produtos alimentares transformados, excluindo álcool e tabaco",
+      "ind_string" : "102,06",
+      "valor" : "102.06"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD",
+      "dim_3_t" : "Produtos alimentares, incluindo álcool e tabaco",
+      "ind_string" : "103,10",
+      "valor" : "103.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_MSC",
+      "dim_3_t" : "Serviços diversos",
+      "ind_string" : "103,38",
+      "valor" : "103.38"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "EDUC_HLTH_SPR",
+      "dim_3_t" : "Educação, saúde e proteção social",
+      "ind_string" : "103,80",
+      "valor" : "103.8"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "GD",
+      "dim_3_t" : "Bens (índice total, excluindo serviços)",
+      "ind_string" : "103,99",
+      "valor" : "103.99"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FUEL",
+      "dim_3_t" : "Índice total, excluindo combustíveis líquidos e combustível e lubrificantes para equipamento para transporte pessoal",
+      "ind_string" : "104,30",
+      "valor" : "104.3"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD_S",
+      "dim_3_t" : "Índice total, excluindo energia e produtos alimentares sazonais",
+      "ind_string" : "104,31",
+      "valor" : "104.31"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD_NP",
+      "dim_3_t" : "Índice total, excluindo energia e produtos alimentares não transformados",
+      "ind_string" : "104,32",
+      "valor" : "104.32"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG",
+      "dim_3_t" : "Índice total, excluindo energia",
+      "ind_string" : "104,40",
+      "valor" : "104.4"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_TRA",
+      "dim_3_t" : "Serviços relacionados com o transporte",
+      "ind_string" : "104,72",
+      "valor" : "104.72"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD",
+      "dim_3_t" : "Bens industriais",
+      "ind_string" : "104,75",
+      "valor" : "104.75"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD",
+      "dim_3_t" : "Índice total, excluindo energia, produtos alimentares, álcool e tabaco",
+      "ind_string" : "104,83",
+      "valor" : "104.83"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FROOPP",
+      "dim_3_t" : "Índice total, excluindo compras diretas frequentes",
+      "ind_string" : "105,01",
+      "valor" : "105.01"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FOOD_S",
+      "dim_3_t" : "Índice total, excluindo produtos alimentares sazonais",
+      "ind_string" : "105,11",
+      "valor" : "105.11"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "105,15",
+      "valor" : "105.15"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_NP",
+      "dim_3_t" : "Produtos alimentares não transformados",
+      "ind_string" : "105,17",
+      "valor" : "105.17"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_TBC",
+      "dim_3_t" : "Índice total, excluindo tabaco",
+      "ind_string" : "105,17",
+      "valor" : "105.17"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_HOUS",
+      "dim_3_t" : "Índice total, excluindo habitação, água, eletricidade, gás e outros combustíveis",
+      "ind_string" : "105,26",
+      "valor" : "105.26"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_ALC_TBC",
+      "dim_3_t" : "Índice total, excluindo álcool e tabaco",
+      "ind_string" : "105,27",
+      "valor" : "105.27"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_EDUC_HLTH_SPR",
+      "dim_3_t" : "Índice total, excluindo educação, saúde e proteção social",
+      "ind_string" : "105,29",
+      "valor" : "105.29"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FROOPP",
+      "dim_3_t" : "Compras diretas frequentes",
+      "ind_string" : "105,35",
+      "valor" : "105.35"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC_X_HOA",
+      "dim_3_t" : "Serviços relacionados com a recreação e os cuidados pessoais, excluindo férias organizadas e alojamento",
+      "ind_string" : "105,78",
+      "valor" : "105.78"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_S",
+      "dim_3_t" : "Produtos alimentares sazonais",
+      "ind_string" : "106,06",
+      "valor" : "106.06"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_HOUS",
+      "dim_3_t" : "Serviços relacionados com a habitação",
+      "ind_string" : "106,07",
+      "valor" : "106.07"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV",
+      "dim_3_t" : "Serviços (índice total, excluindo bens)",
+      "ind_string" : "106,36",
+      "valor" : "106.36"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC",
+      "dim_3_t" : "Serviços relacionados com a recreação, incluindo reparações e cuidados pessoais",
+      "ind_string" : "109,10",
+      "valor" : "109.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG_FOOD_NP",
+      "dim_3_t" : "Energia e produtos alimentares não transformados",
+      "ind_string" : "110,05",
+      "valor" : "110.05"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG_FOOD_S",
+      "dim_3_t" : "Energia e produtos alimentares sazonais",
+      "ind_string" : "112,18",
+      "valor" : "112.18"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC_HOA",
+      "dim_3_t" : "Serviços relacionados com as férias organizadas e o alojamento",
+      "ind_string" : "116,73",
+      "valor" : "116.73"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG",
+      "dim_3_t" : "Energia",
+      "ind_string" : "116,74",
+      "valor" : "116.74"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FUEL",
+      "dim_3_t" : "Combustíveis líquidos e combustível e lubrificantes para equipamento para transporte pessoal",
+      "ind_string" : "130,00",
+      "valor" : "130"
+    } ],
+    "Outubro de 2026" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_COM",
+      "dim_3_t" : "Serviços relacionados com a comunicação",
+      "ind_string" : "97,73",
+      "valor" : "97.73"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_D",
+      "dim_3_t" : "Bens industriais não energéticos, duradouros",
+      "ind_string" : "101,41",
+      "valor" : "101.41"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG",
+      "dim_3_t" : "Bens industriais não energéticos",
+      "ind_string" : "101,77",
+      "valor" : "101.77"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_ND",
+      "dim_3_t" : "Bens industriais não energéticos, não duradouros",
+      "ind_string" : "101,98",
+      "valor" : "101.98"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD_NNRG_SD",
+      "dim_3_t" : "Bens industriais não energéticos, semiduradouros",
+      "ind_string" : "102,12",
+      "valor" : "102.12"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P_X_ALC_TBC",
+      "dim_3_t" : "Produtos alimentares transformados, excluindo álcool e tabaco",
+      "ind_string" : "102,13",
+      "valor" : "102.13"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P_X_TBC",
+      "dim_3_t" : "Produtos alimentares transformados, excluindo o tabaco",
+      "ind_string" : "102,13",
+      "valor" : "102.13"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_P",
+      "dim_3_t" : "Produtos alimentares transformados, incluindo álcool e tabaco",
+      "ind_string" : "102,33",
+      "valor" : "102.33"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_TRA",
+      "dim_3_t" : "Serviços relacionados com o transporte",
+      "ind_string" : "103,10",
+      "valor" : "103.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "ELC_GAS",
+      "dim_3_t" : "Eletricidade, gás, combustíveis sólidos e energia térmica",
+      "ind_string" : "103,14",
+      "valor" : "103.14"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD",
+      "dim_3_t" : "Produtos alimentares, incluindo álcool e tabaco",
+      "ind_string" : "103,37",
+      "valor" : "103.37"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_MSC",
+      "dim_3_t" : "Serviços diversos",
+      "ind_string" : "104,00",
+      "valor" : "104"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD_NP",
+      "dim_3_t" : "Índice total, excluindo energia e produtos alimentares não transformados",
+      "ind_string" : "104,17",
+      "valor" : "104.17"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD_S",
+      "dim_3_t" : "Índice total, excluindo energia e produtos alimentares sazonais",
+      "ind_string" : "104,18",
+      "valor" : "104.18"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FUEL",
+      "dim_3_t" : "Índice total, excluindo combustíveis líquidos e combustível e lubrificantes para equipamento para transporte pessoal",
+      "ind_string" : "104,24",
+      "valor" : "104.24"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG",
+      "dim_3_t" : "Índice total, excluindo energia",
+      "ind_string" : "104,28",
+      "valor" : "104.28"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "EDUC_HLTH_SPR",
+      "dim_3_t" : "Educação, saúde e proteção social",
+      "ind_string" : "104,38",
+      "valor" : "104.38"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "GD",
+      "dim_3_t" : "Bens (índice total, excluindo serviços)",
+      "ind_string" : "104,46",
+      "valor" : "104.46"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_NRG_FOOD",
+      "dim_3_t" : "Índice total, excluindo energia, produtos alimentares, álcool e tabaco",
+      "ind_string" : "104,57",
+      "valor" : "104.57"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FROOPP",
+      "dim_3_t" : "Índice total, excluindo compras diretas frequentes",
+      "ind_string" : "104,79",
+      "valor" : "104.79"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_FOOD_S",
+      "dim_3_t" : "Índice total, excluindo produtos alimentares sazonais",
+      "ind_string" : "105,09",
+      "valor" : "105.09"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "105,14",
+      "valor" : "105.14"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_HOUS",
+      "dim_3_t" : "Índice total, excluindo habitação, água, eletricidade, gás e outros combustíveis",
+      "ind_string" : "105,16",
+      "valor" : "105.16"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_TBC",
+      "dim_3_t" : "Índice total, excluindo tabaco",
+      "ind_string" : "105,16",
+      "valor" : "105.16"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_ALC_TBC",
+      "dim_3_t" : "Índice total, excluindo álcool e tabaco",
+      "ind_string" : "105,21",
+      "valor" : "105.21"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "TOT_X_EDUC_HLTH_SPR",
+      "dim_3_t" : "Índice total, excluindo educação, saúde e proteção social",
+      "ind_string" : "105,21",
+      "valor" : "105.21"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_NP",
+      "dim_3_t" : "Produtos alimentares não transformados",
+      "ind_string" : "105,30",
+      "valor" : "105.3"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "IGD",
+      "dim_3_t" : "Bens industriais",
+      "ind_string" : "105,38",
+      "valor" : "105.38"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FROOPP",
+      "dim_3_t" : "Compras diretas frequentes",
+      "ind_string" : "105,57",
+      "valor" : "105.57"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV",
+      "dim_3_t" : "Serviços (índice total, excluindo bens)",
+      "ind_string" : "105,83",
+      "valor" : "105.83"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC_X_HOA",
+      "dim_3_t" : "Serviços relacionados com a recreação e os cuidados pessoais, excluindo férias organizadas e alojamento",
+      "ind_string" : "106,03",
+      "valor" : "106.03"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FOOD_S",
+      "dim_3_t" : "Produtos alimentares sazonais",
+      "ind_string" : "106,05",
+      "valor" : "106.05"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_HOUS",
+      "dim_3_t" : "Serviços relacionados com a habitação",
+      "ind_string" : "106,35",
+      "valor" : "106.35"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC",
+      "dim_3_t" : "Serviços relacionados com a recreação, incluindo reparações e cuidados pessoais",
+      "ind_string" : "108,05",
+      "valor" : "108.05"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG_FOOD_NP",
+      "dim_3_t" : "Energia e produtos alimentares não transformados",
+      "ind_string" : "110,84",
+      "valor" : "110.84"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "SERV_REC_HOA",
+      "dim_3_t" : "Serviços relacionados com as férias organizadas e o alojamento",
+      "ind_string" : "112,74",
+      "valor" : "112.74"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG_FOOD_S",
+      "dim_3_t" : "Energia e produtos alimentares sazonais",
+      "ind_string" : "113,14",
+      "valor" : "113.14"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "NRG",
+      "dim_3_t" : "Energia",
+      "ind_string" : "118,42",
+      "valor" : "118.42"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "FUEL",
+      "dim_3_t" : "Combustíveis líquidos e combustível e lubrificantes para equipamento para transporte pessoal",
+      "ind_string" : "131,50",
+      "valor" : "131.5"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
