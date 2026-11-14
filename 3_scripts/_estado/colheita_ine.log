@@ -1557,3 +1557,21 @@
 2026-11-13 23:38:31  --- volta: até 120 pedidos / 50 min · erro: 22 · feito: 1011 · pendente: 3230 · sem_geografia: 1
 2026-11-13 23:42:03  pendente      0008971 Índices de preços na produção industrial no mercado interno         0 valores  (interrompido a meio; retoma na próxima volta)
 2026-11-13 23:42:03  --- INE recusou — pára até à próxima volta: 2 pedidos · erro: 22 · feito: 1011 · pendente: 3230 · sem_geografia: 1
+2026-11-14 06:35:56  --- volta: até 120 pedidos / 50 min · erro: 22 · feito: 1011 · pendente: 3230 · sem_geografia: 1
+2026-11-14 06:35:57  calendário do INE: 50 publicações previstas; nenhuma hoje
+2026-11-14 06:35:57  a descarregar o catálogo do INE catalogo.xml — leitura diária (1 pedido, pode demorar)
+2026-11-14 06:36:04  catálogo catalogo.xml integrado: 326 indicadores no catálogo, 0 novos com nível municipal, 0 reabertos por atualização do INE
+2026-11-14 06:36:04  a descarregar o catálogo do INE catalogo_opc2.xml — leitura diária (1 pedido, pode demorar)
+2026-11-14 06:36:18  catálogo catalogo_opc2.xml integrado: 13243 indicadores no catálogo, 0 novos com nível municipal, 0 reabertos por atualização do INE
+2026-11-14 06:39:01  feito         0008971 Índices de preços na produção industrial no mercado interno     24102 valores  (geografias inexistentes: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinh)
+2026-11-14 06:44:46  feito         0008972 Índices de preços na produção industrial no mercado externo      5859 valores  (geografias inexistentes: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinh)
+2026-11-14 06:51:14  erro          0008973 Índices de preços na produção industrial no mercado externo   — o INE responde a outros pedidos; segue para o próximo (1/3)
+2026-11-14 06:52:51  feito         0008974 Índices de preços na produção industrial - Total - bruto (Ta     7161 valores  (geografias inexistentes: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinh)
+2026-11-14 06:55:29  feito         0008975 Índices de preços na produção industrial - Total - bruto (Ta     6798 valores  (geografias inexistentes: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinh)
+2026-11-14 06:57:01  feito         0011783 Índice de produção na construção e obras públicas - ajustado      741 valores  (geografias inexistentes: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinh)
+2026-11-14 07:00:29  feito         0011845 Índice de produção na construção e obras públicas - ajustado      714 valores  (geografias inexistentes: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinh)
+2026-11-14 07:04:12  feito         0011846 Índice de produção na construção e obras públicas - ajustado      714 valores  (geografias inexistentes: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinh)
+2026-11-14 07:05:45  feito         0011856 Índice de produção na construção e obras públicas - bruto (T     1032 valores  (geografias inexistentes: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinh)
+2026-11-14 07:09:33  feito         0011857 Índice de produção na construção e obras públicas - ajustado     1032 valores  (geografias inexistentes: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinh)
+2026-11-14 07:26:55  erro          0014639 Índice de preços no consumidor (IPC, Base - 2025)              389220 valores  (interrompido a meio; retoma na próxima volta)
+2026-11-14 07:26:55  --- fim da volta (limite de pedidos/tempo): 51 pedidos · erro: 18 · feito: 1020 · pendente: 3225 · sem_geografia: 1
