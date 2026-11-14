@@ -191,3 +191,68 @@ Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos,
 - **0013214** Dormidas (N.º) nos estabelecimentos de alojamento turístico — 1000 valores, 1 ficheiros novos
     - `0013214_dados_01b7c9cf99.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013214&lang=PT&Dim1=S7A2022,S7A2023,S7A2024,S7A2025&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
 - **0013284** Estabelecimentos de alojamento turístico (N.º) — 0 valores, 0 ficheiros novos; FALHAS: metadados: orçamento da volta esgotado
+
+## Extração — 2026-11-14 23:54 — séries completas
+Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal. Todas as categorias das restantes dimensões.
+
+- **0013284** Estabelecimentos de alojamento turístico (N.º) — 1000 valores, 1 ficheiros novos
+    - `0013284_dados_a27410eb8c.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013284&lang=PT&Dim1=S7A2022,S7A2023,S7A2024,S7A2025&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013285** Proveitos totais (€) nos estabelecimentos de alojamento turístico — 1000 valores, 1 ficheiros novos
+    - `0013285_dados_c9e0877637.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013285&lang=PT&Dim1=S7A2022,S7A2023,S7A2024,S7A2025&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013286** Proveitos de aposento (€) nos estabelecimentos de alojamento turístico — 1000 valores, 1 ficheiros novos
+    - `0013286_dados_e2256af706.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013286&lang=PT&Dim1=S7A2022,S7A2023,S7A2024,S7A2025&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013287** Estada média (N.º) nos estabelecimentos de alojamento turístico — 1000 valores, 1 ficheiros novos
+    - `0013287_dados_7c438b57ba.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013287&lang=PT&Dim1=S7A2022,S7A2023,S7A2024,S7A2025&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013288** Taxa líquida de ocupação cama (%) nos estabelecimentos de alojamento turístico — 1000 valores, 1 ficheiros novos
+    - `0013288_dados_0e0cdf460e.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013288&lang=PT&Dim1=S7A2022,S7A2023,S7A2024,S7A2025&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013311** Estada média (N.º) nos estabelecimentos de alojamento turístico — 2000 valores, 1 ficheiros novos
+    - `0013311_dados_df3e9554f8.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013311&lang=PT&Dim1=S7A2022,S7A2023,S7A2024,S7A2025&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013312** Hóspedes por habitante (N.º) nos estabelecimentos de alojamento turístico — 40 valores, 1 ficheiros novos
+    - `0013312_dados_48885e2b49.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013312&lang=PT&Dim1=S7A2022,S7A2023,S7A2024,S7A2025&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013313** Proporção de dormidas entre julho-setembro (%) nos estabelecimentos de alojamento turístico — 160 valores, 1 ficheiros novos
+    - `0013313_dados_74d8214fe3.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013313&lang=PT&Dim1=S7A2022,S7A2023,S7A2024,S7A2025&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013364** Capacidade de alojamento nos estabelecimentos de alojamento turístico por 1000 habitantes (N.º) — 30 valores, 1 ficheiros novos
+    - `0013364_dados_e39e879343.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013364&lang=PT&Dim1=S7A2023,S7A2024,S7A2025&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013365** Quartos (N.º) em estabelecimentos de alojamento turístico — 750 valores, 1 ficheiros novos
+    - `0013365_dados_ab8f248ef5.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013365&lang=PT&Dim1=S7A2023,S7A2024,S7A2025&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013366** Capacidade de alojamento (N.º) nos estabelecimentos de alojamento turístico — 750 valores, 1 ficheiros novos
+    - `0013366_dados_4a8972f88b.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013366&lang=PT&Dim1=S7A2023,S7A2024,S7A2025&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012426** Alunas/os matriculadas/os no ensino não superior em ofertas de educação e formação orientadas para adultos (N.º) — 2200 valores, 1 ficheiros novos
+    - `0012426_dados_9473b70e64.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012426&lang=PT&Dim1=7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3,7A2024_3,7A2025_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012428** Alunas/os matriculadas/os no ensino não superior público em ofertas de educação e formação orientadas para adultos (N.º) — 2200 valores, 1 ficheiros novos
+    - `0012428_dados_32ac25cbdc.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012428&lang=PT&Dim1=7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3,7A2024_3,7A2025_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012587** Indivíduos com 18 e mais anos de idade certificados pelo sistema de reconhecimento, validação e certificação de competências (N.º) — 330 valores, 1 ficheiros novos
+    - `0012587_dados_aaee64aefa.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012587&lang=PT&Dim1=7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3,7A2024_3,7A2025_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012588** Indivíduos com 18 e mais anos de idade que participaram em cursos de educação e formação de adultos (N.º) — 550 valores, 1 ficheiros novos
+    - `0012588_dados_bfa896d089.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012588&lang=PT&Dim1=7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3,7A2024_3,7A2025_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012431** Estabelecimentos de ensino básico (1º ciclo) com menos de 10 alunos (N.º) — 110 valores, 1 ficheiros novos
+    - `0012431_dados_26f37012b4.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012431&lang=PT&Dim1=7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3,7A2024_3,7A2025_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012583** Estabelecimentos de ensino básico (1º ciclo) com menos de 21 alunos (N.º) — 110 valores, 1 ficheiros novos
+    - `0012583_dados_eedaeb9c22.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012583&lang=PT&Dim1=7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3,7A2024_3,7A2025_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012618** Taxa de retenção e desistência no ensino básico (%) — 1320 valores, 1 ficheiros novos
+    - `0012618_dados_89dea3d0dd.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012618&lang=PT&Dim1=7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3,7A2024_3,7A2025_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012619** Taxa de transição/ conclusão no ensino básico (%) — 1320 valores, 1 ficheiros novos
+    - `0012619_dados_fcf77f78a2.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012619&lang=PT&Dim1=7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3,7A2024_3,7A2025_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009047** Ganho médio mensal (€) — 120 valores, 1 ficheiros novos
+    - `0009047_dados_88cf35a21b.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009047&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009049** Disparidade no ganho médio mensal (Entre níveis de habilitação - %) da população empregada por conta de outrem — 120 valores, 1 ficheiros novos
+    - `0009049_dados_266f04de6c.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009049&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009050** Disparidade no ganho médio mensal (Entre setores de atividade em CAE Rev.3 - %) da população empregada por conta de outrem — 120 valores, 1 ficheiros novos
+    - `0009050_dados_3f42f7e892.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009050&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009051** Disparidade no ganho médio mensal (Entre profissões - %) da população empregada por conta de outrem — 120 valores, 1 ficheiros novos
+    - `0009051_dados_b57b69d0b3.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009051&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009052** Proporção da população empregada por conta de outrem com ensino superior (%) — 120 valores, 1 ficheiros novos
+    - `0009052_dados_521d92a87c.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009052&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009059** Disparidade no ganho médio mensal (Entre sexos - %) da população empregada por conta de outrem — 120 valores, 1 ficheiros novos
+    - `0009059_dados_0775f59900.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009059&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013061** Pessoal ao serviço (Série CAE Rev. 3 - N.º) nos estabelecimentos de caixas de crédito agrícola mútuo — 30 valores, 1 ficheiros novos
+    - `0013061_dados_1e507f7d22.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013061&lang=PT&Dim1=S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013062** Custos com o pessoal (Série CAE Rev. 3 - €) nos estabelecimentos de caixas de crédito agrícola mútuo — 30 valores, 1 ficheiros novos
+    - `0013062_dados_09704d64dc.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013062&lang=PT&Dim1=S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013008** Ganho mensal (€) — 360 valores, 1 ficheiros novos
+    - `0013008_dados_b261f7d623.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013008&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013009** Ganho mensal (€) — 480 valores, 1 ficheiros novos
+    - `0013009_dados_e4e3f34550.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013009&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013010** Ganho mensal (€) — 480 valores, 1 ficheiros novos
+    - `0013010_dados_132c5666cc.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013010&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013011** Ganho mensal (€) — 0 valores, 0 ficheiros novos; FALHAS: metadados: orçamento da volta esgotado
