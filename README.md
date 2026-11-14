@@ -26,3 +26,11 @@ Colheita lenta e contínua dos indicadores do INE com dados por município, para
 - **Só o que mudou:** cada domínio só é descarregado se o BP o atualizou (`obs_updated_at`) depois da última extração guardada; se nenhum mudou, a corrida não grava nada.
 - **Onde fica:** `1_bruto/bportugal/<AAAA-MM-DD>/d<domínio>/` — metadados, dimensões e páginas de dados exatamente como devolvidas + `_entrega.md`. Só se acrescenta.
 - **Passagem para a base local:** `sincronizar_github.py` traz as pastas novas; depois `carregar_bportugal.py` e `construir_duckdb.py` (scripts da base local).
+
+## E-Redes (portal de dados abertos)
+
+- **Agendamento:** `.github/workflows/colheita_eredes.yml` corre `3_scripts/extrair_eredes_aberto.py` no dia 5 de cada mês (06:41 UTC). Para correr à mão: **Actions → Colheita E-Redes → Run workflow**.
+- **O que colhe:** API pública do portal de dados abertos da E-Redes (Opendatasoft, licença CC BY 4.0): consumo mensal de energia ativa faturada por distrito, concelho, freguesia e nível de tensão (todo o país) e consumo total nacional.
+- **Só o que mudou:** cada conjunto só é descarregado se a E-Redes o processou depois da última extração guardada; se nenhum mudou, a corrida não grava nada.
+- **Onde fica:** `1_bruto/eredes-aberto/<AAAA-MM-DD>/<conjunto>/` — `conjunto.json` (metadados tal como devolvidos) e `dados.csv.gz` (exportação completa, comprimida) + `_entrega.md`. Só se acrescenta.
+- **Passagem para a base local:** `sincronizar_github.py` traz as pastas novas.
