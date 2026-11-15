@@ -1,0 +1,101 @@
+[ {
+  "IndicadorCod" : "0014094",
+  "IndicadorDsg" : "Sobrevivências (N.º) de empresas nascidas 1 ano antes por Localização geográfica (NUTS - 2024) e Forma jurídica; Anual - INE, Demografia das empresas",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0014094&lingua=PT",
+  "DataExtracao" : "2026-11-15T18:10:37.950Z",
+  "DataUltimoAtualizacao" : "2025-12-11",
+  "UltimoPref" : "2024",
+  "Dados" : {
+    "2023" : [ {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "Sociedade",
+      "ind_string" : "438",
+      "valor" : "438"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "Sociedade",
+      "ind_string" : "853",
+      "valor" : "853"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "Empresa individual",
+      "ind_string" : "1 161",
+      "valor" : "1161"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 599",
+      "valor" : "1599"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "Empresa individual",
+      "ind_string" : "2 403",
+      "valor" : "2403"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 256",
+      "valor" : "3256"
+    } ],
+    "2024" : [ {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "Sociedade",
+      "ind_string" : "429",
+      "valor" : "429"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "Sociedade",
+      "ind_string" : "937",
+      "valor" : "937"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "Empresa individual",
+      "ind_string" : "1 224",
+      "valor" : "1224"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 653",
+      "valor" : "1653"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "Empresa individual",
+      "ind_string" : "2 464",
+      "valor" : "2464"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 401",
+      "valor" : "3401"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

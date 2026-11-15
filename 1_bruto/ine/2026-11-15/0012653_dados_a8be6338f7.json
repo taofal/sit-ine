@@ -1,0 +1,635 @@
+[ {
+  "IndicadorCod" : "0012653",
+  "IndicadorDsg" : "Ganho médio mensal (€) por Localização geográfica (NUTS - 2024) e Nível de educação; Anual - MTSSS/GEP, Quadros de pessoal",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0012653&lingua=PT",
+  "DataExtracao" : "2026-11-15T17:54:32.511Z",
+  "DataUltimoAtualizacao" : "2026-03-27",
+  "UltimoPref" : "2024",
+  "Dados" : {
+    "2021" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "ind_string" : "808,45",
+      "valor" : "808.45"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "ind_string" : "865,32",
+      "valor" : "865.32"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "1.º ciclo do ensino básico",
+      "ind_string" : "933,96",
+      "valor" : "933.96"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "1.º ciclo do ensino básico",
+      "ind_string" : "941,56",
+      "valor" : "941.56"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "3",
+      "dim_3_t" : "2.º ciclo do ensino básico",
+      "ind_string" : "955,77",
+      "valor" : "955.77"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "4",
+      "dim_3_t" : "3.º ciclo do ensino básico",
+      "ind_string" : "1 000,34",
+      "valor" : "1000.34"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "6",
+      "dim_3_t" : "Curso técnico superior profissional",
+      "ind_string" : "1 019,10",
+      "valor" : "1019.1"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "4",
+      "dim_3_t" : "3.º ciclo do ensino básico",
+      "ind_string" : "1 038,41",
+      "valor" : "1038.41"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "3",
+      "dim_3_t" : "2.º ciclo do ensino básico",
+      "ind_string" : "1 062,33",
+      "valor" : "1062.33"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "5",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "1 097,48",
+      "valor" : "1097.48"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 193,51",
+      "valor" : "1193.51"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "5",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "1 223,48",
+      "valor" : "1223.48"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 234,49",
+      "valor" : "1234.49"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "6",
+      "dim_3_t" : "Curso técnico superior profissional",
+      "ind_string" : "1 234,89",
+      "valor" : "1234.89"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "7",
+      "dim_3_t" : "Bacharelato",
+      "ind_string" : "1 587,17",
+      "valor" : "1587.17"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "8",
+      "dim_3_t" : "Licenciatura",
+      "ind_string" : "1 672,66",
+      "valor" : "1672.66"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "8",
+      "dim_3_t" : "Licenciatura",
+      "ind_string" : "1 768,71",
+      "valor" : "1768.71"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "9",
+      "dim_3_t" : "Mestrado",
+      "ind_string" : "1 787,80",
+      "valor" : "1787.8"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "9",
+      "dim_3_t" : "Mestrado",
+      "ind_string" : "1 850,70",
+      "valor" : "1850.7"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "7",
+      "dim_3_t" : "Bacharelato",
+      "ind_string" : "1 934,68",
+      "valor" : "1934.68"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "10",
+      "dim_3_t" : "Doutoramento",
+      "ind_string" : "2 212,99",
+      "valor" : "2212.99"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "10",
+      "dim_3_t" : "Doutoramento",
+      "ind_string" : "2 400,41",
+      "valor" : "2400.41"
+    } ],
+    "2022" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "ind_string" : "864,89",
+      "valor" : "864.89"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "ind_string" : "902,95",
+      "valor" : "902.95"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "1.º ciclo do ensino básico",
+      "ind_string" : "981,68",
+      "valor" : "981.68"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "1.º ciclo do ensino básico",
+      "ind_string" : "998,74",
+      "valor" : "998.74"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "3",
+      "dim_3_t" : "2.º ciclo do ensino básico",
+      "ind_string" : "1 019,58",
+      "valor" : "1019.58"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "4",
+      "dim_3_t" : "3.º ciclo do ensino básico",
+      "ind_string" : "1 056,84",
+      "valor" : "1056.84"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "4",
+      "dim_3_t" : "3.º ciclo do ensino básico",
+      "ind_string" : "1 095,37",
+      "valor" : "1095.37"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "6",
+      "dim_3_t" : "Curso técnico superior profissional",
+      "ind_string" : "1 116,20",
+      "valor" : "1116.2"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "5",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "1 131,57",
+      "valor" : "1131.57"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "3",
+      "dim_3_t" : "2.º ciclo do ensino básico",
+      "ind_string" : "1 153,81",
+      "valor" : "1153.81"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 257,75",
+      "valor" : "1257.75"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "6",
+      "dim_3_t" : "Curso técnico superior profissional",
+      "ind_string" : "1 263,39",
+      "valor" : "1263.39"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "5",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "1 275,16",
+      "valor" : "1275.16"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 285,98",
+      "valor" : "1285.98"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "7",
+      "dim_3_t" : "Bacharelato",
+      "ind_string" : "1 568,95",
+      "valor" : "1568.95"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "8",
+      "dim_3_t" : "Licenciatura",
+      "ind_string" : "1 720,12",
+      "valor" : "1720.12"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "8",
+      "dim_3_t" : "Licenciatura",
+      "ind_string" : "1 844,89",
+      "valor" : "1844.89"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "9",
+      "dim_3_t" : "Mestrado",
+      "ind_string" : "1 859,39",
+      "valor" : "1859.39"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "9",
+      "dim_3_t" : "Mestrado",
+      "ind_string" : "1 863,60",
+      "valor" : "1863.6"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "7",
+      "dim_3_t" : "Bacharelato",
+      "ind_string" : "1 870,20",
+      "valor" : "1870.2"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "10",
+      "dim_3_t" : "Doutoramento",
+      "ind_string" : "2 319,54",
+      "valor" : "2319.54"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "10",
+      "dim_3_t" : "Doutoramento",
+      "ind_string" : "2 452,59",
+      "valor" : "2452.59"
+    } ],
+    "2023" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "ind_string" : "961,30",
+      "valor" : "961.3"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "ind_string" : "977,54",
+      "valor" : "977.54"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "1.º ciclo do ensino básico",
+      "ind_string" : "1 062,67",
+      "valor" : "1062.67"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "1.º ciclo do ensino básico",
+      "ind_string" : "1 065,89",
+      "valor" : "1065.89"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "3",
+      "dim_3_t" : "2.º ciclo do ensino básico",
+      "ind_string" : "1 090,31",
+      "valor" : "1090.31"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "4",
+      "dim_3_t" : "3.º ciclo do ensino básico",
+      "ind_string" : "1 139,28",
+      "valor" : "1139.28"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "6",
+      "dim_3_t" : "Curso técnico superior profissional",
+      "ind_string" : "1 159,23",
+      "valor" : "1159.23"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "4",
+      "dim_3_t" : "3.º ciclo do ensino básico",
+      "ind_string" : "1 176,86",
+      "valor" : "1176.86"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "5",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "1 223,22",
+      "valor" : "1223.22"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "3",
+      "dim_3_t" : "2.º ciclo do ensino básico",
+      "ind_string" : "1 271,83",
+      "valor" : "1271.83"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "6",
+      "dim_3_t" : "Curso técnico superior profissional",
+      "ind_string" : "1 271,96",
+      "valor" : "1271.96"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 347,59",
+      "valor" : "1347.59"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "5",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "1 357,32",
+      "valor" : "1357.32"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 391,43",
+      "valor" : "1391.43"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "7",
+      "dim_3_t" : "Bacharelato",
+      "ind_string" : "1 768,49",
+      "valor" : "1768.49"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "8",
+      "dim_3_t" : "Licenciatura",
+      "ind_string" : "1 823,91",
+      "valor" : "1823.91"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "8",
+      "dim_3_t" : "Licenciatura",
+      "ind_string" : "1 959,31",
+      "valor" : "1959.31"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "7",
+      "dim_3_t" : "Bacharelato",
+      "ind_string" : "1 983,10",
+      "valor" : "1983.1"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "9",
+      "dim_3_t" : "Mestrado",
+      "ind_string" : "2 008,61",
+      "valor" : "2008.61"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "9",
+      "dim_3_t" : "Mestrado",
+      "ind_string" : "2 037,12",
+      "valor" : "2037.12"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "10",
+      "dim_3_t" : "Doutoramento",
+      "ind_string" : "2 554,10",
+      "valor" : "2554.1"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "10",
+      "dim_3_t" : "Doutoramento",
+      "ind_string" : "2 740,32",
+      "valor" : "2740.32"
+    } ],
+    "2024" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "ind_string" : "997,15",
+      "valor" : "997.15"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "ind_string" : "1 099,26",
+      "valor" : "1099.26"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "1.º ciclo do ensino básico",
+      "ind_string" : "1 158,66",
+      "valor" : "1158.66"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "1.º ciclo do ensino básico",
+      "ind_string" : "1 163,82",
+      "valor" : "1163.82"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "3",
+      "dim_3_t" : "2.º ciclo do ensino básico",
+      "ind_string" : "1 191,54",
+      "valor" : "1191.54"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "4",
+      "dim_3_t" : "3.º ciclo do ensino básico",
+      "ind_string" : "1 233,57",
+      "valor" : "1233.57"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "4",
+      "dim_3_t" : "3.º ciclo do ensino básico",
+      "ind_string" : "1 296,25",
+      "valor" : "1296.25"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "5",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "1 303,57",
+      "valor" : "1303.57"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "6",
+      "dim_3_t" : "Curso técnico superior profissional",
+      "ind_string" : "1 367,59",
+      "valor" : "1367.59"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "3",
+      "dim_3_t" : "2.º ciclo do ensino básico",
+      "ind_string" : "1 391,62",
+      "valor" : "1391.62"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "5",
+      "dim_3_t" : "Ensino secundário",
+      "ind_string" : "1 452,64",
+      "valor" : "1452.64"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 461,12",
+      "valor" : "1461.12"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "6",
+      "dim_3_t" : "Curso técnico superior profissional",
+      "ind_string" : "1 483,74",
+      "valor" : "1483.74"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 544,78",
+      "valor" : "1544.78"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "7",
+      "dim_3_t" : "Bacharelato",
+      "ind_string" : "1 841,75",
+      "valor" : "1841.75"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "8",
+      "dim_3_t" : "Licenciatura",
+      "ind_string" : "2 037,52",
+      "valor" : "2037.52"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "7",
+      "dim_3_t" : "Bacharelato",
+      "ind_string" : "2 038,83",
+      "valor" : "2038.83"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "8",
+      "dim_3_t" : "Licenciatura",
+      "ind_string" : "2 051,43",
+      "valor" : "2051.43"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "9",
+      "dim_3_t" : "Mestrado",
+      "ind_string" : "2 099,80",
+      "valor" : "2099.8"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "9",
+      "dim_3_t" : "Mestrado",
+      "ind_string" : "2 441,26",
+      "valor" : "2441.26"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "10",
+      "dim_3_t" : "Doutoramento",
+      "ind_string" : "2 818,07",
+      "valor" : "2818.07"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "10",
+      "dim_3_t" : "Doutoramento",
+      "ind_string" : "3 025,04",
+      "valor" : "3025.04"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

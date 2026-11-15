@@ -1,0 +1,101 @@
+[ {
+  "IndicadorCod" : "0011649",
+  "IndicadorDsg" : "Proporção da população residente com ensino superior completo (%) por Local de residência à data dos Censos [2021] (NUTS - 2013) e Sexo; Decenal - INE, Recenseamento da população e habitação - Censos 2021",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0011649&lingua=PT",
+  "DataExtracao" : "2026-11-15T17:47:43.377Z",
+  "DataUltimoAtualizacao" : "2022-11-23",
+  "UltimoPref" : "2021",
+  "Dados" : {
+    "2011" : [ {
+      "geocod" : "0312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "8,93",
+      "valor" : "8.93"
+    }, {
+      "geocod" : "0312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "10,99",
+      "valor" : "10.99"
+    }, {
+      "geocod" : "0312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "12,85",
+      "valor" : "12.85"
+    }, {
+      "geocod" : "0303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "17,61",
+      "valor" : "17.61"
+    }, {
+      "geocod" : "0303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "21,06",
+      "valor" : "21.06"
+    }, {
+      "geocod" : "0303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "24,08",
+      "valor" : "24.08"
+    } ],
+    "2021" : [ {
+      "geocod" : "0312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "13,46",
+      "valor" : "13.46"
+    }, {
+      "geocod" : "0312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "16,38",
+      "valor" : "16.38"
+    }, {
+      "geocod" : "0312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "19,04",
+      "valor" : "19.04"
+    }, {
+      "geocod" : "0303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "25,32",
+      "valor" : "25.32"
+    }, {
+      "geocod" : "0303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "29,19",
+      "valor" : "29.19"
+    }, {
+      "geocod" : "0303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "32,57",
+      "valor" : "32.57"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

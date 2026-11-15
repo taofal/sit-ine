@@ -1,0 +1,37 @@
+[ {
+  "IndicadorCod" : "0014086",
+  "IndicadorDsg" : "Taxa de sobrevivência (%) das Empresas nascidas 2 anos antes por Localização geográfica (NUTS - 2024); Anual - INE, Demografia das empresas",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0014086&lingua=PT",
+  "DataExtracao" : "2026-11-15T18:10:28.600Z",
+  "DataUltimoAtualizacao" : "2025-12-11",
+  "UltimoPref" : "2024",
+  "Dados" : {
+    "2023" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "58,17",
+      "valor" : "58.17"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "65,28",
+      "valor" : "65.28"
+    } ],
+    "2024" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "57,28",
+      "valor" : "57.28"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "60,72",
+      "valor" : "60.72"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "IndicadorCod" : "0014046",
+  "IndicadorDsg" : "Indicador de concentração do volume de negócios das quatro maiores empresas (%) por Localização geográfica (NUTS - 2024); Anual - INE, Sistema de contas integradas das empresas",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0014046&lingua=PT",
+  "DataExtracao" : "2026-11-15T18:07:11.024Z",
+  "DataUltimoAtualizacao" : "2025-12-11",
+  "UltimoPref" : "2024",
+  "Dados" : {
+    "2023" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "21,84",
+      "valor" : "21.84"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "25,13",
+      "valor" : "25.13"
+    } ],
+    "2024" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "23,69",
+      "valor" : "23.69"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "24,46",
+      "valor" : "24.46"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

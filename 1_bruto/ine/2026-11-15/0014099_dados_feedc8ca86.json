@@ -1,0 +1,521 @@
+[ {
+  "IndicadorCod" : "0014099",
+  "IndicadorDsg" : "Nascimentos (N.º) de empresas por Localização geográfica (NUTS - 2024) e Atividade económica (Secção - CAE Rev. 3); Anual - INE, Demografia das empresas",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0014099&lingua=PT",
+  "DataExtracao" : "2026-11-15T18:15:09.965Z",
+  "DataUltimoAtualizacao" : "2025-12-11",
+  "UltimoPref" : "2024",
+  "Dados" : {
+    "2023" : [ {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "2",
+      "valor" : "2"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "D",
+      "dim_3_t" : "Eletricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "8",
+      "valor" : "8"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "D",
+      "dim_3_t" : "Eletricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "25",
+      "valor" : "25"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "30",
+      "valor" : "30"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "J",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "35",
+      "valor" : "35"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "46",
+      "valor" : "46"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "L",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "67",
+      "valor" : "67"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "H",
+      "dim_3_t" : "Transportes e armazenagem",
+      "ind_string" : "81",
+      "valor" : "81"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "R",
+      "dim_3_t" : "Atividades artísticas, de espetáculos, desportivas e recreativas",
+      "ind_string" : "100",
+      "valor" : "100"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "I",
+      "dim_3_t" : "Alojamento, restauração e similares",
+      "ind_string" : "101",
+      "valor" : "101"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "104",
+      "valor" : "104"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "110",
+      "valor" : "110"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "S",
+      "dim_3_t" : "Outras atividades de serviços",
+      "ind_string" : "118",
+      "valor" : "118"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "P",
+      "dim_3_t" : "Educação",
+      "ind_string" : "144",
+      "valor" : "144"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "F",
+      "dim_3_t" : "Construção",
+      "ind_string" : "155",
+      "valor" : "155"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "R",
+      "dim_3_t" : "Atividades artísticas, de espetáculos, desportivas e recreativas",
+      "ind_string" : "158",
+      "valor" : "158"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "L",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "175",
+      "valor" : "175"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "M",
+      "dim_3_t" : "Atividades de consultoria, científicas, técnicas e similares",
+      "ind_string" : "175",
+      "valor" : "175"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "I",
+      "dim_3_t" : "Alojamento, restauração e similares",
+      "ind_string" : "188",
+      "valor" : "188"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "Q",
+      "dim_3_t" : "Atividades de saúde humana e apoio social",
+      "ind_string" : "199",
+      "valor" : "199"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "J",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "207",
+      "valor" : "207"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "F",
+      "dim_3_t" : "Construção",
+      "ind_string" : "234",
+      "valor" : "234"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "S",
+      "dim_3_t" : "Outras atividades de serviços",
+      "ind_string" : "256",
+      "valor" : "256"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "P",
+      "dim_3_t" : "Educação",
+      "ind_string" : "274",
+      "valor" : "274"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos",
+      "ind_string" : "295",
+      "valor" : "295"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "H",
+      "dim_3_t" : "Transportes e armazenagem",
+      "ind_string" : "300",
+      "valor" : "300"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "Q",
+      "dim_3_t" : "Atividades de saúde humana e apoio social",
+      "ind_string" : "431",
+      "valor" : "431"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "M",
+      "dim_3_t" : "Atividades de consultoria, científicas, técnicas e similares",
+      "ind_string" : "483",
+      "valor" : "483"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos",
+      "ind_string" : "495",
+      "valor" : "495"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "N",
+      "dim_3_t" : "Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "543",
+      "valor" : "543"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "N",
+      "dim_3_t" : "Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "1 259",
+      "valor" : "1259"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "2 155",
+      "valor" : "2155"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 644",
+      "valor" : "4644"
+    } ],
+    "2024" : [ {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B",
+      "dim_3_t" : "Indústrias extrativas",
+      "ind_string" : "1",
+      "valor" : "1"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "2",
+      "valor" : "2"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "E",
+      "dim_3_t" : "Captação, tratamento e distribuição de água; saneamento, gestão de resíduos e despoluição",
+      "ind_string" : "2",
+      "valor" : "2"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "D",
+      "dim_3_t" : "Eletricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "19",
+      "valor" : "19"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "D",
+      "dim_3_t" : "Eletricidade, gás, vapor, água quente e fria e ar frio",
+      "ind_string" : "28",
+      "valor" : "28"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "32",
+      "valor" : "32"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "ind_string" : "49",
+      "valor" : "49"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "J",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "49",
+      "valor" : "49"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "L",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "77",
+      "valor" : "77"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "I",
+      "dim_3_t" : "Alojamento, restauração e similares",
+      "ind_string" : "86",
+      "valor" : "86"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "96",
+      "valor" : "96"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "C",
+      "dim_3_t" : "Indústrias transformadoras",
+      "ind_string" : "105",
+      "valor" : "105"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "H",
+      "dim_3_t" : "Transportes e armazenagem",
+      "ind_string" : "116",
+      "valor" : "116"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "R",
+      "dim_3_t" : "Atividades artísticas, de espetáculos, desportivas e recreativas",
+      "ind_string" : "124",
+      "valor" : "124"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "P",
+      "dim_3_t" : "Educação",
+      "ind_string" : "126",
+      "valor" : "126"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "R",
+      "dim_3_t" : "Atividades artísticas, de espetáculos, desportivas e recreativas",
+      "ind_string" : "127",
+      "valor" : "127"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "L",
+      "dim_3_t" : "Atividades imobiliárias",
+      "ind_string" : "153",
+      "valor" : "153"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "F",
+      "dim_3_t" : "Construção",
+      "ind_string" : "153",
+      "valor" : "153"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "S",
+      "dim_3_t" : "Outras atividades de serviços",
+      "ind_string" : "155",
+      "valor" : "155"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "Q",
+      "dim_3_t" : "Atividades de saúde humana e apoio social",
+      "ind_string" : "181",
+      "valor" : "181"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "I",
+      "dim_3_t" : "Alojamento, restauração e similares",
+      "ind_string" : "191",
+      "valor" : "191"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "M",
+      "dim_3_t" : "Atividades de consultoria, científicas, técnicas e similares",
+      "ind_string" : "204",
+      "valor" : "204"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "J",
+      "dim_3_t" : "Atividades de informação e de comunicação",
+      "ind_string" : "211",
+      "valor" : "211"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "F",
+      "dim_3_t" : "Construção",
+      "ind_string" : "279",
+      "valor" : "279"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "S",
+      "dim_3_t" : "Outras atividades de serviços",
+      "ind_string" : "297",
+      "valor" : "297"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos",
+      "ind_string" : "318",
+      "valor" : "318"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "P",
+      "dim_3_t" : "Educação",
+      "ind_string" : "329",
+      "valor" : "329"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "H",
+      "dim_3_t" : "Transportes e armazenagem",
+      "ind_string" : "399",
+      "valor" : "399"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "Q",
+      "dim_3_t" : "Atividades de saúde humana e apoio social",
+      "ind_string" : "400",
+      "valor" : "400"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G",
+      "dim_3_t" : "Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos",
+      "ind_string" : "464",
+      "valor" : "464"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "M",
+      "dim_3_t" : "Atividades de consultoria, científicas, técnicas e similares",
+      "ind_string" : "516",
+      "valor" : "516"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "N",
+      "dim_3_t" : "Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "530",
+      "valor" : "530"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "N",
+      "dim_3_t" : "Atividades administrativas e dos serviços de apoio",
+      "ind_string" : "1 306",
+      "valor" : "1306"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "2 268",
+      "valor" : "2268"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 857",
+      "valor" : "4857"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

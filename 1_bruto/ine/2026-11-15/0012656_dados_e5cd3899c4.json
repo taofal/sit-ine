@@ -1,0 +1,59 @@
+[ {
+  "IndicadorCod" : "0012656",
+  "IndicadorDsg" : "Ganho médio mensal (€) por Localização geográfica (NUTS - 2024); Anual - MTSSS/GEP, Quadros de pessoal",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0012656&lingua=PT",
+  "DataExtracao" : "2026-11-15T17:55:50.578Z",
+  "DataUltimoAtualizacao" : "2026-03-27",
+  "UltimoPref" : "2024",
+  "Dados" : {
+    "2021" : [ {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "1 193,5",
+      "valor" : "1193.5"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "1 234,5",
+      "valor" : "1234.5"
+    } ],
+    "2022" : [ {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "1 257,8",
+      "valor" : "1257.8"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "1 286,0",
+      "valor" : "1286"
+    } ],
+    "2023" : [ {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "1 347,6",
+      "valor" : "1347.6"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "1 391,4",
+      "valor" : "1391.4"
+    } ],
+    "2024" : [ {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "1 461,1",
+      "valor" : "1461.1"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "1 544,8",
+      "valor" : "1544.8"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

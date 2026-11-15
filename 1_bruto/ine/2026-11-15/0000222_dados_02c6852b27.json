@@ -1,0 +1,617 @@
+[ {
+  "IndicadorCod" : "0000222",
+  "IndicadorDsg" : "Depósitos de clientes (Série CAE Rev. 3 - €) nos estabelecimentos de outra intermediação monetária por Localização geográfica (NUTS - 2002) e Tipo de cliente; Anual - INE, Estatísticas das instituições de crédito e sociedades financeiras",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0000222&lingua=PT",
+  "DataExtracao" : "2026-11-15T18:29:40.654Z",
+  "DataUltimoAtualizacao" : "2014-10-31",
+  "UltimoPref" : "2013",
+  "Dados" : {
+    "2000" : [ {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "De emigrantes",
+      "ind_string" : "37 992",
+      "valor" : "37992"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "De emigrantes",
+      "ind_string" : "141 974",
+      "valor" : "141974"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "De outros clientes",
+      "ind_string" : "717 701",
+      "valor" : "717701"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "755 692",
+      "valor" : "755692"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "De outros clientes",
+      "ind_string" : "1 494 609",
+      "valor" : "1494609"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 636 583",
+      "valor" : "1636583"
+    } ],
+    "2001" : [ {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "De emigrantes",
+      "ind_string" : "38 206",
+      "valor" : "38206"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "De emigrantes",
+      "ind_string" : "161 869",
+      "valor" : "161869"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "De outros clientes",
+      "ind_string" : "765 979",
+      "valor" : "765979"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "804 185",
+      "valor" : "804185"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "De outros clientes",
+      "ind_string" : "1 461 879",
+      "valor" : "1461879"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 623 748",
+      "valor" : "1623748"
+    } ],
+    "2002" : [ {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "De emigrantes",
+      "ind_string" : "35 704",
+      "valor" : "35704"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "De emigrantes",
+      "ind_string" : "127 419",
+      "valor" : "127419"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "De outros clientes",
+      "ind_string" : "818 646",
+      "valor" : "818646"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "854 350",
+      "valor" : "854350"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "De outros clientes",
+      "ind_string" : "1 529 767",
+      "valor" : "1529767"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 657 186",
+      "valor" : "1657186"
+    } ],
+    "2003" : [ {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "De emigrantes",
+      "ind_string" : "36 635",
+      "valor" : "36635"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "De emigrantes",
+      "ind_string" : "115 313",
+      "valor" : "115313"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "De outros clientes",
+      "ind_string" : "869 589",
+      "valor" : "869589"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "906 224",
+      "valor" : "906224"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "De outros clientes",
+      "ind_string" : "1 500 056",
+      "valor" : "1500056"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 615 369",
+      "valor" : "1615369"
+    } ],
+    "2004" : [ {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "De emigrantes",
+      "ind_string" : "36 930",
+      "valor" : "36930"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "De emigrantes",
+      "ind_string" : "88 317",
+      "valor" : "88317"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "De outros clientes",
+      "ind_string" : "855 683",
+      "valor" : "855683"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "892 613",
+      "valor" : "892613"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "De outros clientes",
+      "ind_string" : "1 520 625",
+      "valor" : "1520625"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 608 942",
+      "valor" : "1608942"
+    } ],
+    "2005" : [ {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "De emigrantes",
+      "ind_string" : "34 347",
+      "valor" : "34347"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "De emigrantes",
+      "ind_string" : "72 719",
+      "valor" : "72719"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "De outros clientes",
+      "ind_string" : "859 857",
+      "valor" : "859857"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "894 204",
+      "valor" : "894204"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "De outros clientes",
+      "ind_string" : "1 568 332",
+      "valor" : "1568332"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 641 050",
+      "valor" : "1641050"
+    } ],
+    "2006" : [ {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "De emigrantes",
+      "ind_string" : "38 671",
+      "valor" : "38671"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "De emigrantes",
+      "ind_string" : "63 181",
+      "valor" : "63181"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "De outros clientes",
+      "ind_string" : "817 869",
+      "valor" : "817869"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "856 539",
+      "valor" : "856539"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "De outros clientes",
+      "ind_string" : "1 801 199",
+      "valor" : "1801199"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 864 379",
+      "valor" : "1864379"
+    } ],
+    "2007" : [ {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "De emigrantes",
+      "ind_string" : "21 474",
+      "valor" : "21474"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "De emigrantes",
+      "ind_string" : "59 100",
+      "valor" : "59100"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "De outros clientes",
+      "ind_string" : "896 400",
+      "valor" : "896400"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "917 874",
+      "valor" : "917874"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "De outros clientes",
+      "ind_string" : "1 953 448",
+      "valor" : "1953448"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2 012 548",
+      "valor" : "2012548"
+    } ],
+    "2008" : [ {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "De emigrantes",
+      "ind_string" : "25 440",
+      "valor" : "25440"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "De emigrantes",
+      "ind_string" : "68 926",
+      "valor" : "68926"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "De outros clientes",
+      "ind_string" : "1 052 885",
+      "valor" : "1052885"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 078 325",
+      "valor" : "1078325"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "De outros clientes",
+      "ind_string" : "2 316 286",
+      "valor" : "2316286"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2 385 212",
+      "valor" : "2385212"
+    } ],
+    "2009" : [ {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "De emigrantes",
+      "ind_string" : "26 477",
+      "valor" : "26477"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "De emigrantes",
+      "ind_string" : "68 646",
+      "valor" : "68646"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "De outros clientes",
+      "ind_string" : "1 111 823",
+      "valor" : "1111823"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 138 300",
+      "valor" : "1138300"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "De outros clientes",
+      "ind_string" : "2 546 233",
+      "valor" : "2546233"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2 614 879",
+      "valor" : "2614879"
+    } ],
+    "2010" : [ {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "De emigrantes",
+      "ind_string" : "25 222",
+      "valor" : "25222"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "De emigrantes",
+      "ind_string" : "69 116",
+      "valor" : "69116"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "De outros clientes",
+      "ind_string" : "1 093 717",
+      "valor" : "1093717"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 118 939",
+      "valor" : "1118939"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "De outros clientes",
+      "ind_string" : "2 799 600",
+      "valor" : "2799600"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2 868 716",
+      "valor" : "2868716"
+    } ],
+    "2011" : [ {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "De emigrantes",
+      "ind_string" : "29 940",
+      "valor" : "29940"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "De emigrantes",
+      "ind_string" : "77 689",
+      "valor" : "77689"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "De outros clientes",
+      "ind_string" : "1 167 630",
+      "valor" : "1167630"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 197 570",
+      "valor" : "1197570"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "De outros clientes",
+      "ind_string" : "2 966 713",
+      "valor" : "2966713"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 044 402",
+      "valor" : "3044402"
+    } ],
+    "2012" : [ {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "De emigrantes",
+      "ind_string" : "32 856",
+      "valor" : "32856"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "De emigrantes",
+      "ind_string" : "87 869",
+      "valor" : "87869"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "De outros clientes",
+      "ind_string" : "1 209 323",
+      "valor" : "1209323"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 242 178",
+      "valor" : "1242178"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "De outros clientes",
+      "ind_string" : "3 015 156",
+      "valor" : "3015156"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 103 025",
+      "valor" : "3103025"
+    } ],
+    "2013" : [ {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "De emigrantes",
+      "ind_string" : "35 924",
+      "valor" : "35924"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "De emigrantes",
+      "ind_string" : "80 330",
+      "valor" : "80330"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "De outros clientes",
+      "ind_string" : "1 193 032",
+      "valor" : "1193032"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 228 955",
+      "valor" : "1228955"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "De outros clientes",
+      "ind_string" : "2 992 624",
+      "valor" : "2992624"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 072 954",
+      "valor" : "3072954"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
