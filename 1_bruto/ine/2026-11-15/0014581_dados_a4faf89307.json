@@ -1,0 +1,66 @@
+[ {
+  "IndicadorCod" : "0014581",
+  "IndicadorDsg" : "Proporção de poder de compra (% - no total do País) por Localização geográfica (NUTS - 2024); Bienal - INE, Estudo sobre o poder de compra concelhio",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0014581&lingua=PT",
+  "DataExtracao" : "2026-11-15T03:14:34.462Z",
+  "DataUltimoAtualizacao" : "2025-11-06",
+  "UltimoPref" : "2023",
+  "Dados" : {
+    "2023" : [ {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "ind_string" : "0,553",
+      "valor" : "0.553"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "ind_string" : "0,903",
+      "valor" : "0.903"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "ind_string" : "1,314",
+      "valor" : "1.314"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "ind_string" : "2,019",
+      "valor" : "2.019"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "ind_string" : "3,393",
+      "valor" : "3.393"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "ind_string" : "3,731",
+      "valor" : "3.731"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "ind_string" : "3,792",
+      "valor" : "3.792"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "ind_string" : "17,953",
+      "valor" : "17.953"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "ind_string" : "32,613",
+      "valor" : "32.613"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "ind_string" : "100,000",
+      "valor" : "100"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

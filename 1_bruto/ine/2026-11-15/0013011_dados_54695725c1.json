@@ -1,0 +1,5425 @@
+[ {
+  "IndicadorCod" : "0013011",
+  "IndicadorDsg" : "Ganho mensal (€) por Localização geográfica (NUTS - 2024), Nível de educação e Quartis; Anual - MTSSS/GEP, Quadros de pessoal",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0013011&lingua=PT",
+  "DataExtracao" : "2026-11-15T03:03:19.358Z",
+  "DataUltimoAtualizacao" : "2026-04-08",
+  "UltimoPref" : "2024",
+  "Dados" : {
+    "2021" : [ {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "726,25",
+      "valor" : "726.25"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "727,00",
+      "valor" : "727"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "727,00",
+      "valor" : "727"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "731,80",
+      "valor" : "731.8"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "732,80",
+      "valor" : "732.8"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "733,22",
+      "valor" : "733.22"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "738,00",
+      "valor" : "738"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "741,00",
+      "valor" : "741"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "741,00",
+      "valor" : "741"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "742,00",
+      "valor" : "742"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "745,73",
+      "valor" : "745.73"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "748,70",
+      "valor" : "748.7"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "750,00",
+      "valor" : "750"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "750,40",
+      "valor" : "750.4"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "751,56",
+      "valor" : "751.56"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "753,20",
+      "valor" : "753.2"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "755,63",
+      "valor" : "755.63"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "757,00",
+      "valor" : "757"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "758,94",
+      "valor" : "758.94"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "759,80",
+      "valor" : "759.8"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "760,40",
+      "valor" : "760.4"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "760,40",
+      "valor" : "760.4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "760,40",
+      "valor" : "760.4"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "760,40",
+      "valor" : "760.4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "760,40",
+      "valor" : "760.4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "760,40",
+      "valor" : "760.4"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "760,40",
+      "valor" : "760.4"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "762,75",
+      "valor" : "762.75"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "763,21",
+      "valor" : "763.21"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "764,44",
+      "valor" : "764.44"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "770,40",
+      "valor" : "770.4"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "772,00",
+      "valor" : "772"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "772,74",
+      "valor" : "772.74"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "774,36",
+      "valor" : "774.36"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "776,00",
+      "valor" : "776"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "780,40",
+      "valor" : "780.4"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "780,40",
+      "valor" : "780.4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "781,60",
+      "valor" : "781.6"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "783,00",
+      "valor" : "783"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "783,00",
+      "valor" : "783"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "786,25",
+      "valor" : "786.25"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "786,72",
+      "valor" : "786.72"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "787,00",
+      "valor" : "787"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "787,88",
+      "valor" : "787.88"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "789,69",
+      "valor" : "789.69"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "795,06",
+      "valor" : "795.06"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "795,20",
+      "valor" : "795.2"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "799,61",
+      "valor" : "799.61"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "801,60",
+      "valor" : "801.6"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "804,94",
+      "valor" : "804.94"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "805,40",
+      "valor" : "805.4"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "809,06",
+      "valor" : "809.06"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "811,42",
+      "valor" : "811.42"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "811,55",
+      "valor" : "811.55"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "815,40",
+      "valor" : "815.4"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "817,60",
+      "valor" : "817.6"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "820,00",
+      "valor" : "820"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "825,00",
+      "valor" : "825"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "841,00",
+      "valor" : "841"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "845,66",
+      "valor" : "845.66"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "846,12",
+      "valor" : "846.12"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "850,00",
+      "valor" : "850"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "850,00",
+      "valor" : "850"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "852,40",
+      "valor" : "852.4"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "854,94",
+      "valor" : "854.94"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "855,38",
+      "valor" : "855.38"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "864,00",
+      "valor" : "864"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "866,84",
+      "valor" : "866.84"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "867,37",
+      "valor" : "867.37"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "870,07",
+      "valor" : "870.07"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "870,40",
+      "valor" : "870.4"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "870,65",
+      "valor" : "870.65"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "870,65",
+      "valor" : "870.65"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "876,60",
+      "valor" : "876.6"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "877,00",
+      "valor" : "877"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "893,00",
+      "valor" : "893"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "894,93",
+      "valor" : "894.93"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "895,20",
+      "valor" : "895.2"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "898,38",
+      "valor" : "898.38"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "903,54",
+      "valor" : "903.54"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "909,46",
+      "valor" : "909.46"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "924,00",
+      "valor" : "924"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "925,75",
+      "valor" : "925.75"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "935,32",
+      "valor" : "935.32"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "940,07",
+      "valor" : "940.07"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "959,34",
+      "valor" : "959.34"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "959,69",
+      "valor" : "959.69"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "970,00",
+      "valor" : "970"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "972,49",
+      "valor" : "972.49"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "978,00",
+      "valor" : "978"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "981,00",
+      "valor" : "981"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "983,25",
+      "valor" : "983.25"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "987,75",
+      "valor" : "987.75"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "991,13",
+      "valor" : "991.13"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "995,40",
+      "valor" : "995.4"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 004,10",
+      "valor" : "1004.1"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 007,00",
+      "valor" : "1007"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 009,41",
+      "valor" : "1009.41"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 022,77",
+      "valor" : "1022.77"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 039,00",
+      "valor" : "1039"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 051,75",
+      "valor" : "1051.75"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 052,60",
+      "valor" : "1052.6"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 055,40",
+      "valor" : "1055.4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 060,71",
+      "valor" : "1060.71"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 074,00",
+      "valor" : "1074"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 078,20",
+      "valor" : "1078.2"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 089,41",
+      "valor" : "1089.41"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 099,33",
+      "valor" : "1099.33"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 101,00",
+      "valor" : "1101"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 107,00",
+      "valor" : "1107"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 108,84",
+      "valor" : "1108.84"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 115,00",
+      "valor" : "1115"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 120,40",
+      "valor" : "1120.4"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 121,73",
+      "valor" : "1121.73"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 147,00",
+      "valor" : "1147"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 154,25",
+      "valor" : "1154.25"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 175,91",
+      "valor" : "1175.91"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 200,00",
+      "valor" : "1200"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 200,00",
+      "valor" : "1200"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 211,30",
+      "valor" : "1211.3"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 234,19",
+      "valor" : "1234.19"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 236,54",
+      "valor" : "1236.54"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 237,63",
+      "valor" : "1237.63"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 240,80",
+      "valor" : "1240.8"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 270,59",
+      "valor" : "1270.59"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 317,20",
+      "valor" : "1317.2"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 324,14",
+      "valor" : "1324.14"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 325,52",
+      "valor" : "1325.52"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 330,69",
+      "valor" : "1330.69"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 339,58",
+      "valor" : "1339.58"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 370,78",
+      "valor" : "1370.78"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 393,00",
+      "valor" : "1393"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 417,60",
+      "valor" : "1417.6"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 442,41",
+      "valor" : "1442.41"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 540,00",
+      "valor" : "1540"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 542,60",
+      "valor" : "1542.6"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 611,74",
+      "valor" : "1611.74"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 637,00",
+      "valor" : "1637"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 652,60",
+      "valor" : "1652.6"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 744,30",
+      "valor" : "1744.3"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 787,64",
+      "valor" : "1787.64"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 835,00",
+      "valor" : "1835"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 860,00",
+      "valor" : "1860"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 899,00",
+      "valor" : "1899"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 052,40",
+      "valor" : "2052.4"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 112,70",
+      "valor" : "2112.7"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 265,34",
+      "valor" : "2265.34"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 303,18",
+      "valor" : "2303.18"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 428,20",
+      "valor" : "2428.2"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 484,00",
+      "valor" : "2484"
+    } ],
+    "2022" : [ {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "705,00",
+      "valor" : "705"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "753,00",
+      "valor" : "753"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "772,80",
+      "valor" : "772.8"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "775,50",
+      "valor" : "775.5"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "775,73",
+      "valor" : "775.73"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "776,25",
+      "valor" : "776.25"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "776,33",
+      "valor" : "776.33"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "777,20",
+      "valor" : "777.2"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "785,00",
+      "valor" : "785"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "785,00",
+      "valor" : "785"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "787,40",
+      "valor" : "787.4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "787,65",
+      "valor" : "787.65"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "789,40",
+      "valor" : "789.4"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "795,00",
+      "valor" : "795"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "795,30",
+      "valor" : "795.3"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "797,60",
+      "valor" : "797.6"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "800,00",
+      "valor" : "800"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "800,00",
+      "valor" : "800"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "800,40",
+      "valor" : "800.4"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "800,40",
+      "valor" : "800.4"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "800,40",
+      "valor" : "800.4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "800,40",
+      "valor" : "800.4"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "800,40",
+      "valor" : "800.4"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "800,40",
+      "valor" : "800.4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "800,43",
+      "valor" : "800.43"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "803,12",
+      "valor" : "803.12"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "803,12",
+      "valor" : "803.12"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "804,74",
+      "valor" : "804.74"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "805,40",
+      "valor" : "805.4"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "810,00",
+      "valor" : "810"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "811,00",
+      "valor" : "811"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "814,71",
+      "valor" : "814.71"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "815,40",
+      "valor" : "815.4"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "816,00",
+      "valor" : "816"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "819,00",
+      "valor" : "819"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "823,18",
+      "valor" : "823.18"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "823,18",
+      "valor" : "823.18"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "825,00",
+      "valor" : "825"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "825,00",
+      "valor" : "825"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "825,00",
+      "valor" : "825"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "830,50",
+      "valor" : "830.5"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "830,90",
+      "valor" : "830.9"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "833,60",
+      "valor" : "833.6"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "838,30",
+      "valor" : "838.3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "840,63",
+      "valor" : "840.63"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "843,40",
+      "valor" : "843.4"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "845,00",
+      "valor" : "845"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "845,40",
+      "valor" : "845.4"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "845,67",
+      "valor" : "845.67"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "846,50",
+      "valor" : "846.5"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "856,45",
+      "valor" : "856.45"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "861,00",
+      "valor" : "861"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "862,20",
+      "valor" : "862.2"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "864,00",
+      "valor" : "864"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "874,00",
+      "valor" : "874"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "881,95",
+      "valor" : "881.95"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "887,24",
+      "valor" : "887.24"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "888,00",
+      "valor" : "888"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "892,21",
+      "valor" : "892.21"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "892,80",
+      "valor" : "892.8"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "895,40",
+      "valor" : "895.4"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "898,47",
+      "valor" : "898.47"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "899,06",
+      "valor" : "899.06"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "900,00",
+      "valor" : "900"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "900,00",
+      "valor" : "900"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "900,00",
+      "valor" : "900"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "902,60",
+      "valor" : "902.6"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "909,00",
+      "valor" : "909"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "910,00",
+      "valor" : "910"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "916,22",
+      "valor" : "916.22"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "917,60",
+      "valor" : "917.6"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "920,00",
+      "valor" : "920"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "921,05",
+      "valor" : "921.05"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "925,00",
+      "valor" : "925"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "928,64",
+      "valor" : "928.64"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "934,13",
+      "valor" : "934.13"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "943,99",
+      "valor" : "943.99"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "944,97",
+      "valor" : "944.97"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "955,03",
+      "valor" : "955.03"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "965,40",
+      "valor" : "965.4"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "969,80",
+      "valor" : "969.8"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "970,00",
+      "valor" : "970"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "975,50",
+      "valor" : "975.5"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "981,65",
+      "valor" : "981.65"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "991,02",
+      "valor" : "991.02"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 001,11",
+      "valor" : "1001.11"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 013,94",
+      "valor" : "1013.94"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 014,00",
+      "valor" : "1014"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 015,72",
+      "valor" : "1015.72"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 015,94",
+      "valor" : "1015.94"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 018,30",
+      "valor" : "1018.3"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 023,60",
+      "valor" : "1023.6"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 045,00",
+      "valor" : "1045"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 048,50",
+      "valor" : "1048.5"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 050,00",
+      "valor" : "1050"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 053,14",
+      "valor" : "1053.14"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 057,50",
+      "valor" : "1057.5"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 061,94",
+      "valor" : "1061.94"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 086,80",
+      "valor" : "1086.8"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 091,00",
+      "valor" : "1091"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 101,93",
+      "valor" : "1101.93"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 102,65",
+      "valor" : "1102.65"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 106,00",
+      "valor" : "1106"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 109,00",
+      "valor" : "1109"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 119,71",
+      "valor" : "1119.71"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 120,80",
+      "valor" : "1120.8"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 152,60",
+      "valor" : "1152.6"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 154,00",
+      "valor" : "1154"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 155,31",
+      "valor" : "1155.31"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 158,08",
+      "valor" : "1158.08"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 173,25",
+      "valor" : "1173.25"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 182,61",
+      "valor" : "1182.61"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 183,79",
+      "valor" : "1183.79"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 197,94",
+      "valor" : "1197.94"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 203,08",
+      "valor" : "1203.08"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 212,34",
+      "valor" : "1212.34"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 237,68",
+      "valor" : "1237.68"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 256,50",
+      "valor" : "1256.5"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 262,00",
+      "valor" : "1262"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 279,66",
+      "valor" : "1279.66"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 288,00",
+      "valor" : "1288"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 291,10",
+      "valor" : "1291.1"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 295,60",
+      "valor" : "1295.6"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 297,00",
+      "valor" : "1297"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 311,33",
+      "valor" : "1311.33"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 326,00",
+      "valor" : "1326"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 332,63",
+      "valor" : "1332.63"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 362,00",
+      "valor" : "1362"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 394,56",
+      "valor" : "1394.56"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 415,00",
+      "valor" : "1415"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 452,60",
+      "valor" : "1452.6"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 470,00",
+      "valor" : "1470"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 503,88",
+      "valor" : "1503.88"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 507,14",
+      "valor" : "1507.14"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 616,67",
+      "valor" : "1616.67"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 618,00",
+      "valor" : "1618"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 714,37",
+      "valor" : "1714.37"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 728,60",
+      "valor" : "1728.6"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 744,99",
+      "valor" : "1744.99"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 848,23",
+      "valor" : "1848.23"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 856,26",
+      "valor" : "1856.26"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 888,20",
+      "valor" : "1888.2"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 926,67",
+      "valor" : "1926.67"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 972,31",
+      "valor" : "1972.31"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 104,94",
+      "valor" : "2104.94"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 215,40",
+      "valor" : "2215.4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 402,52",
+      "valor" : "2402.52"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 444,72",
+      "valor" : "2444.72"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 593,08",
+      "valor" : "2593.08"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 648,21",
+      "valor" : "2648.21"
+    } ],
+    "2023" : [ {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "812,50",
+      "valor" : "812.5"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "831,19",
+      "valor" : "831.19"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "836,00",
+      "valor" : "836"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "837,65",
+      "valor" : "837.65"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "843,20",
+      "valor" : "843.2"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "845,00",
+      "valor" : "845"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "848,00",
+      "valor" : "848"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "848,00",
+      "valor" : "848"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "849,67",
+      "valor" : "849.67"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "851,58",
+      "valor" : "851.58"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "854,50",
+      "valor" : "854.5"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "854,92",
+      "valor" : "854.92"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "860,17",
+      "valor" : "860.17"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "864,00",
+      "valor" : "864"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "864,00",
+      "valor" : "864"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "869,20",
+      "valor" : "869.2"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "869,20",
+      "valor" : "869.2"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "869,20",
+      "valor" : "869.2"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "869,20",
+      "valor" : "869.2"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "869,20",
+      "valor" : "869.2"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "869,20",
+      "valor" : "869.2"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "872,00",
+      "valor" : "872"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "874,40",
+      "valor" : "874.4"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "877,00",
+      "valor" : "877"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "877,00",
+      "valor" : "877"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "878,00",
+      "valor" : "878"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "880,90",
+      "valor" : "880.9"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "886,00",
+      "valor" : "886"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "886,40",
+      "valor" : "886.4"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "890,00",
+      "valor" : "890"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "890,00",
+      "valor" : "890"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "890,00",
+      "valor" : "890"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "892,00",
+      "valor" : "892"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "892,00",
+      "valor" : "892"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "895,09",
+      "valor" : "895.09"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "896,50",
+      "valor" : "896.5"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "899,29",
+      "valor" : "899.29"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "899,60",
+      "valor" : "899.6"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "902,00",
+      "valor" : "902"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "906,00",
+      "valor" : "906"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "911,30",
+      "valor" : "911.3"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "916,24",
+      "valor" : "916.24"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "918,37",
+      "valor" : "918.37"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "920,00",
+      "valor" : "920"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "921,30",
+      "valor" : "921.3"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "921,50",
+      "valor" : "921.5"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "923,43",
+      "valor" : "923.43"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "932,00",
+      "valor" : "932"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "932,40",
+      "valor" : "932.4"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "936,50",
+      "valor" : "936.5"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "938,71",
+      "valor" : "938.71"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "940,00",
+      "valor" : "940"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "941,50",
+      "valor" : "941.5"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "953,78",
+      "valor" : "953.78"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "956,48",
+      "valor" : "956.48"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "957,21",
+      "valor" : "957.21"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "958,67",
+      "valor" : "958.67"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "964,43",
+      "valor" : "964.43"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "976,00",
+      "valor" : "976"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "979,23",
+      "valor" : "979.23"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "980,00",
+      "valor" : "980"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "981,20",
+      "valor" : "981.2"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "981,56",
+      "valor" : "981.56"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "983,12",
+      "valor" : "983.12"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "986,00",
+      "valor" : "986"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "986,50",
+      "valor" : "986.5"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "992,19",
+      "valor" : "992.19"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "994,85",
+      "valor" : "994.85"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 000,00",
+      "valor" : "1000"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 007,42",
+      "valor" : "1007.42"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 011,24",
+      "valor" : "1011.24"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 016,87",
+      "valor" : "1016.87"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 018,00",
+      "valor" : "1018"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 018,75",
+      "valor" : "1018.75"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 019,48",
+      "valor" : "1019.48"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 024,09",
+      "valor" : "1024.09"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 049,20",
+      "valor" : "1049.2"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 049,20",
+      "valor" : "1049.2"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 055,10",
+      "valor" : "1055.1"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 061,00",
+      "valor" : "1061"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 071,58",
+      "valor" : "1071.58"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 081,88",
+      "valor" : "1081.88"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 087,45",
+      "valor" : "1087.45"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 096,50",
+      "valor" : "1096.5"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 097,66",
+      "valor" : "1097.66"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 100,00",
+      "valor" : "1100"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 100,00",
+      "valor" : "1100"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 100,17",
+      "valor" : "1100.17"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 106,43",
+      "valor" : "1106.43"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 126,60",
+      "valor" : "1126.6"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 132,00",
+      "valor" : "1132"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 132,47",
+      "valor" : "1132.47"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 134,62",
+      "valor" : "1134.62"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 142,86",
+      "valor" : "1142.86"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 148,20",
+      "valor" : "1148.2"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 159,20",
+      "valor" : "1159.2"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 185,65",
+      "valor" : "1185.65"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 190,00",
+      "valor" : "1190"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 191,20",
+      "valor" : "1191.2"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 192,01",
+      "valor" : "1192.01"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 194,55",
+      "valor" : "1194.55"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 205,45",
+      "valor" : "1205.45"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 207,75",
+      "valor" : "1207.75"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 226,50",
+      "valor" : "1226.5"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 231,57",
+      "valor" : "1231.57"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 239,00",
+      "valor" : "1239"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 250,98",
+      "valor" : "1250.98"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 257,98",
+      "valor" : "1257.98"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 261,36",
+      "valor" : "1261.36"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 277,70",
+      "valor" : "1277.7"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 283,04",
+      "valor" : "1283.04"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 292,23",
+      "valor" : "1292.23"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 333,42",
+      "valor" : "1333.42"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 352,30",
+      "valor" : "1352.3"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 352,60",
+      "valor" : "1352.6"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 355,16",
+      "valor" : "1355.16"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 357,50",
+      "valor" : "1357.5"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 359,48",
+      "valor" : "1359.48"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 368,13",
+      "valor" : "1368.13"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 388,88",
+      "valor" : "1388.88"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 389,00",
+      "valor" : "1389"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 418,00",
+      "valor" : "1418"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 436,50",
+      "valor" : "1436.5"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 439,76",
+      "valor" : "1439.76"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 458,45",
+      "valor" : "1458.45"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 495,03",
+      "valor" : "1495.03"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 500,00",
+      "valor" : "1500"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 551,15",
+      "valor" : "1551.15"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 572,50",
+      "valor" : "1572.5"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 616,90",
+      "valor" : "1616.9"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 617,88",
+      "valor" : "1617.88"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 730,90",
+      "valor" : "1730.9"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 733,40",
+      "valor" : "1733.4"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 801,41",
+      "valor" : "1801.41"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 819,00",
+      "valor" : "1819"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 855,06",
+      "valor" : "1855.06"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 923,25",
+      "valor" : "1923.25"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 998,00",
+      "valor" : "1998"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 025,52",
+      "valor" : "2025.52"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 056,80",
+      "valor" : "2056.8"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 100,00",
+      "valor" : "2100"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 212,20",
+      "valor" : "2212.2"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 347,93",
+      "valor" : "2347.93"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 540,00",
+      "valor" : "2540"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 595,40",
+      "valor" : "2595.4"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 632,58",
+      "valor" : "2632.58"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 738,23",
+      "valor" : "2738.23"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "sinal_conv" : "-",
+      "sinal_conv_desc" : "Dado nulo ou não aplicável",
+      "ind_string" : "-"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "sinal_conv" : "-",
+      "sinal_conv_desc" : "Dado nulo ou não aplicável",
+      "ind_string" : "-"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "sinal_conv" : "-",
+      "sinal_conv_desc" : "Dado nulo ou não aplicável",
+      "ind_string" : "-"
+    } ],
+    "2024" : [ {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "876,77",
+      "valor" : "876.77"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "890,17",
+      "valor" : "890.17"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "900,50",
+      "valor" : "900.5"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "903,80",
+      "valor" : "903.8"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "904,00",
+      "valor" : "904"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "908,00",
+      "valor" : "908"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "910,00",
+      "valor" : "910"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "924,05",
+      "valor" : "924.05"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "927,73",
+      "valor" : "927.73"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "929,71",
+      "valor" : "929.71"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "929,71",
+      "valor" : "929.71"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "929,71",
+      "valor" : "929.71"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "935,00",
+      "valor" : "935"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "939,60",
+      "valor" : "939.6"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "940,00",
+      "valor" : "940"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "945,40",
+      "valor" : "945.4"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "946,00",
+      "valor" : "946"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "946,00",
+      "valor" : "946"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "951,00",
+      "valor" : "951"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "952,00",
+      "valor" : "952"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "952,70",
+      "valor" : "952.7"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "953,00",
+      "valor" : "953"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "954,00",
+      "valor" : "954"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "958,00",
+      "valor" : "958"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "958,00",
+      "valor" : "958"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "958,00",
+      "valor" : "958"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "958,00",
+      "valor" : "958"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "958,00",
+      "valor" : "958"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "958,50",
+      "valor" : "958.5"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "959,45",
+      "valor" : "959.45"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "960,00",
+      "valor" : "960"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "963,00",
+      "valor" : "963"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "967,20",
+      "valor" : "967.2"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "968,60",
+      "valor" : "968.6"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "969,71",
+      "valor" : "969.71"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "971,30",
+      "valor" : "971.3"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "972,21",
+      "valor" : "972.21"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "976,50",
+      "valor" : "976.5"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "977,50",
+      "valor" : "977.5"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "983,00",
+      "valor" : "983"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "983,46",
+      "valor" : "983.46"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "985,56",
+      "valor" : "985.56"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "992,00",
+      "valor" : "992"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "994,40",
+      "valor" : "994.4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 007,00",
+      "valor" : "1007"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 008,00",
+      "valor" : "1008"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 012,29",
+      "valor" : "1012.29"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 018,00",
+      "valor" : "1018"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 019,40",
+      "valor" : "1019.4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 020,75",
+      "valor" : "1020.75"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 037,59",
+      "valor" : "1037.59"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 038,00",
+      "valor" : "1038"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 048,21",
+      "valor" : "1048.21"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 048,21",
+      "valor" : "1048.21"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 050,03",
+      "valor" : "1050.03"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 050,80",
+      "valor" : "1050.8"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 055,00",
+      "valor" : "1055"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 056,82",
+      "valor" : "1056.82"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 065,06",
+      "valor" : "1065.06"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 067,00",
+      "valor" : "1067"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 067,63",
+      "valor" : "1067.63"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 068,02",
+      "valor" : "1068.02"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 070,50",
+      "valor" : "1070.5"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 071,50",
+      "valor" : "1071.5"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 072,50",
+      "valor" : "1072.5"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 072,50",
+      "valor" : "1072.5"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 078,13",
+      "valor" : "1078.13"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 078,50",
+      "valor" : "1078.5"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 078,50",
+      "valor" : "1078.5"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 080,71",
+      "valor" : "1080.71"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 099,75",
+      "valor" : "1099.75"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 104,50",
+      "valor" : "1104.5"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 109,71",
+      "valor" : "1109.71"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 115,00",
+      "valor" : "1115"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 120,80",
+      "valor" : "1120.8"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 127,05",
+      "valor" : "1127.05"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 129,25",
+      "valor" : "1129.25"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 130,40",
+      "valor" : "1130.4"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 142,10",
+      "valor" : "1142.1"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 147,40",
+      "valor" : "1147.4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 149,39",
+      "valor" : "1149.39"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 153,10",
+      "valor" : "1153.1"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 160,14",
+      "valor" : "1160.14"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 186,55",
+      "valor" : "1186.55"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 188,00",
+      "valor" : "1188"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 191,45",
+      "valor" : "1191.45"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 192,00",
+      "valor" : "1192"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 200,00",
+      "valor" : "1200"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 201,43",
+      "valor" : "1201.43"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 226,08",
+      "valor" : "1226.08"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 230,40",
+      "valor" : "1230.4"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 236,55",
+      "valor" : "1236.55"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 238,00",
+      "valor" : "1238"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 238,16",
+      "valor" : "1238.16"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 246,16",
+      "valor" : "1246.16"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 265,85",
+      "valor" : "1265.85"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 272,50",
+      "valor" : "1272.5"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 275,27",
+      "valor" : "1275.27"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 282,50",
+      "valor" : "1282.5"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 290,00",
+      "valor" : "1290"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 300,00",
+      "valor" : "1300"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 302,10",
+      "valor" : "1302.1"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 318,00",
+      "valor" : "1318"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 334,74",
+      "valor" : "1334.74"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 349,79",
+      "valor" : "1349.79"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 349,88",
+      "valor" : "1349.88"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 350,34",
+      "valor" : "1350.34"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Ensino básico (1.º, 2.º e 3.º ciclos)",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 375,93",
+      "valor" : "1375.93"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 378,00",
+      "valor" : "1378"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 389,47",
+      "valor" : "1389.47"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 391,00",
+      "valor" : "1391"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 425,40",
+      "valor" : "1425.4"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 427,99",
+      "valor" : "1427.99"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 443,37",
+      "valor" : "1443.37"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 455,60",
+      "valor" : "1455.6"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 459,00",
+      "valor" : "1459"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 474,97",
+      "valor" : "1474.97"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 476,53",
+      "valor" : "1476.53"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 480,42",
+      "valor" : "1480.42"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 485,23",
+      "valor" : "1485.23"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "ind_string" : "1 485,80",
+      "valor" : "1485.8"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 539,25",
+      "valor" : "1539.25"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 542,10",
+      "valor" : "1542.1"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 548,23",
+      "valor" : "1548.23"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 569,60",
+      "valor" : "1569.6"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 609,71",
+      "valor" : "1609.71"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Ensino secundário",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 625,25",
+      "valor" : "1625.25"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 654,35",
+      "valor" : "1654.35"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 686,20",
+      "valor" : "1686.2"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 727,99",
+      "valor" : "1727.99"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 759,94",
+      "valor" : "1759.94"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 847,80",
+      "valor" : "1847.8"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 861,20",
+      "valor" : "1861.2"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "1 913,00",
+      "valor" : "1913"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "1 992,36",
+      "valor" : "1992.36"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "ind_string" : "2 013,00",
+      "valor" : "2013"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 084,00",
+      "valor" : "2084"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 172,50",
+      "valor" : "2172.5"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 188,00",
+      "valor" : "2188"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 220,80",
+      "valor" : "2220.8"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 278,50",
+      "valor" : "2278.5"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 322,10",
+      "valor" : "2322.1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 536,00",
+      "valor" : "2536"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 741,94",
+      "valor" : "2741.94"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 769,60",
+      "valor" : "2769.6"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 970,80",
+      "valor" : "2970.8"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Ensino superior",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "ind_string" : "2 989,60",
+      "valor" : "2989.6"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "1",
+      "dim_4_t" : "1.º quartil",
+      "sinal_conv" : "-",
+      "sinal_conv_desc" : "Dado nulo ou não aplicável",
+      "ind_string" : "-"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "2",
+      "dim_4_t" : "2.º quartil",
+      "sinal_conv" : "-",
+      "sinal_conv_desc" : "Dado nulo ou não aplicável",
+      "ind_string" : "-"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Inferior ao 1.º ciclo",
+      "dim_4" : "3",
+      "dim_4_t" : "3.º quartil",
+      "sinal_conv" : "-",
+      "sinal_conv_desc" : "Dado nulo ou não aplicável",
+      "ind_string" : "-"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

@@ -1,0 +1,73 @@
+# Entrega — INE — 2026-11-15
+
+- **Enviado por:** API JSON do INE (extração própria, script 3_scripts/extrair_ine.py)
+- **Recebido em:** 2026-11-15
+- **Data de extração (da fonte):** campo `DataExtracao` de cada ficheiro
+- **Âmbito:** ver extrações abaixo
+- **Contrato / base legal:** 
+- **Ficheiros:** `<varcd>_dados_<hash>.json` (resposta de dados, exatamente como devolvida) e `<varcd>_meta.json` (metadados)
+- **Notas da ficha técnica:** ver `MetaInfUrl` em cada ficheiro de dados
+- **Restrições de reutilização:** 
+
+## Extração — 2026-11-15 03:36 — séries completas
+Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal. Todas as categorias das restantes dimensões.
+
+- **0013011** Ganho mensal (€) — 600 valores, 1 ficheiros novos
+    - `0013011_dados_54695725c1.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013011&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013012** Ganho mensal (€) — 360 valores, 1 ficheiros novos
+    - `0013012_dados_bc28d34083.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013012&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013013** Ganho mensal em setores de alta e média-alta tecnologia (CAE Rev.3 - €) — 120 valores, 1 ficheiros novos
+    - `0013013_dados_9dac70a1f5.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013013&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013794** Despesa em investigação e desenvolvimento (I&D - €) das instituições e empresas com investigação e desenvolvimento — 200 valores, 1 ficheiros novos
+    - `0013794_dados_12f276be60.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013794&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013795** Investigadoras/es equivalente a tempo integral (ETI) (N.º) nas instituições e empresas com investigação e desenvolvimento — 40 valores, 1 ficheiros novos
+    - `0013795_dados_88b3f6149f.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013795&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013796** Pessoal ao serviço equivalente a tempo integral (ETI) em atividades de investigação e desenvolvimento (I&D) (N.º) das instituições e empresas com investigação e desenvolvimento — 200 valores, 1 ficheiros novos
+    - `0013796_dados_d592b86e60.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013796&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013799** Unidades de investigação e desenvolvimento (I&D) - (N.º) nas instituições e empresas com investigação e desenvolvimento — 40 valores, 1 ficheiros novos
+    - `0013799_dados_46ddc7fb36.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013799&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013800** Despesa em investigação e desenvolvimento (I&D - €) das instituições e empresas com investigação e desenvolvimento — 240 valores, 1 ficheiros novos
+    - `0013800_dados_e7e922ea12.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013800&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013801** Despesa em investigação e desenvolvimento (I&D) - (€) das instituições dos setores de execução do Estado, ensino superior e instituições privadas sem fins lucrativos com investigação e desenvolvimento — 280 valores, 1 ficheiros novos
+    - `0013801_dados_43ace286f9.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013801&lang=PT&Dim1=S7A2021,S7A2022,S7A2023,S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0014580** Poder de compra per capita — 10 valores, 1 ficheiros novos
+    - `0014580_dados_2a948f21ad.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0014580&lang=PT&Dim1=S7A2023&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0014581** Proporção de poder de compra (% - no total do País) — 10 valores, 1 ficheiros novos
+    - `0014581_dados_a4faf89307.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0014581&lang=PT&Dim1=S7A2023&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0014582** Fator dinamismo relativo de poder de compra (-) — 10 valores, 1 ficheiros novos
+    - `0014582_dados_3527148b46.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0014582&lang=PT&Dim1=S7A2023&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009238** Proporção de mulheres nos diplomados no ensino superior (%) — 280 valores, 1 ficheiros novos
+    - `0009238_dados_94436c2756.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009238&lang=PT&Dim1=7A1997_3,7A1998_3,7A1999_3,7A2000_3,7A2001_3,7A2002_3,7A2003_3,7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3,7A2024_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009581** Diplomadas/os do ensino superior (N.º) — 2520 valores, 1 ficheiros novos
+    - `0009581_dados_05b7529bb4.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009581&lang=PT&Dim1=7A1997_3,7A1998_3,7A1999_3,7A2000_3,7A2001_3,7A2002_3,7A2003_3,7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3,7A2024_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0010376** Taxa de atração líquida (%) de população empregada por conta de outrem — 50 valores, 1 ficheiros novos
+    - `0010376_dados_63e6004f12.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010376&lang=PT&Dim1=S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0008158** Consumo de combustível automóvel por habitante (tep/ hab.) — 130 valores, 1 ficheiros novos
+    - `0008158_dados_f889918c4b.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008158&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0012950** Taxa de esforço do crédito para habitação permanente (%) — 60 valores, 1 ficheiros novos
+    - `0012950_dados_c9d5c361fd.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0012950&lang=PT&Dim1=S7A2021,S7A2022&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013610** Taxa de abstenção nas eleições para o Parlamento Europeu (%) — 10 valores, 1 ficheiros novos
+    - `0013610_dados_8979233392.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013610&lang=PT&Dim1=S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013611** Proporção de votos nulos nas eleições para o Parlamento Europeu (%) — 10 valores, 1 ficheiros novos
+    - `0013611_dados_ca6d1bb5dc.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013611&lang=PT&Dim1=S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013612** Proporção de votos do partido/coligação mais votado nas eleições para o Parlamento Europeu (%) — 10 valores, 1 ficheiros novos
+    - `0013612_dados_046404e403.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013612&lang=PT&Dim1=S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013613** Proporção de votos em branco nas eleições para o Parlamento Europeu (%) — 10 valores, 1 ficheiros novos
+    - `0013613_dados_1680e17fc6.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013613&lang=PT&Dim1=S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013614** População inscrita nas eleições para o Parlamento Europeu (N.º) — 10 valores, 1 ficheiros novos
+    - `0013614_dados_e8291a8d09.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013614&lang=PT&Dim1=S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013615** Abstenção nas eleições para o Parlamento Europeu (N.º) — 10 valores, 1 ficheiros novos
+    - `0013615_dados_a683a7d650.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013615&lang=PT&Dim1=S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0013616** Votos nas eleições para o Parlamento Europeu (N.º) — 40 valores, 1 ficheiros novos
+    - `0013616_dados_5bdbee8842.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0013616&lang=PT&Dim1=S7A2024&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009520** Indivíduos com 18 e mais anos de idade certificados pelo sistema de reconhecimento, validação e certificação de competências (N.º) — 450 valores, 1 ficheiros novos
+    - `0009520_dados_8d7017af68.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009520&lang=PT&Dim1=7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009523** Indivíduos com 18 e mais anos de idade que participaram em cursos de educação e formação de adultos (N.º) — 850 valores, 1 ficheiros novos
+    - `0009523_dados_e54b3aa028.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009523&lang=PT&Dim1=7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009562** Alunas/os matriculadas/os no ensino não superior em ofertas de educação e formação orientadas para adultos (N.º) — 4800 valores, 1 ficheiros novos
+    - `0009562_dados_80acfec4b5.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009562&lang=PT&Dim1=7A2000_3,7A2001_3,7A2002_3,7A2003_3,7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009563** Alunas/os matriculadas/os no ensino não superior público em ofertas de educação e formação orientadas para adultos (N.º) — 4800 valores, 1 ficheiros novos
+    - `0009563_dados_0506e1b12c.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009563&lang=PT&Dim1=7A2000_3,7A2001_3,7A2002_3,7A2003_3,7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009545** Estabelecimentos de ensino básico (1º ciclo) com menos de 10 alunos (N.º) — 240 valores, 1 ficheiros novos
+    - `0009545_dados_ea5752dc1b.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009545&lang=PT&Dim1=7A2000_3,7A2001_3,7A2002_3,7A2003_3,7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3&Dim2=1190308,119,112,1120302,11A1314,11A1308,11A1312,11A,11,PT
+- **0009558** Estabelecimentos de ensino básico (1º ciclo) com menos de 21 alunos (N.º) — 0 valores, 0 ficheiros novos; FALHAS: 7A2000_3…7A2023_3: orçamento da volta esgotado

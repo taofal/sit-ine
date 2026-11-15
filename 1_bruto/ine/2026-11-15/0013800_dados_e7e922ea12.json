@@ -1,0 +1,1739 @@
+[ {
+  "IndicadorCod" : "0013800",
+  "IndicadorDsg" : "Despesa em investigação e desenvolvimento (I&D - €) das instituições e empresas com investigação e desenvolvimento por Localização geográfica (NUTS - 2024) e Fonte de financiamento; Anual - DGEEC, Potencial científico e tecnológico nacional (sector institucional e sector empresas)",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0013800&lingua=PT",
+  "DataExtracao" : "2026-11-15T03:12:59.527Z",
+  "DataUltimoAtualizacao" : "2026-04-01",
+  "UltimoPref" : "2024",
+  "Dados" : {
+    "2021" : [ {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "0,0",
+      "valor" : "0"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "0,0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "12,8",
+      "valor" : "12.8"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "21,1",
+      "valor" : "21.1"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "189,5",
+      "valor" : "189.5"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "190,2",
+      "valor" : "190.2"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "402,4",
+      "valor" : "402.4"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "1 488,4",
+      "valor" : "1488.4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "2 173,6",
+      "valor" : "2173.6"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "3 462,2",
+      "valor" : "3462.2"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "4 103,5",
+      "valor" : "4103.5"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "7 073,9",
+      "valor" : "7073.9"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "7 285,2",
+      "valor" : "7285.2"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "10 129,3",
+      "valor" : "10129.3"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "14 837,5",
+      "valor" : "14837.5"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "28 894,6",
+      "valor" : "28894.6"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "29 533,8",
+      "valor" : "29533.8"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "38 610,0",
+      "valor" : "38610"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "42 652,4",
+      "valor" : "42652.4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "45 219,2",
+      "valor" : "45219.2"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "45 389,9",
+      "valor" : "45389.9"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "69 630,1",
+      "valor" : "69630.1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "73 528,9",
+      "valor" : "73528.9"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "112 362,2",
+      "valor" : "112362.2"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "114 230,2",
+      "valor" : "114230.2"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "117 532,8",
+      "valor" : "117532.8"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "162 818,9",
+      "valor" : "162818.9"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "178 075,6",
+      "valor" : "178075.6"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "199 047,8",
+      "valor" : "199047.8"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "228 080,6",
+      "valor" : "228080.6"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "279 717,2",
+      "valor" : "279717.2"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "371 326,9",
+      "valor" : "371326.9"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "449 370,0",
+      "valor" : "449370"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "533 244,2",
+      "valor" : "533244.2"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "701 899,3",
+      "valor" : "701899.3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "898 964,3",
+      "valor" : "898964.3"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 273 650,3",
+      "valor" : "1273650.3"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "1 284 312,4",
+      "valor" : "1284312.4"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "1 936 613,1",
+      "valor" : "1936613.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 609 191,3",
+      "valor" : "3609191.3"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    } ],
+    "2022" : [ {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "0,0",
+      "valor" : "0"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "0,0",
+      "valor" : "0"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "0,0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "27,7",
+      "valor" : "27.7"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "87,0",
+      "valor" : "87"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "330,3",
+      "valor" : "330.3"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "996,2",
+      "valor" : "996.2"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "2 996,8",
+      "valor" : "2996.8"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "3 890,7",
+      "valor" : "3890.7"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "4 507,4",
+      "valor" : "4507.4"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "5 283,4",
+      "valor" : "5283.4"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "9 937,5",
+      "valor" : "9937.5"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "10 267,8",
+      "valor" : "10267.8"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "14 267,3",
+      "valor" : "14267.3"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "19 885,6",
+      "valor" : "19885.6"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "32 873,7",
+      "valor" : "32873.7"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "34 867,2",
+      "valor" : "34867.2"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "39 898,7",
+      "valor" : "39898.7"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "48 009,4",
+      "valor" : "48009.4"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "49 566,8",
+      "valor" : "49566.8"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "49 761,5",
+      "valor" : "49761.5"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "75 451,8",
+      "valor" : "75451.8"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "79 692,1",
+      "valor" : "79692.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "119 409,6",
+      "valor" : "119409.6"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "133 265,8",
+      "valor" : "133265.8"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "146 426,5",
+      "valor" : "146426.5"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "178 314,7",
+      "valor" : "178314.7"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "195 585,6",
+      "valor" : "195585.6"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "207 730,7",
+      "valor" : "207730.7"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "253 197,4",
+      "valor" : "253197.4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "299 656,7",
+      "valor" : "299656.7"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "424 895,1",
+      "valor" : "424895.1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "484 882,9",
+      "valor" : "484882.9"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "612 004,7",
+      "valor" : "612004.7"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "819 279,6",
+      "valor" : "819279.6"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 005 212,4",
+      "valor" : "1005212.4"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "1 369 227,4",
+      "valor" : "1369227.4"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 432 907,1",
+      "valor" : "1432907.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "2 332 723,1",
+      "valor" : "2332723.1"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 124 124,4",
+      "valor" : "4124124.4"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    } ],
+    "2023" : [ {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "0,0",
+      "valor" : "0"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "0,0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "34,0",
+      "valor" : "34"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "155,0",
+      "valor" : "155"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "390,2",
+      "valor" : "390.2"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "410,2",
+      "valor" : "410.2"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "425,0",
+      "valor" : "425"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "628,9",
+      "valor" : "628.9"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "734,7",
+      "valor" : "734.7"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "1 204,2",
+      "valor" : "1204.2"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "1 205,9",
+      "valor" : "1205.9"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "1 274,7",
+      "valor" : "1274.7"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "1 274,7",
+      "valor" : "1274.7"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "1 293,9",
+      "valor" : "1293.9"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "4 027,6",
+      "valor" : "4027.6"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "4 829,5",
+      "valor" : "4829.5"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "5 206,8",
+      "valor" : "5206.8"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "6 609,3",
+      "valor" : "6609.3"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "8 512,3",
+      "valor" : "8512.3"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "8 540,2",
+      "valor" : "8540.2"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "8 744,7",
+      "valor" : "8744.7"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "10 998,0",
+      "valor" : "10998"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "12 394,2",
+      "valor" : "12394.2"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "12 959,3",
+      "valor" : "12959.3"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "15 844,9",
+      "valor" : "15844.9"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "18 790,4",
+      "valor" : "18790.4"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "22 738,8",
+      "valor" : "22738.8"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "22 918,7",
+      "valor" : "22918.7"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "25 821,3",
+      "valor" : "25821.3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "30 998,9",
+      "valor" : "30998.9"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "37 943,8",
+      "valor" : "37943.8"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "40 846,6",
+      "valor" : "40846.6"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "47 237,6",
+      "valor" : "47237.6"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "47 792,6",
+      "valor" : "47792.6"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "58 771,8",
+      "valor" : "58771.8"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "59 174,4",
+      "valor" : "59174.4"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "70 300,4",
+      "valor" : "70300.4"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "70 617,2",
+      "valor" : "70617.2"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "83 070,7",
+      "valor" : "83070.7"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "84 023,5",
+      "valor" : "84023.5"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "89 561,9",
+      "valor" : "89561.9"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "93 884,7",
+      "valor" : "93884.7"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "106 175,6",
+      "valor" : "106175.6"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "154 080,2",
+      "valor" : "154080.2"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "154 484,4",
+      "valor" : "154484.4"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "156 551,1",
+      "valor" : "156551.1"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "195 875,6",
+      "valor" : "195875.6"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "223 304,8",
+      "valor" : "223304.8"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "226 633,4",
+      "valor" : "226633.4"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "332 311,3",
+      "valor" : "332311.3"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "334 628,8",
+      "valor" : "334628.8"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "451 599,4",
+      "valor" : "451599.4"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "533 950,6",
+      "valor" : "533950.6"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "680 724,0",
+      "valor" : "680724"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "896 458,0",
+      "valor" : "896458"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 109 817,9",
+      "valor" : "1109817.9"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "1 533 075,0",
+      "valor" : "1533075"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 570 777,4",
+      "valor" : "1570777.4"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "2 519 926,9",
+      "valor" : "2519926.9"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 541 043,9",
+      "valor" : "4541043.9"
+    } ],
+    "2024" : [ {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "0,0",
+      "valor" : "0"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "0,0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "11,8",
+      "valor" : "11.8"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "17,3",
+      "valor" : "17.3"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "159,1",
+      "valor" : "159.1"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "161,0",
+      "valor" : "161"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "289,8",
+      "valor" : "289.8"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "396,1",
+      "valor" : "396.1"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "474,8",
+      "valor" : "474.8"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "800,1",
+      "valor" : "800.1"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "805,8",
+      "valor" : "805.8"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "805,8",
+      "valor" : "805.8"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "946,7",
+      "valor" : "946.7"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "1 285,2",
+      "valor" : "1285.2"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "3 252,4",
+      "valor" : "3252.4"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "3 656,2",
+      "valor" : "3656.2"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "4 760,0",
+      "valor" : "4760"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "6 159,7",
+      "valor" : "6159.7"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "6 386,3",
+      "valor" : "6386.3"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "8 391,7",
+      "valor" : "8391.7"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "11 628,6",
+      "valor" : "11628.6"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "12 306,9",
+      "valor" : "12306.9"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "12 669,3",
+      "valor" : "12669.3"
+    }, {
+      "geocod" : "11A1314",
+      "geodsg" : "Santo Tirso",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "13 486,7",
+      "valor" : "13486.7"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "14 830,4",
+      "valor" : "14830.4"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "20 528,9",
+      "valor" : "20528.9"
+    }, {
+      "geocod" : "1120302",
+      "geodsg" : "Barcelos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "21 862,4",
+      "valor" : "21862.4"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "29 360,5",
+      "valor" : "29360.5"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "34 270,0",
+      "valor" : "34270"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "42 646,9",
+      "valor" : "42646.9"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "50 043,2",
+      "valor" : "50043.2"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "4",
+      "dim_3_t" : "Fundos das instituições particulares sem fins lucrativos",
+      "ind_string" : "56 246,2",
+      "valor" : "56246.2"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "56 904,1",
+      "valor" : "56904.1"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "65 635,4",
+      "valor" : "65635.4"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "67 336,0",
+      "valor" : "67336"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "74 343,4",
+      "valor" : "74343.4"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "80 882,9",
+      "valor" : "80882.9"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "90 796,1",
+      "valor" : "90796.1"
+    }, {
+      "geocod" : "1190308",
+      "geodsg" : "Guimarães",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "95 751,9",
+      "valor" : "95751.9"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "103 307,4",
+      "valor" : "103307.4"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "111 620,6",
+      "valor" : "111620.6"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "3",
+      "dim_3_t" : "Fundos do ensino superior",
+      "ind_string" : "112 691,4",
+      "valor" : "112691.4"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "127 482,9",
+      "valor" : "127482.9"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "127 554,3",
+      "valor" : "127554.3"
+    }, {
+      "geocod" : "119",
+      "geodsg" : "Ave",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "168 945,9",
+      "valor" : "168945.9"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "202 215,9",
+      "valor" : "202215.9"
+    }, {
+      "geocod" : "11A1308",
+      "geodsg" : "Matosinhos",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "208 540,2",
+      "valor" : "208540.2"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "238 022,7",
+      "valor" : "238022.7"
+    }, {
+      "geocod" : "112",
+      "geodsg" : "Cávado",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "238 870,3",
+      "valor" : "238870.3"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "347 702,2",
+      "valor" : "347702.2"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "5",
+      "dim_3_t" : "Fundos do estrangeiro",
+      "ind_string" : "401 211,4",
+      "valor" : "401211.4"
+    }, {
+      "geocod" : "11A1312",
+      "geodsg" : "Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "543 800,1",
+      "valor" : "543800.1"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "578 766,2",
+      "valor" : "578766.2"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "723 434,4",
+      "valor" : "723434.4"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "968 278,9",
+      "valor" : "968278.9"
+    }, {
+      "geocod" : "11A",
+      "geodsg" : "Área Metropolitana do Porto",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 209 339,6",
+      "valor" : "1209339.6"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "Fundos do Estado",
+      "ind_string" : "1 640 209,5",
+      "valor" : "1640209.5"
+    }, {
+      "geocod" : "11",
+      "geodsg" : "Norte",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 730 730,8",
+      "valor" : "1730730.8"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "Fundos das empresas",
+      "ind_string" : "2 809 808,6",
+      "valor" : "2809808.6"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "5 020 167,0",
+      "valor" : "5020167"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
