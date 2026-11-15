@@ -298,3 +298,69 @@ Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Vila Nova d
 - **0000562** Consumo de energia elétrica (kWh) — 352 valores, 1 ficheiros novos
     - `0000562_dados_5241617e98.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000562&lang=PT&Dim1=S7A1994,S7A1995,S7A1996,S7A1997,S7A1998,S7A1999,S7A2000,S7A2001,S7A2002,S7A2003,S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015&Dim2=1130312,1120303
 - **0000564** Consumidores de energia elétrica (N.º) — 0 valores, 0 ficheiros novos; FALHAS: S7A1994…S7A2015: orçamento da volta esgotado
+
+## Extração — 2026-11-15 23:46 — séries completas
+Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Vila Nova de Famalicão, Braga, Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal. Todas as categorias das restantes dimensões.
+
+- **0000564** Consumidores de energia elétrica (N.º) — 264 valores, 1 ficheiros novos
+    - `0000564_dados_0befdb49bb.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0000564&lang=PT&Dim1=S7A1994,S7A1995,S7A1996,S7A1997,S7A1998,S7A1999,S7A2000,S7A2001,S7A2002,S7A2003,S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015&Dim2=1130312,1120303
+- **0001003** Alunas/os matriculadas/os no ensino não superior (N.º) — 1610 valores, 1 ficheiros novos
+    - `0001003_dados_05cd191b0f.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0001003&lang=PT&Dim1=7A2000_3,7A2001_3,7A2002_3,7A2003_3,7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3&Dim2=1130312,1120303
+- **0001005** Alunas/os inscritas/os no ensino superior (N.º) — 102 valores, 1 ficheiros novos
+    - `0001005_dados_377a606c97.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0001005&lang=PT&Dim1=7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3&Dim2=1130312,1120303
+- **0001438** Alunas/os inscritas/os no ensino superior (N.º) — 3876 valores, 1 ficheiros novos
+    - `0001438_dados_c6ce5246e1.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0001438&lang=PT&Dim1=7A1990_3,7A1991_3,7A1992_3,7A1993_3,7A1994_3,7A1995_3,7A1996_3,7A1997_3,7A1998_3,7A1999_3,7A2000_3,7A2001_3,7A2002_3,7A2003_3,7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3&Dim2=1190312,1120303
+- **0001684** Taxa de abstenção nas eleições para a Assembleia da República (%) — 8 valores, 1 ficheiros novos
+    - `0001684_dados_34b6a1fe7a.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0001684&lang=PT&Dim1=S7A2002,S7A2005,S7A2009,S7A2011&Dim2=1130312,1120303
+- **0001818** Proporção de hóspedes estrangeiros (%) — 24 valores, 1 ficheiros novos
+    - `0001818_dados_a56a3c084e.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0001818&lang=PT&Dim1=S7A2002,S7A2003,S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013&Dim2=1130312,1120303
+- **0001843** Hóspedes (Série 2002-2008 - N.º) nos estabelecimentos hoteleiros — 126 valores, 1 ficheiros novos
+    - `0001843_dados_13cef9786d.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0001843&lang=PT&Dim1=S7A2002,S7A2003,S7A2004,S7A2005,S7A2006,S7A2007,S7A2008&Dim2=1130312,1120303
+- **0001971** Taxa de depósitos de emigrantes (Série - CAE Rev. 3 - %) — 28 valores, 1 ficheiros novos
+    - `0001971_dados_3dd23ae430.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0001971&lang=PT&Dim1=S7A2000,S7A2001,S7A2002,S7A2003,S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013&Dim2=1130312,1120303
+- **0001972** Taxa de crédito à habitação (Série - CAE Rev. 3 - %) — 28 valores, 1 ficheiros novos
+    - `0001972_dados_58f0546b66.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0001972&lang=PT&Dim1=S7A2000,S7A2001,S7A2002,S7A2003,S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013&Dim2=1130312,1120303
+- **0001973** Juros e custos equiparados (Série - CAE Rev.3 - €) dos estabelecimentos de outra intermediação monetária — 28 valores, 1 ficheiros novos
+    - `0001973_dados_f1c7ab4d70.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0001973&lang=PT&Dim1=S7A2000,S7A2001,S7A2002,S7A2003,S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013&Dim2=1130312,1120303
+- **0001974** Juros e proveitos equiparados (Série CAE Rev. 3 - €) dos estabelecimentos de outra intermediação monetária — 28 valores, 1 ficheiros novos
+    - `0001974_dados_eb1c962647.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0001974&lang=PT&Dim1=S7A2000,S7A2001,S7A2002,S7A2003,S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013&Dim2=1130312,1120303
+- **0001975** Juros de depósitos de clientes (Série - CAE Rev. 3 - €) em Estabelecimentos de outra intermediação monetária — 28 valores, 1 ficheiros novos
+    - `0001975_dados_eb342da31f.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0001975&lang=PT&Dim1=S7A2000,S7A2001,S7A2002,S7A2003,S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013&Dim2=1130312,1120303
+- **0001982** Ganho médio mensal (€) — 18 valores, 1 ficheiros novos
+    - `0001982_dados_791ffb633b.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0001982&lang=PT&Dim1=S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012&Dim2=1130312,1120303
+- **0001983** Disparidade no ganho médio mensal (Entre níveis de habilitação - %) da população empregada por conta de outrem — 18 valores, 1 ficheiros novos
+    - `0001983_dados_a832bd23e7.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0001983&lang=PT&Dim1=S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012&Dim2=1130312,1120303
+- **0001984** Disparidade no ganho médio mensal (Entre profissões - %) da população empregada por conta de outrem — 18 valores, 1 ficheiros novos
+    - `0001984_dados_ef7b253a75.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0001984&lang=PT&Dim1=S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012&Dim2=1130312,1120303
+- **0001985** Disparidade no ganho médio mensal (Entre setores de atividade em CAE Rev.3 - %) da população empregada por conta de outrem — 18 valores, 1 ficheiros novos
+    - `0001985_dados_c3db16391c.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0001985&lang=PT&Dim1=S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012&Dim2=1130312,1120303
+- **0001986** Disparidade no ganho médio mensal (Entre sexos - %) da população empregada por conta de outrem — 18 valores, 1 ficheiros novos
+    - `0001986_dados_410fe6574e.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0001986&lang=PT&Dim1=S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012&Dim2=1130312,1120303
+- **0001987** Disparidade no ganho médio mensal (Entre sexos - %) da população empregada por conta de outrem com habilitações iguais ou inferiores ao 3º ciclo do ensino básico — 18 valores, 1 ficheiros novos
+    - `0001987_dados_1dd47e30ff.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0001987&lang=PT&Dim1=S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012&Dim2=1130312,1120303
+- **0001988** Disparidade no ganho médio mensal (Entre sexos - %) da população empregada por conta de outrem com habilitações correspondentes ao ensino superior — 18 valores, 1 ficheiros novos
+    - `0001988_dados_38de79d088.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0001988&lang=PT&Dim1=S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012&Dim2=1130312,1120303
+- **0001989** Disparidade no ganho médio mensal (Entre sexos - %) da população empregada por conta de outrem nas profissões mais qualificadas — 18 valores, 1 ficheiros novos
+    - `0001989_dados_7dc9e7a46a.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0001989&lang=PT&Dim1=S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012&Dim2=1130312,1120303
+- **0001990** Disparidade no ganho médio mensal (Entre sexos - %) da população empregada por conta de outrem nas profissões menos qualificadas — 18 valores, 1 ficheiros novos
+    - `0001990_dados_c252a61404.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0001990&lang=PT&Dim1=S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012&Dim2=1130312,1120303
+- **0002088** Consumo total de energia elétrica por consumidor (kWh/ cons.) — 24 valores, 1 ficheiros novos
+    - `0002088_dados_fc5f21f3ee.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0002088&lang=PT&Dim1=S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015&Dim2=1130312,1120303
+- **0002089** Consumo doméstico de energia elétrica por consumidor (kWh/ cons.) — 24 valores, 1 ficheiros novos
+    - `0002089_dados_b8b177fa76.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0002089&lang=PT&Dim1=S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015&Dim2=1130312,1120303
+- **0002090** Consumo de energia elétrica na agricultura por consumidor (kWh/ cons.) — 24 valores, 1 ficheiros novos
+    - `0002090_dados_a11738ba4b.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0002090&lang=PT&Dim1=S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015&Dim2=1130312,1120303
+- **0002091** Consumo de energia elétrica na indústria por consumidor (kWh/ cons.) — 24 valores, 1 ficheiros novos
+    - `0002091_dados_ea9f055c47.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0002091&lang=PT&Dim1=S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015&Dim2=1130312,1120303
+- **0002109** Dormidas nos estabelecimentos hoteleiros por 100 habitantes (N.º) — 24 valores, 1 ficheiros novos
+    - `0002109_dados_2f704ca2b6.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0002109&lang=PT&Dim1=S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015&Dim2=1130312,1120303
+- **0002110** Dormidas nos estabelecimentos hoteleiros por 100 habitantes (N.º) — 20 valores, 1 ficheiros novos
+    - `0002110_dados_a7fcc7985c.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0002110&lang=PT&Dim1=S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013&Dim2=101030312,101020303
+- **0002111** Capacidade de alojamento nos estabelecimentos hoteleiros por 1000 habitantes (N.º) — 24 valores, 1 ficheiros novos
+    - `0002111_dados_5eb62911b1.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0002111&lang=PT&Dim1=S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015&Dim2=1130312,1120303
+- **0002112** Capacidade de alojamento nos estabelecimentos hoteleiros por 1000 habitantes (N.º) — 20 valores, 1 ficheiros novos
+    - `0002112_dados_960a2d0ffb.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0002112&lang=PT&Dim1=S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013&Dim2=101030312,101020303
+- **0002164** Empresas (Série 2004-2009 - N.º) — 120 valores, 1 ficheiros novos
+    - `0002164_dados_eb31eb4adc.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0002164&lang=PT&Dim1=S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009&Dim2=1130312,1120303
+- **0002960** Valores médios de avaliação bancária (€/ m²) dos alojamentos — 0 valores, 0 ficheiros novos; geografias inexistentes neste indicador: Vila Nova de Famalicão, Braga; FALHAS: nenhuma das geografias existe neste indicador
+- **0002962** Valores médios de avaliação bancária (€/ m²) dos alojamentos — 0 valores, 0 ficheiros novos; FALHAS: metadados: orçamento da volta esgotado

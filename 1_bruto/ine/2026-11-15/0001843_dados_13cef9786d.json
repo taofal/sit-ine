@@ -1,0 +1,939 @@
+[ {
+  "IndicadorCod" : "0001843",
+  "IndicadorDsg" : "Hóspedes (Série 2002-2008 - N.º) nos estabelecimentos hoteleiros por Localização geográfica (NUTS - 2002) e Tipo (estabelecimento hoteleiro); Anual - INE, Inquérito à permanência de hóspedes e outros dados na hotelaria",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0001843&lingua=PT",
+  "DataExtracao" : "2026-11-15T23:03:55.509Z",
+  "DataUltimoAtualizacao" : "2008-10-21",
+  "UltimoPref" : "2008",
+  "Dados" : {
+    "2002" : [ {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Estabelecimentos hoteleiros",
+      "ind_string" : "17 444",
+      "valor" : "17444"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "01",
+      "dim_3_t" : "Hotéis",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "02",
+      "dim_3_t" : "Pensões",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "03",
+      "dim_3_t" : "Estalagens",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "04",
+      "dim_3_t" : "Pousadas",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "05",
+      "dim_3_t" : "Motéis",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "07",
+      "dim_3_t" : "Aldeamentos turísticos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "08",
+      "dim_3_t" : "Apartamentos turísticos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "06",
+      "dim_3_t" : "Hotéis-apartamentos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Estabelecimentos hoteleiros",
+      "ind_string" : "129 620",
+      "valor" : "129620"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "01",
+      "dim_3_t" : "Hotéis",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "02",
+      "dim_3_t" : "Pensões",
+      "ind_string" : "20 343",
+      "valor" : "20343"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "03",
+      "dim_3_t" : "Estalagens",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "04",
+      "dim_3_t" : "Pousadas",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "05",
+      "dim_3_t" : "Motéis",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "07",
+      "dim_3_t" : "Aldeamentos turísticos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "08",
+      "dim_3_t" : "Apartamentos turísticos",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "06",
+      "dim_3_t" : "Hotéis-apartamentos",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    } ],
+    "2003" : [ {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Estabelecimentos hoteleiros",
+      "ind_string" : "16 763",
+      "valor" : "16763"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "01",
+      "dim_3_t" : "Hotéis",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "02",
+      "dim_3_t" : "Pensões",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "03",
+      "dim_3_t" : "Estalagens",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "04",
+      "dim_3_t" : "Pousadas",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "05",
+      "dim_3_t" : "Motéis",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "07",
+      "dim_3_t" : "Aldeamentos turísticos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "08",
+      "dim_3_t" : "Apartamentos turísticos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "06",
+      "dim_3_t" : "Hotéis-apartamentos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Estabelecimentos hoteleiros",
+      "ind_string" : "120 391",
+      "valor" : "120391"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "01",
+      "dim_3_t" : "Hotéis",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "02",
+      "dim_3_t" : "Pensões",
+      "ind_string" : "20 324",
+      "valor" : "20324"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "03",
+      "dim_3_t" : "Estalagens",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "04",
+      "dim_3_t" : "Pousadas",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "05",
+      "dim_3_t" : "Motéis",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "07",
+      "dim_3_t" : "Aldeamentos turísticos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "08",
+      "dim_3_t" : "Apartamentos turísticos",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "06",
+      "dim_3_t" : "Hotéis-apartamentos",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    } ],
+    "2004" : [ {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Estabelecimentos hoteleiros",
+      "ind_string" : "14 286",
+      "valor" : "14286"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "01",
+      "dim_3_t" : "Hotéis",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "02",
+      "dim_3_t" : "Pensões",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "03",
+      "dim_3_t" : "Estalagens",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "04",
+      "dim_3_t" : "Pousadas",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "05",
+      "dim_3_t" : "Motéis",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "07",
+      "dim_3_t" : "Aldeamentos turísticos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "08",
+      "dim_3_t" : "Apartamentos turísticos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "06",
+      "dim_3_t" : "Hotéis-apartamentos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Estabelecimentos hoteleiros",
+      "ind_string" : "116 497",
+      "valor" : "116497"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "01",
+      "dim_3_t" : "Hotéis",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "02",
+      "dim_3_t" : "Pensões",
+      "ind_string" : "24 492",
+      "valor" : "24492"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "03",
+      "dim_3_t" : "Estalagens",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "04",
+      "dim_3_t" : "Pousadas",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "05",
+      "dim_3_t" : "Motéis",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "07",
+      "dim_3_t" : "Aldeamentos turísticos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "08",
+      "dim_3_t" : "Apartamentos turísticos",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "06",
+      "dim_3_t" : "Hotéis-apartamentos",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    } ],
+    "2005" : [ {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Estabelecimentos hoteleiros",
+      "ind_string" : "12 497",
+      "valor" : "12497"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "01",
+      "dim_3_t" : "Hotéis",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "02",
+      "dim_3_t" : "Pensões",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "03",
+      "dim_3_t" : "Estalagens",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "04",
+      "dim_3_t" : "Pousadas",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "05",
+      "dim_3_t" : "Motéis",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "07",
+      "dim_3_t" : "Aldeamentos turísticos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "08",
+      "dim_3_t" : "Apartamentos turísticos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "06",
+      "dim_3_t" : "Hotéis-apartamentos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Estabelecimentos hoteleiros",
+      "ind_string" : "110 471",
+      "valor" : "110471"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "01",
+      "dim_3_t" : "Hotéis",
+      "ind_string" : "79 529",
+      "valor" : "79529"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "02",
+      "dim_3_t" : "Pensões",
+      "ind_string" : "25 249",
+      "valor" : "25249"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "03",
+      "dim_3_t" : "Estalagens",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "04",
+      "dim_3_t" : "Pousadas",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "05",
+      "dim_3_t" : "Motéis",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "07",
+      "dim_3_t" : "Aldeamentos turísticos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "08",
+      "dim_3_t" : "Apartamentos turísticos",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "06",
+      "dim_3_t" : "Hotéis-apartamentos",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    } ],
+    "2006" : [ {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Estabelecimentos hoteleiros",
+      "ind_string" : "12 632",
+      "valor" : "12632"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "01",
+      "dim_3_t" : "Hotéis",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "02",
+      "dim_3_t" : "Pensões",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "03",
+      "dim_3_t" : "Estalagens",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "04",
+      "dim_3_t" : "Pousadas",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "05",
+      "dim_3_t" : "Motéis",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "07",
+      "dim_3_t" : "Aldeamentos turísticos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "08",
+      "dim_3_t" : "Apartamentos turísticos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "06",
+      "dim_3_t" : "Hotéis-apartamentos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Estabelecimentos hoteleiros",
+      "ind_string" : "135 755",
+      "valor" : "135755"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "01",
+      "dim_3_t" : "Hotéis",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "02",
+      "dim_3_t" : "Pensões",
+      "ind_string" : "24 181",
+      "valor" : "24181"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "03",
+      "dim_3_t" : "Estalagens",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "04",
+      "dim_3_t" : "Pousadas",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "05",
+      "dim_3_t" : "Motéis",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "07",
+      "dim_3_t" : "Aldeamentos turísticos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "08",
+      "dim_3_t" : "Apartamentos turísticos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "06",
+      "dim_3_t" : "Hotéis-apartamentos",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    } ],
+    "2007" : [ {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Estabelecimentos hoteleiros",
+      "ind_string" : "11 666",
+      "valor" : "11666"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "01",
+      "dim_3_t" : "Hotéis",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "02",
+      "dim_3_t" : "Pensões",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "03",
+      "dim_3_t" : "Estalagens",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "04",
+      "dim_3_t" : "Pousadas",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "05",
+      "dim_3_t" : "Motéis",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "07",
+      "dim_3_t" : "Aldeamentos turísticos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "08",
+      "dim_3_t" : "Apartamentos turísticos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "06",
+      "dim_3_t" : "Hotéis-apartamentos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Estabelecimentos hoteleiros",
+      "ind_string" : "162 445",
+      "valor" : "162445"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "01",
+      "dim_3_t" : "Hotéis",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "02",
+      "dim_3_t" : "Pensões",
+      "ind_string" : "33 165",
+      "valor" : "33165"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "03",
+      "dim_3_t" : "Estalagens",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "04",
+      "dim_3_t" : "Pousadas",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "05",
+      "dim_3_t" : "Motéis",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "07",
+      "dim_3_t" : "Aldeamentos turísticos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "08",
+      "dim_3_t" : "Apartamentos turísticos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "06",
+      "dim_3_t" : "Hotéis-apartamentos",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    } ],
+    "2008" : [ {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Estabelecimentos hoteleiros",
+      "ind_string" : "11 279",
+      "valor" : "11279"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "01",
+      "dim_3_t" : "Hotéis",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "02",
+      "dim_3_t" : "Pensões",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "03",
+      "dim_3_t" : "Estalagens",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "04",
+      "dim_3_t" : "Pousadas",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "05",
+      "dim_3_t" : "Motéis",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "07",
+      "dim_3_t" : "Aldeamentos turísticos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "08",
+      "dim_3_t" : "Apartamentos turísticos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "06",
+      "dim_3_t" : "Hotéis-apartamentos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Estabelecimentos hoteleiros",
+      "ind_string" : "176 108",
+      "valor" : "176108"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "01",
+      "dim_3_t" : "Hotéis",
+      "ind_string" : "90 467",
+      "valor" : "90467"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "02",
+      "dim_3_t" : "Pensões",
+      "ind_string" : "26 289",
+      "valor" : "26289"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "03",
+      "dim_3_t" : "Estalagens",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "04",
+      "dim_3_t" : "Pousadas",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "05",
+      "dim_3_t" : "Motéis",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "07",
+      "dim_3_t" : "Aldeamentos turísticos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "08",
+      "dim_3_t" : "Apartamentos turísticos",
+      "ind_string" : "0",
+      "valor" : "0"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "06",
+      "dim_3_t" : "Hotéis-apartamentos",
+      "sinal_conv" : "…",
+      "sinal_conv_desc" : "Dado confidencial",
+      "ind_string" : "…"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

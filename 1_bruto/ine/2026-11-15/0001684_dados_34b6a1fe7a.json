@@ -1,0 +1,59 @@
+[ {
+  "IndicadorCod" : "0001684",
+  "IndicadorDsg" : "Taxa de abstenção nas eleições para a Assembleia da República (%) por Local de residência (NUTS - 2002); Não periódica - Ministério da Administração Interna",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0001684&lingua=PT",
+  "DataExtracao" : "2026-11-15T23:03:38.852Z",
+  "DataUltimoAtualizacao" : "2012-11-20",
+  "UltimoPref" : "2011",
+  "Dados" : {
+    "2002" : [ {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "31,1",
+      "valor" : "31.1"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "30,3",
+      "valor" : "30.3"
+    } ],
+    "2005" : [ {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "27,9",
+      "valor" : "27.9"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "27,9",
+      "valor" : "27.9"
+    } ],
+    "2009" : [ {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "31,8",
+      "valor" : "31.8"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "32,9",
+      "valor" : "32.9"
+    } ],
+    "2011" : [ {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "33,7",
+      "valor" : "33.7"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "35,4",
+      "valor" : "35.4"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
