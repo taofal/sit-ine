@@ -1,0 +1,181 @@
+[ {
+  "IndicadorCod" : "0009768",
+  "IndicadorNome" : "Agregados fiscais (N.º) por Localização geográfica (NUTS - 2013) e Escalões de rendimento bruto declarado deduzido do IRS Liquidado; Anual - INE, Estatísticas do Rendimento ao nível local com base na informação produzida pelo Ministério das Finanças - Autoridade Tributária e Aduaneira.",
+  "Periodic" : "Anual",
+  "PrimeiroPeriodo" : "2015",
+  "UltimoPeriodo" : "2021",
+  "UnidadeMedida" : "Número (N.º)",
+  "Potencia10" : "0",
+  "PrecisaoDecimal" : "0",
+  "Nota" : "A informação relativa ao IRS liquidado não inclui o valor relativo à sobretaxa extraordinária, em vigor de 2013 a 2017. A informação exclui os agregado fiscais com rendimento bruto declarado deduzido do IRS liquidado menor que zero.",
+  "Lingua" : "PT",
+  "DataUltimaAtualizacao" : "2023-07-12",
+  "DataExtracao" : "2026-11-15T11:39:13.323Z",
+  "Dimensoes" : {
+    "Descricao_Dim" : [ {
+      "dim_num" : "1",
+      "abrv" : "Período de referência dos dados",
+      "versao" : "XXXXX",
+      "nota_dsg" : "A partir de 2018 a informação passa a ser referenciada ao município da morada fiscal do contribuinte e a excluir os resultados relativos aos não residentes (inclui resultados dos contribuintes com \"residência fiscal parcial\"). Por esta razão a informação de 2018 foi revista."
+    }, {
+      "dim_num" : "2",
+      "abrv" : "Localização geográfica (NUTS - 2013)",
+      "versao" : "03505"
+    }, {
+      "dim_num" : "3",
+      "abrv" : "Escalões de rendimento bruto declarado deduzido do IRS Liquidado",
+      "versao" : "04135"
+    } ],
+    "Categoria_Dim" : [ {
+      "Dim_Num1_S7A2015" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2015",
+        "categ_cod" : "S7A2015",
+        "categ_dsg" : "2015",
+        "categ_ord" : "20150101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2016" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2016",
+        "categ_cod" : "S7A2016",
+        "categ_dsg" : "2016",
+        "categ_ord" : "20160101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2017" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2017",
+        "categ_cod" : "S7A2017",
+        "categ_dsg" : "2017",
+        "categ_ord" : "20170101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2018" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2018",
+        "categ_cod" : "S7A2018",
+        "categ_dsg" : "2018",
+        "categ_ord" : "20180101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2019" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2019",
+        "categ_cod" : "S7A2019",
+        "categ_dsg" : "2019",
+        "categ_ord" : "20190101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2020" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2020",
+        "categ_cod" : "S7A2020",
+        "categ_dsg" : "2020",
+        "categ_ord" : "20200101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num1_S7A2021" : [ {
+        "dim_num" : "1",
+        "cat_id" : "S7A2021",
+        "categ_cod" : "S7A2021",
+        "categ_dsg" : "2021",
+        "categ_ord" : "20210101",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_PT" : [ {
+        "dim_num" : "2",
+        "cat_id" : "PT",
+        "categ_cod" : "PT",
+        "categ_dsg" : "Portugal",
+        "categ_ord" : "1",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num2_1" : [ {
+        "dim_num" : "2",
+        "cat_id" : "1",
+        "categ_cod" : "1",
+        "categ_dsg" : "Continente",
+        "categ_ord" : "2",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num2_2" : [ {
+        "dim_num" : "2",
+        "cat_id" : "2",
+        "categ_cod" : "2",
+        "categ_dsg" : "Região Autónoma dos Açores",
+        "categ_ord" : "3191",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num2_3" : [ {
+        "dim_num" : "2",
+        "cat_id" : "3",
+        "categ_cod" : "3",
+        "categ_dsg" : "Região Autónoma da Madeira",
+        "categ_ord" : "3369",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_T" : [ {
+        "dim_num" : "3",
+        "cat_id" : "T",
+        "categ_cod" : "T",
+        "categ_dsg" : "Total",
+        "categ_ord" : "1",
+        "categ_nivel" : "1"
+      } ],
+      "Dim_Num3_T1" : [ {
+        "dim_num" : "3",
+        "cat_id" : "T1",
+        "categ_cod" : "T1",
+        "categ_dsg" : "Menos de 5 000 euros",
+        "categ_ord" : "2",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_T2" : [ {
+        "dim_num" : "3",
+        "cat_id" : "T2",
+        "categ_cod" : "T2",
+        "categ_dsg" : "De 5 000 a menos de 10 000 euros",
+        "categ_ord" : "3",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_T3" : [ {
+        "dim_num" : "3",
+        "cat_id" : "T3",
+        "categ_cod" : "T3",
+        "categ_dsg" : "De 10 000 a menos de 13 500 euros",
+        "categ_ord" : "4",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_T4" : [ {
+        "dim_num" : "3",
+        "cat_id" : "T4",
+        "categ_cod" : "T4",
+        "categ_dsg" : "De 13 500 a menos de 19 000 euros",
+        "categ_ord" : "5",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_T5" : [ {
+        "dim_num" : "3",
+        "cat_id" : "T5",
+        "categ_cod" : "T5",
+        "categ_dsg" : "De 19 000 a menos de 32 500 euros",
+        "categ_ord" : "6",
+        "categ_nivel" : "2"
+      } ],
+      "Dim_Num3_T6" : [ {
+        "dim_num" : "3",
+        "cat_id" : "T6",
+        "categ_cod" : "T6",
+        "categ_dsg" : "32 500 euros ou mais",
+        "categ_ord" : "7",
+        "categ_nivel" : "2"
+      } ]
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
