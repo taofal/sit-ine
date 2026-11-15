@@ -337,6 +337,49 @@ def fila(est):
 
 
 MAX_TENTATIVAS = 3
+REFORCO = "reforço"          # marca, na nota, os indicadores já pedidos para as geografias de reforço
+
+
+def geos_reforco(cfg):
+    """Geografias acrescentadas à lista depois de parte da colheita estar feita (chave «reforco» da lista)."""
+    ref = cfg.get("reforco") or {}
+    nomes = set(ref.get("geografias") or [])
+    return [g for g in cfg["geografias"] if g["nome"] in nomes], str(ref.get("desde") or "")
+
+
+def fila_reforco(est, cfg):
+    """Indicadores já colhidos antes de «desde», com detalhe municipal, ainda sem as geografias de reforço.
+    São pedidos só para essas geografias (ficheiros novos em 1_bruto; nada é reescrito)."""
+    geos, desde = geos_reforco(cfg)
+    if not geos or not desde:
+        return []
+    pend = [r for r in est.values()
+            if r.get("estado") == "feito" and (r.get("data_colheita") or "") < desde
+            and REFORCO not in (r.get("nota") or "")
+            and any(n in X.norm(r.get("nivel_geo", "")) for n in NIVEIS_MUNICIPAIS)]
+    pend.sort(key=lambda r: (int(r.get("prioridade") or 9), r["varcd"]))
+    return pend
+
+
+def colher_reforco(r, cfg, pasta):
+    """Pede um indicador já colhido só para as geografias de reforço e regista o resultado na nota."""
+    geos, _ = geos_reforco(cfg)
+    res = X.extrair_indicador(r["varcd"], r.get("titulo", ""), geos, 0, True, pasta)
+    if _estado_rede["parado"]:
+        return res, False                               # interrompido: fica na fila, retoma na próxima volta
+    nota = (r.get("nota") or "").strip()
+    if not res["falhas"]:
+        marca = f"{REFORCO} {date.today().isoformat()}: {res['valores']} valores" + (
+            f" (sem {', '.join(res['geos_em_falta'])})" if res["geos_em_falta"] else "")
+    elif any("nenhuma das geografias" in f for f in res["falhas"]):
+        marca = f"{REFORCO} {date.today().isoformat()}: geografias inexistentes neste indicador"
+    else:
+        marca = f"{REFORCO} {date.today().isoformat()}: falhou ({' | '.join(res['falhas'])[:120]})"
+    r["nota"] = (nota + "; " if nota else "") + marca
+    r["ficheiros"] = str(int(r.get("ficheiros") or 0) + len(res["ficheiros"]))
+    r["valores"] = str(int(r.get("valores") or 0) + res["valores"])
+    log(f"{'reforço':13} {r['varcd']} {(r.get('titulo') or '')[:60]:60} {res['valores']:>8} valores  ({marca[:80]})")
+    return res, True
 
 
 def ponto_de_situacao(est):
@@ -360,7 +403,7 @@ def main():
         return
     # Volta sem trabalho: fila vazia, calendário lido hoje e catálogo em dia (incluindo a releitura depois das
     # publicações do INE do dia). Termina já: não faz pedidos ao INE nem grava nada (não gera commit).
-    if est and not fila(est) and calendario_em_dia() and not catalogo_devido()[0]:
+    if est and not fila(est) and not fila_reforco(est, cfg) and calendario_em_dia() and not catalogo_devido()[0]:
         print(f"{agora():%Y-%m-%d %H:%M}  nada a fazer: fila vazia, calendário e catálogo em dia "
               f"({ponto_de_situacao(est)})")
         return
@@ -393,9 +436,24 @@ def main():
     pasta = X.BRUTO / date.today().isoformat()
     pasta.mkdir(parents=True, exist_ok=True)
     resultados = []
-    for r in fila(est):
+    # Ordem: 1.º as atualizações do INE; depois, por prioridade, o reforço de geografias e os por colher.
+    normal, reforco = fila(est), fila_reforco(est, cfg)
+    reabertos = [r for r in normal if (r.get("nota") or "").startswith(REABERTO)]
+    resto = [r for r in normal if not (r.get("nota") or "").startswith(REABERTO)]
+    ordem = [(r, False) for r in reabertos]
+    for p in sorted({int(r.get("prioridade") or 9) for r in reforco + resto}):
+        ordem += [(r, True) for r in reforco if int(r.get("prioridade") or 9) == p]
+        ordem += [(r, False) for r in resto if int(r.get("prioridade") or 9) == p and r.get("estado") != "erro"]
+    ordem += [(r, False) for r in resto if r.get("estado") == "erro"]
+    for r, so_reforco in ordem:
         if _estado_rede["parado"]:
             break
+        if so_reforco:
+            res, feito = colher_reforco(r, cfg, pasta)
+            resultados.append(res)
+            if feito:
+                gravar_estado(est)
+            continue
         res = X.extrair_indicador(r["varcd"], r.get("titulo", ""), cfg["geografias"], 0, True, pasta)
         resultados.append(res)
         parou = _estado_rede["parado"]

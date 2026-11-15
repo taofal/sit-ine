@@ -31,6 +31,8 @@
     "1314"
    ]
   },
+    {"nome": "Vila Nova de Famalicão", "cod": "1190312", "alt": ["0312"]},
+    {"nome": "Braga", "cod": "1120303", "alt": ["0303"]},
   {
    "nome": "Matosinhos",
    "cod": "11A1308",
@@ -58,7 +60,8 @@
    "cod": "PT"
   }
  ],
- "indicadores": [
+ "reforco": {"desde": "2026-11-16", "geografias": ["Vila Nova de Famalicão", "Braga"], "_leia_me": "Geografias acrescentadas depois de parte da colheita estar feita: os indicadores já colhidos antes de 'desde' voltam a ser pedidos só para estas geografias (ficheiros novos; nada é reescrito)."},
+  "indicadores": [
   {
    "tema": "Empresas",
    "varcd": "0008511",

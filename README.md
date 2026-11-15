@@ -19,6 +19,10 @@ Colheita lenta e contínua dos indicadores do INE com dados por município, para
 5. **Volta sem trabalho** — fila vazia, calendário lido hoje e catálogo em dia: a volta termina logo, sem pedidos ao INE e sem gravar nada. O agendamento fica de hora a hora; depois de colhido o atraso, na prática só há trabalho uma vez por dia e nos dias de publicação.
 6. **Passagem para a base local** — copiam-se só os ficheiros novos; o carregamento junta todas as versões; depois verifica-se a base contra o registo (indicadores `feito` sem valores na base, valores na base fora do registo, colheitas mais recentes ainda não carregadas).
 
+### Reforço de geografias
+
+Quando se acrescenta uma geografia à lista depois de parte da colheita estar feita, ela entra na chave `reforco` de `3_scripts/ine_indicadores.json` (`geografias` e `desde`). Os indicadores com detalhe municipal já colhidos antes de `desde` voltam à fila e são pedidos **só para essas geografias**: ficheiros novos na pasta do dia, nada é reescrito, e a nota do registo passa a dizer `reforço <data>: <n> valores`. Na fila, o reforço vai à frente dos por colher da mesma prioridade (depois das atualizações do INE). Em 2026-11-15 foram acrescentados Vila Nova de Famalicão e Braga. Na base local, a mesma série pode assim vir de extrações de datas diferentes consoante a geografia: a versão atual escolhe-se por indicador, território e período, nunca só por indicador.
+
 ## Banco de Portugal (BPstat)
 
 - **Agendamento:** `.github/workflows/colheita_bportugal.yml` corre `3_scripts/extrair_bportugal.py` no dia 2 de cada mês (06:23 UTC). Para correr à mão: **Actions → Colheita Banco de Portugal → Run workflow**.
