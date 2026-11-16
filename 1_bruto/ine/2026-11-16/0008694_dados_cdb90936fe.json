@@ -1,0 +1,966 @@
+[ {
+  "IndicadorCod" : "0008694",
+  "IndicadorDsg" : "Crédito concedido (Série CAE Rev. 3 - €) por estabelecimentos de outra intermediação monetária por Localização geográfica (NUTS - 2013) e Tipo de crédito; Anual - INE, Estatísticas das instituições de crédito e sociedades financeiras",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0008694&lingua=PT",
+  "DataExtracao" : "2026-11-16T12:17:01.964Z",
+  "DataUltimoAtualizacao" : "2023-12-22",
+  "UltimoPref" : "2022",
+  "Dados" : {
+    "2012" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "3",
+      "valor" : "3"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "20",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "3",
+      "valor" : "3"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "46 140",
+      "valor" : "46140"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "20",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "46 140",
+      "valor" : "46140"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "12",
+      "dim_3_t" : "Para outros fins",
+      "ind_string" : "606 815",
+      "valor" : "606815"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "11",
+      "dim_3_t" : "Para habitação",
+      "ind_string" : "968 304",
+      "valor" : "968304"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "A clientes",
+      "ind_string" : "1 575 119",
+      "valor" : "1575119"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 621 259",
+      "valor" : "1621259"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "11",
+      "dim_3_t" : "Para habitação",
+      "ind_string" : "1 682 833",
+      "valor" : "1682833"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "12",
+      "dim_3_t" : "Para outros fins",
+      "ind_string" : "2 375 230",
+      "valor" : "2375230"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "A clientes",
+      "ind_string" : "4 058 063",
+      "valor" : "4058063"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "4 058 066",
+      "valor" : "4058066"
+    } ],
+    "2013" : [ {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "52 196",
+      "valor" : "52196"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "20",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "52 196",
+      "valor" : "52196"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "94 989",
+      "valor" : "94989"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "20",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "94 989",
+      "valor" : "94989"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "12",
+      "dim_3_t" : "Para outros fins",
+      "ind_string" : "572 990",
+      "valor" : "572990"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "11",
+      "dim_3_t" : "Para habitação",
+      "ind_string" : "873 874",
+      "valor" : "873874"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "A clientes",
+      "ind_string" : "1 446 864",
+      "valor" : "1446864"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 499 060",
+      "valor" : "1499060"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "11",
+      "dim_3_t" : "Para habitação",
+      "ind_string" : "1 594 314",
+      "valor" : "1594314"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "12",
+      "dim_3_t" : "Para outros fins",
+      "ind_string" : "2 084 535",
+      "valor" : "2084535"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "A clientes",
+      "ind_string" : "3 678 848",
+      "valor" : "3678848"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 773 837",
+      "valor" : "3773837"
+    } ],
+    "2014" : [ {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "52 446",
+      "valor" : "52446"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "20",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "52 446",
+      "valor" : "52446"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "91 531",
+      "valor" : "91531"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "20",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "91 531",
+      "valor" : "91531"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "12",
+      "dim_3_t" : "Para outros fins",
+      "ind_string" : "554 920",
+      "valor" : "554920"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "11",
+      "dim_3_t" : "Para habitação",
+      "ind_string" : "877 936",
+      "valor" : "877936"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "11",
+      "dim_3_t" : "Para habitação",
+      "ind_string" : "1 411 318",
+      "valor" : "1411318"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "A clientes",
+      "ind_string" : "1 432 856",
+      "valor" : "1432856"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 485 302",
+      "valor" : "1485302"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "12",
+      "dim_3_t" : "Para outros fins",
+      "ind_string" : "1 668 147",
+      "valor" : "1668147"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "A clientes",
+      "ind_string" : "3 079 465",
+      "valor" : "3079465"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 170 996",
+      "valor" : "3170996"
+    } ],
+    "2015" : [ {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "58 336",
+      "valor" : "58336"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "20",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "58 336",
+      "valor" : "58336"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "101 734",
+      "valor" : "101734"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "20",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "101 734",
+      "valor" : "101734"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "12",
+      "dim_3_t" : "Para outros fins",
+      "ind_string" : "692 554",
+      "valor" : "692554"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "11",
+      "dim_3_t" : "Para habitação",
+      "ind_string" : "891 231",
+      "valor" : "891231"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "11",
+      "dim_3_t" : "Para habitação",
+      "ind_string" : "1 410 258",
+      "valor" : "1410258"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "A clientes",
+      "ind_string" : "1 583 785",
+      "valor" : "1583785"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 642 121",
+      "valor" : "1642121"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "12",
+      "dim_3_t" : "Para outros fins",
+      "ind_string" : "1 727 311",
+      "valor" : "1727311"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "A clientes",
+      "ind_string" : "3 137 569",
+      "valor" : "3137569"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 239 304",
+      "valor" : "3239304"
+    } ],
+    "2016" : [ {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "67 862",
+      "valor" : "67862"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "20",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "67 862",
+      "valor" : "67862"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "108 636",
+      "valor" : "108636"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "20",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "108 636",
+      "valor" : "108636"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "12",
+      "dim_3_t" : "Para outros fins",
+      "ind_string" : "604 569",
+      "valor" : "604569"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "11",
+      "dim_3_t" : "Para habitação",
+      "ind_string" : "811 883",
+      "valor" : "811883"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "12",
+      "dim_3_t" : "Para outros fins",
+      "ind_string" : "1 176 439",
+      "valor" : "1176439"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "11",
+      "dim_3_t" : "Para habitação",
+      "ind_string" : "1 375 204",
+      "valor" : "1375204"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "A clientes",
+      "ind_string" : "1 416 452",
+      "valor" : "1416452"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 484 314",
+      "valor" : "1484314"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "A clientes",
+      "ind_string" : "2 551 643",
+      "valor" : "2551643"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2 660 279",
+      "valor" : "2660279"
+    } ],
+    "2017" : [ {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "69 740",
+      "valor" : "69740"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "20",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "69 740",
+      "valor" : "69740"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "112 076",
+      "valor" : "112076"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "20",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "112 076",
+      "valor" : "112076"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "12",
+      "dim_3_t" : "Para outros fins",
+      "ind_string" : "547 978",
+      "valor" : "547978"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "11",
+      "dim_3_t" : "Para habitação",
+      "ind_string" : "783 504",
+      "valor" : "783504"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "12",
+      "dim_3_t" : "Para outros fins",
+      "ind_string" : "1 122 549",
+      "valor" : "1122549"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "11",
+      "dim_3_t" : "Para habitação",
+      "ind_string" : "1 320 622",
+      "valor" : "1320622"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "A clientes",
+      "ind_string" : "1 331 483",
+      "valor" : "1331483"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 401 222",
+      "valor" : "1401222"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "A clientes",
+      "ind_string" : "2 443 171",
+      "valor" : "2443171"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2 555 247",
+      "valor" : "2555247"
+    } ],
+    "2018" : [ {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "80 052",
+      "valor" : "80052"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "20",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "80 052",
+      "valor" : "80052"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "115 565",
+      "valor" : "115565"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "20",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "115 565",
+      "valor" : "115565"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "11",
+      "dim_3_t" : "Para habitação",
+      "ind_string" : "821 175",
+      "valor" : "821175"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "12",
+      "dim_3_t" : "Para outros fins",
+      "ind_string" : "852 718",
+      "valor" : "852718"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "11",
+      "dim_3_t" : "Para habitação",
+      "ind_string" : "1 438 530",
+      "valor" : "1438530"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "12",
+      "dim_3_t" : "Para outros fins",
+      "ind_string" : "1 475 316",
+      "valor" : "1475316"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "A clientes",
+      "ind_string" : "1 673 893",
+      "valor" : "1673893"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 753 945",
+      "valor" : "1753945"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "A clientes",
+      "ind_string" : "2 913 846",
+      "valor" : "2913846"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 029 411",
+      "valor" : "3029411"
+    } ],
+    "2019" : [ {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "106 057",
+      "valor" : "106057"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "20",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "106 057",
+      "valor" : "106057"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "144 621",
+      "valor" : "144621"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "20",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "144 621",
+      "valor" : "144621"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "11",
+      "dim_3_t" : "Para habitação",
+      "ind_string" : "844 516",
+      "valor" : "844516"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "12",
+      "dim_3_t" : "Para outros fins",
+      "ind_string" : "881 586",
+      "valor" : "881586"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "11",
+      "dim_3_t" : "Para habitação",
+      "ind_string" : "1 483 444",
+      "valor" : "1483444"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "12",
+      "dim_3_t" : "Para outros fins",
+      "ind_string" : "1 560 248",
+      "valor" : "1560248"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "A clientes",
+      "ind_string" : "1 726 102",
+      "valor" : "1726102"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 832 159",
+      "valor" : "1832159"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "A clientes",
+      "ind_string" : "3 043 693",
+      "valor" : "3043693"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 188 313",
+      "valor" : "3188313"
+    } ],
+    "2020" : [ {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "120 036",
+      "valor" : "120036"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "20",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "120 036",
+      "valor" : "120036"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "158 151",
+      "valor" : "158151"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "20",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "158 151",
+      "valor" : "158151"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "12",
+      "dim_3_t" : "Para outros fins",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "1 069 676 *",
+      "valor" : "1069676"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "11",
+      "dim_3_t" : "Para habitação",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "1 233 436 *",
+      "valor" : "1233436"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "11",
+      "dim_3_t" : "Para habitação",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "1 413 360 *",
+      "valor" : "1413360"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "12",
+      "dim_3_t" : "Para outros fins",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "1 751 955 *",
+      "valor" : "1751955"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "A clientes",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "2 303 113 *",
+      "valor" : "2303113"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "2 423 148 *",
+      "valor" : "2423148"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "A clientes",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "3 165 316 *",
+      "valor" : "3165316"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "3 323 467 *",
+      "valor" : "3323467"
+    } ],
+    "2021" : [ {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "115 373",
+      "valor" : "115373"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "20",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "115 373",
+      "valor" : "115373"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "171 734",
+      "valor" : "171734"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "20",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "171 734",
+      "valor" : "171734"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "12",
+      "dim_3_t" : "Para outros fins",
+      "ind_string" : "1 234 078",
+      "valor" : "1234078"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "11",
+      "dim_3_t" : "Para habitação",
+      "ind_string" : "1 538 544",
+      "valor" : "1538544"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "11",
+      "dim_3_t" : "Para habitação",
+      "ind_string" : "1 558 307",
+      "valor" : "1558307"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "12",
+      "dim_3_t" : "Para outros fins",
+      "ind_string" : "1 806 616",
+      "valor" : "1806616"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "A clientes",
+      "ind_string" : "2 792 385",
+      "valor" : "2792385"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "2 907 758",
+      "valor" : "2907758"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "A clientes",
+      "ind_string" : "3 345 161",
+      "valor" : "3345161"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 516 894",
+      "valor" : "3516894"
+    } ],
+    "2022" : [ {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "154 672",
+      "valor" : "154672"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "20",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "154 672",
+      "valor" : "154672"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "176 385",
+      "valor" : "176385"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "20",
+      "dim_3_t" : "A não clientes",
+      "ind_string" : "176 385",
+      "valor" : "176385"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "12",
+      "dim_3_t" : "Para outros fins",
+      "ind_string" : "1 310 347",
+      "valor" : "1310347"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "11",
+      "dim_3_t" : "Para habitação",
+      "ind_string" : "1 583 222",
+      "valor" : "1583222"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "11",
+      "dim_3_t" : "Para habitação",
+      "ind_string" : "1 597 844",
+      "valor" : "1597844"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "12",
+      "dim_3_t" : "Para outros fins",
+      "ind_string" : "1 949 397",
+      "valor" : "1949397"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "A clientes",
+      "ind_string" : "2 908 191",
+      "valor" : "2908191"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 062 863",
+      "valor" : "3062863"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "A clientes",
+      "ind_string" : "3 532 619",
+      "valor" : "3532619"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "3 709 004",
+      "valor" : "3709004"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

@@ -1,0 +1,59 @@
+[ {
+  "IndicadorCod" : "0008716",
+  "IndicadorDsg" : "Taxa de abstenção nas eleições para o Parlamento Europeu (%) por Local de residência (NUTS - 2013); Não periódica - Ministério da Administração Interna",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0008716&lingua=PT",
+  "DataExtracao" : "2026-11-16T12:22:41.727Z",
+  "DataUltimoAtualizacao" : "2019-11-25",
+  "UltimoPref" : "2019",
+  "Dados" : {
+    "2004" : [ {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "56,9",
+      "valor" : "56.9"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "55,3",
+      "valor" : "55.3"
+    } ],
+    "2009" : [ {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "57,3",
+      "valor" : "57.3"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "57,0",
+      "valor" : "57"
+    } ],
+    "2014" : [ {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "60,1",
+      "valor" : "60.1"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "62,7",
+      "valor" : "62.7"
+    } ],
+    "2019" : [ {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "59,2",
+      "valor" : "59.2"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "61,0",
+      "valor" : "61"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

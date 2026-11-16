@@ -92,3 +92,100 @@ Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Vila Nova d
 - **0008229** Consumo doméstico de energia elétrica por habitante (kWh/ hab.) — 26 valores, 1 ficheiros novos
     - `0008229_dados_d88da9df9e.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008229&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023&Dim2=1190312,1120303
 - **0008233** Vendas de combustíveis líquidos e gasosos (t) das empresas — 0 valores, 0 ficheiros novos; FALHAS: metadados: orçamento da volta esgotado
+
+## Extração — 2026-11-16 12:25 — séries completas
+Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Vila Nova de Famalicão, Braga, Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal. Todas as categorias das restantes dimensões.
+
+- **0008233** Vendas de combustíveis líquidos e gasosos (t) das empresas — 390 valores, 1 ficheiros novos
+    - `0008233_dados_ab2698a786.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008233&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023&Dim2=1190312,1120303
+- **0008286** Consumo de gás natural (Nm³) — 26 valores, 1 ficheiros novos
+    - `0008286_dados_e56d2cffe7.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008286&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023&Dim2=1190312,1120303
+- **0008287** Consumo de gás natural por 1000 habitantes (Nm³) — 26 valores, 1 ficheiros novos
+    - `0008287_dados_c69a5ea696.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008287&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023&Dim2=1190312,1120303
+- **0008413** Caixas Automáticos Multibanco por 10 000 habitantes (N.º) — 24 valores, 1 ficheiros novos
+    - `0008413_dados_d27d6dd372.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008413&lang=PT&Dim1=S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023&Dim2=1190312,1120303
+- **0008414** Operações em Caixas Automáticos Multibanco por habitante (N.º) — 24 valores, 1 ficheiros novos
+    - `0008414_dados_67b2513780.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008414&lang=PT&Dim1=S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023&Dim2=1190312,1120303
+- **0008415** Levantamentos nacionais em Caixas Automáticos Multibanco por habitante (€) — 24 valores, 1 ficheiros novos
+    - `0008415_dados_8a8ea34b4b.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008415&lang=PT&Dim1=S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023&Dim2=1190312,1120303
+- **0008416** Compras através de Terminais de Pagamento Automático por habitante (€) — 24 valores, 1 ficheiros novos
+    - `0008416_dados_a5f4c039fa.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008416&lang=PT&Dim1=S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023&Dim2=1190312,1120303
+- **0008417** Caixas Automáticos Multibanco em 31 de Dezembro (N.º) — 24 valores, 1 ficheiros novos
+    - `0008417_dados_4b581ad5a8.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008417&lang=PT&Dim1=S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023&Dim2=1190312,1120303
+- **0008418** Compras através de Terminais de Pagamento Automático (N.º) — 108 valores, 1 ficheiros novos
+    - `0008418_dados_c8b1717021.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008418&lang=PT&Dim1=S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023&Dim2=1190312,1120303
+- **0008419** Compras através de Terminais de Pagamento Automático (€) — 108 valores, 1 ficheiros novos
+    - `0008419_dados_2f2fbd1c2e.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008419&lang=PT&Dim1=S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023&Dim2=1190312,1120303
+- **0008508** Empresas (N.º) — 300 valores, 1 ficheiros novos
+    - `0008508_dados_0813eab418.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008508&lang=PT&Dim1=S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0008512** Pessoal ao serviço (N.º) das Empresas — 2970 valores, 1 ficheiros novos
+    - `0008512_dados_9d56571ffd.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008512&lang=PT&Dim1=S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0008513** Volume de negócios (€) das empresas — 2970 valores, 1 ficheiros novos
+    - `0008513_dados_2a0917eff5.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008513&lang=PT&Dim1=S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0008514** Valor acrescentado bruto (€) das empresas — 2970 valores, 1 ficheiros novos
+    - `0008514_dados_45e6fed07a.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008514&lang=PT&Dim1=S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0008546** Indicador de concentração do volume de negócios das quatro maiores empresas (%) — 30 valores, 1 ficheiros novos
+    - `0008546_dados_cc96221e85.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008546&lang=PT&Dim1=S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0008547** Indicador de concentração do valor acrescentado bruto das quatro maiores empresas (%) — 30 valores, 1 ficheiros novos
+    - `0008547_dados_d54feba052.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008547&lang=PT&Dim1=S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0008571** Proporção de hóspedes não residentes (%) — 24 valores, 1 ficheiros novos
+    - `0008571_dados_5960e5ba92.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008571&lang=PT&Dim1=S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023,S7A2024,S7A2025&Dim2=1190312,1120303
+- **0008572** Estada média (N.º) nos estabelecimentos hoteleiros — 550 valores, 1 ficheiros novos
+    - `0008572_dados_4d1da80c45.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008572&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0008573** Taxa líquida de ocupação cama (%) nos estabelecimentos hoteleiros — 550 valores, 1 ficheiros novos
+    - `0008573_dados_a836eaa92b.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008573&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0008574** Estabelecimentos hoteleiros (N.º) — 200 valores, 1 ficheiros novos
+    - `0008574_dados_179f79d74e.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008574&lang=PT&Dim1=S7A2014,S7A2015,S7A2016,S7A2017&Dim2=1190312,1120303
+- **0008575** Capacidade de alojamento (N.º) nos estabelecimentos hoteleiros — 200 valores, 1 ficheiros novos
+    - `0008575_dados_eb1e4a9476.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008575&lang=PT&Dim1=S7A2014,S7A2015,S7A2016,S7A2017&Dim2=1190312,1120303
+- **0008576** Dormidas (N.º) nos estabelecimentos hoteleiros — 550 valores, 1 ficheiros novos
+    - `0008576_dados_51573ca861.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008576&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0008577** Hóspedes (N.º) nos estabelecimentos hoteleiros — 200 valores, 1 ficheiros novos
+    - `0008577_dados_e82a72b8de.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008577&lang=PT&Dim1=S7A2014,S7A2015,S7A2016,S7A2017&Dim2=1190312,1120303
+- **0008578** Quartos (N.º) nos estabelecimentos hoteleiros — 200 valores, 1 ficheiros novos
+    - `0008578_dados_5047d1a2df.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008578&lang=PT&Dim1=S7A2014,S7A2015,S7A2016,S7A2017&Dim2=1190312,1120303
+- **0008579** Proveitos totais (€) dos estabelecimentos hoteleiros — 200 valores, 1 ficheiros novos
+    - `0008579_dados_20c73f60d9.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008579&lang=PT&Dim1=S7A2014,S7A2015,S7A2016,S7A2017&Dim2=1190312,1120303
+- **0008580** Proveitos de aposento (€) dos estabelecimentos hoteleiros — 200 valores, 1 ficheiros novos
+    - `0008580_dados_d554c01f8d.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008580&lang=PT&Dim1=S7A2014,S7A2015,S7A2016,S7A2017&Dim2=1190312,1120303
+- **0008615** Proporção de poder de compra (% - no total do País) — 20 valores, 1 ficheiros novos
+    - `0008615_dados_db83ea0b40.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008615&lang=PT&Dim1=S7A2004,S7A2005,S7A2007,S7A2009,S7A2011,S7A2013,S7A2015,S7A2017,S7A2019,S7A2021&Dim2=1190312,1120303
+- **0008616** Fator dinamismo relativo de poder de compra — 20 valores, 1 ficheiros novos
+    - `0008616_dados_3ea6cc2857.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008616&lang=PT&Dim1=S7A2004,S7A2005,S7A2007,S7A2009,S7A2011,S7A2013,S7A2015,S7A2017,S7A2019,S7A2021&Dim2=1190312,1120303
+- **0008644** Taxa de sobrevivência (%) das Empresas nascidas 2 anos antes — 26 valores, 1 ficheiros novos
+    - `0008644_dados_16b6827e93.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008644&lang=PT&Dim1=S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0008686** Pessoal ao serviço (Série CAE Rev. 3 - N.º) nos estabelecimentos de bancos e caixas económicas — 22 valores, 1 ficheiros novos
+    - `0008686_dados_540cb01fc8.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008686&lang=PT&Dim1=S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0008687** Custos com o pessoal (Série CAE Rev. 3 - €) nos estabelecimentos de bancos e caixas económicas — 22 valores, 1 ficheiros novos
+    - `0008687_dados_632ba73817.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008687&lang=PT&Dim1=S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0008689** Pessoal ao serviço (Série CAE Rev. 3 - N.º) nos estabelecimentos de caixas de crédito agrícola mútuo — 22 valores, 1 ficheiros novos
+    - `0008689_dados_1cf33f2e66.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008689&lang=PT&Dim1=S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0008690** Custos com o pessoal (Série CAE Rev. 3 - €) nos estabelecimentos de caixas de crédito agrícola mútuo — 22 valores, 1 ficheiros novos
+    - `0008690_dados_bcefc35afe.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008690&lang=PT&Dim1=S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0008691** Estabelecimentos de outra intermediação monetária por 10 000 habitantes (Série CAE Rev. 3 - N.º) — 22 valores, 1 ficheiros novos
+    - `0008691_dados_1f3e01d6f5.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008691&lang=PT&Dim1=S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0008692** Taxa de depósitos de emigrantes (Série - CAE Rev. 3 - %) — 22 valores, 1 ficheiros novos
+    - `0008692_dados_090cf5be73.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008692&lang=PT&Dim1=S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0008693** Depósitos de clientes (Série CAE Rev. 3 - €) nos estabelecimentos de outra intermediação monetária — 66 valores, 1 ficheiros novos
+    - `0008693_dados_560a822dfa.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008693&lang=PT&Dim1=S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0008694** Crédito concedido (Série CAE Rev. 3 - €) por estabelecimentos de outra intermediação monetária — 132 valores, 1 ficheiros novos
+    - `0008694_dados_cdb90936fe.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008694&lang=PT&Dim1=S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0008695** Crédito à habitação por habitante (Série CAE Rev. 3 - €) — 22 valores, 1 ficheiros novos
+    - `0008695_dados_f76565f194.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008695&lang=PT&Dim1=S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0008696** Taxa de crédito à habitação (Série - CAE Rev. 3 - %) — 6 valores, 1 ficheiros novos
+    - `0008696_dados_595d9b479c.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008696&lang=PT&Dim1=S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0008697** Juros e custos equiparados (Série - CAE Rev.3 - €) dos estabelecimentos de outra intermediação monetária — 6 valores, 1 ficheiros novos
+    - `0008697_dados_c5dc5a350c.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008697&lang=PT&Dim1=S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0008698** Juros e proveitos equiparados (Série CAE Rev. 3 - €) dos estabelecimentos de outra intermediação monetária — 22 valores, 1 ficheiros novos
+    - `0008698_dados_77067c96f9.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008698&lang=PT&Dim1=S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0008699** Juros de depósitos de clientes (Série - CAE Rev. 3 - €) em Estabelecimentos de outra intermediação monetária — 22 valores, 1 ficheiros novos
+    - `0008699_dados_d3e5e75e9c.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008699&lang=PT&Dim1=S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0008713** Taxa de abstenção nas eleições para as Câmaras Municipais (%) — 12 valores, 1 ficheiros novos
+    - `0008713_dados_7465679fdf.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008713&lang=PT&Dim1=S7A2001,S7A2005,S7A2009,S7A2013,S7A2017,S7A2021&Dim2=1190312,1120303
+- **0008714** Taxa de abstenção nas eleições para a Assembleia da República (%) — 14 valores, 1 ficheiros novos
+    - `0008714_dados_1eb9b812ba.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008714&lang=PT&Dim1=S7A2002,S7A2005,S7A2009,S7A2011,S7A2015,S7A2019,S7A2022&Dim2=1190312,1120303
+- **0008716** Taxa de abstenção nas eleições para o Parlamento Europeu (%) — 8 valores, 1 ficheiros novos
+    - `0008716_dados_9afe4c8cae.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008716&lang=PT&Dim1=S7A2004,S7A2009,S7A2014,S7A2019&Dim2=1190312,1120303
+- **0008764** Proporção de declarações fiscais do IRS - Modelo 3 entregues on-line (%) — 24 valores, 1 ficheiros novos
+    - `0008764_dados_c0f9eabbc6.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0008764&lang=PT&Dim1=S7A2004,S7A2005,S7A2006,S7A2007,S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015&Dim2=1190312,1120303
+- **0008777** Compras através de Terminais de Pagamento Automático (€) — 0 valores, 0 ficheiros novos; FALHAS: S3A201001…S3A201912: orçamento da volta esgotado
