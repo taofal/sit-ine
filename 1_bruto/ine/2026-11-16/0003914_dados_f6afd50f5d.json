@@ -1,0 +1,832 @@
+[ {
+  "IndicadorCod" : "0003914",
+  "IndicadorDsg" : "Taxa bruta de escolarização no ensino básico (%) por Localização geográfica (NUTS - 2002) e Sexo; Anual - Direção-Geral de Estatísticas da Educação e Ciência",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0003914&lingua=PT",
+  "DataExtracao" : "2026-11-16T02:55:23.994Z",
+  "DataUltimoAtualizacao" : "2023-07-10",
+  "UltimoPref" : "2021 / 2022",
+  "Dados" : {
+    "2003 / 2004" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "118,9",
+      "valor" : "118.9"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "120,0",
+      "valor" : "120"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "119,4",
+      "valor" : "119.4"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "115,0",
+      "valor" : "115"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "112,3",
+      "valor" : "112.3"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "113,7",
+      "valor" : "113.7"
+    } ],
+    "2004 / 2005" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "116,9",
+      "valor" : "116.9"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "118,4",
+      "valor" : "118.4"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "117,6",
+      "valor" : "117.6"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "115,4",
+      "valor" : "115.4"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "112,9",
+      "valor" : "112.9"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "114,2",
+      "valor" : "114.2"
+    } ],
+    "2005 / 2006" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "117,6",
+      "valor" : "117.6"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "117,0",
+      "valor" : "117"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "117,3",
+      "valor" : "117.3"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "118,8",
+      "valor" : "118.8"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "112,0",
+      "valor" : "112"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "115,5",
+      "valor" : "115.5"
+    } ],
+    "2006 / 2007" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "120,1",
+      "valor" : "120.1"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "115,7",
+      "valor" : "115.7"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "118,0",
+      "valor" : "118"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "115,2",
+      "valor" : "115.2"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "115,4",
+      "valor" : "115.4"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "115,3",
+      "valor" : "115.3"
+    } ],
+    "2007 / 2008" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "128,7",
+      "valor" : "128.7"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "130,6",
+      "valor" : "130.6"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "129,6",
+      "valor" : "129.6"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "115,2",
+      "valor" : "115.2"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "116,7",
+      "valor" : "116.7"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "116,0",
+      "valor" : "116"
+    } ],
+    "2008 / 2009" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "134,2",
+      "valor" : "134.2"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "140,2",
+      "valor" : "140.2"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "137,1",
+      "valor" : "137.1"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "125,4",
+      "valor" : "125.4"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "126,7",
+      "valor" : "126.7"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "126,1",
+      "valor" : "126.1"
+    } ],
+    "2009 / 2010" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "128,2",
+      "valor" : "128.2"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "128,6",
+      "valor" : "128.6"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "128,4",
+      "valor" : "128.4"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "122,2",
+      "valor" : "122.2"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "124,1",
+      "valor" : "124.1"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "123,1",
+      "valor" : "123.1"
+    } ],
+    "2010 / 2011" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "117,8",
+      "valor" : "117.8"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "119,6",
+      "valor" : "119.6"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "118,7",
+      "valor" : "118.7"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "120,2",
+      "valor" : "120.2"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "116,2",
+      "valor" : "116.2"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "118,3",
+      "valor" : "118.3"
+    } ],
+    "2011 / 2012" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "119,4",
+      "valor" : "119.4"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "118,7",
+      "valor" : "118.7"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "119,1",
+      "valor" : "119.1"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "120,9",
+      "valor" : "120.9"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "117,4",
+      "valor" : "117.4"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "119,2",
+      "valor" : "119.2"
+    } ],
+    "2012 / 2013" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "114,5",
+      "valor" : "114.5"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "111,7",
+      "valor" : "111.7"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "113,1",
+      "valor" : "113.1"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "111,2",
+      "valor" : "111.2"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "107,7",
+      "valor" : "107.7"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "109,5",
+      "valor" : "109.5"
+    } ],
+    "2013 / 2014" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "113,0",
+      "valor" : "113"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "110,6",
+      "valor" : "110.6"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "111,8",
+      "valor" : "111.8"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "108,0",
+      "valor" : "108"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "103,8",
+      "valor" : "103.8"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "105,9",
+      "valor" : "105.9"
+    } ],
+    "2014 / 2015" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "112,0",
+      "valor" : "112"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "109,0",
+      "valor" : "109"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "110,6",
+      "valor" : "110.6"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "107,6",
+      "valor" : "107.6"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "105,3",
+      "valor" : "105.3"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "106,5",
+      "valor" : "106.5"
+    } ],
+    "2015 / 2016" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "111,6",
+      "valor" : "111.6"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "108,3",
+      "valor" : "108.3"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "110,0",
+      "valor" : "110"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "109,0",
+      "valor" : "109"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "104,9",
+      "valor" : "104.9"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "107,0",
+      "valor" : "107"
+    } ],
+    "2016 / 2017" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "112,2",
+      "valor" : "112.2"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "109,4",
+      "valor" : "109.4"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "110,8",
+      "valor" : "110.8"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "107,6",
+      "valor" : "107.6"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "102,5",
+      "valor" : "102.5"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "105,1",
+      "valor" : "105.1"
+    } ],
+    "2017 / 2018" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "108,9",
+      "valor" : "108.9"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "106,5",
+      "valor" : "106.5"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "107,7",
+      "valor" : "107.7"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "104,5",
+      "valor" : "104.5"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "100,2",
+      "valor" : "100.2"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "102,4",
+      "valor" : "102.4"
+    } ],
+    "2018 / 2019" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "110,2",
+      "valor" : "110.2"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "109,0",
+      "valor" : "109"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "109,6",
+      "valor" : "109.6"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "102,7",
+      "valor" : "102.7"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "98,2",
+      "valor" : "98.2"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "100,5",
+      "valor" : "100.5"
+    } ],
+    "2019 / 2020" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "111,8",
+      "valor" : "111.8"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "109,6",
+      "valor" : "109.6"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "110,8",
+      "valor" : "110.8"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "101,4",
+      "valor" : "101.4"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "97,1",
+      "valor" : "97.1"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "99,3",
+      "valor" : "99.3"
+    } ],
+    "2020 / 2021" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "112,6",
+      "valor" : "112.6"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "111,2",
+      "valor" : "111.2"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "111,9",
+      "valor" : "111.9"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "100,4",
+      "valor" : "100.4"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "98,0",
+      "valor" : "98"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "99,2",
+      "valor" : "99.2"
+    } ],
+    "2021 / 2022" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "115,7",
+      "valor" : "115.7"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "116,0",
+      "valor" : "116"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "115,8",
+      "valor" : "115.8"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "100,0",
+      "valor" : "100"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "100,3",
+      "valor" : "100.3"
+    }, {
+      "geocod" : "1130312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "100,1",
+      "valor" : "100.1"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

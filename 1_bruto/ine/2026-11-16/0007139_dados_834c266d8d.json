@@ -1,0 +1,30 @@
+[ {
+  "IndicadorCod" : "0007139",
+  "IndicadorDsg" : "Taxa de abandono escolar (%) por Local de residência (à data dos Censos 2011); Decenal - INE, Recenseamento da população e habitação - Censos 2011",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0007139&lingua=PT",
+  "DataExtracao" : "2026-11-16T03:11:03.780Z",
+  "DataUltimoAtualizacao" : "2015-07-24",
+  "UltimoPref" : "2011",
+  "Dados" : {
+    "2011" : [ {
+      "geocod" : "0312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "1,41 *",
+      "valor" : "1.41"
+    }, {
+      "geocod" : "0303",
+      "geodsg" : "Braga",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "1,34 *",
+      "valor" : "1.34"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
