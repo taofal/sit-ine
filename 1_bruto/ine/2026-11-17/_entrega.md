@@ -108,3 +108,99 @@ Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Vila Nova d
 - **0009558** Estabelecimentos de ensino básico (1º ciclo) com menos de 21 alunos (N.º) — 48 valores, 1 ficheiros novos
     - `0009558_dados_4fa6ce09bc.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009558&lang=PT&Dim1=7A2000_3,7A2001_3,7A2002_3,7A2003_3,7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3&Dim2=1190312,1120303
 - **0009559** Estabelecimentos de ensino não superior (N.º) — 0 valores, 0 ficheiros novos; FALHAS: metadados: INE recusou: <urlopen error timed out>
+
+## Extração — 2026-11-17 23:48 — séries completas
+Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Vila Nova de Famalicão, Braga, Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal. Todas as categorias das restantes dimensões.
+
+- **0009559** Estabelecimentos de ensino não superior (N.º) — 1008 valores, 1 ficheiros novos
+    - `0009559_dados_e57a6b4ea7.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009559&lang=PT&Dim1=7A2000_3,7A2001_3,7A2002_3,7A2003_3,7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3&Dim2=1190312,1120303
+- **0009561** Alunas/os matriculadas/os no ensino não superior em ofertas de educação e formação orientadas para adultos (N.º) — 1200 valores, 1 ficheiros novos
+    - `0009561_dados_91f4625471.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009561&lang=PT&Dim1=7A2000_3,7A2001_3,7A2002_3,7A2003_3,7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3&Dim2=1190312,1120303
+- **0009562** Alunas/os matriculadas/os no ensino não superior em ofertas de educação e formação orientadas para adultos (N.º) — 960 valores, 1 ficheiros novos
+    - `0009562_dados_360ad10863.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009562&lang=PT&Dim1=7A2000_3,7A2001_3,7A2002_3,7A2003_3,7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3&Dim2=1190312,1120303
+- **0009563** Alunas/os matriculadas/os no ensino não superior público em ofertas de educação e formação orientadas para adultos (N.º) — 960 valores, 1 ficheiros novos
+    - `0009563_dados_0b7866ca39.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009563&lang=PT&Dim1=7A2000_3,7A2001_3,7A2002_3,7A2003_3,7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3&Dim2=1190312,1120303
+- **0009565** Alunas/os matriculadas/os no ensino básico em ofertas de educação e formação orientadas para jovens (N.º) — 960 valores, 1 ficheiros novos
+    - `0009565_dados_d81b0a0a5d.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009565&lang=PT&Dim1=7A2000_3,7A2001_3,7A2002_3,7A2003_3,7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3&Dim2=1190312,1120303
+- **0009566** Alunas/os matriculadas/os no ensino básico público em ofertas de educação e formação orientadas para jovens (N.º) — 960 valores, 1 ficheiros novos
+    - `0009566_dados_e14a84175e.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009566&lang=PT&Dim1=7A2000_3,7A2001_3,7A2002_3,7A2003_3,7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3&Dim2=1190312,1120303
+- **0009567** Alunas/os matriculadas/os no ensino secundário em ofertas de educação e formação orientadas para jovens (N.º) — 432 valores, 1 ficheiros novos
+    - `0009567_dados_38f230b0a9.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009567&lang=PT&Dim1=7A2000_3,7A2001_3,7A2002_3,7A2003_3,7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3&Dim2=1190312,1120303
+- **0009568** Alunas/os matriculadas/os no ensino secundário público em ofertas de educação e formação orientadas para jovens (N.º) — 432 valores, 1 ficheiros novos
+    - `0009568_dados_7e4c62597f.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009568&lang=PT&Dim1=7A2000_3,7A2001_3,7A2002_3,7A2003_3,7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3&Dim2=1190312,1120303
+- **0009569** Média de alunas/os matriculadas/os no ensino não superior por computador (N.º) — 170 valores, 1 ficheiros novos
+    - `0009569_dados_20d173cbf7.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009569&lang=PT&Dim1=7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3&Dim2=1190312,1120303
+- **0009570** Média de alunas/os matriculadas/os no ensino não superior por computador com ligação à Internet (N.º) — 170 valores, 1 ficheiros novos
+    - `0009570_dados_55f754a0cc.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009570&lang=PT&Dim1=7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3&Dim2=1190312,1120303
+- **0009573** Docentes do ensino não superior (N.º) — 720 valores, 1 ficheiros novos
+    - `0009573_dados_4e153ec8ed.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009573&lang=PT&Dim1=7A2000_3,7A2001_3,7A2002_3,7A2003_3,7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3&Dim2=1190312,1120303
+- **0009576** Pessoal não docente do ensino não superior (N.º) — 144 valores, 1 ficheiros novos
+    - `0009576_dados_9ec8a4c1f7.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009576&lang=PT&Dim1=7A2000_3,7A2001_3,7A2002_3,7A2003_3,7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3&Dim2=1190312,1120303
+- **0009581** Diplomadas/os do ensino superior (N.º) — 504 valores, 1 ficheiros novos
+    - `0009581_dados_8275c848c7.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009581&lang=PT&Dim1=7A1997_3,7A1998_3,7A1999_3,7A2000_3,7A2001_3,7A2002_3,7A2003_3,7A2004_3,7A2005_3,7A2006_3,7A2007_3,7A2008_3,7A2009_3,7A2010_3,7A2011_3,7A2012_3,7A2013_3,7A2014_3,7A2015_3,7A2016_3,7A2017_3,7A2018_3,7A2019_3,7A2020_3,7A2021_3,7A2022_3,7A2023_3,7A2024_3&Dim2=1190312,1120303
+- **0009702** Nascimentos (N.º) de empresas — 90 valores, 1 ficheiros novos
+    - `0009702_dados_c0046fa007.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009702&lang=PT&Dim1=S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0009703** Nascimentos (N.º) de empresas — 540 valores, 1 ficheiros novos
+    - `0009703_dados_4c2692dad0.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009703&lang=PT&Dim1=S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0009704** Mortes (N.º) de Empresas — 90 valores, 1 ficheiros novos
+    - `0009704_dados_e1c2cf9355.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009704&lang=PT&Dim1=S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0009705** Mortes (N.º) de Empresas — 540 valores, 1 ficheiros novos
+    - `0009705_dados_611f92c48d.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009705&lang=PT&Dim1=S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0009706** Sobrevivências (N.º) de empresas nascidas 1 ano antes — 84 valores, 1 ficheiros novos
+    - `0009706_dados_8deb34b71f.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009706&lang=PT&Dim1=S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0009707** Sobrevivências (N.º) de empresas nascidas 1 ano antes — 504 valores, 1 ficheiros novos
+    - `0009707_dados_08ed0ef699.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009707&lang=PT&Dim1=S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0009708** Sobrevivências (N.º) de empresas nascidas 2 anos antes — 78 valores, 1 ficheiros novos
+    - `0009708_dados_3e1d129070.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009708&lang=PT&Dim1=S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0009709** Sobrevivências (N.º) de empresas nascidas 2 anos antes — 468 valores, 1 ficheiros novos
+    - `0009709_dados_1a7957d0e9.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009709&lang=PT&Dim1=S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0009759** Rendimento bruto declarado por habitante (€) — 14 valores, 1 ficheiros novos
+    - `0009759_dados_01a918af21.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009759&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009760** Imposto sobre o rendimento de pessoas singulares liquidado por habitante (€) — 14 valores, 1 ficheiros novos
+    - `0009760_dados_b734d1399c.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009760&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009761** Rendimento bruto declarado deduzido do IRS liquidado por habitante (€) — 14 valores, 1 ficheiros novos
+    - `0009761_dados_cbbecdcea4.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009761&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009762** Rendimento bruto declarado por agregado fiscal (€) — 14 valores, 1 ficheiros novos
+    - `0009762_dados_60b312d548.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009762&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009763** Valor mediano do rendimento bruto declarado por agregado fiscal (€) — 14 valores, 1 ficheiros novos
+    - `0009763_dados_9631d13ce4.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009763&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009764** Imposto sobre o rendimento de pessoas singulares liquidado por agregado fiscal (€) — 14 valores, 1 ficheiros novos
+    - `0009764_dados_e31ed5c894.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009764&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009765** Rendimento bruto declarado deduzido do IRS liquidado por agregado fiscal (€) — 14 valores, 1 ficheiros novos
+    - `0009765_dados_81a3783486.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009765&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009766** Imposto sobre o rendimento de pessoas singulares liquidado no total de rendimento bruto declarado (%) — 14 valores, 1 ficheiros novos
+    - `0009766_dados_2e3d15d5d5.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009766&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009767** Agregados fiscais (N.º) — 98 valores, 1 ficheiros novos
+    - `0009767_dados_c1e0eb2dd7.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009767&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009768** Agregados fiscais (N.º) — 0 valores, 0 ficheiros novos; geografias inexistentes neste indicador: Vila Nova de Famalicão, Braga; FALHAS: nenhuma das geografias existe neste indicador
+- **0009769** Sujeitos Passivos (N.º) — 14 valores, 1 ficheiros novos
+    - `0009769_dados_ccb5228645.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009769&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009770** Rendimento bruto declarado (€) — 14 valores, 1 ficheiros novos
+    - `0009770_dados_34a64057f4.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009770&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009771** Rendimento coletável (€) — 14 valores, 1 ficheiros novos
+    - `0009771_dados_e1ced4fb8f.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009771&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009772** Imposto sobre o rendimento de pessoas singulares liquidado (€) — 14 valores, 1 ficheiros novos
+    - `0009772_dados_a7d70963bf.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009772&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009773** Distribuição do rendimento bruto declarado dos agregados fiscais (€) — 56 valores, 1 ficheiros novos
+    - `0009773_dados_e35ddaf5b1.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009773&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009774** Distribuição do rendimento bruto declarado deduzido de IRS liquidado dos agregados fiscais (€) — 56 valores, 1 ficheiros novos
+    - `0009774_dados_b750ff6024.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009774&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009775** Rendimento bruto declarado deduzido do IRS liquidado (€) — 14 valores, 1 ficheiros novos
+    - `0009775_dados_2be773e17f.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009775&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009819** Empresas (N.º) — 210 valores, 1 ficheiros novos
+    - `0009819_dados_b022a7c93a.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009819&lang=PT&Dim1=S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0009820** Indicador de concentração do pessoal ao serviço das quatro maiores empresas (%) — 30 valores, 1 ficheiros novos
+    - `0009820_dados_0fe46ad84e.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009820&lang=PT&Dim1=S7A2008,S7A2009,S7A2010,S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0009873** Estabelecimentos de alojamento turístico (N.º) — 450 valores, 1 ficheiros novos
+    - `0009873_dados_83b87fe016.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009873&lang=PT&Dim1=S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023,S7A2024,S7A2025&Dim2=1190312,1120303
+- **0009874** Quartos (N.º) em estabelecimentos de alojamento turístico — 450 valores, 1 ficheiros novos
+    - `0009874_dados_1d4f165884.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009874&lang=PT&Dim1=S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023,S7A2024,S7A2025&Dim2=1190312,1120303
+- **0009929** Rendimento médio por quarto (Rev Par) (€) nos estabelecimentos de alojamento turístico — 400 valores, 1 ficheiros novos
+    - `0009929_dados_1482893d46.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009929&lang=PT&Dim1=S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023,S7A2024,S7A2025&Dim2=1190312,1120303
+- **0009930** Hóspedes (N.º) nos estabelecimentos de alojamento turístico — 800 valores, 1 ficheiros novos
+    - `0009930_dados_d34aa70340.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009930&lang=PT&Dim1=S7A2018,S7A2019,S7A2020,S7A2021,S7A2022,S7A2023,S7A2024,S7A2025&Dim2=1190312,1120303
+- **0009933** Rendimento bruto declarado por sujeito passivo (€) — 14 valores, 1 ficheiros novos
+    - `0009933_dados_9747666b65.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009933&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009934** Valor mediano do rendimento bruto declarado por sujeito passivo (€) — 14 valores, 1 ficheiros novos
+    - `0009934_dados_d11ac7b992.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009934&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009935** Imposto sobre o rendimento de pessoas singulares liquidado por sujeito passivo (€) — 0 valores, 0 ficheiros novos; FALHAS: metadados: orçamento da volta esgotado

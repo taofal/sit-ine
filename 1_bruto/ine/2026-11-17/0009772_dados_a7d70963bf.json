@@ -1,0 +1,96 @@
+[ {
+  "IndicadorCod" : "0009772",
+  "IndicadorDsg" : "Imposto sobre o rendimento de pessoas singulares liquidado (€) por Localização geográfica (NUTS - 2013); Anual - INE, Estatísticas do Rendimento ao nível local com base na informação produzida pelo Ministério das Finanças - Autoridade Tributária e Aduaneira.",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0009772&lingua=PT",
+  "DataExtracao" : "2026-11-17T23:35:51.229Z",
+  "DataUltimoAtualizacao" : "2023-07-25",
+  "UltimoPref" : "2021",
+  "Dados" : {
+    "2015" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "173 385",
+      "valor" : "173385"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "77 784",
+      "valor" : "77784"
+    } ],
+    "2016" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "187 141",
+      "valor" : "187141"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "83 587",
+      "valor" : "83587"
+    } ],
+    "2017" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "200 648",
+      "valor" : "200648"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "90 671",
+      "valor" : "90671"
+    } ],
+    "2018" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "208 155 *",
+      "valor" : "208155"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "94 342 *",
+      "valor" : "94342"
+    } ],
+    "2019" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "227 262",
+      "valor" : "227262"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "104 199",
+      "valor" : "104199"
+    } ],
+    "2020" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "238 596",
+      "valor" : "238596"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "109 955",
+      "valor" : "109955"
+    } ],
+    "2021" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "268 800",
+      "valor" : "268800"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "124 682",
+      "valor" : "124682"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
