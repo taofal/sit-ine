@@ -1,0 +1,48 @@
+[ {
+  "IndicadorCod" : "0010173",
+  "IndicadorDsg" : "Proporção de votos em branco nas eleições para a Assembleia da República (%) por Local de residência (NUTS - 2013); Não periódica - Ministério da Administração Interna",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0010173&lingua=PT",
+  "DataExtracao" : "2026-11-18T05:01:13.979Z",
+  "DataUltimoAtualizacao" : "2022-06-27",
+  "UltimoPref" : "2022",
+  "Dados" : {
+    "2015" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "2,6",
+      "valor" : "2.6"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "2,4",
+      "valor" : "2.4"
+    } ],
+    "2019" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "3,3",
+      "valor" : "3.3"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "3,3",
+      "valor" : "3.3"
+    } ],
+    "2022" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "1,4",
+      "valor" : "1.4"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "1,2",
+      "valor" : "1.2"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

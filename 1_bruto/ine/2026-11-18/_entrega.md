@@ -1,0 +1,94 @@
+# Entrega — INE — 2026-11-18
+
+- **Enviado por:** API JSON do INE (extração própria, script 3_scripts/extrair_ine.py)
+- **Recebido em:** 2026-11-18
+- **Data de extração (da fonte):** campo `DataExtracao` de cada ficheiro
+- **Âmbito:** ver extrações abaixo
+- **Contrato / base legal:** 
+- **Ficheiros:** `<varcd>_dados_<hash>.json` (resposta de dados, exatamente como devolvida) e `<varcd>_meta.json` (metadados)
+- **Notas da ficha técnica:** ver `MetaInfUrl` em cada ficheiro de dados
+- **Restrições de reutilização:** 
+
+## Extração — 2026-11-18 05:19 — séries completas
+Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Vila Nova de Famalicão, Braga, Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal. Todas as categorias das restantes dimensões.
+
+- **0009935** Imposto sobre o rendimento de pessoas singulares liquidado por sujeito passivo (€) — 14 valores, 1 ficheiros novos
+    - `0009935_dados_6f3d6400ef.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009935&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009936** Rendimento bruto declarado deduzido do IRS liquidado por sujeito passivo (€) — 14 valores, 1 ficheiros novos
+    - `0009936_dados_895615e7f7.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009936&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009937** Sujeitos Passivos (N.º) — 98 valores, 1 ficheiros novos
+    - `0009937_dados_9befe88e21.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009937&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009938** Sujeitos Passivos (N.º) — 98 valores, 1 ficheiros novos
+    - `0009938_dados_b5dce0cb23.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009938&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009939** Distribuição do rendimento bruto declarado (€) dos sujeitos passivos — 56 valores, 1 ficheiros novos
+    - `0009939_dados_ce8b97d949.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009939&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009940** Distribuição do rendimento bruto declarado deduzido de IRS liquidado (€) dos sujeitos passivos — 56 valores, 1 ficheiros novos
+    - `0009940_dados_8e357a7113.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009940&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009941** Coeficiente de Gini do rendimento bruto declarado por agregado fiscal (%) — 14 valores, 1 ficheiros novos
+    - `0009941_dados_67f7726762.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009941&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009942** Coeficiente de Gini do rendimento bruto declarado deduzido do IRS liquidado por agregado fiscal (%) — 14 valores, 1 ficheiros novos
+    - `0009942_dados_7d1dd6a419.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009942&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009943** Coeficiente de Gini do rendimento bruto declarado deduzido do IRS liquidado por sujeito passivo (%) — 14 valores, 1 ficheiros novos
+    - `0009943_dados_00013890fa.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009943&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009944** Desigualdade na distribuição do rendimento bruto declarado deduzido do IRS liquidado dos sujeitos passivos (P80/P20) ( N.º) — 14 valores, 1 ficheiros novos
+    - `0009944_dados_c7d11b7b90.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009944&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009945** Desigualdade na distribuição do rendimento bruto declarado dos sujeitos passivos (P90/P10) ( N.º) — 14 valores, 1 ficheiros novos
+    - `0009945_dados_be1569de04.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009945&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009946** Desigualdade na distribuição do rendimento bruto declarado deduzido do IRS liquidado dos sujeitos passivos (P90/P10) ( N.º) — 14 valores, 1 ficheiros novos
+    - `0009946_dados_42129aab6a.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009946&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009947** Desigualdade na distribuição do rendimento bruto declarado dos agregados fiscais (P80/P20) ( N.º) — 14 valores, 1 ficheiros novos
+    - `0009947_dados_049436f677.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009947&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009948** Desigualdade na distribuição do rendimento bruto declarado deduzido do IRS liquidado dos agregados fiscais (P80/P20) ( N.º) — 14 valores, 1 ficheiros novos
+    - `0009948_dados_5975699e7d.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009948&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009949** Desigualdade na distribuição do rendimento bruto declarado deduzido do IRS liquidado dos agregados fiscais (P90/P10) ( N.º) — 14 valores, 1 ficheiros novos
+    - `0009949_dados_c12419a98f.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009949&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009950** Coeficiente de Gini do rendimento bruto declarado por sujeito passivo (%) — 14 valores, 1 ficheiros novos
+    - `0009950_dados_2967d6fb45.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009950&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009951** Desigualdade na distribuição do rendimento bruto declarado dos sujeitos passivos (P80/P20) ( N.º) — 14 valores, 1 ficheiros novos
+    - `0009951_dados_771890c67f.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009951&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009952** Desigualdade na distribuição do rendimento bruto declarado dos agregados fiscais (P90/P10) ( N.º) — 14 valores, 1 ficheiros novos
+    - `0009952_dados_f803b770d5.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009952&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009953** Valor mediano do rendimento bruto declarado deduzido do IRS liquidado por agregado fiscal (€) — 14 valores, 1 ficheiros novos
+    - `0009953_dados_b4b942672c.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009953&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0009954** Valor mediano do rendimento bruto declarado deduzido do IRS liquidado por sujeito passivo (€) — 14 valores, 1 ficheiros novos
+    - `0009954_dados_cedfa2b450.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0009954&lang=PT&Dim1=S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021&Dim2=1190312,1120303
+- **0010042** Valor mediano de avaliação bancária (€/ m²) — 930 valores, 2 ficheiros novos
+    - `0010042_dados_b96d2b6ab7.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010042&lang=PT&Dim1=S3A201101,S3A201102,S3A201103,S3A201104,S3A201105,S3A201106,S3A201107,S3A201108,S3A201109,S3A201110,S3A201111,S3A201112,S3A201201,S3A201202,S3A201203,S3A201204,S3A201205,S3A201206,S3A201207,S3A201208,S3A201209,S3A201210,S3A201211,S3A201212,S3A201301,S3A201302,S3A201303,S3A201304,S3A201305,S3A201306,S3A201307,S3A201308,S3A201309,S3A201310,S3A201311,S3A201312,S3A201401,S3A201402,S3A201403,S3A201404,S3A201405,S3A201406,S3A201407,S3A201408,S3A201409,S3A201410,S3A201411,S3A201412,S3A201501,S3A201502,S3A201503,S3A201504,S3A201505,S3A201506,S3A201507,S3A201508,S3A201509,S3A201510,S3A201511,S3A201512,S3A201601,S3A201602,S3A201603,S3A201604,S3A201605,S3A201606,S3A201607,S3A201608,S3A201609,S3A201610,S3A201611,S3A201612,S3A201701,S3A201702,S3A201703,S3A201704,S3A201705,S3A201706,S3A201707,S3A201708,S3A201709,S3A201710,S3A201711,S3A201712,S3A201801,S3A201802,S3A201803,S3A201804,S3A201805,S3A201806,S3A201807,S3A201808,S3A201809,S3A201810,S3A201811,S3A201812,S3A201901,S3A201902,S3A201903,S3A201904,S3A201905,S3A201906,S3A201907,S3A201908,S3A201909,S3A201910,S3A201911,S3A201912,S3A202001,S3A202002,S3A202003,S3A202004,S3A202005,S3A202006,S3A202007,S3A202008,S3A202009,S3A202010,S3A202011,S3A202012&Dim2=1190312,1120303
+    - `0010042_dados_ff94cec9db.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010042&lang=PT&Dim1=S3A202101,S3A202102,S3A202103,S3A202104,S3A202105,S3A202106,S3A202107,S3A202108,S3A202109,S3A202110,S3A202111,S3A202112,S3A202201,S3A202202,S3A202203,S3A202204,S3A202205,S3A202206,S3A202207,S3A202208,S3A202209,S3A202210,S3A202211,S3A202212,S3A202301,S3A202302,S3A202303,S3A202304,S3A202305,S3A202306,S3A202307,S3A202308,S3A202309,S3A202310,S3A202311&Dim2=1190312,1120303
+- **0010043** Valor mediano de avaliação bancária (€/ m²) — 72 valores, 1 ficheiros novos
+    - `0010043_dados_388bd2ede3.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010043&lang=PT&Dim1=S7A2011,S7A2012,S7A2013,S7A2014,S7A2015,S7A2016,S7A2017,S7A2018,S7A2019,S7A2020,S7A2021,S7A2022&Dim2=1190312,1120303
+- **0010173** Proporção de votos em branco nas eleições para a Assembleia da República (%) — 6 valores, 1 ficheiros novos
+    - `0010173_dados_489a0ae2af.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010173&lang=PT&Dim1=S7A2015,S7A2019,S7A2022&Dim2=1190312,1120303
+- **0010174** Proporção de votos nulos nas eleições para a Assembleia da República (%) — 6 valores, 1 ficheiros novos
+    - `0010174_dados_8939d3a82d.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010174&lang=PT&Dim1=S7A2015,S7A2019,S7A2022&Dim2=1190312,1120303
+- **0010175** Proporção de votos do partido/coligação mais votado nas eleições para a Assembleia da República (%) — 6 valores, 1 ficheiros novos
+    - `0010175_dados_ff9edc72ec.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010175&lang=PT&Dim1=S7A2015,S7A2019,S7A2022&Dim2=1190312,1120303
+- **0010179** Proporção de votos em branco nas eleições para as Câmaras Municipais (%) — 6 valores, 1 ficheiros novos
+    - `0010179_dados_7f8bf6b01e.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010179&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190312,1120303
+- **0010180** Proporção de votos em branco nas eleições para as Assembleias Municipais (%) — 6 valores, 1 ficheiros novos
+    - `0010180_dados_dc80550a69.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010180&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190312,1120303
+- **0010181** Proporção de votos em branco nas eleições para as Assembleias de Freguesia (%) — 6 valores, 1 ficheiros novos
+    - `0010181_dados_43d626790a.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010181&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190312,1120303
+- **0010183** Taxa de abstenção nas eleições para as Assembleias de Freguesia (%) — 6 valores, 1 ficheiros novos
+    - `0010183_dados_0977ffa04e.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010183&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190312,1120303
+- **0010185** Proporção de votos nulos nas eleições para as Assembleias Municipais (%) — 6 valores, 1 ficheiros novos
+    - `0010185_dados_5cfa6624ea.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010185&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190312,1120303
+- **0010186** Proporção de votos nulos nas eleições para as Assembleias de Freguesia (%) — 6 valores, 1 ficheiros novos
+    - `0010186_dados_259a542433.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010186&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190312,1120303
+- **0010187** Proporção de votos do partido/coligação mais votado nas eleições para as Câmaras Municipais (%) — 6 valores, 1 ficheiros novos
+    - `0010187_dados_422aa7fc25.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010187&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190312,1120303
+- **0010188** Proporção de votos do partido/coligação mais votado nas eleições para as Assembleias Municipais (%) — 6 valores, 1 ficheiros novos
+    - `0010188_dados_79a7922f5f.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010188&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190312,1120303
+- **0010189** Proporção de votos do partido/coligação mais votado nas eleições para as Assembleias de Freguesia (%) — 6 valores, 1 ficheiros novos
+    - `0010189_dados_b1e6f3747f.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010189&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190312,1120303
+- **0010192** População inscrita nas eleições para a Assembleia da República (N.º) — 6 valores, 1 ficheiros novos
+    - `0010192_dados_dfee67e87f.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010192&lang=PT&Dim1=S7A2015,S7A2019,S7A2022&Dim2=1190312,1120303
+- **0010193** População inscrita nas eleições para as Câmaras Municipais (N.º) — 6 valores, 1 ficheiros novos
+    - `0010193_dados_af51e7b9da.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010193&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190312,1120303
+- **0010194** População inscrita nas eleições para as Assembleias Municipais (N.º) — 6 valores, 1 ficheiros novos
+    - `0010194_dados_f458858b3c.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010194&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190312,1120303
+- **0010195** População inscrita nas eleições para as Assembleias de Freguesia (N.º) — 6 valores, 1 ficheiros novos
+    - `0010195_dados_a45efe3ab2.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010195&lang=PT&Dim1=S7A2013,S7A2017,S7A2021&Dim2=1190312,1120303
+- **0010198** Abstenção nas eleições para a Assembleia da República (N.º) — 6 valores, 1 ficheiros novos
+    - `0010198_dados_5a3cf1de3e.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0010198&lang=PT&Dim1=S7A2015,S7A2019,S7A2022&Dim2=1190312,1120303
+- **0010199** Abstenção nas eleições para as Câmaras Municipais (N.º) — 0 valores, 0 ficheiros novos; FALHAS: S7A2013…S7A2021: orçamento da volta esgotado

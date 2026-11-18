@@ -1,0 +1,736 @@
+[ {
+  "IndicadorCod" : "0009937",
+  "IndicadorDsg" : "Sujeitos Passivos (N.º) por Localização geográfica (NUTS - 2013) e Escalões de rendimento bruto declarado; Anual - INE, Estatísticas do Rendimento ao nível local com base na informação produzida pelo Ministério das Finanças - Autoridade Tributária e Aduaneira.",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0009937&lingua=PT",
+  "DataExtracao" : "2026-11-18T04:33:39.498Z",
+  "DataUltimoAtualizacao" : "2023-07-25",
+  "UltimoPref" : "2021",
+  "Dados" : {
+    "2015" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T3",
+      "dim_3_t" : "De 10 000 a menos de 13 500 euros",
+      "ind_string" : "16 617",
+      "valor" : "16617"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T4",
+      "dim_3_t" : "De 13 500 a menos de 19 000 euros",
+      "ind_string" : "12 097",
+      "valor" : "12097"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T5",
+      "dim_3_t" : "De 19 000 a menos de 32 500 euros",
+      "ind_string" : "13 694",
+      "valor" : "13694"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T6",
+      "dim_3_t" : "32 500 euros ou mais",
+      "ind_string" : "6 816",
+      "valor" : "6816"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "125 263",
+      "valor" : "125263"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T1",
+      "dim_3_t" : "Menos de 5 000 euros",
+      "ind_string" : "29 007",
+      "valor" : "29007"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T2",
+      "dim_3_t" : "De 5 000 a menos de 10 000 euros",
+      "ind_string" : "47 032",
+      "valor" : "47032"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T3",
+      "dim_3_t" : "De 10 000 a menos de 13 500 euros",
+      "ind_string" : "12 677",
+      "valor" : "12677"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T4",
+      "dim_3_t" : "De 13 500 a menos de 19 000 euros",
+      "ind_string" : "7 710",
+      "valor" : "7710"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T5",
+      "dim_3_t" : "De 19 000 a menos de 32 500 euros",
+      "ind_string" : "6 183",
+      "valor" : "6183"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T6",
+      "dim_3_t" : "32 500 euros ou mais",
+      "ind_string" : "2 184",
+      "valor" : "2184"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "95 033",
+      "valor" : "95033"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T1",
+      "dim_3_t" : "Menos de 5 000 euros",
+      "ind_string" : "21 298",
+      "valor" : "21298"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T2",
+      "dim_3_t" : "De 5 000 a menos de 10 000 euros",
+      "ind_string" : "44 981",
+      "valor" : "44981"
+    } ],
+    "2016" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T3",
+      "dim_3_t" : "De 10 000 a menos de 13 500 euros",
+      "ind_string" : "18 057",
+      "valor" : "18057"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T4",
+      "dim_3_t" : "De 13 500 a menos de 19 000 euros",
+      "ind_string" : "13 161",
+      "valor" : "13161"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T5",
+      "dim_3_t" : "De 19 000 a menos de 32 500 euros",
+      "ind_string" : "14 460",
+      "valor" : "14460"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T6",
+      "dim_3_t" : "32 500 euros ou mais",
+      "ind_string" : "7 290",
+      "valor" : "7290"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "127 034",
+      "valor" : "127034"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T1",
+      "dim_3_t" : "Menos de 5 000 euros",
+      "ind_string" : "26 319",
+      "valor" : "26319"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T2",
+      "dim_3_t" : "De 5 000 a menos de 10 000 euros",
+      "ind_string" : "47 747",
+      "valor" : "47747"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T3",
+      "dim_3_t" : "De 10 000 a menos de 13 500 euros",
+      "ind_string" : "13 980",
+      "valor" : "13980"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T4",
+      "dim_3_t" : "De 13 500 a menos de 19 000 euros",
+      "ind_string" : "8 025",
+      "valor" : "8025"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T5",
+      "dim_3_t" : "De 19 000 a menos de 32 500 euros",
+      "ind_string" : "6 790",
+      "valor" : "6790"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T6",
+      "dim_3_t" : "32 500 euros ou mais",
+      "ind_string" : "2 423",
+      "valor" : "2423"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "95 737",
+      "valor" : "95737"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T1",
+      "dim_3_t" : "Menos de 5 000 euros",
+      "ind_string" : "19 211",
+      "valor" : "19211"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T2",
+      "dim_3_t" : "De 5 000 a menos de 10 000 euros",
+      "ind_string" : "45 308",
+      "valor" : "45308"
+    } ],
+    "2017" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T3",
+      "dim_3_t" : "De 10 000 a menos de 13 500 euros",
+      "ind_string" : "20 073",
+      "valor" : "20073"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T4",
+      "dim_3_t" : "De 13 500 a menos de 19 000 euros",
+      "ind_string" : "14 274",
+      "valor" : "14274"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T5",
+      "dim_3_t" : "De 19 000 a menos de 32 500 euros",
+      "ind_string" : "15 449",
+      "valor" : "15449"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T6",
+      "dim_3_t" : "32 500 euros ou mais",
+      "ind_string" : "7 842",
+      "valor" : "7842"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "129 487",
+      "valor" : "129487"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T1",
+      "dim_3_t" : "Menos de 5 000 euros",
+      "ind_string" : "23 392",
+      "valor" : "23392"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T2",
+      "dim_3_t" : "De 5 000 a menos de 10 000 euros",
+      "ind_string" : "48 457",
+      "valor" : "48457"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T3",
+      "dim_3_t" : "De 10 000 a menos de 13 500 euros",
+      "ind_string" : "16 043",
+      "valor" : "16043"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T4",
+      "dim_3_t" : "De 13 500 a menos de 19 000 euros",
+      "ind_string" : "9 089",
+      "valor" : "9089"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T5",
+      "dim_3_t" : "De 19 000 a menos de 32 500 euros",
+      "ind_string" : "7 277",
+      "valor" : "7277"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T6",
+      "dim_3_t" : "32 500 euros ou mais",
+      "ind_string" : "2 625",
+      "valor" : "2625"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "96 715",
+      "valor" : "96715"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T1",
+      "dim_3_t" : "Menos de 5 000 euros",
+      "ind_string" : "17 005",
+      "valor" : "17005"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T2",
+      "dim_3_t" : "De 5 000 a menos de 10 000 euros",
+      "ind_string" : "44 676",
+      "valor" : "44676"
+    } ],
+    "2018" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T3",
+      "dim_3_t" : "De 10 000 a menos de 13 500 euros",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "21 550 *",
+      "valor" : "21550"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T4",
+      "dim_3_t" : "De 13 500 a menos de 19 000 euros",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "15 981 *",
+      "valor" : "15981"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T5",
+      "dim_3_t" : "De 19 000 a menos de 32 500 euros",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "16 605 *",
+      "valor" : "16605"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T6",
+      "dim_3_t" : "32 500 euros ou mais",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "8 613 *",
+      "valor" : "8613"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "129 856 *",
+      "valor" : "129856"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T1",
+      "dim_3_t" : "Menos de 5 000 euros",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "19 550 *",
+      "valor" : "19550"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T2",
+      "dim_3_t" : "De 5 000 a menos de 10 000 euros",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "47 557 *",
+      "valor" : "47557"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T3",
+      "dim_3_t" : "De 10 000 a menos de 13 500 euros",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "17 522 *",
+      "valor" : "17522"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T4",
+      "dim_3_t" : "De 13 500 a menos de 19 000 euros",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "10 457 *",
+      "valor" : "10457"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T5",
+      "dim_3_t" : "De 19 000 a menos de 32 500 euros",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "8 185 *",
+      "valor" : "8185"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T6",
+      "dim_3_t" : "32 500 euros ou mais",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "2 860 *",
+      "valor" : "2860"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "97 614 *",
+      "valor" : "97614"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T1",
+      "dim_3_t" : "Menos de 5 000 euros",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "14 577 *",
+      "valor" : "14577"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T2",
+      "dim_3_t" : "De 5 000 a menos de 10 000 euros",
+      "sinal_conv" : "*",
+      "sinal_conv_desc" : "Dado rectificado",
+      "ind_string" : "44 013 *",
+      "valor" : "44013"
+    } ],
+    "2019" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T3",
+      "dim_3_t" : "De 10 000 a menos de 13 500 euros",
+      "ind_string" : "23 162",
+      "valor" : "23162"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T4",
+      "dim_3_t" : "De 13 500 a menos de 19 000 euros",
+      "ind_string" : "17 410",
+      "valor" : "17410"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T5",
+      "dim_3_t" : "De 19 000 a menos de 32 500 euros",
+      "ind_string" : "18 071",
+      "valor" : "18071"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T6",
+      "dim_3_t" : "32 500 euros ou mais",
+      "ind_string" : "9 301",
+      "valor" : "9301"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "132 763",
+      "valor" : "132763"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T1",
+      "dim_3_t" : "Menos de 5 000 euros",
+      "ind_string" : "17 931",
+      "valor" : "17931"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T2",
+      "dim_3_t" : "De 5 000 a menos de 10 000 euros",
+      "ind_string" : "46 888",
+      "valor" : "46888"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T3",
+      "dim_3_t" : "De 10 000 a menos de 13 500 euros",
+      "ind_string" : "19 193",
+      "valor" : "19193"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T4",
+      "dim_3_t" : "De 13 500 a menos de 19 000 euros",
+      "ind_string" : "11 936",
+      "valor" : "11936"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T5",
+      "dim_3_t" : "De 19 000 a menos de 32 500 euros",
+      "ind_string" : "8 823",
+      "valor" : "8823"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T6",
+      "dim_3_t" : "32 500 euros ou mais",
+      "ind_string" : "3 215",
+      "valor" : "3215"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "98 845",
+      "valor" : "98845"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T1",
+      "dim_3_t" : "Menos de 5 000 euros",
+      "ind_string" : "13 156",
+      "valor" : "13156"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T2",
+      "dim_3_t" : "De 5 000 a menos de 10 000 euros",
+      "ind_string" : "42 522",
+      "valor" : "42522"
+    } ],
+    "2020" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T3",
+      "dim_3_t" : "De 10 000 a menos de 13 500 euros",
+      "ind_string" : "24 051",
+      "valor" : "24051"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T4",
+      "dim_3_t" : "De 13 500 a menos de 19 000 euros",
+      "ind_string" : "18 091",
+      "valor" : "18091"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T5",
+      "dim_3_t" : "De 19 000 a menos de 32 500 euros",
+      "ind_string" : "18 457",
+      "valor" : "18457"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T6",
+      "dim_3_t" : "32 500 euros ou mais",
+      "ind_string" : "9 984",
+      "valor" : "9984"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "134 570",
+      "valor" : "134570"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T1",
+      "dim_3_t" : "Menos de 5 000 euros",
+      "ind_string" : "17 871",
+      "valor" : "17871"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T2",
+      "dim_3_t" : "De 5 000 a menos de 10 000 euros",
+      "ind_string" : "46 116",
+      "valor" : "46116"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T3",
+      "dim_3_t" : "De 10 000 a menos de 13 500 euros",
+      "ind_string" : "20 169",
+      "valor" : "20169"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T4",
+      "dim_3_t" : "De 13 500 a menos de 19 000 euros",
+      "ind_string" : "12 304",
+      "valor" : "12304"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T5",
+      "dim_3_t" : "De 19 000 a menos de 32 500 euros",
+      "ind_string" : "9 353",
+      "valor" : "9353"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T6",
+      "dim_3_t" : "32 500 euros ou mais",
+      "ind_string" : "3 384",
+      "valor" : "3384"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "99 885",
+      "valor" : "99885"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T1",
+      "dim_3_t" : "Menos de 5 000 euros",
+      "ind_string" : "12 893",
+      "valor" : "12893"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T2",
+      "dim_3_t" : "De 5 000 a menos de 10 000 euros",
+      "ind_string" : "41 782",
+      "valor" : "41782"
+    } ],
+    "2021" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T3",
+      "dim_3_t" : "De 10 000 a menos de 13 500 euros",
+      "ind_string" : "25 691",
+      "valor" : "25691"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T4",
+      "dim_3_t" : "De 13 500 a menos de 19 000 euros",
+      "ind_string" : "20 039",
+      "valor" : "20039"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T5",
+      "dim_3_t" : "De 19 000 a menos de 32 500 euros",
+      "ind_string" : "20 167",
+      "valor" : "20167"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T6",
+      "dim_3_t" : "32 500 euros ou mais",
+      "ind_string" : "11 268",
+      "valor" : "11268"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "136 809",
+      "valor" : "136809"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T1",
+      "dim_3_t" : "Menos de 5 000 euros",
+      "ind_string" : "16 061",
+      "valor" : "16061"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T2",
+      "dim_3_t" : "De 5 000 a menos de 10 000 euros",
+      "ind_string" : "43 583",
+      "valor" : "43583"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T3",
+      "dim_3_t" : "De 10 000 a menos de 13 500 euros",
+      "ind_string" : "21 673",
+      "valor" : "21673"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T4",
+      "dim_3_t" : "De 13 500 a menos de 19 000 euros",
+      "ind_string" : "14 471",
+      "valor" : "14471"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T5",
+      "dim_3_t" : "De 19 000 a menos de 32 500 euros",
+      "ind_string" : "10 714",
+      "valor" : "10714"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T6",
+      "dim_3_t" : "32 500 euros ou mais",
+      "ind_string" : "3 955",
+      "valor" : "3955"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "101 033",
+      "valor" : "101033"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T1",
+      "dim_3_t" : "Menos de 5 000 euros",
+      "ind_string" : "11 353",
+      "valor" : "11353"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T2",
+      "dim_3_t" : "De 5 000 a menos de 10 000 euros",
+      "ind_string" : "38 867",
+      "valor" : "38867"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

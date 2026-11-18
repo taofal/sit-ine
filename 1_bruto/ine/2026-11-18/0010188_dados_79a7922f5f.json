@@ -1,0 +1,48 @@
+[ {
+  "IndicadorCod" : "0010188",
+  "IndicadorDsg" : "Proporção de votos do partido/coligação mais votado nas eleições para as Assembleias Municipais (%) por Local de residência (NUTS - 2013); Não periódica - Ministério da Administração Interna",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0010188&lingua=PT",
+  "DataExtracao" : "2026-11-18T05:11:20.020Z",
+  "DataUltimoAtualizacao" : "2021-11-30",
+  "UltimoPref" : "2021",
+  "Dados" : {
+    "2013" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "42,6",
+      "valor" : "42.6"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "54,5",
+      "valor" : "54.5"
+    } ],
+    "2017" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "48,0",
+      "valor" : "48"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "61,9",
+      "valor" : "61.9"
+    } ],
+    "2021" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "39,3",
+      "valor" : "39.3"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "50,4",
+      "valor" : "50.4"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

@@ -1,0 +1,48 @@
+[ {
+  "IndicadorCod" : "0010192",
+  "IndicadorDsg" : "População inscrita nas eleições para a Assembleia da República (N.º) por Local de residência (NUTS - 2013); Não periódica - Ministério da Administração Interna",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0010192&lingua=PT",
+  "DataExtracao" : "2026-11-18T05:12:44.523Z",
+  "DataUltimoAtualizacao" : "2022-06-27",
+  "UltimoPref" : "2022",
+  "Dados" : {
+    "2015" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "161 711",
+      "valor" : "161711"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "118 743",
+      "valor" : "118743"
+    } ],
+    "2019" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "165 371",
+      "valor" : "165371"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "119 391",
+      "valor" : "119391"
+    } ],
+    "2022" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "166 300",
+      "valor" : "166300"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "119 681",
+      "valor" : "119681"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
