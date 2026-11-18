@@ -1,0 +1,2185 @@
+[ {
+  "IndicadorCod" : "0010378",
+  "IndicadorDsg" : "População empregada por conta de outrem (N.º) por Localização geográfica (NUTS - 2013), Setor de atividade económica (CAE Rev. 3) e Sexo; Anual - MTSSS/GEP, Quadros de pessoal",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0010378&lingua=PT",
+  "DataExtracao" : "2026-11-18T22:42:31.608Z",
+  "DataUltimoAtualizacao" : "2026-06-30",
+  "UltimoPref" : "2022",
+  "Dados" : {
+    "2013" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "26",
+      "valor" : "26"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "51",
+      "valor" : "51"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "66",
+      "valor" : "66"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "77",
+      "valor" : "77"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "115",
+      "valor" : "115"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "181",
+      "valor" : "181"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "4 967",
+      "valor" : "4967"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "6 153",
+      "valor" : "6153"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "6 679",
+      "valor" : "6679"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "7 992",
+      "valor" : "7992"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "10 495",
+      "valor" : "10495"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "11 673",
+      "valor" : "11673"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "11 853",
+      "valor" : "11853"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "12 008",
+      "valor" : "12008"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "12 832",
+      "valor" : "12832"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "14 737",
+      "valor" : "14737"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "15 462",
+      "valor" : "15462"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "17 001",
+      "valor" : "17001"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "17 941",
+      "valor" : "17941"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "19 665",
+      "valor" : "19665"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "22 399",
+      "valor" : "22399"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "23 861",
+      "valor" : "23861"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "32 678",
+      "valor" : "32678"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "39 400",
+      "valor" : "39400"
+    } ],
+    "2014" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "35",
+      "valor" : "35"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "60",
+      "valor" : "60"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "62",
+      "valor" : "62"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "95",
+      "valor" : "95"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "110",
+      "valor" : "110"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "172",
+      "valor" : "172"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "5 033",
+      "valor" : "5033"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "6 351",
+      "valor" : "6351"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "6 815",
+      "valor" : "6815"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "8 755",
+      "valor" : "8755"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "11 023",
+      "valor" : "11023"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "12 144",
+      "valor" : "12144"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "12 224",
+      "valor" : "12224"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "12 327",
+      "valor" : "12327"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "13 166",
+      "valor" : "13166"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "15 632",
+      "valor" : "15632"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "16 056",
+      "valor" : "16056"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "17 292",
+      "valor" : "17292"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "18 605",
+      "valor" : "18605"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "20 899",
+      "valor" : "20899"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "23 410",
+      "valor" : "23410"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "24 551",
+      "valor" : "24551"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "34 237",
+      "valor" : "34237"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "40 702",
+      "valor" : "40702"
+    } ],
+    "2015" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "36",
+      "valor" : "36"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "60",
+      "valor" : "60"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "80",
+      "valor" : "80"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "116",
+      "valor" : "116"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "118",
+      "valor" : "118"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "178",
+      "valor" : "178"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "4 818",
+      "valor" : "4818"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "6 644",
+      "valor" : "6644"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "6 957",
+      "valor" : "6957"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "9 104",
+      "valor" : "9104"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "11 197",
+      "valor" : "11197"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "12 572",
+      "valor" : "12572"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "12 625",
+      "valor" : "12625"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "12 912",
+      "valor" : "12912"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "13 601",
+      "valor" : "13601"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "16 015",
+      "valor" : "16015"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "16 121",
+      "valor" : "16121"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "17 766",
+      "valor" : "17766"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "19 387",
+      "valor" : "19387"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "21 729",
+      "valor" : "21729"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "23 849",
+      "valor" : "23849"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "25 484",
+      "valor" : "25484"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "35 508",
+      "valor" : "35508"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "41 615",
+      "valor" : "41615"
+    } ],
+    "2016" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "34",
+      "valor" : "34"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "56",
+      "valor" : "56"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "80",
+      "valor" : "80"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "114",
+      "valor" : "114"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "130",
+      "valor" : "130"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "186",
+      "valor" : "186"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "5 045",
+      "valor" : "5045"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "6 658",
+      "valor" : "6658"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "7 185",
+      "valor" : "7185"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "9 260",
+      "valor" : "9260"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "11 606",
+      "valor" : "11606"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "13 241",
+      "valor" : "13241"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "13 319",
+      "valor" : "13319"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "13 843",
+      "valor" : "13843"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "13 945",
+      "valor" : "13945"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "16 501",
+      "valor" : "16501"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "16 651",
+      "valor" : "16651"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "19 024",
+      "valor" : "19024"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "20 107",
+      "valor" : "20107"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "22 579",
+      "valor" : "22579"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "24 927",
+      "valor" : "24927"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "27 186",
+      "valor" : "27186"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "36 608",
+      "valor" : "36608"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "43 951",
+      "valor" : "43951"
+    } ],
+    "2017" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "37",
+      "valor" : "37"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "59",
+      "valor" : "59"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "74",
+      "valor" : "74"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "111",
+      "valor" : "111"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "133",
+      "valor" : "133"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "192",
+      "valor" : "192"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "5 260",
+      "valor" : "5260"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "6 738",
+      "valor" : "6738"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "7 195",
+      "valor" : "7195"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "8 967",
+      "valor" : "8967"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "12 452",
+      "valor" : "12452"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "13 893",
+      "valor" : "13893"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "13 933",
+      "valor" : "13933"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "13 936",
+      "valor" : "13936"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "14 377",
+      "valor" : "14377"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "16 221",
+      "valor" : "16221"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "17 712",
+      "valor" : "17712"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "19 674",
+      "valor" : "19674"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "20 807",
+      "valor" : "20807"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "22 903",
+      "valor" : "22903"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "26 419",
+      "valor" : "26419"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "28 270",
+      "valor" : "28270"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "37 028",
+      "valor" : "37028"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "46 093",
+      "valor" : "46093"
+    } ],
+    "2018" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "42",
+      "valor" : "42"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "52",
+      "valor" : "52"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "88",
+      "valor" : "88"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "114",
+      "valor" : "114"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "130",
+      "valor" : "130"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "166",
+      "valor" : "166"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "5 549",
+      "valor" : "5549"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "6 919",
+      "valor" : "6919"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "7 545",
+      "valor" : "7545"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "9 429",
+      "valor" : "9429"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "13 482",
+      "valor" : "13482"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "14 464",
+      "valor" : "14464"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "14 507",
+      "valor" : "14507"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "14 716",
+      "valor" : "14716"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "15 188",
+      "valor" : "15188"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "17 026",
+      "valor" : "17026"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "19 031",
+      "valor" : "19031"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "20 779",
+      "valor" : "20779"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "21 540",
+      "valor" : "21540"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "23 936",
+      "valor" : "23936"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "28 286",
+      "valor" : "28286"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "29 904",
+      "valor" : "29904"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "38 566",
+      "valor" : "38566"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "49 065",
+      "valor" : "49065"
+    } ],
+    "2019" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "36",
+      "valor" : "36"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "57",
+      "valor" : "57"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "81",
+      "valor" : "81"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "117",
+      "valor" : "117"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "120",
+      "valor" : "120"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "177",
+      "valor" : "177"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "5 623",
+      "valor" : "5623"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "6 536",
+      "valor" : "6536"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "7 026",
+      "valor" : "7026"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "8 811",
+      "valor" : "8811"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "13 562",
+      "valor" : "13562"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "13 965",
+      "valor" : "13965"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "14 384",
+      "valor" : "14384"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "15 564",
+      "valor" : "15564"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "15 894",
+      "valor" : "15894"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "16 170",
+      "valor" : "16170"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "19 588",
+      "valor" : "19588"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "21 040",
+      "valor" : "21040"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "21 829",
+      "valor" : "21829"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "23 195",
+      "valor" : "23195"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "29 610",
+      "valor" : "29610"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "31 734",
+      "valor" : "31734"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "36 934",
+      "valor" : "36934"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "51 439",
+      "valor" : "51439"
+    } ],
+    "2020" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "31",
+      "valor" : "31"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "58",
+      "valor" : "58"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "82",
+      "valor" : "82"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "112",
+      "valor" : "112"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "113",
+      "valor" : "113"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "170",
+      "valor" : "170"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "5 560",
+      "valor" : "5560"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "6 721",
+      "valor" : "6721"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "6 927",
+      "valor" : "6927"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "8 493",
+      "valor" : "8493"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "13 648",
+      "valor" : "13648"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "14 327",
+      "valor" : "14327"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "14 374",
+      "valor" : "14374"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "15 166",
+      "valor" : "15166"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "15 478",
+      "valor" : "15478"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "15 605",
+      "valor" : "15605"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "19 887",
+      "valor" : "19887"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "21 196",
+      "valor" : "21196"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "21 207",
+      "valor" : "21207"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "22 867",
+      "valor" : "22867"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "29 575",
+      "valor" : "29575"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "30 771",
+      "valor" : "30771"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "36 685",
+      "valor" : "36685"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "50 771",
+      "valor" : "50771"
+    } ],
+    "2021" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "32",
+      "valor" : "32"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "45",
+      "valor" : "45"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "79",
+      "valor" : "79"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "111",
+      "valor" : "111"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "113",
+      "valor" : "113"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "158",
+      "valor" : "158"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "5 669",
+      "valor" : "5669"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "6 438",
+      "valor" : "6438"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "6 896",
+      "valor" : "6896"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "8 143",
+      "valor" : "8143"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "13 334",
+      "valor" : "13334"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "14 526",
+      "valor" : "14526"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "14 874",
+      "valor" : "14874"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "15 084",
+      "valor" : "15084"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "15 635",
+      "valor" : "15635"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "16 888",
+      "valor" : "16888"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "20 195",
+      "valor" : "20195"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "21 425",
+      "valor" : "21425"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "22 589",
+      "valor" : "22589"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "23 017",
+      "valor" : "23017"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "30 240",
+      "valor" : "30240"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "32 523",
+      "valor" : "32523"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "36 509",
+      "valor" : "36509"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "52 829",
+      "valor" : "52829"
+    } ],
+    "2022" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "39",
+      "valor" : "39"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "60",
+      "valor" : "60"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "91",
+      "valor" : "91"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "119",
+      "valor" : "119"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "130",
+      "valor" : "130"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "A0",
+      "dim_3_t" : "Agricultura, produção animal, caça, floresta e pesca",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "179",
+      "valor" : "179"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "5 931",
+      "valor" : "5931"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "6 653",
+      "valor" : "6653"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "7 362",
+      "valor" : "7362"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "8 881",
+      "valor" : "8881"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "14 015",
+      "valor" : "14015"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "15 441",
+      "valor" : "15441"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "15 609",
+      "valor" : "15609"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "16 303",
+      "valor" : "16303"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "16 835",
+      "valor" : "16835"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "18 162",
+      "valor" : "18162"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "21 372",
+      "valor" : "21372"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "22 381",
+      "valor" : "22381"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "2",
+      "dim_4_t" : "M",
+      "ind_string" : "24 132",
+      "valor" : "24132"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "B-F",
+      "dim_3_t" : "Indústria, construção, energia e água",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "24 490",
+      "valor" : "24490"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "1",
+      "dim_4_t" : "H",
+      "ind_string" : "32 367",
+      "valor" : "32367"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "G-U",
+      "dim_3_t" : "Serviços",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "34 997",
+      "valor" : "34997"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "38 684",
+      "valor" : "38684"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "TOT",
+      "dim_3_t" : "Total",
+      "dim_4" : "T",
+      "dim_4_t" : "HM",
+      "ind_string" : "56 499",
+      "valor" : "56499"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

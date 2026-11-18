@@ -1,0 +1,48 @@
+[ {
+  "IndicadorCod" : "0010201",
+  "IndicadorDsg" : "Abstenção nas eleições para as Assembleias de Freguesia (N.º) por Local de residência (NUTS - 2013); Não periódica - Ministério da Administração Interna",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0010201&lingua=PT",
+  "DataExtracao" : "2026-11-18T22:07:12.950Z",
+  "DataUltimoAtualizacao" : "2021-11-30",
+  "UltimoPref" : "2021",
+  "Dados" : {
+    "2013" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "63 901",
+      "valor" : "63901"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "42 431",
+      "valor" : "42431"
+    } ],
+    "2017" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "69 323",
+      "valor" : "69323"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "43 011",
+      "valor" : "43011"
+    } ],
+    "2021" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "ind_string" : "71 488",
+      "valor" : "71488"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "ind_string" : "43 585",
+      "valor" : "43585"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
