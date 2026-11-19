@@ -1,0 +1,101 @@
+[ {
+  "IndicadorCod" : "0011661",
+  "IndicadorDsg" : "Taxa de desemprego (%) por Local de residência à data dos Censos [2021] (NUTS - 2013) e Sexo; Decenal - INE, Recenseamento da população e habitação - Censos 2021",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0011661&lingua=PT",
+  "DataExtracao" : "2026-11-19T13:24:13.078Z",
+  "DataUltimoAtualizacao" : "2022-11-23",
+  "UltimoPref" : "2021",
+  "Dados" : {
+    "2011" : [ {
+      "geocod" : "0303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "13,18",
+      "valor" : "13.18"
+    }, {
+      "geocod" : "0303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "11,74",
+      "valor" : "11.74"
+    }, {
+      "geocod" : "0303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "14,64",
+      "valor" : "14.64"
+    }, {
+      "geocod" : "0312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "14,94",
+      "valor" : "14.94"
+    }, {
+      "geocod" : "0312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "13,04",
+      "valor" : "13.04"
+    }, {
+      "geocod" : "0312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "16,97",
+      "valor" : "16.97"
+    } ],
+    "2021" : [ {
+      "geocod" : "0303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "7,61",
+      "valor" : "7.61"
+    }, {
+      "geocod" : "0303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "6,38",
+      "valor" : "6.38"
+    }, {
+      "geocod" : "0303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "8,81",
+      "valor" : "8.81"
+    }, {
+      "geocod" : "0312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "6,99",
+      "valor" : "6.99"
+    }, {
+      "geocod" : "0312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "5,54",
+      "valor" : "5.54"
+    }, {
+      "geocod" : "0312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "8,51",
+      "valor" : "8.51"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

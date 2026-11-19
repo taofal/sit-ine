@@ -72,3 +72,29 @@ Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Vila Nova d
 - **0011660** Proporção da população residente com pelo menos o ensino secundário completo (%) — 12 valores, 1 ficheiros novos
     - `0011660_dados_de0635d137.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011660&lang=PT&Dim1=S7A2011,S7A2021&Dim2=0312,0303
 - **0011661** Taxa de desemprego (%) — 0 valores, 0 ficheiros novos; FALHAS: metadados: orçamento da volta esgotado
+
+## Extração — 2026-11-19 13:45 — séries completas
+Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Vila Nova de Famalicão, Braga, Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal. Todas as categorias das restantes dimensões.
+
+- **0011661** Taxa de desemprego (%) — 12 valores, 1 ficheiros novos
+    - `0011661_dados_5add9fa05d.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011661&lang=PT&Dim1=S7A2011,S7A2021&Dim2=0312,0303
+- **0011667** Taxa de desemprego (%) da população residente ativa com idade entre 15 e 24 anos — 6 valores, 1 ficheiros novos
+    - `0011667_dados_1e347f9afc.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011667&lang=PT&Dim1=S7A2021&Dim2=0312,0303
+- **0011668** Índice de polarização de emprego (N.º) — 2 valores, 1 ficheiros novos
+    - `0011668_dados_435bd027ad.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011668&lang=PT&Dim1=S7A2021&Dim2=0312,0303
+- **0011676** Proporção da população empregada por conta de outrem (%) — 6 valores, 1 ficheiros novos
+    - `0011676_dados_ae35e0a24a.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011676&lang=PT&Dim1=S7A2021&Dim2=0312,0303
+- **0011687** População empregada (N.º) — 360 valores, 1 ficheiros novos
+    - `0011687_dados_112e4d99df.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011687&lang=PT&Dim1=S7A2011,S7A2021&Dim2=0312,0303
+- **0011690** Taxa de emprego (%) — 168 valores, 1 ficheiros novos
+    - `0011690_dados_b6c496228a.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011690&lang=PT&Dim1=S7A2011,S7A2021&Dim2=0312,0303
+- **0011698** População empregada (N.º) — 2352 valores, 1 ficheiros novos
+    - `0011698_dados_5c5ea98d26.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011698&lang=PT&Dim1=S7A2011,S7A2021&Dim2=0312,0303
+- **0011700** População desempregada (N.º) — 2016 valores, 1 ficheiros novos
+    - `0011700_dados_87eaeffe13.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011700&lang=PT&Dim1=S7A2011,S7A2021&Dim2=0312,0303
+- **0011702** População residente empregada ou estudante (N.º) — 11340 valores, 1 ficheiros novos
+    - `0011702_dados_2353095adc.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011702&lang=PT&Dim1=S7A2011,S7A2021&Dim2=0312,0303
+- **0011703** População empregada (N.º) — 41580 valores, 2 ficheiros novos
+    - `0011703_dados_b430ac0adf.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011703&lang=PT&Dim1=S7A2021&Dim2=0312
+    - `0011703_dados_fac95491ee.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011703&lang=PT&Dim1=S7A2021&Dim2=0303
+- **0011728** Empresas (N.º) — 0 valores, 0 ficheiros novos; FALHAS: S7A2008…S7A2009: INE recusou: The read operation timed out
