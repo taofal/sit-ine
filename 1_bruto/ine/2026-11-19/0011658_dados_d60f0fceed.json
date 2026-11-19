@@ -1,0 +1,58 @@
+[ {
+  "IndicadorCod" : "0011658",
+  "IndicadorDsg" : "Proporção da população residente com idade entre 20 e 24 anos com pelo menos o ensino secundário completo (%) por Local de residência à data dos Censos [2021] (NUTS - 2013) e Sexo; Decenal - INE, Recenseamento da população e habitação - Censos 2021",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0011658&lingua=PT",
+  "DataExtracao" : "2026-11-19T04:24:38.436Z",
+  "DataUltimoAtualizacao" : "2022-11-23",
+  "UltimoPref" : "2021",
+  "Dados" : {
+    "2021" : [ {
+      "geocod" : "0312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "84,26",
+      "valor" : "84.26"
+    }, {
+      "geocod" : "0312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "92,30",
+      "valor" : "92.3"
+    }, {
+      "geocod" : "0312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "88,22",
+      "valor" : "88.22"
+    }, {
+      "geocod" : "0303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "86,85",
+      "valor" : "86.85"
+    }, {
+      "geocod" : "0303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "93,37",
+      "valor" : "93.37"
+    }, {
+      "geocod" : "0303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "90,06",
+      "valor" : "90.06"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

@@ -1,0 +1,1425 @@
+[ {
+  "IndicadorCod" : "0010385",
+  "IndicadorDsg" : "Ganho médio mensal (€) por Localização geográfica (NUTS - 2013) e Profissão (CPP); Anual - MTSSS/GEP, Quadros de pessoal",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0010385&lingua=PT",
+  "DataExtracao" : "2026-11-19T03:43:14.712Z",
+  "DataUltimoAtualizacao" : "2026-06-30",
+  "UltimoPref" : "2022",
+  "Dados" : {
+    "2013" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "6",
+      "dim_3_t" : "Agricultores e trabalhadores qualificados da agricultura, da pesca e da floresta",
+      "ind_string" : "631,69",
+      "valor" : "631.69"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "6",
+      "dim_3_t" : "Agricultores e trabalhadores qualificados da agricultura, da pesca e da floresta",
+      "ind_string" : "640,49",
+      "valor" : "640.49"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "9",
+      "dim_3_t" : "Trabalhadores não qualificados",
+      "ind_string" : "647,95",
+      "valor" : "647.95"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "9",
+      "dim_3_t" : "Trabalhadores não qualificados",
+      "ind_string" : "661,68",
+      "valor" : "661.68"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "5",
+      "dim_3_t" : "Trabalhadores dos serviços pessoais, de proteção e segurança e vendedores",
+      "ind_string" : "688,03",
+      "valor" : "688.03"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "5",
+      "dim_3_t" : "Trabalhadores dos serviços pessoais, de proteção e segurança e vendedores",
+      "ind_string" : "739,04",
+      "valor" : "739.04"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "7",
+      "dim_3_t" : "Trabalhadores qualificados da indústria, construção e artífices",
+      "ind_string" : "792,13",
+      "valor" : "792.13"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "8",
+      "dim_3_t" : "Operadores de instalações e máquinas e trabalhadores da montagem",
+      "ind_string" : "801,46",
+      "valor" : "801.46"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "7",
+      "dim_3_t" : "Trabalhadores qualificados da indústria, construção e artífices",
+      "ind_string" : "806,37",
+      "valor" : "806.37"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "8",
+      "dim_3_t" : "Operadores de instalações e máquinas e trabalhadores da montagem",
+      "ind_string" : "817,41",
+      "valor" : "817.41"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "4",
+      "dim_3_t" : "Pessoal administrativo",
+      "ind_string" : "922,18",
+      "valor" : "922.18"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "4",
+      "dim_3_t" : "Pessoal administrativo",
+      "ind_string" : "933,17",
+      "valor" : "933.17"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "945,79",
+      "valor" : "945.79"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "979,63",
+      "valor" : "979.63"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "3",
+      "dim_3_t" : "Técnicos e profissões de nível intermédio",
+      "ind_string" : "1 255,56",
+      "valor" : "1255.56"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "3",
+      "dim_3_t" : "Técnicos e profissões de nível intermédio",
+      "ind_string" : "1 317,67",
+      "valor" : "1317.67"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "Especialistas das atividades intelectuais e científicas",
+      "ind_string" : "1 552,31",
+      "valor" : "1552.31"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "Especialistas das atividades intelectuais e científicas",
+      "ind_string" : "1 707,19",
+      "valor" : "1707.19"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "Representantes do poder legislativo e de órgãos executivos, dirigentes, diretores e gestores executivos",
+      "ind_string" : "1 811,02",
+      "valor" : "1811.02"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "Representantes do poder legislativo e de órgãos executivos, dirigentes, diretores e gestores executivos",
+      "ind_string" : "2 037,19",
+      "valor" : "2037.19"
+    } ],
+    "2014" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "6",
+      "dim_3_t" : "Agricultores e trabalhadores qualificados da agricultura, da pesca e da floresta",
+      "ind_string" : "636,71",
+      "valor" : "636.71"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "6",
+      "dim_3_t" : "Agricultores e trabalhadores qualificados da agricultura, da pesca e da floresta",
+      "ind_string" : "666,76",
+      "valor" : "666.76"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "9",
+      "dim_3_t" : "Trabalhadores não qualificados",
+      "ind_string" : "670,42",
+      "valor" : "670.42"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "9",
+      "dim_3_t" : "Trabalhadores não qualificados",
+      "ind_string" : "672,51",
+      "valor" : "672.51"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "5",
+      "dim_3_t" : "Trabalhadores dos serviços pessoais, de proteção e segurança e vendedores",
+      "ind_string" : "698,55",
+      "valor" : "698.55"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "5",
+      "dim_3_t" : "Trabalhadores dos serviços pessoais, de proteção e segurança e vendedores",
+      "ind_string" : "737,83",
+      "valor" : "737.83"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "7",
+      "dim_3_t" : "Trabalhadores qualificados da indústria, construção e artífices",
+      "ind_string" : "789,69",
+      "valor" : "789.69"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "7",
+      "dim_3_t" : "Trabalhadores qualificados da indústria, construção e artífices",
+      "ind_string" : "818,41",
+      "valor" : "818.41"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "8",
+      "dim_3_t" : "Operadores de instalações e máquinas e trabalhadores da montagem",
+      "ind_string" : "824,47",
+      "valor" : "824.47"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "8",
+      "dim_3_t" : "Operadores de instalações e máquinas e trabalhadores da montagem",
+      "ind_string" : "825,59",
+      "valor" : "825.59"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "4",
+      "dim_3_t" : "Pessoal administrativo",
+      "ind_string" : "921,11",
+      "valor" : "921.11"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "4",
+      "dim_3_t" : "Pessoal administrativo",
+      "ind_string" : "936,09",
+      "valor" : "936.09"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "944,15",
+      "valor" : "944.15"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "985,71",
+      "valor" : "985.71"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "3",
+      "dim_3_t" : "Técnicos e profissões de nível intermédio",
+      "ind_string" : "1 237,75",
+      "valor" : "1237.75"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "3",
+      "dim_3_t" : "Técnicos e profissões de nível intermédio",
+      "ind_string" : "1 319,43",
+      "valor" : "1319.43"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "Especialistas das atividades intelectuais e científicas",
+      "ind_string" : "1 539,25",
+      "valor" : "1539.25"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "Especialistas das atividades intelectuais e científicas",
+      "ind_string" : "1 664,10",
+      "valor" : "1664.1"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "Representantes do poder legislativo e de órgãos executivos, dirigentes, diretores e gestores executivos",
+      "ind_string" : "1 820,07",
+      "valor" : "1820.07"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "Representantes do poder legislativo e de órgãos executivos, dirigentes, diretores e gestores executivos",
+      "ind_string" : "1 962,72",
+      "valor" : "1962.72"
+    } ],
+    "2015" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "6",
+      "dim_3_t" : "Agricultores e trabalhadores qualificados da agricultura, da pesca e da floresta",
+      "ind_string" : "633,24",
+      "valor" : "633.24"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "6",
+      "dim_3_t" : "Agricultores e trabalhadores qualificados da agricultura, da pesca e da floresta",
+      "ind_string" : "672,96",
+      "valor" : "672.96"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "9",
+      "dim_3_t" : "Trabalhadores não qualificados",
+      "ind_string" : "675,04",
+      "valor" : "675.04"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "9",
+      "dim_3_t" : "Trabalhadores não qualificados",
+      "ind_string" : "689,26",
+      "valor" : "689.26"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "5",
+      "dim_3_t" : "Trabalhadores dos serviços pessoais, de proteção e segurança e vendedores",
+      "ind_string" : "730,28",
+      "valor" : "730.28"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "5",
+      "dim_3_t" : "Trabalhadores dos serviços pessoais, de proteção e segurança e vendedores",
+      "ind_string" : "751,81",
+      "valor" : "751.81"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "7",
+      "dim_3_t" : "Trabalhadores qualificados da indústria, construção e artífices",
+      "ind_string" : "801,66",
+      "valor" : "801.66"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "8",
+      "dim_3_t" : "Operadores de instalações e máquinas e trabalhadores da montagem",
+      "ind_string" : "814,34",
+      "valor" : "814.34"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "7",
+      "dim_3_t" : "Trabalhadores qualificados da indústria, construção e artífices",
+      "ind_string" : "823,84",
+      "valor" : "823.84"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "8",
+      "dim_3_t" : "Operadores de instalações e máquinas e trabalhadores da montagem",
+      "ind_string" : "833,66",
+      "valor" : "833.66"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "4",
+      "dim_3_t" : "Pessoal administrativo",
+      "ind_string" : "917,70",
+      "valor" : "917.7"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "4",
+      "dim_3_t" : "Pessoal administrativo",
+      "ind_string" : "924,35",
+      "valor" : "924.35"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "947,15",
+      "valor" : "947.15"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "984,38",
+      "valor" : "984.38"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "3",
+      "dim_3_t" : "Técnicos e profissões de nível intermédio",
+      "ind_string" : "1 242,14",
+      "valor" : "1242.14"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "3",
+      "dim_3_t" : "Técnicos e profissões de nível intermédio",
+      "ind_string" : "1 286,14",
+      "valor" : "1286.14"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "Especialistas das atividades intelectuais e científicas",
+      "ind_string" : "1 517,26",
+      "valor" : "1517.26"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "Especialistas das atividades intelectuais e científicas",
+      "ind_string" : "1 647,69",
+      "valor" : "1647.69"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "Representantes do poder legislativo e de órgãos executivos, dirigentes, diretores e gestores executivos",
+      "ind_string" : "1 881,20",
+      "valor" : "1881.2"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "Representantes do poder legislativo e de órgãos executivos, dirigentes, diretores e gestores executivos",
+      "ind_string" : "2 046,60",
+      "valor" : "2046.6"
+    } ],
+    "2016" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "6",
+      "dim_3_t" : "Agricultores e trabalhadores qualificados da agricultura, da pesca e da floresta",
+      "ind_string" : "665,68",
+      "valor" : "665.68"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "6",
+      "dim_3_t" : "Agricultores e trabalhadores qualificados da agricultura, da pesca e da floresta",
+      "ind_string" : "685,30",
+      "valor" : "685.3"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "9",
+      "dim_3_t" : "Trabalhadores não qualificados",
+      "ind_string" : "689,35",
+      "valor" : "689.35"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "9",
+      "dim_3_t" : "Trabalhadores não qualificados",
+      "ind_string" : "722,03",
+      "valor" : "722.03"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "5",
+      "dim_3_t" : "Trabalhadores dos serviços pessoais, de proteção e segurança e vendedores",
+      "ind_string" : "749,87",
+      "valor" : "749.87"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "5",
+      "dim_3_t" : "Trabalhadores dos serviços pessoais, de proteção e segurança e vendedores",
+      "ind_string" : "763,77",
+      "valor" : "763.77"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "7",
+      "dim_3_t" : "Trabalhadores qualificados da indústria, construção e artífices",
+      "ind_string" : "800,17",
+      "valor" : "800.17"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "7",
+      "dim_3_t" : "Trabalhadores qualificados da indústria, construção e artífices",
+      "ind_string" : "807,14",
+      "valor" : "807.14"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "8",
+      "dim_3_t" : "Operadores de instalações e máquinas e trabalhadores da montagem",
+      "ind_string" : "833,37",
+      "valor" : "833.37"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "8",
+      "dim_3_t" : "Operadores de instalações e máquinas e trabalhadores da montagem",
+      "ind_string" : "868,55",
+      "valor" : "868.55"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "4",
+      "dim_3_t" : "Pessoal administrativo",
+      "ind_string" : "928,35",
+      "valor" : "928.35"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "4",
+      "dim_3_t" : "Pessoal administrativo",
+      "ind_string" : "948,67",
+      "valor" : "948.67"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "968,82",
+      "valor" : "968.82"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "999,80",
+      "valor" : "999.8"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "3",
+      "dim_3_t" : "Técnicos e profissões de nível intermédio",
+      "ind_string" : "1 302,25",
+      "valor" : "1302.25"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "3",
+      "dim_3_t" : "Técnicos e profissões de nível intermédio",
+      "ind_string" : "1 323,66",
+      "valor" : "1323.66"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "Especialistas das atividades intelectuais e científicas",
+      "ind_string" : "1 541,52",
+      "valor" : "1541.52"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "Especialistas das atividades intelectuais e científicas",
+      "ind_string" : "1 573,13",
+      "valor" : "1573.13"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "Representantes do poder legislativo e de órgãos executivos, dirigentes, diretores e gestores executivos",
+      "ind_string" : "1 879,64",
+      "valor" : "1879.64"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "Representantes do poder legislativo e de órgãos executivos, dirigentes, diretores e gestores executivos",
+      "ind_string" : "2 116,18",
+      "valor" : "2116.18"
+    } ],
+    "2017" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "6",
+      "dim_3_t" : "Agricultores e trabalhadores qualificados da agricultura, da pesca e da floresta",
+      "ind_string" : "693,27",
+      "valor" : "693.27"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "6",
+      "dim_3_t" : "Agricultores e trabalhadores qualificados da agricultura, da pesca e da floresta",
+      "ind_string" : "708,76",
+      "valor" : "708.76"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "9",
+      "dim_3_t" : "Trabalhadores não qualificados",
+      "ind_string" : "730,50",
+      "valor" : "730.5"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "5",
+      "dim_3_t" : "Trabalhadores dos serviços pessoais, de proteção e segurança e vendedores",
+      "ind_string" : "756,35",
+      "valor" : "756.35"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "9",
+      "dim_3_t" : "Trabalhadores não qualificados",
+      "ind_string" : "781,89",
+      "valor" : "781.89"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "5",
+      "dim_3_t" : "Trabalhadores dos serviços pessoais, de proteção e segurança e vendedores",
+      "ind_string" : "789,55",
+      "valor" : "789.55"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "7",
+      "dim_3_t" : "Trabalhadores qualificados da indústria, construção e artífices",
+      "ind_string" : "839,73",
+      "valor" : "839.73"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "7",
+      "dim_3_t" : "Trabalhadores qualificados da indústria, construção e artífices",
+      "ind_string" : "841,88",
+      "valor" : "841.88"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "8",
+      "dim_3_t" : "Operadores de instalações e máquinas e trabalhadores da montagem",
+      "ind_string" : "880,36",
+      "valor" : "880.36"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "8",
+      "dim_3_t" : "Operadores de instalações e máquinas e trabalhadores da montagem",
+      "ind_string" : "942,49",
+      "valor" : "942.49"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "4",
+      "dim_3_t" : "Pessoal administrativo",
+      "ind_string" : "948,07",
+      "valor" : "948.07"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "4",
+      "dim_3_t" : "Pessoal administrativo",
+      "ind_string" : "986,55",
+      "valor" : "986.55"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 018,24",
+      "valor" : "1018.24"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 038,70",
+      "valor" : "1038.7"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "3",
+      "dim_3_t" : "Técnicos e profissões de nível intermédio",
+      "ind_string" : "1 331,93",
+      "valor" : "1331.93"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "3",
+      "dim_3_t" : "Técnicos e profissões de nível intermédio",
+      "ind_string" : "1 355,56",
+      "valor" : "1355.56"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "Especialistas das atividades intelectuais e científicas",
+      "ind_string" : "1 561,61",
+      "valor" : "1561.61"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "Especialistas das atividades intelectuais e científicas",
+      "ind_string" : "1 573,33",
+      "valor" : "1573.33"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "Representantes do poder legislativo e de órgãos executivos, dirigentes, diretores e gestores executivos",
+      "ind_string" : "1 934,79",
+      "valor" : "1934.79"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "Representantes do poder legislativo e de órgãos executivos, dirigentes, diretores e gestores executivos",
+      "ind_string" : "2 211,70",
+      "valor" : "2211.7"
+    } ],
+    "2018" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "6",
+      "dim_3_t" : "Agricultores e trabalhadores qualificados da agricultura, da pesca e da floresta",
+      "ind_string" : "705,59",
+      "valor" : "705.59"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "6",
+      "dim_3_t" : "Agricultores e trabalhadores qualificados da agricultura, da pesca e da floresta",
+      "ind_string" : "744,00",
+      "valor" : "744"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "9",
+      "dim_3_t" : "Trabalhadores não qualificados",
+      "ind_string" : "754,28",
+      "valor" : "754.28"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "5",
+      "dim_3_t" : "Trabalhadores dos serviços pessoais, de proteção e segurança e vendedores",
+      "ind_string" : "778,05",
+      "valor" : "778.05"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "9",
+      "dim_3_t" : "Trabalhadores não qualificados",
+      "ind_string" : "808,50",
+      "valor" : "808.5"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "5",
+      "dim_3_t" : "Trabalhadores dos serviços pessoais, de proteção e segurança e vendedores",
+      "ind_string" : "818,01",
+      "valor" : "818.01"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "7",
+      "dim_3_t" : "Trabalhadores qualificados da indústria, construção e artífices",
+      "ind_string" : "870,02",
+      "valor" : "870.02"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "7",
+      "dim_3_t" : "Trabalhadores qualificados da indústria, construção e artífices",
+      "ind_string" : "871,58",
+      "valor" : "871.58"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "8",
+      "dim_3_t" : "Operadores de instalações e máquinas e trabalhadores da montagem",
+      "ind_string" : "895,09",
+      "valor" : "895.09"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "8",
+      "dim_3_t" : "Operadores de instalações e máquinas e trabalhadores da montagem",
+      "ind_string" : "937,76",
+      "valor" : "937.76"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "4",
+      "dim_3_t" : "Pessoal administrativo",
+      "ind_string" : "975,50",
+      "valor" : "975.5"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "4",
+      "dim_3_t" : "Pessoal administrativo",
+      "ind_string" : "999,71",
+      "valor" : "999.71"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 036,83",
+      "valor" : "1036.83"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 076,61",
+      "valor" : "1076.61"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "3",
+      "dim_3_t" : "Técnicos e profissões de nível intermédio",
+      "ind_string" : "1 364,31",
+      "valor" : "1364.31"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "3",
+      "dim_3_t" : "Técnicos e profissões de nível intermédio",
+      "ind_string" : "1 369,68",
+      "valor" : "1369.68"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "Especialistas das atividades intelectuais e científicas",
+      "ind_string" : "1 607,03",
+      "valor" : "1607.03"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "Especialistas das atividades intelectuais e científicas",
+      "ind_string" : "1 641,49",
+      "valor" : "1641.49"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "Representantes do poder legislativo e de órgãos executivos, dirigentes, diretores e gestores executivos",
+      "ind_string" : "1 974,44",
+      "valor" : "1974.44"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "Representantes do poder legislativo e de órgãos executivos, dirigentes, diretores e gestores executivos",
+      "ind_string" : "2 253,97",
+      "valor" : "2253.97"
+    } ],
+    "2019" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "6",
+      "dim_3_t" : "Agricultores e trabalhadores qualificados da agricultura, da pesca e da floresta",
+      "ind_string" : "723,18",
+      "valor" : "723.18"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "6",
+      "dim_3_t" : "Agricultores e trabalhadores qualificados da agricultura, da pesca e da floresta",
+      "ind_string" : "773,93",
+      "valor" : "773.93"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "9",
+      "dim_3_t" : "Trabalhadores não qualificados",
+      "ind_string" : "794,40",
+      "valor" : "794.4"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "5",
+      "dim_3_t" : "Trabalhadores dos serviços pessoais, de proteção e segurança e vendedores",
+      "ind_string" : "821,71",
+      "valor" : "821.71"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "9",
+      "dim_3_t" : "Trabalhadores não qualificados",
+      "ind_string" : "840,31",
+      "valor" : "840.31"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "5",
+      "dim_3_t" : "Trabalhadores dos serviços pessoais, de proteção e segurança e vendedores",
+      "ind_string" : "851,82",
+      "valor" : "851.82"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "7",
+      "dim_3_t" : "Trabalhadores qualificados da indústria, construção e artífices",
+      "ind_string" : "909,41",
+      "valor" : "909.41"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "7",
+      "dim_3_t" : "Trabalhadores qualificados da indústria, construção e artífices",
+      "ind_string" : "926,68",
+      "valor" : "926.68"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "8",
+      "dim_3_t" : "Operadores de instalações e máquinas e trabalhadores da montagem",
+      "ind_string" : "945,39",
+      "valor" : "945.39"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "8",
+      "dim_3_t" : "Operadores de instalações e máquinas e trabalhadores da montagem",
+      "ind_string" : "983,04",
+      "valor" : "983.04"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "4",
+      "dim_3_t" : "Pessoal administrativo",
+      "ind_string" : "996,68",
+      "valor" : "996.68"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "4",
+      "dim_3_t" : "Pessoal administrativo",
+      "ind_string" : "1 031,19",
+      "valor" : "1031.19"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 080,24",
+      "valor" : "1080.24"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 145,83",
+      "valor" : "1145.83"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "3",
+      "dim_3_t" : "Técnicos e profissões de nível intermédio",
+      "ind_string" : "1 427,65",
+      "valor" : "1427.65"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "3",
+      "dim_3_t" : "Técnicos e profissões de nível intermédio",
+      "ind_string" : "1 446,75",
+      "valor" : "1446.75"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "Especialistas das atividades intelectuais e científicas",
+      "ind_string" : "1 568,09",
+      "valor" : "1568.09"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "Especialistas das atividades intelectuais e científicas",
+      "ind_string" : "1 746,65",
+      "valor" : "1746.65"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "Representantes do poder legislativo e de órgãos executivos, dirigentes, diretores e gestores executivos",
+      "ind_string" : "1 994,05",
+      "valor" : "1994.05"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "Representantes do poder legislativo e de órgãos executivos, dirigentes, diretores e gestores executivos",
+      "ind_string" : "2 355,57",
+      "valor" : "2355.57"
+    } ],
+    "2020" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "6",
+      "dim_3_t" : "Agricultores e trabalhadores qualificados da agricultura, da pesca e da floresta",
+      "ind_string" : "762,12",
+      "valor" : "762.12"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "6",
+      "dim_3_t" : "Agricultores e trabalhadores qualificados da agricultura, da pesca e da floresta",
+      "ind_string" : "784,88",
+      "valor" : "784.88"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "9",
+      "dim_3_t" : "Trabalhadores não qualificados",
+      "ind_string" : "827,11",
+      "valor" : "827.11"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "5",
+      "dim_3_t" : "Trabalhadores dos serviços pessoais, de proteção e segurança e vendedores",
+      "ind_string" : "849,00",
+      "valor" : "849"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "9",
+      "dim_3_t" : "Trabalhadores não qualificados",
+      "ind_string" : "871,39",
+      "valor" : "871.39"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "5",
+      "dim_3_t" : "Trabalhadores dos serviços pessoais, de proteção e segurança e vendedores",
+      "ind_string" : "882,83",
+      "valor" : "882.83"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "7",
+      "dim_3_t" : "Trabalhadores qualificados da indústria, construção e artífices",
+      "ind_string" : "931,91",
+      "valor" : "931.91"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "7",
+      "dim_3_t" : "Trabalhadores qualificados da indústria, construção e artífices",
+      "ind_string" : "938,99",
+      "valor" : "938.99"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "8",
+      "dim_3_t" : "Operadores de instalações e máquinas e trabalhadores da montagem",
+      "ind_string" : "986,48",
+      "valor" : "986.48"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "4",
+      "dim_3_t" : "Pessoal administrativo",
+      "ind_string" : "1 032,71",
+      "valor" : "1032.71"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "4",
+      "dim_3_t" : "Pessoal administrativo",
+      "ind_string" : "1 081,24",
+      "valor" : "1081.24"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "8",
+      "dim_3_t" : "Operadores de instalações e máquinas e trabalhadores da montagem",
+      "ind_string" : "1 084,66",
+      "valor" : "1084.66"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 135,77",
+      "valor" : "1135.77"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 186,40",
+      "valor" : "1186.4"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "3",
+      "dim_3_t" : "Técnicos e profissões de nível intermédio",
+      "ind_string" : "1 464,61",
+      "valor" : "1464.61"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "3",
+      "dim_3_t" : "Técnicos e profissões de nível intermédio",
+      "ind_string" : "1 527,35",
+      "valor" : "1527.35"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "Especialistas das atividades intelectuais e científicas",
+      "ind_string" : "1 614,40",
+      "valor" : "1614.4"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "Especialistas das atividades intelectuais e científicas",
+      "ind_string" : "1 770,91",
+      "valor" : "1770.91"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "Representantes do poder legislativo e de órgãos executivos, dirigentes, diretores e gestores executivos",
+      "ind_string" : "2 103,67",
+      "valor" : "2103.67"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "Representantes do poder legislativo e de órgãos executivos, dirigentes, diretores e gestores executivos",
+      "ind_string" : "2 353,80",
+      "valor" : "2353.8"
+    } ],
+    "2021" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "6",
+      "dim_3_t" : "Agricultores e trabalhadores qualificados da agricultura, da pesca e da floresta",
+      "ind_string" : "781,47",
+      "valor" : "781.47"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "6",
+      "dim_3_t" : "Agricultores e trabalhadores qualificados da agricultura, da pesca e da floresta",
+      "ind_string" : "814,14",
+      "valor" : "814.14"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "9",
+      "dim_3_t" : "Trabalhadores não qualificados",
+      "ind_string" : "870,20",
+      "valor" : "870.2"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "9",
+      "dim_3_t" : "Trabalhadores não qualificados",
+      "ind_string" : "897,65",
+      "valor" : "897.65"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "5",
+      "dim_3_t" : "Trabalhadores dos serviços pessoais, de proteção e segurança e vendedores",
+      "ind_string" : "903,05",
+      "valor" : "903.05"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "5",
+      "dim_3_t" : "Trabalhadores dos serviços pessoais, de proteção e segurança e vendedores",
+      "ind_string" : "921,39",
+      "valor" : "921.39"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "7",
+      "dim_3_t" : "Trabalhadores qualificados da indústria, construção e artífices",
+      "ind_string" : "981,17",
+      "valor" : "981.17"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "7",
+      "dim_3_t" : "Trabalhadores qualificados da indústria, construção e artífices",
+      "ind_string" : "984,71",
+      "valor" : "984.71"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "4",
+      "dim_3_t" : "Pessoal administrativo",
+      "ind_string" : "1 064,92",
+      "valor" : "1064.92"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "8",
+      "dim_3_t" : "Operadores de instalações e máquinas e trabalhadores da montagem",
+      "ind_string" : "1 066,12",
+      "valor" : "1066.12"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "4",
+      "dim_3_t" : "Pessoal administrativo",
+      "ind_string" : "1 095,89",
+      "valor" : "1095.89"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "8",
+      "dim_3_t" : "Operadores de instalações e máquinas e trabalhadores da montagem",
+      "ind_string" : "1 146,45",
+      "valor" : "1146.45"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 193,51",
+      "valor" : "1193.51"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 234,49",
+      "valor" : "1234.49"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "3",
+      "dim_3_t" : "Técnicos e profissões de nível intermédio",
+      "ind_string" : "1 503,78",
+      "valor" : "1503.78"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "3",
+      "dim_3_t" : "Técnicos e profissões de nível intermédio",
+      "ind_string" : "1 593,71",
+      "valor" : "1593.71"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "Especialistas das atividades intelectuais e científicas",
+      "ind_string" : "1 698,46",
+      "valor" : "1698.46"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "Especialistas das atividades intelectuais e científicas",
+      "ind_string" : "1 839,74",
+      "valor" : "1839.74"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "Representantes do poder legislativo e de órgãos executivos, dirigentes, diretores e gestores executivos",
+      "ind_string" : "2 193,26",
+      "valor" : "2193.26"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "Representantes do poder legislativo e de órgãos executivos, dirigentes, diretores e gestores executivos",
+      "ind_string" : "2 401,76",
+      "valor" : "2401.76"
+    } ],
+    "2022" : [ {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "6",
+      "dim_3_t" : "Agricultores e trabalhadores qualificados da agricultura, da pesca e da floresta",
+      "ind_string" : "829,63",
+      "valor" : "829.63"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "6",
+      "dim_3_t" : "Agricultores e trabalhadores qualificados da agricultura, da pesca e da floresta",
+      "ind_string" : "862,80",
+      "valor" : "862.8"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "9",
+      "dim_3_t" : "Trabalhadores não qualificados",
+      "ind_string" : "901,70",
+      "valor" : "901.7"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "9",
+      "dim_3_t" : "Trabalhadores não qualificados",
+      "ind_string" : "935,79",
+      "valor" : "935.79"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "5",
+      "dim_3_t" : "Trabalhadores dos serviços pessoais, de proteção e segurança e vendedores",
+      "ind_string" : "970,39",
+      "valor" : "970.39"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "5",
+      "dim_3_t" : "Trabalhadores dos serviços pessoais, de proteção e segurança e vendedores",
+      "ind_string" : "970,72",
+      "valor" : "970.72"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "7",
+      "dim_3_t" : "Trabalhadores qualificados da indústria, construção e artífices",
+      "ind_string" : "1 031,39",
+      "valor" : "1031.39"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "7",
+      "dim_3_t" : "Trabalhadores qualificados da indústria, construção e artífices",
+      "ind_string" : "1 049,01",
+      "valor" : "1049.01"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "4",
+      "dim_3_t" : "Pessoal administrativo",
+      "ind_string" : "1 108,69",
+      "valor" : "1108.69"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "8",
+      "dim_3_t" : "Operadores de instalações e máquinas e trabalhadores da montagem",
+      "ind_string" : "1 110,23",
+      "valor" : "1110.23"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "4",
+      "dim_3_t" : "Pessoal administrativo",
+      "ind_string" : "1 144,60",
+      "valor" : "1144.6"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "8",
+      "dim_3_t" : "Operadores de instalações e máquinas e trabalhadores da montagem",
+      "ind_string" : "1 226,41",
+      "valor" : "1226.41"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 257,75",
+      "valor" : "1257.75"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "Total",
+      "ind_string" : "1 285,98",
+      "valor" : "1285.98"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "3",
+      "dim_3_t" : "Técnicos e profissões de nível intermédio",
+      "ind_string" : "1 572,50",
+      "valor" : "1572.5"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "3",
+      "dim_3_t" : "Técnicos e profissões de nível intermédio",
+      "ind_string" : "1 656,01",
+      "valor" : "1656.01"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "Especialistas das atividades intelectuais e científicas",
+      "ind_string" : "1 769,55",
+      "valor" : "1769.55"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "Especialistas das atividades intelectuais e científicas",
+      "ind_string" : "1 868,51",
+      "valor" : "1868.51"
+    }, {
+      "geocod" : "1120303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "Representantes do poder legislativo e de órgãos executivos, dirigentes, diretores e gestores executivos",
+      "ind_string" : "2 310,69",
+      "valor" : "2310.69"
+    }, {
+      "geocod" : "1190312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "Representantes do poder legislativo e de órgãos executivos, dirigentes, diretores e gestores executivos",
+      "ind_string" : "2 455,43",
+      "valor" : "2455.43"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]

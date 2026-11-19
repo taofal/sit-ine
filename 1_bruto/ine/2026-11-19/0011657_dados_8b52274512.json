@@ -1,0 +1,58 @@
+[ {
+  "IndicadorCod" : "0011657",
+  "IndicadorDsg" : "Proporção da população residente com idade entre 18 e 24 anos com o 3º ciclo do ensino básico completo que não está a frequentar o sistema de ensino (%) por Local de residência à data dos Censos [2021] (NUTS - 2013) e Sexo; Decenal - INE, Recenseamento da população e habitação - Censos 2021",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0011657&lingua=PT",
+  "DataExtracao" : "2026-11-19T04:23:21.908Z",
+  "DataUltimoAtualizacao" : "2022-11-23",
+  "UltimoPref" : "2021",
+  "Dados" : {
+    "2021" : [ {
+      "geocod" : "0303",
+      "geodsg" : "Braga",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "41,53",
+      "valor" : "41.53"
+    }, {
+      "geocod" : "0303",
+      "geodsg" : "Braga",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "36,26",
+      "valor" : "36.26"
+    }, {
+      "geocod" : "0303",
+      "geodsg" : "Braga",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "38,95",
+      "valor" : "38.95"
+    }, {
+      "geocod" : "0312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "ind_string" : "51,19",
+      "valor" : "51.19"
+    }, {
+      "geocod" : "0312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "ind_string" : "44,29",
+      "valor" : "44.29"
+    }, {
+      "geocod" : "0312",
+      "geodsg" : "Vila Nova de Famalicão",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "ind_string" : "47,81",
+      "valor" : "47.81"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
