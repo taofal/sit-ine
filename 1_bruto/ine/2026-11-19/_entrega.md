@@ -98,3 +98,8 @@ Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Vila Nova d
     - `0011703_dados_b430ac0adf.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011703&lang=PT&Dim1=S7A2021&Dim2=0312
     - `0011703_dados_fac95491ee.json` ← https://www.ine.pt/ine/json_indicador/pindica.jsp?op=2&varcd=0011703&lang=PT&Dim1=S7A2021&Dim2=0303
 - **0011728** Empresas (N.º) — 0 valores, 0 ficheiros novos; FALHAS: S7A2008…S7A2009: INE recusou: The read operation timed out
+
+## Extração — 2026-11-19 22:15 — séries completas
+Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Vila Nova de Famalicão, Braga, Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal. Todas as categorias das restantes dimensões.
+
+- **0011728** Empresas (N.º) — 0 valores, 0 ficheiros novos; FALHAS: S7A2008…S7A2009: INE recusou: HTTP Error 403: Forbidden
