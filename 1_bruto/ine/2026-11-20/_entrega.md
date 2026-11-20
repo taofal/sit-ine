@@ -13,3 +13,8 @@
 Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Vila Nova de Famalicão, Braga, Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal. Todas as categorias das restantes dimensões.
 
 - **0011728** Empresas (N.º) — 0 valores, 0 ficheiros novos; FALHAS: S7A2008…S7A2009: INE recusou: The read operation timed out
+
+## Extração — 2026-11-20 13:08 — séries completas
+Geografias pedidas: Guimarães, Ave, Cávado, Barcelos, Santo Tirso, Vila Nova de Famalicão, Braga, Matosinhos, Porto, Área Metropolitana do Porto, Norte, Portugal. Todas as categorias das restantes dimensões.
+
+- **0011728** Empresas (N.º) — 0 valores, 0 ficheiros novos; FALHAS: S7A2008…S7A2009: INE recusou: The read operation timed out
